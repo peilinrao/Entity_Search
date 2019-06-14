@@ -11,6 +11,32 @@ import pandas as pd
 import csv
 import ast
 
+try:
+    os.remove("KD.csv")
+except:
+    pass
+try:
+    os.remove("D.csv")
+except:
+    pass
+try:
+    os.remove("K.csv")
+except:
+    pass
+try:
+    shutil.rmtree("KD_tables")
+except:
+    pass
+try:
+    os.remove("ED.csv")
+except:
+    pass
+try:
+    os.remove("E.csv")
+except:
+    pass
+
+
 
 
 columns = defaultdict(list)
@@ -40,10 +66,10 @@ def merge_one_file(filename,filetarge):
         for row in reader:
             print(row)
             if row[0] in list(temp.keys()):
-                temp[row[0]][0].append(int(row[1]))
-                temp[row[0]][1].append(int(row[2]))
+                temp[row[0]][0].append((row[1]))
+                temp[row[0]][1].append((row[2]))
             else:
-                temp[row[0]] = ([int(row[1])],[int(row[2])])
+                temp[row[0]] = ([(row[1])],[(row[2])])
     for (a,b) in temp.items():
         with open(filetarge,'a',newline='') as f:
             writer=csv.writer(f)
@@ -114,7 +140,7 @@ for r, d, f in os.walk("0013wb-88"):
     for fi in f:
         word_list = []
         count += 1
-        if count >= 10:
+        if count >= 100:
             continue
         print('\x1b[6;30;42m' + os.path.join(r, fi)+'\x1b[0m')
         try:
@@ -125,7 +151,7 @@ for r, d, f in os.walk("0013wb-88"):
             continue
         n_document += 1
         length = len(file)
-        with open('D_table.csv','a',newline='') as f:
+        with open('D.csv','a',newline='') as f:
             writer=csv.writer(f)
             writer.writerow([dId, os.path.join(r, fi), length])
         for i in range(length):
@@ -160,7 +186,7 @@ for key, value in K.items():
     K_table.append([key, value,idf])
 # Now save K_table to local storage
 df = pd.DataFrame(K_table, columns=["kId", "text", "idf"])
-df.to_csv('K_table.csv', index=False)
+df.to_csv('K.csv', index=False)
 print('\x1b[6;30;42m' + "--------------LOADED--------------"+'\x1b[0m')
 
 
@@ -168,6 +194,84 @@ print('\x1b[6;30;42m' + "--------------LOADED--------------"+'\x1b[0m')
 #
 merge_files('KD_tables','KD.csv')
 #
+
+#################
+# Creating E and ED tables
+#################
+def get_line_info(row):
+    num_t = 0
+    A = ""
+    B = ""
+    C = ""
+    D = ""
+    E = ""
+    F = ""
+    G = ""
+    H = ""
+    for i in range(len(row)):
+        #clueweb12-1300wb-88-36257
+        if(row[i] == "\t"):
+            num_t += 1
+            continue
+
+        if num_t == 0:
+            A += row[i]
+        if num_t == 1:
+            B += row[i]
+        if num_t == 2:
+            C += row[i]
+        if num_t == 3:
+            D += row[i]
+        if num_t == 4:
+            E += row[i]
+        if num_t == 5:
+            F += row[i]
+        if num_t == 6:
+            G += row[i]
+        if num_t == 7:
+            H += row[i]
+
+    list = [A,B,C,D,E,F,G,H]
+    print(list)
+    return list
+
+
+ED_dict = {} # eId, name, cat
+Ent_lst = []
+E_dtf = {}
+count = 0
+
+with open("1300wb-88.anns.tsv",'r',newline = '')as f:
+    reader = csv.reader(f)
+    for row in reader:
+        count += 1
+        if(count > 2000):
+            continue
+        temp = get_line_info(row[0])
+        temp[0] = temp[0][-5:]
+        # print(temp[0])
+        if temp[7] not in list(ED_dict.keys()):
+            ED_dict[temp[7]] = temp[2]
+            with open('E.csv','a',newline='') as f:
+                writer=csv.writer(f)
+                writer.writerow([temp[7], temp[2], count%6])
+        if temp[7] not in Ent_lst:
+            Ent_lst.append(temp[7])
+        if (temp[7], temp[0]) not in list(E_dtf.keys()):
+            E_dtf[(temp[7], temp[0])] = 1
+        else:
+            E_dtf[(temp[7], temp[0])] += 1
+
+        with open('temp.csv','a',newline='') as f:
+            writer=csv.writer(f)
+            writer.writerow([temp[7],temp[0],E_dtf[(temp[7], temp[0])]])
+
+merge_one_file('temp.csv', 'ED.csv')
+
+os.remove("temp.csv")
+
+
+
 
 
 
