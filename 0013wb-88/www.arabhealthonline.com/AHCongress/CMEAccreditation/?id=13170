@@ -1,0 +1,1816 @@
+﻿
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- { User Controls -->
+
+<!-- User Controls } -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_HTMLHead"><title>
+	Arab Health Congress - CME Accreditation
+</title>
+    <!-- { Meta Tags -->
+    
+
+<!-- { Meta -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="description" content="The largest CME accredited healthcare congress in the Middle East" /><meta name="robots" /><meta name="keywords" content="Arab Health, Arab Health Congress, MEDLAB, conferences, Leaders in Healthcare, anaesthesia, anesthesia, haemotology, hematology, clinical chemistry, pathology, surgery, imaging, diagnostic, cardiovascular, paediatrics, pediatrics, urology, gastroenterology, quality management, molecular imaging, nuclear medicine, accreditation, Cleveland Clinic, Middle East healthcare, orthopaedics, orthopedics, CME" /><meta name="rating" content="General" /><meta name="revisit-after" content="4 weeks" /><meta name="generator" content="EPiServer" /><meta name="creation_date" content="Sun, 18 Oct 2009 08:30:00 GMT" /><meta name="last-modified" content="Sun, 18 Oct 2009 12:28:41 GMT" /><meta name="revised" content="Sun, 18 Oct 2009 12:28:41 GMT" /><meta http-equiv="Content-Language" content="en" />
+<!--  Meta } -->
+
+
+    <!-- Meta Tags } -->
+    <!-- { Javascript -->
+    <link rel="stylesheet" href="http://inc.iirme.com/Sites/globalToolbar/style2/css/style.css" type="text/css" /><script src="http://inc.iirme.com/JSFramework/V1.0/Compiled/Global.js" type="text/javascript"></script>
+    <!-- Javascript }-->
+    <!-- { Default Styles -->
+    <link href='http://inc.iirme.com/CSSFramework/V1.0/Compiled/Print/Print.css' rel='stylesheet' type='text/css' media='print' />
+    <!-- Default Styles } -->
+    <!-- Site-Specific Styles : Override with Custom-->
+    <link href='http://inc.iirme.com/CSSFramework/V1.0/Compiled/base.css' rel='stylesheet' type='text/css' /><link href='http://inc.iirme.com/Sites/AHCongress/v2/CSS/AHCongress.css' rel='stylesheet' type='text/css' id='css_layout' /><style type="text/css">#leftSideBar { display: block; left: -125px; position: absolute; top: 1px; float: left; width: 120px; } #accordion-slider-wrap{ background: #FFF url('slider-shadow.png') bottom center no-repeat; padding: 0; width:685px; height:209px; overflow:hidden; border:1px solid #eaeaea; margin:0 auto 15px auto; } #accordion-slider-wrap img{ border:none; } ul#accordion-slider{ margin: 0; padding: 0; list-style: none; position: relative; height:209px; } ul#accordion-slider li{ display: block; overflow: hidden; padding: 0; float: left; width: 43px; height:209px; list-style:none; } .desc { position: absolute; top: 0px; left: 40px; }#mainContents div.imageGalleryContainer {
+	margin:10px 0 0 10px;
+	padding:0;
+}
+#mainContents .imageGalleryRow {
+	margin:0;
+	padding:0;
+	margin-left: 15px;
+}
+a.imageGalleryPic {
+	border:1px solid #999;
+	float:left;
+	margin-right:5px;
+	padding: 1px
+}
+#mainContents .imageGalleryRowSeparator {
+	clear:both;
+	height:1px;
+	margin:2px;
+}</style>
+    <!--  Site-Specific Styles } -->
+    <!-- { Miscellaneious Head Scripts -->
+    <link id="favicon" rel="shortcut icon" href="http://inc.iirme.com/Favicons/AHC.ico" />
+
+<script type="text/javascript" src="http://inc.iirme.com/Sites/LSMagazines/v1/js/jquery.kwicks-1.5.1.js"></script>
+<script type="text/javascript">
+ $(document).ready(function() {
+ $('#accordion-slider').kwicks({
+ max : 685,
+ spacing : 0,
+ event: 'mouseover'
+ });
+});
+</script>
+<meta name="google-site-verification" content="jAtSVPBLaP0tSv-HgnMRfnhXa0girsvie8rCRezOqvc" />
+<meta name="msvalidate.01" content="05D1D3DBDDACAC225ADA8C8D78EED7E7" /> <!--  ryansicad --><!-- 11015  ryansicad NOT NULL -->
+    <!-- Miscellaneious Head Scripts } -->
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="/AHCongress/CMEAccreditation/" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE2NzA2MjAyMQ9kFgJmD2QWBmYQZGQWDGYPZBYCZg8WAh4EVGV4dAUoQXJhYiBIZWFsdGggQ29uZ3Jlc3MgLSBDTUUgQWNjcmVkaXRhdGlvbmQCBQ8WAh8ABWc8c2NyaXB0IHNyYz0iaHR0cDovL2luYy5paXJtZS5jb20vSlNGcmFtZXdvcmsvVjEuMC9Db21waWxlZC9HbG9iYWwuanMiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+ZAIHDxYCHwAFfjxsaW5rIGhyZWY9J2h0dHA6Ly9pbmMuaWlybWUuY29tL0NTU0ZyYW1ld29yay9WMS4wL0NvbXBpbGVkL1ByaW50L1ByaW50LmNzcycgcmVsPSdzdHlsZXNoZWV0JyB0eXBlPSd0ZXh0L2NzcycgbWVkaWE9J3ByaW50JyAvPmQCCQ8WAh8ABeYBPGxpbmsgaHJlZj0naHR0cDovL2luYy5paXJtZS5jb20vQ1NTRnJhbWV3b3JrL1YxLjAvQ29tcGlsZWQvYmFzZS5jc3MnIHJlbD0nc3R5bGVzaGVldCcgdHlwZT0ndGV4dC9jc3MnIC8+PGxpbmsgaHJlZj0naHR0cDovL2luYy5paXJtZS5jb20vU2l0ZXMvQUhDb25ncmVzcy92Mi9DU1MvQUhDb25ncmVzcy5jc3MnIHJlbD0nc3R5bGVzaGVldCcgdHlwZT0ndGV4dC9jc3MnICBpZD0nY3NzX2xheW91dCcgLz5kAgoPFgIfAAXuBzxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+I2xlZnRTaWRlQmFyIHsgZGlzcGxheTogYmxvY2s7IGxlZnQ6IC0xMjVweDsgcG9zaXRpb246IGFic29sdXRlOyB0b3A6IDFweDsgZmxvYXQ6IGxlZnQ7IHdpZHRoOiAxMjBweDsgfSAjYWNjb3JkaW9uLXNsaWRlci13cmFweyBiYWNrZ3JvdW5kOiAjRkZGIHVybCgnc2xpZGVyLXNoYWRvdy5wbmcnKSBib3R0b20gY2VudGVyIG5vLXJlcGVhdDsgcGFkZGluZzogMDsgd2lkdGg6Njg1cHg7IGhlaWdodDoyMDlweDsgb3ZlcmZsb3c6aGlkZGVuOyBib3JkZXI6MXB4IHNvbGlkICNlYWVhZWE7IG1hcmdpbjowIGF1dG8gMTVweCBhdXRvOyB9ICNhY2NvcmRpb24tc2xpZGVyLXdyYXAgaW1neyBib3JkZXI6bm9uZTsgfSB1bCNhY2NvcmRpb24tc2xpZGVyeyBtYXJnaW46IDA7IHBhZGRpbmc6IDA7IGxpc3Qtc3R5bGU6IG5vbmU7IHBvc2l0aW9uOiByZWxhdGl2ZTsgaGVpZ2h0OjIwOXB4OyB9IHVsI2FjY29yZGlvbi1zbGlkZXIgbGl7IGRpc3BsYXk6IGJsb2NrOyBvdmVyZmxvdzogaGlkZGVuOyBwYWRkaW5nOiAwOyBmbG9hdDogbGVmdDsgd2lkdGg6IDQzcHg7IGhlaWdodDoyMDlweDsgbGlzdC1zdHlsZTpub25lOyB9IC5kZXNjIHsgcG9zaXRpb246IGFic29sdXRlOyB0b3A6IDBweDsgbGVmdDogNDBweDsgfSNtYWluQ29udGVudHMgZGl2LmltYWdlR2FsbGVyeUNvbnRhaW5lciB7DQoJbWFyZ2luOjEwcHggMCAwIDEwcHg7DQoJcGFkZGluZzowOw0KfQ0KI21haW5Db250ZW50cyAuaW1hZ2VHYWxsZXJ5Um93IHsNCgltYXJnaW46MDsNCglwYWRkaW5nOjA7DQoJbWFyZ2luLWxlZnQ6IDE1cHg7DQp9DQphLmltYWdlR2FsbGVyeVBpYyB7DQoJYm9yZGVyOjFweCBzb2xpZCAjOTk5Ow0KCWZsb2F0OmxlZnQ7DQoJbWFyZ2luLXJpZ2h0OjVweDsNCglwYWRkaW5nOiAxcHgNCn0NCiNtYWluQ29udGVudHMgLmltYWdlR2FsbGVyeVJvd1NlcGFyYXRvciB7DQoJY2xlYXI6Ym90aDsNCgloZWlnaHQ6MXB4Ow0KCW1hcmdpbjoycHg7DQp9PC9zdHlsZT5kAgsPFQHXBDxsaW5rIGlkPSJmYXZpY29uIiByZWw9InNob3J0Y3V0IGljb24iIGhyZWY9Imh0dHA6Ly9pbmMuaWlybWUuY29tL0Zhdmljb25zL0FIQy5pY28iIC8+DQoNCjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHA6Ly9pbmMuaWlybWUuY29tL1NpdGVzL0xTTWFnYXppbmVzL3YxL2pzL2pxdWVyeS5rd2lja3MtMS41LjEuanMiPjwvc2NyaXB0Pg0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkgew0KICQoJyNhY2NvcmRpb24tc2xpZGVyJykua3dpY2tzKHsNCiBtYXggOiA2ODUsDQogc3BhY2luZyA6IDAsDQogZXZlbnQ6ICdtb3VzZW92ZXInDQogfSk7DQp9KTsNCjwvc2NyaXB0Pg0KPG1ldGEgbmFtZT0iZ29vZ2xlLXNpdGUtdmVyaWZpY2F0aW9uIiBjb250ZW50PSJqQXRTVlBCTGFQMHRTdi1IZ25NUmZuaFhhMGdpcnN2aWU4ckNSZXpPcXZjIiAvPg0KPG1ldGEgbmFtZT0ibXN2YWxpZGF0ZS4wMSIgY29udGVudD0iMDVEMUQzREJEREFDQUMyMjVBREE4QzhENzhFRUQ3RTciIC8+IDwhLS0gIHJ5YW5zaWNhZCAtLT48IS0tIDExMDE1ICByeWFuc2ljYWQgTk9UIE5VTEwgLS0+ZAIBEGRkFggCDQ9kFgJmD2QWAmYPFgIeCV9QYWdlTGluaygpbkVQaVNlcnZlci5Db3JlLlBhZ2VSZWZlcmVuY2UsIEVQaVNlcnZlciwgVmVyc2lvbj01LjIuMzc1LjEzMywgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04ZmU4M2RlYTczOGI0NWI3BTExMDE1FhBmD2QWBGYPFQEJQWJvdXQtQUhDZAIBDw8WBh4LX2lzRWRpdGFibGVoHg5fYm91bmRQYWdlTGluawKOVh4JX2xhc3RUeXBlBQdEZWZhdWx0ZGQCAQ9kFgRmDxUBBE5ld3NkAgEPDxYGHwJoHwMCkVYfBAUHRGVmYXVsdGRkAgIPZBYEZg8VAQ1WZW51ZS0tVHJhdmVsZAIBDw8WBh8CaB8DAotWHwQFB0RlZmF1bHRkZAIDD2QWBGYPFQEFRkFRczFkAgEPDxYGHwJoHwMC9qwCHwQFB0RlZmF1bHRkZAIED2QWBGYPFQEFVGVybXNkAgEPDxYGHwJoHwMCjVYfBAUHRGVmYXVsdGRkAgUPZBYEZg8VAQxPdGhlci1FdmVudHNkAgEPDxYGHwJoHwMCilYfBAUHRGVmYXVsdGRkAgYPZBYEZg8VAQtQcmVzc0NlbnRyZWQCAQ8PFgYfAmgfAwKzgAMfBAUHRGVmYXVsdGRkAgcPZBYEZg8VAQpDb250YWN0LVVzZAIBDw8WBh8CaB8DApBWHwQFB0RlZmF1bHRkZAIPD2QWAmYPZBYCAgEPFgIfASgrBAQ5Mzg4FpACZg9kFgJmDxUBEjx1bCBjbGFzcz0naE1lbnUnPmQCAg9kFgJmDxUEPy9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9OTM4OSZlcHNsYW5ndWFnZT1lbgAESG9tZQRIb21lZAIFD2QWAmYPFQQBIwAMQ29uZmVyZW5jZXMxC0NvbmZlcmVuY2VzZAIGD2QWAmYPFQEEPHVsPmQCCA9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg1MjImZXBzbGFuZ3VhZ2U9ZW4ABUNvbmYxC0FuYWVzdGhlc2lhZAIJD2QWAmYPFQEEPHVsPmQCCw9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg1MjImZXBzbGFuZ3VhZ2U9ZW4ACE92ZXJ2aWV3CE92ZXJ2aWV3ZAIOD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODkzNyZlcHNsYW5ndWFnZT1lbgANUHJvZ3JhbW1lRGF5MQ9Qcm9ncmFtbWUgRGF5IDFkAhEPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NTI0JmVwc2xhbmd1YWdlPWVuAA1Qcm9ncmFtbWVEYXkyD1Byb2dyYW1tZSBEYXkgMmQCFA9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9NzE3NjMmZXBzbGFuZ3VhZ2U9ZW4AB0ZhY3VsdHkHRmFjdWx0eWQCGQ9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg1MzEmZXBzbGFuZ3VhZ2U9ZW4ABUNvbmYyHUludGVydmVudGlvbmFsIENhcmRpb3Zhc2N1bGFyZAIaD2QWAmYPFQEEPHVsPmQCHA9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg1MzEmZXBzbGFuZ3VhZ2U9ZW4ACE92ZXJ2aWV3CE92ZXJ2aWV3ZAIfD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODUzMiZlcHNsYW5ndWFnZT1lbgANUHJvZ3JhbW1lRGF5MQpQcm9ncmFtbWUgZAIiD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD03MTg1MyZlcHNsYW5ndWFnZT1lbgAHRmFjdWx0eQdGYWN1bHR5ZAIlD2QWAmYPFQQ/L1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlRm9ybS5hc3B4P2lkPTQ3Nzc0JmVwc2xhbmd1YWdlPWVuABBEb3dubG9hZEJyb2NodXJlEURvd25sb2FkIEJyb2NodXJlZAIqD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODU0NyZlcHNsYW5ndWFnZT1lbgAFQ29uZjQQR2FzdHJvZW50ZXJvbG9neWQCKw9kFgJmDxUBBDx1bD5kAi0PZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NTQ3JmVwc2xhbmd1YWdlPWVuAAhPdmVydmlldwhPdmVydmlld2QCMA9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg1NDgmZXBzbGFuZ3VhZ2U9ZW4ADVByb2dyYW1tZURheTERUHJvZ3JhbW1lIC0gRGF5IDFkAjMPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4OTQyJmVwc2xhbmd1YWdlPWVuAA1Qcm9ncmFtbWVEYXkyEVByb2dyYW1tZSAtIERheSAyZAI2D2QWAmYPFQRBL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0xMjY2NzImZXBzbGFuZ3VhZ2U9ZW4ADlByb2dyYW1tZURheTIxEVByb2dyYW1tZSAtIERheSAzZAI5D2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD03MTg1NCZlcHNsYW5ndWFnZT1lbgAHRmFjdWx0eQdGYWN1bHR5ZAI8D2QWAmYPFQQ/L1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlRm9ybS5hc3B4P2lkPTQ3NzU5JmVwc2xhbmd1YWdlPWVuABBEb3dubG9hZEJyb2NodXJlEURvd25sb2FkIEJyb2NodXJlZAJBD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODU1NSZlcHNsYW5ndWFnZT1lbgAFQ29uZjUVSW1hZ2luZyAmIERpYWdub3N0aWNzZAJCD2QWAmYPFQEEPHVsPmQCRA9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg1NTUmZXBzbGFuZ3VhZ2U9ZW4ACE92ZXJ2aWV3CE92ZXJ2aWV3ZAJHD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODU1NiZlcHNsYW5ndWFnZT1lbgANUHJvZ3JhbW1lRGF5MRBQcm9ncmFtbWUgRGF5IDEgZAJKD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODk0MyZlcHNsYW5ndWFnZT1lbgANUHJvZ3JhbW1lRGF5MhBQcm9ncmFtbWUgRGF5IDIgZAJND2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODk0NCZlcHNsYW5ndWFnZT1lbgANUHJvZ3JhbW1lRGF5Mw9Qcm9ncmFtbWUgRGF5IDNkAlAPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTcxODU1JmVwc2xhbmd1YWdlPWVuAAdGYWN1bHR5B0ZhY3VsdHlkAlMPZBYCZg8VBD8vUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVGb3JtLmFzcHg/aWQ9NDc3NjAmZXBzbGFuZ3VhZ2U9ZW4AEERvd25sb2FkQnJvY2h1cmURRG93bmxvYWQgQnJvY2h1cmVkAlgPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NTYzJmVwc2xhbmd1YWdlPWVuAAVDb25mNhVMZWFkZXJzIGluIEhlYWx0aGNhcmVkAlkPZBYCZg8VAQQ8dWw+ZAJbD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODU2MyZlcHNsYW5ndWFnZT1lbgAIT3ZlcnZpZXcIT3ZlcnZpZXdkAl4PZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NTY0JmVwc2xhbmd1YWdlPWVuAAlQcm9ncmFtbWUIQWdlbmRhICBkAmEPZBYCZg8VBD8vUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVGb3JtLmFzcHg/aWQ9NDc3NjImZXBzbGFuZ3VhZ2U9ZW4AEURvd25sb2FkLUJyb2NodXJlEkRvd25sb2FkIEJyb2NodXJlIGQCZg9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg1NzEmZXBzbGFuZ3VhZ2U9ZW4ABUNvbmY3D01FRExBQiBDb25ncmVzc2QCZw9kFgJmDxUBBDx1bD5kAmkPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NTcxJmVwc2xhbmd1YWdlPWVuAAhPdmVydmlldwhPdmVydmlld2QCbA9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg1NzImZXBzbGFuZ3VhZ2U9ZW4AFExhYm9yYXRvcnlNYW5hZ2VtZW50B1RyYWNrIEFkAm8PZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NTczJmVwc2xhbmd1YWdlPWVuABJNb2xlY3VsYXJEaWFnbm9zaXMHVHJhY2sgQmQCcg9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg1NzQmZXBzbGFuZ3VhZ2U9ZW4AEUNsaW5pY2FsQ2hlbWlzdHJ5B1RyYWNrIENkAnUPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NTc1JmVwc2xhbmd1YWdlPWVuAAtIYWVtYXRvbG9neQdUcmFjayBEZAJ4D2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODU3NiZlcHNsYW5ndWFnZT1lbgAZTWljcm9iaW9sb2d5YW5kSW1tdW5vbG9neQdUcmFjayBFZAJ7D2QWAmYPFQRBL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0xMjc5ODAmZXBzbGFuZ3VhZ2U9ZW4AD0hpc3RvcGF0aG9sb2d5MQdUcmFjayBGZAJ+D2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD03MTg1NyZlcHNsYW5ndWFnZT1lbgAHRmFjdWx0eQdGYWN1bHR5ZAKBAQ9kFgJmDxUEPy9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUZvcm0uYXNweD9pZD00Nzc2MyZlcHNsYW5ndWFnZT1lbgAQRG93bmxvYWRCcm9jaHVyZRFEb3dubG9hZCBCcm9jaHVyZWQChgEPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NTgzJmVwc2xhbmd1YWdlPWVuAAVDb25mOA5DYW5jZXIgVGhlcmFweWQChwEPZBYCZg8VAQQ8dWw+ZAKJAQ9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg1ODMmZXBzbGFuZ3VhZ2U9ZW4ACE92ZXJ2aWV3CE92ZXJ2aWV3ZAKMAQ9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg1ODQmZXBzbGFuZ3VhZ2U9ZW4AEFByb2dyYW1tZURheTFvbGQPUHJvZ3JhbW1lIERheSAxZAKPAQ9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9NzE3ODYmZXBzbGFuZ3VhZ2U9ZW4AEFByb2dyYW1tZURheTJvbGQPUHJvZ3JhbW1lIERheSAyZAKSAQ9kFgJmDxUEPy9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUZvcm0uYXNweD9pZD00Nzc2MSZlcHNsYW5ndWFnZT1lbgAQRG93bmxvYWRCcm9jaHVyZRFEb3dubG9hZCBCcm9jaHVyZWQClQEPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTcxODU4JmVwc2xhbmd1YWdlPWVuAAdGYWN1bHR5B0ZhY3VsdHlkApoBD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODU5MSZlcHNsYW5ndWFnZT1lbgAFQ29uZjkMT3J0aG9wYWVkaWNzZAKbAQ9kFgJmDxUBBDx1bD5kAp0BD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODU5MSZlcHNsYW5ndWFnZT1lbgAIT3ZlcnZpZXcIT3ZlcnZpZXdkAqABD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODU5MiZlcHNsYW5ndWFnZT1lbgANUHJvZ3JhbW1lRGF5MQ9Qcm9ncmFtbWUgRGF5IDFkAqMBD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD00OTA5MiZlcHNsYW5ndWFnZT1lbgANUHJvZ3JhbW1lRGF5Mg9Qcm9ncmFtbWUgRGF5IDJkAqYBD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD00OTA5MyZlcHNsYW5ndWFnZT1lbgANUHJvZ3JhbW1lRGF5Mw9Qcm9ncmFtbWUgRGF5IDNkAqkBD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD03MTg1OSZlcHNsYW5ndWFnZT1lbgAHRmFjdWx0eQdGYWN1bHR5ZAKsAQ9kFgJmDxUEPy9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUZvcm0uYXNweD9pZD00Nzc2NCZlcHNsYW5ndWFnZT1lbgAQRG93bmxvYWRCcm9jaHVyZRFEb3dubG9hZCBCcm9jaHVyZWQCsQEPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NTk5JmVwc2xhbmd1YWdlPWVuAAZDb25mMTALUGFlZGlhdHJpY3NkArIBD2QWAmYPFQEEPHVsPmQCtAEPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NTk5JmVwc2xhbmd1YWdlPWVuAAhPdmVydmlldwhPdmVydmlld2QCtwEPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NjAwJmVwc2xhbmd1YWdlPWVuAA1Qcm9ncmFtbWVEYXkxEVByb2dyYW1tZSAtIERheSAxZAK6AQ9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9NDkwOTcmZXBzbGFuZ3VhZ2U9ZW4ADVByb2dyYW1tZURheTIRUHJvZ3JhbW1lIC0gRGF5IDJkAr0BD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD03MDU5NiZlcHNsYW5ndWFnZT1lbgANUHJvZ3JhbW1lRGF5MxFQcm9ncmFtbWUgLSBEYXkgM2QCwAEPZBYCZg8VBD8vUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVGb3JtLmFzcHg/aWQ9NDc3NjUmZXBzbGFuZ3VhZ2U9ZW4AEERvd25sb2FkQnJvY2h1cmURRG93bmxvYWQgQnJvY2h1cmVkAsMBD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD03MTg2MCZlcHNsYW5ndWFnZT1lbgAHRmFjdWx0eQdGYWN1bHR5ZALIAQ9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg2MDcmZXBzbGFuZ3VhZ2U9ZW4ABkNvbmYxMRJRdWFsaXR5IE1hbmFnZW1lbnRkAskBD2QWAmYPFQEEPHVsPmQCywEPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NjA3JmVwc2xhbmd1YWdlPWVuAAhPdmVydmlldwhPdmVydmlld2QCzgEPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NjA4JmVwc2xhbmd1YWdlPWVuAA1Qcm9ncmFtbWVEYXkxD1Byb2dyYW1tZSBEYXkgMWQC0QEPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTQ5MDk5JmVwc2xhbmd1YWdlPWVuAA1Qcm9ncmFtbWVEYXkyD1Byb2dyYW1tZSBEYXkgMmQC1AEPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTcxODYxJmVwc2xhbmd1YWdlPWVuAAdGYWN1bHR5B0ZhY3VsdHlkAtcBD2QWAmYPFQQ/L1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlRm9ybS5hc3B4P2lkPTQ3NzY2JmVwc2xhbmd1YWdlPWVuABBEb3dubG9hZEJyb2NodXJlEURvd25sb2FkIEJyb2NodXJlZALcAQ9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg2MjMmZXBzbGFuZ3VhZ2U9ZW4ABkNvbmYxMwdTdXJnZXJ5ZALdAQ9kFgJmDxUBBDx1bD5kAt8BD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODYyMyZlcHNsYW5ndWFnZT1lbgAIT3ZlcnZpZXcIT3ZlcnZpZXdkAuIBD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODYyNCZlcHNsYW5ndWFnZT1lbgANUHJvZ3JhbW1lRGF5MQ9Qcm9ncmFtbWUgRGF5IDFkAuUBD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD00OTEwMCZlcHNsYW5ndWFnZT1lbgANUHJvZ3JhbW1lRGF5MhhQcm9ncmFtbWUgRGF5IDIgVHJhY2sgQSBkAugBD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD00OTEwMSZlcHNsYW5ndWFnZT1lbgANUHJvZ3JhbW1lRGF5MxdQcm9ncmFtbWUgRGF5IDIgVHJhY2sgQmQC6wEPZBYCZg8VBEEvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTE0NjcwMyZlcHNsYW5ndWFnZT1lbgAOUHJvZ3JhbW1lRGF5MzEZUHJvZ3JhbW1lIERheSAzIC0gVHJhY2sgQWQC7gEPZBYCZg8VBEEvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTE0NjczNCZlcHNsYW5ndWFnZT1lbgAOUHJvZ3JhbW1lRGF5MzIZUHJvZ3JhbW1lIERheSAzIC0gVHJhY2sgQmQC8QEPZBYCZg8VBEEvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTE2MTM4OSZlcHNsYW5ndWFnZT1lbgAPUHJvZ3JhbW1lRGF5MzIxKlByb2dyYW1tZSBEYXkgMyAtIFRyYWNrIEMgKENhbmNlciBUaGVyYXB5KWQC9AEPZBYCZg8VBEEvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTE2MTUxNyZlcHNsYW5ndWFnZT1lbgAPUHJvZ3JhbW1lRGF5MzIyGVByb2dyYW1tZSBEYXkgNCAtIFRyYWNrIEFkAvcBD2QWAmYPFQRBL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0xNjE1MzEmZXBzbGFuZ3VhZ2U9ZW4AEFByb2dyYW1tZURheTMyMjEqUHJvZ3JhbW1lIERheSA0IC0gVHJhY2sgQiAoQ2FuY2VyIFRoZXJhcHkpZAL6AQ9kFgJmDxUEPy9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUZvcm0uYXNweD9pZD00Nzc2NyZlcHNsYW5ndWFnZT1lbgAQRG93bmxvYWRCcm9jaHVyZRFEb3dubG9hZCBCcm9jaHVyZWQC/QEPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTcxODYyJmVwc2xhbmd1YWdlPWVuAAdGYWN1bHR5B0ZhY3VsdHlkAoICD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0zODYzMSZlcHNsYW5ndWFnZT1lbgAGQ29uZjE0B1Vyb2xvZ3lkAoMCD2QWAmYPFQEEPHVsPmQChQIPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NjMxJmVwc2xhbmd1YWdlPWVuAAhPdmVydmlldwhPdmVydmlld2QCiAIPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NjMyJmVwc2xhbmd1YWdlPWVuAA1Qcm9ncmFtbWVEYXkxD1Byb2dyYW1tZSBEYXkgMWQCiwIPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTQ5MTAyJmVwc2xhbmd1YWdlPWVuAA1Qcm9ncmFtbWVEYXkyD1Byb2dyYW1tZSBEYXkgMmQCjgIPZBYCZg8VBD8vUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVGb3JtLmFzcHg/aWQ9NDc3NjgmZXBzbGFuZ3VhZ2U9ZW4AEERvd25sb2FkQnJvY2h1cmURRG93bmxvYWQgQnJvY2h1cmVkApECD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD03MTg2MyZlcHNsYW5ndWFnZT1lbgAHRmFjdWx0eQdGYWN1bHR5ZAKWAg9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9NjEyNTImZXBzbGFuZ3VhZ2U9ZW4ABkNvbmYxNQRDUlNEZAKXAg9kFgJmDxUBBDx1bD5kApkCD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD02MTI1MiZlcHNsYW5ndWFnZT1lbgAIT3ZlcnZpZXcIT3ZlcnZpZXdkApwCD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD02MTI1NCZlcHNsYW5ndWFnZT1lbgAJUHJvZ3JhbW1lEVByb2dyYW1tZSAtIERheSAxZAKfAg9kFgJmDxUEQS9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9MTI2Njk1JmVwc2xhbmd1YWdlPWVuAApQcm9ncmFtbWUyEVByb2dyYW1tZSAtIERheSAyZAKiAg9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9NzE4NjQmZXBzbGFuZ3VhZ2U9ZW4AB0ZhY3VsdHkHRmFjdWx0eWQCpQIPZBYCZg8VBD8vUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVGb3JtLmFzcHg/aWQ9NjEyNjImZXBzbGFuZ3VhZ2U9ZW4AEERvd25sb2FkQnJvY2h1cmURRG93bmxvYWQgQnJvY2h1cmVkAqoCD2QWAmYPFQRBL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0xMjY3MzgmZXBzbGFuZ3VhZ2U9ZW4ABkNvbmYxNxZCaW9tZWRpY2FsIEVuZ2luZWVyaW5nZAKrAg9kFgJmDxUBBDx1bD5kAq0CD2QWAmYPFQRBL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0xMjY3MzgmZXBzbGFuZ3VhZ2U9ZW4ACE92ZXJ2aWV3CE92ZXJ2aWV3ZAKwAg9kFgJmDxUEQS9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9MTI2NzQwJmVwc2xhbmd1YWdlPWVuAA1Qcm9ncmFtbWVEYXkxD1Byb2dyYW1tZSBEYXkgMWQCswIPZBYCZg8VBEEvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTEyNzMzNSZlcHNsYW5ndWFnZT1lbgAOUHJvZ3JhbW1lRGF5MTEPUHJvZ3JhbW1lIERheSAyZAK2Ag9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUZvcm0uYXNweD9pZD0xMjY3NTImZXBzbGFuZ3VhZ2U9ZW4AEERvd25sb2FkQnJvY2h1cmURRG93bmxvYWQgQnJvY2h1cmVkArsCD2QWAmYPFQRBL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0xMjY5MjUmZXBzbGFuZ3VhZ2U9ZW4ABkNvbmYxORFNZWRpY2FsIEVkdWNhdGlvbmQCvAIPZBYCZg8VAQQ8dWw+ZAK+Ag9kFgJmDxUEQS9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9MTI2OTI1JmVwc2xhbmd1YWdlPWVuAAhPdmVydmlldwhPdmVydmlld2QCwQIPZBYCZg8VBEEvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTEyNjkyOSZlcHNsYW5ndWFnZT1lbgANUHJvZ3JhbW1lRGF5MQxQcm9ncmFtbWUgICBkAsQCD2QWAmYPFQRBL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0xMzU5MjUmZXBzbGFuZ3VhZ2U9ZW4AB0ZhY3VsdHkHRmFjdWx0eWQCxwIPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVGb3JtLmFzcHg/aWQ9MTI2OTM5JmVwc2xhbmd1YWdlPWVuABBEb3dubG9hZEJyb2NodXJlEURvd25sb2FkIEJyb2NodXJlZALMAg9kFgJmDxUEQS9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9MTI2OTU2JmVwc2xhbmd1YWdlPWVuAAZDb25mMjAKV291bmQgQ2FyZWQCzQIPZBYCZg8VAQQ8dWw+ZALPAg9kFgJmDxUEQS9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9MTI2OTU2JmVwc2xhbmd1YWdlPWVuAAhPdmVydmlldwhPdmVydmlld2QC0gIPZBYCZg8VBEEvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTEzNTk5MiZlcHNsYW5ndWFnZT1lbgAHRmFjdWx0eQdGYWN1bHR5ZALVAg9kFgJmDxUEQS9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9MTI2OTYwJmVwc2xhbmd1YWdlPWVuAA1Qcm9ncmFtbWVEYXkxDFByb2dyYW1tZSAgIGQC2AIPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVGb3JtLmFzcHg/aWQ9MTQ1NTQ2JmVwc2xhbmd1YWdlPWVuABBEb3dubG9hZEJyb2NodXJlEURvd25sb2FkIEJyb2NodXJlZALdAg9kFgJmDxUEG2h0dHA6Ly93d3cubXBsdXNoZWFsdGguY29tLwExCG0tSGVhbHRoCG0tSGVhbHRoZALiAg9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9MTMxNzAmZXBzbGFuZ3VhZ2U9ZW4AEENNRUFjY3JlZGl0YXRpb24RQ01FIEFjY3JlZGl0YXRpb25kAuUCD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD0xMzE3MSZlcHNsYW5ndWFnZT1lbgAQRGVsZWdhdGVCZW5lZml0cxREZWxlZ2F0ZSBJbmZvcm1hdGlvbmQC6AIPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NjY1JmVwc2xhbmd1YWdlPWVuAAxWZW51ZS1UcmF2ZWwLVHJhdmVsIFpvbmVkAukCD2QWAmYPFQEEPHVsPmQC6wIPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NjY1JmVwc2xhbmd1YWdlPWVuAA5JSVJIb3NwaXRhbGl0eRRJSVIgSG9zcGl0YWxpdHkgRGVza2QC7gIPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTM4NjY3JmVwc2xhbmd1YWdlPWVuAAdWZW51ZTExBVZlbnVlZALxAg9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg2NjgmZXBzbGFuZ3VhZ2U9ZW4AC0Fib3V0RHViYWkxC0Fib3V0IER1YmFpZAL0Ag9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg2NjkmZXBzbGFuZ3VhZ2U9ZW4AEFZpc2FJbmZvcm1hdGlvbjEQVmlzYSBJbmZvcm1hdGlvbmQC9wIPZBYCZg8VBD8vUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVGb3JtLmFzcHg/aWQ9NDg3ODUmZXBzbGFuZ3VhZ2U9ZW4ADlRyYXZlbEVucXVpcnkxDlRyYXZlbCBFbnF1aXJ5ZAL8Ag9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9Mzg1MTkmZXBzbGFuZ3VhZ2U9ZW4AEENsZXZlbGFuZENsaW5pYzEQQ2xldmVsYW5kIENsaW5pY2QC/wIPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTEzMTcyJmVwc2xhbmd1YWdlPWVuABhTcG9uc29yc2hpcE9wcG9ydHVuaXRpZXMZU3BvbnNvcnNoaXAgT3Bwb3J0dW5pdGllc2QCggMPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTgzNjgxJmVwc2xhbmd1YWdlPWVuABZBcmFiLUhlYWx0aC1FeGhpYml0aW9uFkFyYWIgSGVhbHRoIEV4aGliaXRpb25kAhcPZBYCZg9kFgICAQ8WAh8ABVA8YSBocmVmPWh0dHA6Ly93d3cuYXJhYmhlYWx0aG9ubGluZS5jb20vQUhDb25ncmVzcy8+SG9tZTwvYT4gfCBDTUUgQWNjcmVkaXRhdGlvbmQCGw8PFgIeB1Zpc2libGVoZGQCAg9kFgJmDxYCHwAFzgc8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQoNCiAgdmFyIF9nYXEgPSBfZ2FxIHx8IFtdOw0KICBfZ2FxLnB1c2goWydfc2V0QWNjb3VudCcsICdVQS0xNjA5ODI2LTInXSk7DQogIF9nYXEucHVzaChbJ190cmFja1BhZ2V2aWV3J10pOw0KDQogIChmdW5jdGlvbigpIHsNCiAgICB2YXIgZ2EgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsgZ2EudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOyBnYS5hc3luYyA9IHRydWU7DQogICAgZ2Euc3JjID0gKCdodHRwczonID09IGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sID8gJ2h0dHBzOi8vc3NsJyA6ICdodHRwOi8vd3d3JykgKyAnLmdvb2dsZS1hbmFseXRpY3MuY29tL2dhLmpzJzsNCiAgICB2YXIgcyA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnYSwgcyk7DQogIH0pKCk7DQoNCjwvc2NyaXB0Pg0KDQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQoNCiAgdmFyIF9nYXEgPSBfZ2FxIHx8IFtdOw0KICBfZ2FxLnB1c2goWydfc2V0QWNjb3VudCcsICdVQS0xNjA5ODI2LTEnXSk7DQogIF9nYXEucHVzaChbJ190cmFja1BhZ2V2aWV3J10pOw0KDQogIChmdW5jdGlvbigpIHsNCiAgICB2YXIgZ2EgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsgZ2EudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOyBnYS5hc3luYyA9IHRydWU7DQogICAgZ2Euc3JjID0gKCdodHRwczonID09IGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sID8gJ2h0dHBzOi8vc3NsJyA6ICdodHRwOi8vd3d3JykgKyAnLmdvb2dsZS1hbmFseXRpY3MuY29tL2dhLmpzJzsNCiAgICB2YXIgcyA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnYSwgcyk7DQogIH0pKCk7DQoNCjwvc2NyaXB0PmRkksVqBPCi1Z2pmgNOrA6GU4bKLnQ=" />
+</div>
+
+
+<script src="/ScriptResource.axd?d=Ax0OeVBzWzGtya7m_H_I7Vrs1nVRr-MNf0kVUJZEaxEPe577LIQNS6gyM2ex2GLQcqSZ7zJY-SGDHC2AEdkUjIXOksBqH7UYzJ74U8Lp7qI1&amp;t=32239612" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+var PageMethods = function() {
+PageMethods.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+PageMethods.prototype = {
+_get_path:function() {
+ var p = this.get_path();
+ if (p) return p;
+ else return PageMethods._staticInstance.get_path();},
+ReWriteURL:function(eventConfig,result,succeededCallback, failedCallback, userContext) {
+/// <param name="eventConfig" type="String">System.String</param>
+/// <param name="result" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+return this._invoke(this._get_path(), 'ReWriteURL',false,{eventConfig:eventConfig,result:result},succeededCallback,failedCallback,userContext); }}
+PageMethods.registerClass('PageMethods',Sys.Net.WebServiceProxy);
+PageMethods._staticInstance = new PageMethods();
+PageMethods.set_path = function(value) {
+PageMethods._staticInstance.set_path(value); }
+PageMethods.get_path = function() { 
+/// <value type="String" mayBeNull="true">The service url.</value>
+return PageMethods._staticInstance.get_path();}
+PageMethods.set_timeout = function(value) {
+PageMethods._staticInstance.set_timeout(value); }
+PageMethods.get_timeout = function() { 
+/// <value type="Number">The service timeout.</value>
+return PageMethods._staticInstance.get_timeout(); }
+PageMethods.set_defaultUserContext = function(value) { 
+PageMethods._staticInstance.set_defaultUserContext(value); }
+PageMethods.get_defaultUserContext = function() { 
+/// <value mayBeNull="true">The service default user context.</value>
+return PageMethods._staticInstance.get_defaultUserContext(); }
+PageMethods.set_defaultSucceededCallback = function(value) { 
+ PageMethods._staticInstance.set_defaultSucceededCallback(value); }
+PageMethods.get_defaultSucceededCallback = function() { 
+/// <value type="Function" mayBeNull="true">The service default succeeded callback.</value>
+return PageMethods._staticInstance.get_defaultSucceededCallback(); }
+PageMethods.set_defaultFailedCallback = function(value) { 
+PageMethods._staticInstance.set_defaultFailedCallback(value); }
+PageMethods.get_defaultFailedCallback = function() { 
+/// <value type="Function" mayBeNull="true">The service default failed callback.</value>
+return PageMethods._staticInstance.get_defaultFailedCallback(); }
+PageMethods.set_path("/Resources/PageTypes/MicroSiteBasic.aspx");
+PageMethods.ReWriteURL= function(eventConfig,result,onSuccess,onFailed,userContext) {
+/// <param name="eventConfig" type="String">System.String</param>
+/// <param name="result" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+PageMethods._staticInstance.ReWriteURL(eventConfig,result,onSuccess,onFailed,userContext); }
+//]]>
+</script>
+
+
+    <script type="text/javascript" charset="utf-8">
+        //<![CDATA[
+        $(document).ready(function() {
+
+            function addMega() {
+                $(this).addClass("hovering");
+            }
+
+            function removeMega() {
+                $(this).removeClass("hovering");
+            }
+
+            var megaConfig = {
+                interval: 50,
+                sensitivity: 7,
+                over: addMega,
+                timeout: 50,
+                out: removeMega
+            };
+
+            $("li.mega").hoverIntent(megaConfig)
+
+
+        });
+
+
+        //]]>
+    </script>
+
+    
+    <!-- { Logo For Print -->
+    <div id="logoForPrint">
+    </div>
+    <!-- Logo For Print } -->
+    <!-- { Global Header -->
+    
+    
+    
+    <!-- Global Header } -->
+    <!--  { mainContainer  -->
+    <div id="mainContainer">
+        <div id="leftSideBar">
+            
+            
+
+        </div>
+        <div id="rightSideBar">
+            
+            
+        
+        <div class="callOut">
+            <div>
+	<div><a href="http://www.mplushealth.com/" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/MHAR120600Aug2811.gif" border="0" /></a></div>
+</div>
+        </div>
+    
+        
+
+        </div>
+        <!--   { container -->
+        <div id="container">
+            <!-- { Page Header -->
+            <div id="header" style="text-align: center;">
+                
+<div id="headerVector">
+    
+    <div id="EventLogo">
+        <a href="http://www.arabhealthonline.com/AHCongress">
+            <img src="http://inc.iirme.com/Sites/AHCongress/v2/Images/logo.png" alt="Arab Health Congress Logo" style="vertical-align: middle;" /></a></div>
+    
+    <div id="EventName">
+        Arab Health Congress
+    </div>
+    <div id="EventTagline">
+        <div id="SponsorLogoHeaderBanner">Sponsored By<br /><img alt="" src="http://inc.iirme.com/Sites/AHCongress/v2/Images/ccmar2410.jpg" /></div></div>
+    <div id="EventDetails">
+        <div id="EventDate">
+            28 - 31 January 2013
+        </div>
+        <div id="EventVenue">
+            Dubai International Convention & Exhibition Centre<br />A part of ARABHEALTH
+        </div>
+    </div>
+    <!-- ryansicadpogi -->
+    <div id="HeaderLinks">
+    
+        
+                
+                <div id="About-AHC">
+                    <a href="/AHCongress/Home/">Home</a>
+                </div>
+            
+                
+                <div id="News">
+                    <a href="/AHCongress/GeneralPages/News/">News</a>
+                </div>
+            
+                
+                <div id="Venue--Travel">
+                    <a href="/AHCongress/Venue-Travel/IIRHospitality/">Venue &amp; Travel</a>
+                </div>
+            
+                
+                <div id="FAQs1">
+                    <a href="/AHCongress/GeneralPages/FAQs1/">FAQs</a>
+                </div>
+            
+                
+                <div id="Terms">
+                    <a href="/AHCongress/GeneralPages/Terms/">Terms</a>
+                </div>
+            
+                
+                <div id="Other-Events">
+                    <a href="/AHCongress/GeneralPages/Other-Events/" target="_top">Related Events</a>
+                </div>
+            
+                
+                <div id="PressCentre">
+                    <a href="/Press-Centre/">Press Centre</a>
+                </div>
+            
+                
+                <div id="Contact-Us">
+                    <a href="/AHCongress/GeneralPages/Contact-Us/" target="_top">Contact Us</a>
+                </div>
+            
+    </div>
+</div>
+
+            </div>
+            <!-- Page Header } -->
+            <!-- TODO: Hide/Show Menu base on the NavigationType(IntellectServicesTemplatePage.CurrentEventPage.NavigationType) -->
+            <div id="horizontalNavigation">
+                <div id="HmenuContainer" style="padding-top: 0">
+                    
+                    
+        <script type="text/javascript">
+        // initialise plugins
+        jQuery(function() {
+        jQuery('ul.hMenu').supersubs({
+                minWidth: 15,
+                maxWidth: 35,
+                extraWidth: 1
+            })
+            jQuery('ul.hMenu').superfish({
+            delay: 1000,
+            animation: { opacity: 'show', height: 'show' },
+            speed: 'fast',
+            autoArrows: false,
+            dropShadows: false
+        });
+    });
+
+    </script>
+
+       <ul class='hMenu'>
+    
+        <li>
+            
+        <a href="/AHCongress/Home/" target="" id="Home">Home</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="#" target="" id="Conferences1">Conferences</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf1/Overview/" target="" id="Conf1">Anaesthesia</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf1/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf1/ProgrammeDay1/" target="" id="ProgrammeDay1">Programme Day 1</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf1/ProgrammeDay2/" target="" id="ProgrammeDay2">Programme Day 2</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf1/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf2/Overview/" target="" id="Conf2">Interventional Cardiovascular</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf2/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf2/ProgrammeDay1/" target="" id="ProgrammeDay1">Programme </a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf2/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf2/Forms/DownloadCardiologyBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf4/Overview/" target="" id="Conf4">Gastroenterology</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf4/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf4/ProgrammeDay1/" target="" id="ProgrammeDay1">Programme - Day 1</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf4/ProgrammeDay2/" target="" id="ProgrammeDay2">Programme - Day 2</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf4/ProgrammeDay21/" target="" id="ProgrammeDay21">Programme - Day 3</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf4/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf4/Forms/DownloadGastroenterologyBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf5/Overview/" target="" id="Conf5">Imaging & Diagnostics</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf5/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf5/ProgrammeDay1/" target="" id="ProgrammeDay1">Programme Day 1 </a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf5/ProgrammeDay2/" target="" id="ProgrammeDay2">Programme Day 2 </a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf5/ProgrammeDay3/" target="" id="ProgrammeDay3">Programme Day 3</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf5/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf5/Forms/DownloadImagingDiagnosticsBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf6/Overview/" target="" id="Conf6">Leaders in Healthcare</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf6/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf6/Programme/" target="" id="Programme">Agenda  </a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf6/Forms/DownloadLeadersHealthcareBrochure/" target="" id="Download-Brochure">Download Brochure </a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf7/Overview/" target="" id="Conf7">MEDLAB Congress</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf7/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf7/LaboratoryManagement/" target="" id="LaboratoryManagement">Track A</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf7/MolecularDiagnosis/" target="" id="MolecularDiagnosis">Track B</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf7/ClinicalChemistry/" target="" id="ClinicalChemistry">Track C</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf7/Haematology/" target="" id="Haematology">Track D</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf7/MicrobiologyandImmunology/" target="" id="MicrobiologyandImmunology">Track E</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf7/Histopathology1/" target="" id="Histopathology1">Track F</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf7/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf7/Forms/DownloadMEDLABBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf8/Overview/" target="" id="Conf8">Cancer Therapy</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf8/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf8/ProgrammeDay1old/" target="" id="ProgrammeDay1old">Programme Day 1</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf8/ProgrammeDay2old/" target="" id="ProgrammeDay2old">Programme Day 2</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf8/Forms/DownloadCTBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf8/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf9/Overview/" target="" id="Conf9">Orthopaedics</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf9/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf9/ProgrammeDay1/" target="" id="ProgrammeDay1">Programme Day 1</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf9/ProgrammeDay2/" target="" id="ProgrammeDay2">Programme Day 2</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf9/ProgrammeDay3/" target="" id="ProgrammeDay3">Programme Day 3</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf9/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf9/Forms/DownloadOrthopaedicsBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf10/Overview/" target="" id="Conf10">Paediatrics</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf10/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf10/ProgrammeDay1/" target="" id="ProgrammeDay1">Programme - Day 1</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf10/ProgrammeDay2/" target="" id="ProgrammeDay2">Programme - Day 2</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf10/ProgrammeDay3/" target="" id="ProgrammeDay3">Programme - Day 3</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf10/Forms/DownloadPaediatricsBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf10/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf11/Overview/" target="" id="Conf11">Quality Management</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf11/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf11/ProgrammeDay1/" target="" id="ProgrammeDay1">Programme Day 1</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf11/ProgrammeDay2/" target="" id="ProgrammeDay2">Programme Day 2</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf11/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf11/Forms/DownloadQualityManagementBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf13/Overview/" target="" id="Conf13">Surgery</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf13/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf13/ProgrammeDay1/" target="" id="ProgrammeDay1">Programme Day 1</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf13/ProgrammeDay2/" target="" id="ProgrammeDay2">Programme Day 2 Track A </a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf13/ProgrammeDay3/" target="" id="ProgrammeDay3">Programme Day 2 Track B</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf13/ProgrammeDay31/" target="" id="ProgrammeDay31">Programme Day 3 - Track A</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf13/ProgrammeDay32/" target="" id="ProgrammeDay32">Programme Day 3 - Track B</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf13/ProgrammeDay321/" target="" id="ProgrammeDay321">Programme Day 3 - Track C (Cancer Therapy)</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf13/ProgrammeDay322/" target="" id="ProgrammeDay322">Programme Day 4 - Track A</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf13/ProgrammeDay3221/" target="" id="ProgrammeDay3221">Programme Day 4 - Track B (Cancer Therapy)</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf13/Forms/DownloadSurgeryBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf13/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf14/Overview/" target="" id="Conf14">Urology</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf14/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf14/ProgrammeDay1/" target="" id="ProgrammeDay1">Programme Day 1</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf14/ProgrammeDay2/" target="" id="ProgrammeDay2">Programme Day 2</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf14/Forms/DownloadUrlogyBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf14/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf15/Overview/" target="" id="Conf15">CRSD</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf15/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf15/Programme/" target="" id="Programme">Programme - Day 1</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf15/Programme2/" target="" id="Programme2">Programme - Day 2</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf15/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf15/Forms/DownloadCRSDBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf17/Overview/" target="" id="Conf17">Biomedical Engineering</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf17/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf17/ProgrammeDay1/" target="" id="ProgrammeDay1">Programme Day 1</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf17/ProgrammeDay11/" target="" id="ProgrammeDay11">Programme Day 2</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf17/Forms/DownloadBioMedBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf19/Overview/" target="" id="Conf19">Medical Education</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf19/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf19/ProgrammeDay1/" target="" id="ProgrammeDay1">Programme   </a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf19/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf19/Forms/DownloadMEBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf20/Overview/" target="" id="Conf20">Wound Care</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf20/Overview/" target="" id="Overview">Overview</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf20/Faculty/" target="" id="Faculty">Faculty</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf20/ProgrammeDay1/" target="" id="ProgrammeDay1">Programme   </a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf20/Forms/DownloadWoundCareBrochure/" target="" id="DownloadBrochure">Download Brochure</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="http://www.mplushealth.com/" target="1" id="m-Health">m-Health</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+    <a href="/AHCongress/CMEAccreditation/" target="" id="CMEAccreditation" class="selectedItem">CME Accreditation</a>
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/DelegateBenefits/" target="" id="DelegateBenefits">Delegate Information</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Venue-Travel/IIRHospitality/" target="" id="Venue-Travel">Travel Zone</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/AHCongress/Venue-Travel/IIRHospitality/" target="" id="IIRHospitality">IIR Hospitality Desk</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Venue-Travel/Venue11/" target="" id="Venue11">Venue</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Venue-Travel/AboutDubai1/" target="" id="AboutDubai1">About Dubai</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Venue-Travel/VisaInformation1/" target="" id="VisaInformation1">Visa Information</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/Forms/AHC-TravelEnquiry/" target="" id="TravelEnquiry1">Travel Enquiry</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/ClevelandClinic1/" target="" id="ClevelandClinic1">Cleveland Clinic</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/AHCongress/SponsorshipOpportunities/" target="" id="SponsorshipOpportunities">Sponsorship Opportunities</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Home/" target="" id="Arab-Health-Exhibition">Arab Health Exhibition</a>
+    
+        </li>
+    
+        </ul>
+    
+
+                </div>
+            </div>
+            
+            
+            
+            
+
+            <!-- { Right Callout Bins Buttons -->
+            
+        
+            <div id="rightPanel" class="rightPanel">
+        
+        <div class="callOut">
+            <div>
+	<table class="banner" style="WIDTH: 100%" cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td><a href="http://www.arabhealthonline.com/AHCongress/Conferences1/DelegateRegistration/"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/NewQuickLinks/AHCongress/btn1a.gif" /></a></td></tr>
+<tr>
+<td><a href="http://www.arabhealthonline.com/Forms/DownloadPostShowreport/"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/NewQuickLinks/AHCongress/btn2.gif" /></a></td></tr>
+<tr>
+<td><a href="http://www.arabhealthonline.com/Home/"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/NewQuickLinks/AHCongress/btn3.gif" /></a></td></tr>
+<tr>
+<td><a href="http://arabhealthonline.com/AHCongress/Forms/AHC-E-NewsletterSubscription/"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/NewQuickLinks/AHCongress/btn4.gif" /></a></td></tr>
+<tr>
+<td><a href="http://arabhealthonline.com/AHCongress/Forms/AHC-E-BookSubscription/"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/NewQuickLinks/AHCongress/btn5.gif" /></a></td></tr>
+<tr>
+<td><a href="http://arabhealthonline.com/AHCongress/Venue-Travel/VisaInformation1/"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/NewQuickLinks/AHCongress/btn6.gif" /></a></td></tr>
+<tr>
+<td><a href="http://arabhealthonline.com/AHCongress/MediaRegistrationClosed/"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/NewQuickLinks/AHCongress/btn7.gif" /></a></td></tr>
+<tr>
+<td><a href="http://arabhealthonline.com/AHCongress/GeneralPages/Contact-Us/"><img style="MARGIN-BOTTOM: 0px" alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/NewQuickLinks/AHCongress/btn8.gif" /></a></td></tr></tbody></table>
+
+<!--<TR>
+<TD><A href="/Resources/PageTypes/MicroSiteBasic.aspx?id=140524&amp;epslanguage=en"><IMG alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/NewQuickLinks/AHCongress/btn1_new.gif"></A></TD></TR>
+-->
+</div>
+        </div>
+    
+        <div class="callOut">
+            <div>
+	<h2>Upcoming Events</h2>
+<div>
+<marquee onmouseover="this.stop();" onmouseout="this.start();" scrollamount="2" direction="up" height="440">
+<table style="MARGIN: 0px auto" cellspacing="0" cellpadding="0" width="95%" align="center" border="0">
+<tbody>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.abudhabimed.com/" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/ADMClogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>23rd – 25th October 2011</strong><br /><a href="http://www.abudhabimed.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.dentistryme.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/Dentistrylogo1.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>1st – 3rd November 2011</strong><br /><a href="http://www.dentistryme.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.antiagingme.com/" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/icaam.gif" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>25th – 26th November 2011</strong><br /><a href="http://www.antiagingme.com/" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.icjr-me.com/" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/icjr.gif" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>1st – 3rd March 2012</strong><br /><a href="http://www.icjr-me.com/" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.mediconex.net/" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/mediconex.gif" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>18th – 20th April 2012</strong><br /><a href="http://www.mediconex.net/" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.me-oto.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/OTOlogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>22nd – 24th April 2012</strong><br /><a href="http://www.me-oto.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.obs-gyne.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/OBSGynelogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>1st – 3rd April 2012</strong><br /><a href="http://www.obs-gyne.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.hospitalbuildchina.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/HB-ChinaLogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>19th – 21st May 2012</strong><br /><a href="http://www.hospitalbuildchina.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.hospitalbuildeurope.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/HB-EuropeLogon.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>24th – 26th April 2012</strong><br /><a href="http://www.hospitalbuildeurope.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.africahealthexhibition.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/AfricaHealthlogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>9th – 11th May 2012</strong><br /><a href="http://www.africahealthexhibition.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.hospitalbuild-me.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/HBMElogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>4th – 6th June 2012</strong><br /><a href="http://www.hospitalbuild-me.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.hospitalbuildasia.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/HBasialogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>18th – 20th July 2012</strong><br /><a href="http://www.hospitalbuildasia.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr></tbody></table></marquee></div>
+</div>
+        </div>
+    
+        
+          <div class="clrLeft"></div>    
+        </div>
+        
+
+            <!-- Right Callout Bins Buttons } -->
+            <!-- { ContentPanel -->
+            <div id="contentPanel">
+                <!-- { BreadCrumbs -->
+                
+                <!-- BreadCrumbs } -->
+                <!-- { Featured Content Callout -->
+                
+        
+            <div id="featuredContent" class="featuredContent">
+        
+        <div class="callOut">
+            <div>
+	<div class="callOutIcon">
+<div class="ui-tabs-panel" id="fragment-1"><img alt="" src="http://inc.iirme.com/Sites/AHCongress/v2/Images/FCImages/img1.jpg" /> 
+<div class="info">
+<h2>The world's largest multi-track healthcare congress comprising of 18 internationally accredited conferences.</h2></div></div>
+<div class="ui-tabs-panel ui-tabs-hide" id="fragment-2"><img alt="" src="http://inc.iirme.com/Sites/AHCongress/v2/Images/FCImages/img2.jpg" /> 
+<div class="info">
+<h2>Arab Health Congress also includes the Middle East Laboratory Management &amp; Medicine Congress - MEDLAB</h2></div></div>
+<div class="ui-tabs-panel ui-tabs-hide" id="fragment-3"><img alt="" src="http://inc.iirme.com/Sites/AHCongress/v2/Images/FCImages/img3.jpg" /> 
+<div class="info" id="info">
+<h2>Enjoy FREE access to the world-renowned Arab Health Exhibition</h2></div></div><!-- Fourth Content -->
+<div class="ui-tabs-panel ui-tabs-hide" id="fragment-4"><img alt="" src="http://inc.iirme.com/Sites/AHCongress/v2/Images/FCImages/img4.jpg" /> 
+<div class="info">
+<h2>Explore the very latest advances in your medical specialty</h2></div></div>
+<div class="ui-tabs-panel ui-tabs-hide" id="fragment-5"><img alt="" src="http://inc.iirme.com/Sites/AHCongress/v2/Images/FCImages/img5.jpg" /> 
+<div class="info">
+<h2>Debate and discuss the hottest healthcare topics</h2></div></div>
+<div class="ui-tabs-panel ui-tabs-hide" id="fragment-6"><img alt="" src="http://inc.iirme.com/Sites/AHCongress/v2/Images/FCImages/img6.jpg" /> 
+<div class="info">
+<h2>Network with your peers from across the globe</h2></div></div>
+<div class="ui-tabs-panel ui-tabs-hide" id="fragment-7"><img alt="" src="http://inc.iirme.com/Sites/AHCongress/v2/Images/FCImages/img7.jpg" /> 
+<div class="info">
+<h2>The congress culminates with the Leaders in Healthcare Congress - the Middle East's most prominent gathering of healthcare industry leaders and influencers</h2></div></div></div>
+<div class="callOutText">
+<ul class="ui-tabs-nav">
+<li class="ui-tabs-nav-item" id="nav-fragment-1"><a href="#fragment-1"><img alt="" src="http://inc.iirme.com/Sites/AgraME/v1/Images/agri.gif" /></a></li>
+<li class="ui-tabs-nav-item" id="nav-fragment-2"><a href="#fragment-2"><img alt="" src="http://inc.iirme.com/Sites/AgraME/v1/Images/poultry.gif" /></a></li>
+<li class="ui-tabs-nav-item" id="nav-fragment-3"><a href="#fragment-3"><img alt="" src="http://inc.iirme.com/Sites/AgraME/v1/Images/fishing.gif" /></a></li>
+<li class="ui-tabs-nav-item" id="nav-fragment-4"><a href="#fragment-4"><img alt="" src="http://inc.iirme.com/Sites/AgraME/v1/Images/flower.gif" /></a></li>
+<li class="ui-tabs-nav-item" id="nav-fragment-5"><a href="#fragment-5"><img alt="" src="http://inc.iirme.com/Sites/AgraME/v1/Images/machinery.gif" /></a></li>
+<li class="ui-tabs-nav-item ui-tabs-selected" id="nav-fragment-6"><a href="#fragment-6"><img alt="" src="http://inc.iirme.com/Sites/AgraME/v1/Images/machinery.gif" /></a></li>
+<li class="ui-tabs-nav-item" id="nav-fragment-7"><a href="#fragment-7"><img alt="" src="http://inc.iirme.com/Sites/AgraME/v1/Images/machinery.gif" /></a></li></ul></div>
+<div class="clrLeft"></div>
+</div>
+        </div>
+    
+        
+          <div class="clrLeft"></div>    
+        </div>
+        
+
+                <!-- Featured Content Callout } -->
+                <!-- { MainContent -->
+                <div id="mainContents">
+                    
+                    
+
+    <script type="text/javascript">
+
+        function URLRewrite_Result(ResultString) {
+            if (ResultString == 'SUCCESS') {
+                alert('URLs for this microsite has been successfully rewritten. Please refresh the page.');
+            }
+            else {
+                alert('An error occurred while Rewriting URL. Please try again. Error Details: ' + ResultString);
+            }
+        }     
+        
+        function CallURLRewrite(eventconfig) {
+            PageMethods.ReWriteURL(eventconfig,'SUCCESS', URLRewrite_Result);
+        }
+
+        function rewriteurl(eventconfig) {            
+            var ans = confirm('Are you sure you want to rewrite url?');
+            if (ans) {
+                var conf = confirm('This URL Rewriting might take some time to process. Please wait and do not close this window while the URL is being rewritten. Select OK to proceed.');
+                if (conf) {
+                    CallURLRewrite(eventconfig);
+                }
+            }
+        }
+        
+
+    </script>
+
+    
+    <h1>
+        <span>CME Accreditation</span>
+    </h1>
+    <div>
+	<div align="center">
+<table style="width: 98%;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td align="left"><br />The organisers of the <a title="About the Congress" href="/AHCongress/Home/"><strong>Arab Health Congress</strong></a> are commited to ensuring that all of the scientific conferences presented as part of the event comprise of valuable, up to date topics that are relevant to the medical disciplines being addressed. They also aim to make sure that new advances, research and technologies are also highlighted to better inform and equip those attending. <br /><br />Continuing Medical Education (CME) Accreditation forms an integral part of fulfilling this commitment. By attending a CME accredited conference, delegates can be certain that the content of that conference has been well researched to ensure its relevance and suitability for the target audience. They can also rest assured that the overall objective of the conference is to either update or further improve attendees' competance, skills and knowledge within their specific discipline and not to act as a promotional tool for any particular company's products or services. <br /><br />Sponsored by the <strong><a title="More about Cleveland Clinic" href="/AHCongress/SponsorshipOpportunities/">Cleveland Clinic Centre for Continuing Education</a></strong>, each scientifc conference listed below at the Arab Health Congress 2012 have been approved for<em><strong> AMA PRA Category 1 Credit<sup>TM.</sup></strong></em><strong><br /><em><sup><br /></sup></em></strong></td>
+</tr>
+<tr>
+<td align="left"> </td>
+</tr>
+<tr>
+<td align="left">
+<table style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td bgcolor="#cccccc">
+<table class="tableBorder" style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf1/Overview/" target="_blank">5th Middle East Anaesthesia Conference</a></strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#cccccc">
+<table class="tableBorder" style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf2/Overview/" target="_blank">5th Middle East Interventional Cardiovascular conference</a></strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#cccccc">
+<table class="tableBorder" style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf4/Overview/" target="_blank">4th Middle East Gastroenterology Conference</a></strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#cccccc">
+<table class="tableBorder" style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf5/Overview/" target="_blank">12th Middle East Medical Imaging &amp; Diagnostics Conference</a></strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#cccccc">
+<table class="tableBorder" style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf6/Overview/" target="_blank">Leaders in Healthcare 2012</a></strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#cccccc">
+<table class="tableBorder" style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf7/Overview/" target="_blank">MEDLAB 2012</a></strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#cccccc">
+<table class="tableBorder" style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf8/Overview/" target="_blank">2nd Multi-Disciplinary Approach to Cancer Therapy Conference</a></strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#cccccc">
+<table class="tableBorder" style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf9/Overview/" target="_blank">8th Middle East Orthopaedics Conference</a></strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#cccccc">
+<table class="tableBorder" style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf10/Overview/" target="_blank">5th Middle East Paediatrics Conference</a></strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#cccccc">
+<table class="tableBorder" style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf11/Overview/" target="_blank">3rd Middle East Quality Management in Healthcare Conference</a></strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#cccccc">
+<table class="tableBorder" style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf13/Overview/" target="_blank">11th Middle East Surgery Conference</a></strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#cccccc">
+<table class="tableBorder" style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf14/Overview/" target="_blank">5th Middle East Urology Conference</a></strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#cccccc">
+<table class="tableBorder" style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a title="CRSD" href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf15/Overview/" target="_blank">2nd Chronic Respiratory and Sleep Diseases (CRSD) - Update</a> </strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td onmouseover="this.bgColor='#EEEEEE'" onmouseout="this.bgColor='#cccccc'" align="left" valign="middle" bgcolor="#cccccc">
+<div style="padding: 5px;" align="left"><strong><a title="CRSD" href="http://www.arabhealthonline.com/AHCongress/Conferences1/Conf20/Overview/" target="_blank">Middle East Wound Care Conference </a></strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p align="left"><strong><em></em></strong> </p>
+<p align="left"><strong><em>For more information about the Cleveland Clinic Foundation Centre for Continuing Education,</em></strong> <a href="http://www.ccfcme.org" target="_blank"><strong>CLICK HERE</strong></a></p>
+</div>
+
+                    
+                    <div class="clrLeft">
+                    </div>
+                    <!-- end #mainContent -->
+                </div>
+                <!-- MainContent } -->
+                <!-- { Extended Content Callout } -->
+                
+
+                <!--  Extended Content Callout } -->
+            </div>
+            <!-- ContentPanel } -->
+            <div class="clearfloat">
+            </div>
+            <!-- { Sponsors Content Callout -->
+            
+        
+            <div id="sponsorsPanel" class="sponsorsPanel">
+        
+        <div class="callOut">
+            <div>
+	<div align="center">
+<table cellspacing="0" cellpadding="0" width="98%" border="0">
+<tbody>
+<tr bgcolor="#efefef">
+<td align="middle">
+<div style="BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 5px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 5px" align="center"><strong>Leading Congress Supporter</strong></div></td></tr>
+<tr>
+<td align="middle">&nbsp;</td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.seha.ae/Pages/Intro.aspx" target="_blank"><img alt="SEHA - Abu Dhabi Health Services" src="/Global/ArabHealth/images/lead_cong_sup/SEHA_web.jpg" /></a></div></td></tr>
+<tr>
+<td align="middle" height="20">&nbsp;</td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="98%" border="0">
+<tbody>
+<tr bgcolor="#efefef">
+<td align="middle" bgcolor="#efefef" colspan="3">
+<div style="BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 5px" align="center"><strong>Supporting Bodies</strong></div></td>
+<td align="middle" bgcolor="#efefef">
+<div style="BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 5px" align="center"><strong>Organised by</strong></div></td>
+<td align="middle" bgcolor="#efefef">
+<div style="BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 5px" align="center"><strong>Member of</strong></div></td></tr>
+<tr>
+<td align="middle" colspan="3">&nbsp;</td>
+<td align="middle">&nbsp;</td>
+<td align="middle">&nbsp;</td></tr>
+<tr>
+<td align="middle" width="15%">
+<div align="center"><a href="http://www.moh.gov.ae/ar/Default.aspx" target="_blank"><img alt="UAE Ministry of Health" src="/Global/ArabHealth/MINISTRY_of_HEALTHlogo-small.jpg" border="0" /></a></div></td>
+<td align="middle" width="20%">
+<div align="center"><a href="http://www.dha.gov.ae/EN/Pages/default.aspx" target="_blank"><img alt="Dubai Health Authority" src="/Global/ArabHealth/final-DHA-logo-small4.jpg" border="0" /></a></div></td>
+<td align="middle" width="20%">
+<div align="center"><a href="http://www.haad.ae/haad/" target="_blank"><img alt="Health Authority - Abu Dhabi" src="/Global/ArabHealth/images/haad-logo-hor.jpg" border="0" /></a></div></td>
+<td align="middle">
+<div align="center"><a href="http://www.informaexhibitions.com/" target="_blank"><img alt="" src="/Global/ArabHealth/images/Inf_Exhibitions.jpg" border="0" /></a></div></td>
+<td align="middle">
+<div align="center"><a href="http://www.aeo.org.uk/" target="_blank"><img alt="" src="/Global/ArabHealth/AEORGBlogont.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle" colspan="5">&nbsp;</td></tr></tbody></table></div>
+</div>
+        </div>
+    
+        
+          <div class="clrLeft"></div>    
+        </div>
+        
+
+            <!-- Sponsors  Content Callout } -->
+            
+        
+            <div id="footer" class="footer">
+        
+        <div class="callOut">
+            <div>
+	<p class="footerCopyrightNotice">IIR Middle East is part of the Informa Group Plc.<br />By submitting any information to us via this website you are agreeing to allow Informa Plc to use that information <br />for marketing purposes. Please contact us here if you would like to opt-out from this service</p>
+<p class="footerStandardLinks"><a href="#">Privacy Policy</a> | <a href="#">Terms &amp; Conditions</a> | <a href="#">CAREERS @ IIRME</a> </p>
+<p class="footerAllLinks"><a href="#">Healthcare Travel</a> - <a href="#">International Conference for Anti-Aging Medicine &amp; Medical Spa</a> - <a href="#">Rheumatology</a> - <a href="#">VETme</a> - <a href="#">Obs-Gyne</a> <br /><a href="#">Middle East Update on Otolaryngology</a> - <a href="#">Hospital Build Asia</a> - <a href="#">Womens Healthcare</a> - <a href="#">Pharma</a> - <a href="#">PABME</a> - <a href="#">Healthcare Travel Asia</a> <br /><a href="#">Hospital Build Middle East</a> - <a href="#">Aesthetics Asia</a> - <a href="#">Abu Dhabi Medical Congress</a> - <a href="#">Middle East Ophthalmology Conference</a> - <a href="#">Dentistry</a> <br /></p>
+</div>
+        </div>
+    
+        
+          <div class="clrLeft"></div>    
+        </div>
+        
+
+        </div>
+    </div>
+    <!--   container } -->
+    <div class="clearfloat">
+    </div>
+    <!--   mainContainer } -->
+    <div id="globalFooter">
+        
+<!-- Quick LINKS AT BOTTOM IN GREY -->
+<style>
+
+#globalFooter  ul, ol, li, dd, blockquote{
+margin-left:0px;
+}
+#globalFooter div{
+border:0;
+}
+#globalFooter {
+	height: 308px;
+	background:url(http://inc.iirme.com/Images/Global/InformaEx/pattern.jpg) repeat-x left top;
+	padding:0px;
+}
+#globalFooterContent {
+	height:307px;
+	width:1003px;
+	margin:0 auto;
+	background:url(http://inc.iirme.com/Images/Global/InformaEx/background.jpg) no-repeat top left;
+}
+#Table_01 {
+	left:0px;
+	top:0px;
+	width:1003px;
+	height:308px;
+	color:#d8e9f7;
+	font-family:Tahoma, Arial, Verdana;
+	font-size:12px;
+}
+#Table_01 a {
+	font-weight:bold;
+	color:#FFFFFF;
+	text-decoration:none;
+	line-height:1.25em;
+	font-family:Tahoma, Arial, Verdana !important;
+	font-size:12px !important;
+}
+#Table_01 a:hover
+{
+  color:#c4d52a;
+text-decoration:underline;
+}
+#Table_01 hr {
+	height:2px;
+	color:#ffffff;
+background-color: #FFFFFF;
+margin-bottom:5px;
+}
+#logoContainer {
+	float:left;
+	width:256px;
+	height:248px;
+	padding-top:60px;
+	font-size:11px;
+}
+#contents {
+	float:right;
+	width:730px;
+	height:280px;
+	padding-top:25px;
+}
+#regions {
+	width:30em;
+	list-style:none;
+	margin:0;
+	text-indent:0;
+	padding:0;
+}
+#regions li {
+	float:left;
+	width:10em;
+}
+#sectors {
+	width:60em;
+	list-style:none;
+	margin:0;	
+	text-indent:0;	
+	padding:0;	
+}
+#sectors li {
+	float:left;
+	width:30em;
+}
+#informaLinks {
+	list-style:none;
+	margin:0;	
+	text-indent:0;	
+	padding:0;	
+}
+#informaLinks li {
+	float:left;
+	padding:0 15px;
+	border-right:#ffffff solid 1px;
+}
+#informaLinks li.last {
+	border:none;
+}
+#informaLinks li.first {
+	padding-left:0;
+}
+</style>
+<div id="globalFooterContent">
+    <div id="Table_01">
+      <div id="logoContainer"> <img src="http://inc.iirme.com/Images/Global/InformaEx/informaex.png" alt="Informa Exhibitions Logo" /> <br />
+        <br />
+        Copyright © 2011. All rights reserved.<br />
+        Informa Exhibitions. </div>
+      <div id="contents"> <p>Informa exhibitions have events in almost all regions around the globe.</p>
+        <div>
+          <ul id="regions">
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/All-Sectors/Region0-africa/All-Months/" target="_blank">Africa</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/All-Sectors/Region1-americas/All-Months/" target="_blank">Americas</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/All-Sectors/Region2-asia/All-Months/" target="_blank">Asia</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/All-Sectors/Region3-australasia/All-Months/" target="_blank">Australasia</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/All-Sectors/Region4-europe/All-Months/" target="_blank">Europe</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/All-Sectors/Region1-americas/All-Months/" target="_blank">Middle East</a><br style="line-height:3em;" />
+            </li>
+          </ul>
+          <div style="clear:left;">&nbsp;</div>
+        </div>
+        <p>We have events in a wide range of different business sectors and industries.</p>
+        <div>
+          <ul id="sectors">
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector0-Commodities, Energy and Utilities/All-Regions/All-Months/" target="_blank">Commodities, Energy & Utilities</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector1-Construction, Infrastructure and Real Estate/All-Regions/All-Months/" target="_blank">Construction, Infrastructure and Real Estate</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector2-Consumer, Retail and Leisure/All-Regions/All-Months/" target="_blank">Consumer, Retail and Leisure</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector3-Education and Public Sector/All-Regions/All-Months/" target="_blank">Education and Public Sector</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector4-Finance and Financial Services/All-Regions/All-Months/" target="_blank">Finance and Financial Services</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector5-General Management/All-Regions/All-Months/" target="_blank">General Management</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector6-Healthcare and Life Sciences/All-Regions/All-Months/" target="_blank">Healthcare and Life Sciences</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector7-IT, Telecoms and Media/All-Regions/All-Months/" target="_blank">IT, Telecoms and Media</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector8-Professional Services - Legal, Tax and Accounting/All-Regions/All-Months/" target="_blank">Professional Services - Legal, Tax and Accounting</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector9-Transport and Logistics/All-Regions/All-Months/" target="_blank">Transport and Logisitics</a></li>
+          </ul>
+          <div style="clear:left;">&nbsp;</div>
+        </div>
+        <hr />
+        <div>
+          <ul id="informaLinks">
+            <li class="first"><a href="http://www.informaexhibitions.com/home/" target="_blank">Home</a></li>
+            <li><a href="http://www.informaexhibitions.com/Who-We-Are/" target="_blank">About Informa Exhibitions</a></li>
+            <li><a href="http://www.informaexhibitions.com/Careers/" target="_blank">Careers</a></li>
+            <li><a href="http://www.informaexhibitions.com/Contact-us/" target="_blank">Contact Us</a></li>
+			<li class="last"><a href="http://www.iirme.com/Content-Pages1/Privacy-Policy/" target="_blank">Privacy Policy</a></li>
+          </ul>
+          <div style="clear:left;">&nbsp;</div>
+        </div>
+      </div>
+    </div>
+  </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <!-- { Miscellaneous Code Snippets(javascript,css,etc) -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1609826-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1609826-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    <!-- Miscellaneous Code Snippets(javascript,css,etc) } -->
+    <!-- { GenerateCodeSnippets -->
+    
+    <!-- GenerateCodeSnippets } -->
+    <!-- { PNG Fix -->
+    
+    <!-- PNG Fix } -->
+    </body><style type="text/css">
+        #globalHeader
+        {
+            display: block;
+            padding: 0;
+        }
+    </style>
+
+    <script type="text/javascript">
+        // initialise plugins
+        jQuery(function() {
+            jQuery('ul.hMenu').supersubs({
+                minWidth: 15,
+                maxWidth: 30,
+                extraWidth: 1
+            });
+            jQuery('ul.hMenu').superfish();
+        });
+    </script>
+
+
+</html>

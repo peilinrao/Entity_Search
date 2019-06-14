@@ -1,0 +1,163 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:php="http://php.net/xsl" xmlns:exslt="http://exslt.org/common" lang="en"><head xmlns=""><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=7"><meta name="Generator" content="Yahoo! Site Solution - lunarlander"><meta name="DESCRIPTION" id="mDescription" content="February 10, 2012﻿Paul McCartney racked up yet another honor on Friday when he received the MusiCares' 2012 Person of the Year award at a star-studded ceremony hosted by Grammy organizers ahead of this weekend's major music awards.﻿February 9, 2012Congratu"><meta name="KEYWORDS" id="mKeywords" content="Crafts, Beatlestitch, Beatles History Corner"><link rel="stylesheet" type="text/css" media="screen" id="globalCSS" href="http://l.yimg.com/lm/d/lib/smb/css/hosting/yss/v2/mc_global.178248.css"><link rel="stylesheet" type="text/css" media="screen" id="themeCSS" href="http://l.yimg.com/lm/themes/yhoo/ga/riverside/pinot/palette1/4.0.3/en-us/theme.css"><link rel="stylesheet" type="text/css" media="screen" id="extensionsCSS" href="http://l.yimg.com/a/lib/smb/assets/hosting/yss/extensions/css/mc_yss_extensions.144201.css"><script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/utilities/utilities.js"></script><script type="text/javascript" src="http://us.js2.yimg.com/us.js.yimg.com/lib/common/widgets/2/container/container_2.1.0.js"></script><script type="text/javascript">
+            var $D  =  YAHOO.util.Dom;
+            var $E  =  YAHOO.util.Event;
+            var $A  =  YAHOO.util.Anim;
+            var $M  =  YAHOO.util.Motion;
+            var $EA =  YAHOO.util.Easing;
+            var $DD =  YAHOO.util.DD;
+            var $C  =  YAHOO.util.Connect;
+            var $   =  $D.get;
+
+            YAHOO.namespace ("Smb.Asteroids.Logger");
+            YAHOO.Smb.Asteroids.Logger = {
+                Log : function(e) {
+                    if (typeof console !== 'undefined') {
+                        console.log(e);
+                    }
+                }
+            }
+            var $LOG = YAHOO.Smb.Asteroids.Logger.Log;
+        </script><title>Beatlestitch - Beatles History Corner</title></head><body class="lo_generic_auto7"><div id="body"><div id="doc" class=""><div xmlns="" id="hd"><style>
+		blockquote {margin-right:0;padding-right:0}
+	</style><div id="hContent"><div id="headerContent" class="editorWrap"><div id="headerZoneElement" class="editable rte flexContent" rel="itemGuid.sit.hc.001"><h1 style="TEXT-ALIGN: center" data-mce-style="text-align: center;"><span style="LINE-HEIGHT: normal; FONT-FAMILY: comic sans ms,sand; COLOR: #800080; FONT-SIZE: 8pt" data-mce-style="line-height: normal; font-family: comic sans ms,sand; color: #800080; font-size: 8pt;"><br /></span><span style="FONT-FAMILY: comic sans ms,sand; COLOR: #800080" data-mce-style="font-family: comic sans ms,sand; color: #800080;"><img class="yssDKImg yssImg yssImgA yssAstImg_itemGuid.4f09ee367a8368.85196068_666X846 yssDKImg_alignNone" src="http://beatlescrossstitch.com/yahoo_site_admin/assets/images/For_site.7112817_logo.gif" alt="" width="78" height="100" border="0" />Beatlestitch <a class="internallink" type="2" href="http://beatlescrossstitch.com/beatles_counted_cross_stitch/sgt_pepper" data-mce-href="/beatles_counted_cross_stitch/sgt_pepper"><img class="yssDKImg yssImg yssImgA yssAstImg_itemGuid.4e41ce7fa06ca7.29213713_339X498 yssDKImg_alignNone" src="http://beatlescrossstitch.com/yahoo_site_admin/assets/images/psychjohn.220172013_logo.jpg" alt="" width="68" height="100" border="0" data-mce-src="/yahoo_site_admin/assets/images/psychjohn.220172013_logo.jpg" /><img class="yssDKImg yssImg yssImgA yssAstImg_itemGuid.4e41d07e718185.77806689_353X574 yssDKImg_alignNone" src="http://beatlescrossstitch.com/yahoo_site_admin/assets/images/paul.220172753_logo.jpg" alt="" width="61" height="100" border="0" data-mce-src="/yahoo_site_admin/assets/images/paul.220172753_logo.jpg" /><img class="yssDKImg yssImg yssImgA yssAstImg_itemGuid.4e41cecaf1cac5.10960881_480X640 yssDKImg_alignNone" src="http://beatlescrossstitch.com/yahoo_site_admin/assets/images/PsyGeorgeXS1.220172042_logo.jpg" alt="" width="75" height="100" border="0" data-mce-src="/yahoo_site_admin/assets/images/PsyGeorgeXS1.220172042_logo.jpg" /><img class="yssDKImg yssImg yssImgA yssAstImg_itemGuid.4e41d11da52c80.99933105_214X305 yssDKImg_alignNone" src="http://beatlescrossstitch.com/yahoo_site_admin/assets/images/ringopep.220173033_logo.jpg" alt="" width="70" height="100" border="0" data-mce-src="/yahoo_site_admin/assets/images/ringopep.220173033_logo.jpg" /></a></span></h1><h1 style="TEXT-ALIGN: center" data-mce-style="text-align: center;"><span style="LINE-HEIGHT: normal; FONT-SIZE: 18pt" data-mce-style="line-height: normal; font-size: 18pt;"><span style="FONT-FAMILY: comic sans ms,sand; COLOR: #800080" data-mce-style="font-family: comic sans ms,sand; color: #800080;">Rock &amp; Pop Culture </span><span style="FONT-FAMILY: comic sans ms,sand; COLOR: #800080" data-mce-style="font-family: comic sans ms,sand; color: #800080;">Counted Cross Stitch<br /><span style="LINE-HEIGHT: normal; FONT-SIZE: 10pt" data-mce-style="line-height: normal; font-size: 10pt;">est. by Laura S. Sotu, circa 1995</span><br /></span></span></h1><p> </p></div></div></div><div id="hMisc"><div class="contactInfoContainer" style="width:auto;height:auto"><p class="vcard"><span class="phoneNumbers"><br><span class="tel"><span class="type">ph: </span>800-498-9809</span></span><br><span class="mailtoWrapper"><a class="email" href="mailto:beatlestitch@yahoo.com">beatlest<wbr>itch<wbr>@yahoo<wbr>.com</a></span></p></div></div></div><div id="wrapper" class="navpos_north"><div xmlns="" id="navigation" class="tglsty_arrow sub_dynamic"><ul id="mainNav" role="navigation"><li class="mainNav " style="z-index:10"><a href="/home">Home</a></li> <li class="mainNav active" style="z-index:9"><a href="/beatles_history_corner">Beatles History Corner</a></li> <li class="mainNav " style="z-index:8"><a href="/creative_customers_wall">Creative Customers Wall</a></li> <li class="mainNav trigger " style="z-index:7"><a href="/beatles_counted_cross_stitch">Beatles Counted Cross Stitch</a><a href="#yss" class="toggle voidLink"><img src="http://l.yimg.com/a/i/spacer.gif" title="" alt="Click to open the Beatles Counted Cross Stitch menu"></a><ul class="subNav"><li><a href="/beatles_counted_cross_stitch/classics_collection">Classics Collection</a></li> <li><a href="/beatles_counted_cross_stitch/early_years_collection">Early Years Collection</a></li> <li><a href="/beatles_counted_cross_stitch/lyrics__poems_collection">Lyrics &amp; Poems Collection</a></li> <li><a href="/beatles_counted_cross_stitch/movies_collection">Movies Collection</a></li> <li><a href="/beatles_counted_cross_stitch/psychedelic_years_collection">Psychedelic Years Collection</a></li> <li><a href="/beatles_counted_cross_stitch/sgt_pepper_collection">Sgt. Pepper Collection</a></li> <li><a href="/beatles_counted_cross_stitch/yellow_submarine_collection">Yellow Submarine Collection</a></li> <li><a href="/beatles_counted_cross_stitch/george_harrison_collection">George Harrison Collection</a></li> <li><a href="/beatles_counted_cross_stitch/john_lennon_collection">John Lennon Collection</a></li> </ul></li> <li class="mainNav trigger " style="z-index:6"><a href="/music__pop_culture_counted_cross_stitch">Music &amp; Pop Culture Counted Cross Stitch</a><a href="#yss" class="toggle voidLink"><img src="http://l.yimg.com/a/i/spacer.gif" title="" alt="Click to open the Music &amp; Pop Culture Counted Cross Stitch menu"></a><ul class="subNav"><li><a href="/music__pop_culture_counted_cross_stitch/iconic_women_of_music__pop_culture">Iconic Women of Music &amp; Pop Culture</a></li> <li><a href="/music__pop_culture_counted_cross_stitch/marilyn_monroe">Marilyn Monroe</a></li> <li><a href="/music__pop_culture_counted_cross_stitch/iconic_album_covers">Iconic Album Covers</a></li> </ul></li> <li class="mainNav " style="z-index:5"><a href="/the_black_stallion_licensed_counted_cross_stitch">The Black Stallion Licensed Counted Cross Stitch</a></li> <li class="mainNav " style="z-index:4"><a href="/beatles_jewelry">Beatles Jewelry</a></li> <li class="mainNav " style="z-index:3"><a href="/beatles_hair_accessories">Beatles Hair Accessories</a></li> <li class="mainNav " style="z-index:2"><a href="/counted_cross_stitch_tutorial">Counted Cross Stitch Tutorial</a></li> <li class="mainNav " style="z-index:1"><a href="/contact">Contact</a></li> </ul></div><div xmlns="" id="bd"><div id="pageName"><div id="pageNameContent" class="editorWrap"><div id="pageNameZoneContent" class="editable rte flexContent" rel="itemGuid.pgName.pageGuid.4e408b2425bd83.38468837"><h2><span style="COLOR: #333399">Beatles History Corner</span></h2></div></div></div><div id="zWrap"><div id="zA"><div id="zA-widget-layout-wrap" class="widget-layout-wrap " rel=""><div class="modWrap"><p><span style="color: rgb(0, 0, 128); "><strong><em>February 10, 2012</em></strong></span>﻿</p><p><span style="color: #000080;" color="#000080" data-mce-style="color: #000080;"><span id="lw_1328948306_0">Paul McCartney</span><span> racked up yet another honor on Friday when he received the MusiCares&#39; 2012 Person of the Year award at a star-studded ceremony hosted by Grammy organizers ahead of this weekend&#39;s major music awards.</span>﻿<br /></span></p><p><br /></p><p><strong><span style="color: #000080;" data-mce-style="color: #000080;"><em>February 9, 2012</em></span></strong></p><p><span style="color: #000080;" data-mce-style="color: #000080;">Congratulations Paul for finally receiving your star on the Walk of Fame in Hollywood!</span></p><p style="text-align: center;" data-mce-style="text-align: center;"><img class="yssDKImg yssImg yssImgD yssAstImg_itemGuid.4f368f52d97b29.82621168_450X336 yssDKImg_alignNone" src="/yahoo_site_admin/assets/images/paulstar.4175512_std.JPG" alt="" width="394px" height="294px" border="0" data-mce-src="/yahoo_site_admin/assets/images/paulstar.4175512_std.JPG" /></p><p><br /></p><p><span style="color: #000080;" data-mce-style="color: #000080;"><em><strong><em><strong><em><strong><em><strong>February 7, 1964</strong></em></strong></em></strong></em></strong></em></span></p><p><span style="color: #000080;" data-mce-style="color: #000080;">The Beatles arrive in America for the first time at JFK airport, New York City</span></p><p> </p><p><span style="color: #000080;" data-mce-style="color: #000080;"><em><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><strong><em><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><strong><em><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><strong><em><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><strong>February 9, 1964</strong></span></em></strong></span></em></strong></span></em></strong></span></em></span></p><p><span style="color: #000080;" data-mce-style="color: #000080;"><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;">The Beatles first appearance on the Ed Sullivan show.</span></span></span></span></span></p><p> </p><p><span style="color: #000080;" data-mce-style="color: #000080;"><em><strong><em><strong><em><strong><em><strong>February 11, 1964</strong></em></strong></em></strong></em></strong></em></span></p><p><span style="color: #000080;" data-mce-style="color: #000080;">The Beatles perform their first concert on American soil in Washington D.C.</span></p><p style="text-align: center;" data-mce-style="text-align: center;"><em><a class="internallink" type="2" href="/beatles_counted_cross_stitch/early_years_collection" data-mce-href="/beatles_counted_cross_stitch/early_years_collection">*Order the Beatles Early Years Cross Stitch*</a></em></p><p> </p><p><em style="color: #000080; font-family: times,'times new roman';" data-mce-style="color: #000080; font-family: times,'times new roman';"><span><strong><em><span><strong><em><span><strong><em><span><strong>February 16, 1964</strong></span></em></strong></span></em></strong></span></em></strong></span></em></p><p><span style="color: #000080;" data-mce-style="color: #000080;"><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;">The Beatles second performance on the Ed Sullivan show, this time from Miami.</span></span></span></span></span></p><p> </p><p><strong><em><span style="color: #000080;" data-mce-style="color: #000080;"><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><span><span><span>February 22, 1964</span></span></span></span></span></em></strong></p><p><span style="color: #000080; font-family: times, 'times new roman';" data-mce-style="color: #000080; font-family: times, 'times new roman';">The Beatles return to the UK after their triumphant American tour.</span></p><p> </p><p><strong><em><span style="color: #000080;" data-mce-style="color: #000080;">February 25, 1943</span></em></strong></p><p><span style="color: #000080;" data-mce-style="color: #000080;">George Harrison&#39;s birthday.<span style="text-align: center;" data-mce-style="text-align: center;"> </span></span></p><p style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #333399;" data-mce-style="color: #333399;"><em><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><strong><span style="color: #333399;" data-mce-style="color: #333399;"><em><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><strong><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><span style="font-family: times,times new roman;" data-mce-style="font-family: times,times new roman;"><span style="color: #ff0000;" data-mce-style="color: #ff0000;"><a class="internallink" type="2" href="/beatles_counted_cross_stitch/george_harrison_collection" data-mce-href="/beatles_counted_cross_stitch/george_harrison_collection"><span style="color: #ff0000;" data-mce-style="color: #ff0000;">*Order <em>George Harrison </em>Counted Cross Stitch*</span></a></span></span></span></strong></span></em></span></strong></span></em></span></p><p><span style="color: #000080;" data-mce-style="color: #000080;"><em><strong><em><strong><em><strong><em><strong>February 7, 1964</strong></em></strong></em></strong></em></strong></em></span></p><p><strong><span style="color: rgb(0, 0, 128); " data-mce-style="color: #000080;"><em>February 9, 2012</em></span></strong></p></div></div></div><div id="zB"><div id="zB-widget-layout-wrap" class="widget-layout-wrap " rel=""><div class="modWrap"><p><img class="yssDKImg yssImg yssImgD yssAstImg_itemGuid.4f2ec9d8e52ec2.01583256_431X300 yssDKImg_alignNone" style="undefined" src="/yahoo_site_admin/assets/images/music_tv_gal_beatles_ed_sul_1.35102642_std.jpg" alt="" width="234px" height="162px" border="0" /></p></div></div></div><div id="zC"><div id="zC-widget-layout-wrap" class="widget-layout-wrap " rel=""><div class="modWrap"><p style="TEXT-ALIGN: center"><a class="internallink" type="2" href="http://beatlescrossstitch.com/home">Back to Home Page</a> <a class="internallink" type="2" href="http://beatlescrossstitch.com/contact">Contact</a></p></div></div></div></div></div></div><div xmlns="" id="ft"><div id="fWrapper"><div id="fContent"><div id="footerContent" class="editorWrap"><div id="footerZoneElement" class="editable rte flexContent" rel="itemGuid.sit.fc.001"><p>Copyright 2011 Beatlestitch. All rights reserved.</p><p><a target="_top" href="http://smallbusiness.yahoo.com/webhosting/">Web Hosting by Yahoo!</a></p></div></div></div><div id="fMisc"><div class="contactInfoContainer" style="width:auto;height:auto"><p class="vcard"><span class="phoneNumbers"><br><span class="tel"><span class="type">ph: </span>800-498-9809</span></span><br><span class="mailtoWrapper"><a class="email" href="mailto:beatlestitch@yahoo.com">beatlest<wbr>itch<wbr>@yahoo<wbr>.com</a></span></p></div></div><div id="fBadges"></div></div></div><script xmlns="" language="JavaScript" src="http://us.js2.yimg.com/us.js.yimg.com/lib/smb/js/hosting/cp/js_source/whv2_001.js"></script><script xmlns="" language="javascript">geovisit();</script><noscript xmlns=""><img src="http://visit.webhosting.yahoo.com/visit.gif?us1329010900" alt="setstats" border="0" width="1" height="1"></noscript></div></div></body><script xmlns="" type="text/javascript"></script><script xmlns="" type="text/javascript" src="http://l.yimg.com/lm/extensions/js/mc_yss_extensions.168048.js"></script><script xmlns="" type="text/javascript">
+    YAHOO.namespace('Smb.Asteroids');
+    var YSA = YAHOO.Smb.Asteroids;
+
+    YSA.Nav = {
+        isNavNorth : false,
+        tmr : null,
+        tmrInterval : 600,
+        prevCloseNode : null,
+        isFirstVisit : true,
+
+        openSub : function(navNode) {
+            $LOG('openSub');
+
+            // Clear the timer if any, and if the previously opened subnav is still open (timeout expiration) 
+            YSA.Nav.clearTimer();
+            YSA.Nav.closePrevSubMenu();
+
+            // For horizontal navigation, set the top position of sub-nav as the height of the 'trigger' element.
+            if (YSA.Nav.isNavNorth) { 
+                var subNavNode = navNode.getElementsByTagName('ul')[0];
+                subNavNode.style.top = navNode.offsetHeight + 'px';
+            }
+
+            $D.addClass(navNode, 'opened');
+            $D.addClass('admincontrols', 'displayNone');
+        },
+        closeSub : function(navNode) {
+            $LOG('closeSub');
+            YSA.Nav.clearTimer();
+            YSA.Nav.prevCloseNode = navNode;
+            YSA.Nav.tmr = setTimeout(function() { YSA.Nav.hideSub(navNode); }, YSA.Nav.tmrInterval); 
+        },
+        hideSub : function(navNode) {
+            YSA.Nav.clearTimer();
+    
+            // For key board accessibility, the active sub menu is display:block., not none. So giving -999 to move it off screen in hide mode
+            if (YSA.Nav.isNavNorth && $D.hasClass(navNode, 'active')) {
+                var subNavNode = navNode.getElementsByTagName('ul')[0];
+                subNavNode.style.top = '-999px'; 
+            }
+            $D.removeClass(navNode, 'opened');
+            $D.removeClass('admincontrols', 'displayNone');
+        },
+        closePrevSubMenu : function() {
+            if (YSA.Nav.prevCloseNode) {
+                $LOG('Closing previous sub nav');
+                YSA.Nav.hideSub(YSA.Nav.prevCloseNode);
+                YSA.Nav.prevCloseNode = null;
+            }
+        },
+        isSubOpen : function(navNode) {
+            return $D.hasClass(navNode, 'opened');
+        },
+        toggleSub : function(navNode) {
+            var NAV = YSA.Nav;
+            if (NAV.isSubOpen(navNode)) {
+                NAV.closeSub(navNode);
+            } else {
+                NAV.openSub(navNode);
+            }
+        },
+        mouseOverTrigger : function(e) {
+            $LOG('mouseOverTrigger');
+            YSA.Nav.openSub(this);
+        },
+        mouseOutTrigger : function(e) {
+            $LOG('mouseOutTrigger');
+            var target = $E.getTarget(e);
+            var relatedTarget = $E.getRelatedTarget(e);
+            $LOG(target);
+            $LOG(relatedTarget);
+            YSA.Nav.closeSub(this);
+        },
+        mouseOverMainNav : function(e) {
+            $LOG('mouseOverMainNav');
+            if (!$D.hasClass(this, 'trigger')) {
+                YSA.Nav.closePrevSubMenu();
+            }
+        },
+        toggleClicked : function(e) {
+            $LOG('toggle clicked');
+            $LOG(e);
+            $E.stopEvent(e);
+            YSA.Nav.toggleSub(this.parentNode);
+        },
+        clearTimer : function() {
+            $LOG('Clearing Nav Timer');
+            if (YSA.Nav.tmr) {
+                clearTimeout(YSA.Nav.tmr);
+            }
+            YSA.Nav.tmr = null;
+        },
+        clearSubNavStyles : function() {
+            /* For horizontal navigation, we set the 'top' of subNav to align it with the bottom of trigger
+                Now if the user chage the template from ribbon, remove this inline style. Else this old inline value will take precedence! */ 
+            var subNavNode;
+            var navDiv = $('navigation');
+            var triggers = $D.getElementsByClassName('trigger', '', navDiv);
+            for (var el in triggers) {
+                if (YAHOO.lang.hasOwnProperty(triggers, el)) {
+                    subNavNode = triggers[el].getElementsByTagName('ul')[0];
+                    subNavNode.style.top = '';
+                }
+            } 
+        },
+        initNavSettings : function() {
+            var wrapperDiv = $('wrapper');
+            YSA.Nav.isNavNorth = (wrapperDiv && $D.hasClass(wrapperDiv, 'navpos_north')) ? true : false; 
+        },
+        init : function() {
+            // For the first visit, subscribe to the layout(template) change event
+            // When user changes template from the ribbon, we need to re-init this JS, based on the new templates settings. 
+            if (YSA.Nav.isFirstVisit) {
+                YSA.Nav.isFirstVisit = false;
+                if (YSA.UiMgr) {
+                    YSA.UiMgr.Layout.onChange.eventObj.subscribe(
+                        function() { YSA.Nav.init() });
+                }
+            } else {
+                YSA.Nav.clearSubNavStyles();
+            }
+
+            YSA.Nav.initNavSettings();
+            var navDiv = $('navigation');
+            if (! $D.hasClass(navDiv, 'sub_dynamic')) {
+                return;
+            }
+            YSA.Nav.initNavSettings();
+            var triggers = $D.getElementsByClassName('trigger', '', navDiv);
+            $E.on(triggers, 'mouseover', this.mouseOverTrigger);
+            $E.on(triggers, 'mouseout', this.mouseOutTrigger);
+            var toggles = $D.getElementsByClassName('toggle', 'a', navDiv);
+            $E.on(toggles, 'click', this.toggleClicked);
+            var triggers = $D.getElementsByClassName('mainNav', '', navDiv);
+            $E.on(triggers, 'mouseover', this.mouseOverMainNav);
+        }
+    };
+    $E.on(window, 'load', YSA.Nav.init, YSA.Nav, true); 
+</script></html>

@@ -1,0 +1,405 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Contact Buccaneer Diving - 5 Star PADI IDC Centre, Kenya, Zanzibar</title>
+<link href="../nitrox.css" rel="stylesheet" type="text/css" />
+<script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+</head>
+
+<body>
+<script language="JavaScript" type="text/javascript" src="../Scripts/popup.js"></script>
+<table width="940" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="220"><a href="../"><img src="../imgs/logo.png" alt="Buccaneer Diving " width="220" height="80" border="0" id="poporder" /></a></td>
+    <td width="720" align="right" valign="middle" background="../imgs/header.bg.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+    	<tr>
+          <td align="right" valign="bottom" class="tag"><a href="http://www.buccaneerdiving.com/de" target="_self"><img src="../imgs/flag_german.jpg"  alt="Auf Deutsch" width="20" height="20" border="0" align="absbottom" /></a></td>
+        <td width="8">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="25" align="right" valign="top" class="tag">East Africa's Multi-Award Winning Dive Centre</td>
+        <td width="8">&nbsp;</td>
+      </tr>
+    </table>
+    <table width="0%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="28" nowrap="nowrap"><a href="../about-us/" class="topmenu">About Us</a></td>
+        <td class="mmsep">&nbsp;</td>
+        <td nowrap="nowrap"><a href="javascript:;" class="topmenu" onclick="setpos('poporder',574,39,'popstay')">Where to stay</a></td>
+        <td class="mmsep">&nbsp;</td>
+        <td nowrap="nowrap"><a href="../ecology/" class="topmenu">Eco Projects</a></td>
+        <td class="mmsep">&nbsp;</td>
+        <td nowrap="nowrap"><a href="javascript:;" class="topmenu" onclick="setpos('poporder',541,39,'poprates')">Rates</a></td>
+        <td class="mmsep">&nbsp;</td>
+        <td nowrap="nowrap"><a href="../contact/" class="topmenu">Contact us</a></td>
+        <td width="10">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<div id="popstay" style="display:none">
+  <table width="304" border="0" cellpadding="0" cellspacing="0" background="../imgs/headerpop/wheretostaybg.png">
+    <tr>
+      <td height="27" align="center" class="txt4">Where to stay:</td>
+      <td align="right" class="topmenu"><a href="../about-us/where-to-stay.php" class="linkblue"><img src="../imgs/headerpop/kenya.png" width="37" height="27" border="0" align="absmiddle" /></a></td>
+      <td class="topmenu"><a href="../about-us/where-to-stay.php" class="linkblue">Kenya</a></td>
+      <td align="right" class="topmenu"><a href="../zanzibar/where-to-stay.php" class="linkblue"><img src="../imgs/headerpop/zanzibar.png" alt="" border="0" align="absmiddle" /></a></td>
+      <td class="topmenu"><a href="../zanzibar/where-to-stay.php" class="linkblue">Zanzibar</a></td>
+    </tr>
+  </table>
+</div>
+<div id="poprates" style="display:none">
+  <table width="304" border="0" cellpadding="0" cellspacing="0" background="../imgs/headerpop/wheretostaybg.png">
+    <tr>
+      <td align="right" class="topmenu"><a href="../rates/" class="linkblue"><img src="../imgs/headerpop/kenya.png" width="37" height="27" border="0" align="absmiddle" /></a></td>
+      <td height="27" align="left" class="topmenu"><a href="../rates/" class="linkblue">Kenya</a></td>
+      <td align="right" class="topmenu"><a href="../zanzibar/rates.php" class="linkblue"><img src="../imgs/headerpop/zanzibar.png" alt="" border="0" align="absmiddle"/></a></td>
+      <td align="left" class="topmenu"><a href="../zanzibar/rates.php" class="linkblue">Zanzibar</a></td>
+      <td height="27" align="center" class="txt4">Rates</td>
+    </tr>
+  </table>
+</div>
+<table width="940" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="196" bgcolor="#FFFFFF"><table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="196" height="50" align="left" valign="middle" background="../imgs/bttns/btn.diving.png" bgcolor="#012F84"><table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="50">&nbsp;</td>
+              <td><a href="../diving/" class="mmenu"> The Diving</a></td>
+            </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td height="50" align="left" valign="middle" background="../imgs/bttns/btn.courses.png"><table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="50">&nbsp;</td>
+            <td><a href="../courses/" class="mmenu">Courses</a></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="50" align="left" valign="middle" background="../imgs/bttns/btn.goingpro.png"><table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><table border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><table border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="50">&nbsp;</td>
+                        <td><a href="../going-pro/" class="mmenu">Going Pro</a></td>
+                      </tr>
+                    </table>
+                              <a href="#" class="mmenu"></a></td>
+                  </tr>
+                </table>
+                        <a href="#" class="mmenu"></a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="50" align="left" valign="middle" background="../imgs/bttns/btn.divesites.png"><table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><table border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><table border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td width="50">&nbsp;</td>
+                              <td><a href="../dive-sites/" class="mmenu">Dive Sites</a></td>
+                            </tr>
+                          </table>
+                          <a href="#" class="mmenu"></a></td>
+                      </tr>
+                    </table>
+                    <a href="#" class="mmenu"></a></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table>          </td>
+      </tr>
+    </table></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="200" align="left" valign="top" background="../imgs/headers/about-us.jpg" bgcolor="#012F84"><table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="30" height="70">&nbsp;</td>
+            <td align="left" valign="bottom" class="ttlpagewhite">Contact Us</td>
+          </tr>
+          <tr>
+            <td height="30">&nbsp;</td>
+            <td height="30" align="left" valign="bottom" class="ttlwhite">&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="940" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="210" bgcolor="#FFFFFF"><table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="210" height="40" align="left" valign="middle" background="../imgs/bttns/btn.nitrox.png"><table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><table border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><table border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="50">&nbsp;</td>
+                        <td><a href="../courses/nitrox.php" class="mmenus">Nitrox</a></td>
+                      </tr>
+                    </table>
+                              <a href="#" class="mmenu"></a></td>
+                  </tr>
+                </table>
+                        <a href="#" class="mmenu"></a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="40" align="left" valign="middle" background="../imgs/bttns/btn.nitrox.png"><table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><table border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><table border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="50">&nbsp;</td>
+                        <td><a href="../ecology/buccaneer-wrecks.php" class="mmenus">Buccaneer Wrecks</a></td>
+                      </tr>
+                    </table>
+                              <a href="#" class="mmenu"></a></td>
+                  </tr>
+                </table>
+                       </td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="../1x1.gif" width="1" height="5" /><br />
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="20">&nbsp;</td>
+              <td width="690" class="ttl2"> Booking information ... Questions ...
+          or just to say hi.</td>
+        </tr>
+  </table></td></tr>
+</table>
+
+<table width="940" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="gap-big"><img src="../1x1.gif" width="1" height="1" /></td>
+  </tr>
+</table>
+<table width="940" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td width="210" align="center" valign="top"><img src="../1x1.gif" width="1" height="17" /><br />
+<table width="180" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td align="left" class="ttl2">Learn with us!</td>
+  </tr>
+</table>
+<img src="../1x1.gif" alt="" width="1" height="5" /><br />
+<table width="180" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="#CCCCCC" class="ttl2"><img src="../1x1.gif" alt="" width="1" height="1" /></td>
+  </tr>
+</table>
+    <img src="../1x1.gif" alt="" width="1" height="10" /><br />
+<table width="180" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td align="left" class="ttl2"><a href="../going-pro/" class="linkblue">Going Pro</a></td>
+  </tr>
+  <tr>
+    <td align="left" class="txt1">Live ultimate lifestyle.</td>
+  </tr>
+</table>
+</td>
+    <td width="730" align="left" valign="top"><img src="../1x1.gif" alt="" width="1" height="10" /><br />
+      <table border="0" cellpadding="5" cellspacing="0">
+      <tr>
+        <td width="10">&nbsp;</td>
+        <td class="ttl2">Contact us</td>
+      </tr>
+    </table>
+      <img src="../1x1.gif" alt="" width="1" height="5" /><br />
+      <table width="710" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="10"><span class="ttl2"><img src="../1x1.gif" alt="" width="1" height="1" /></span></td>
+          <td bgcolor="#CCCCCC" class="ttl2"><img src="../1x1.gif" alt="" width="1" height="1" /></td>
+        </tr>
+      </table>
+      <img src="../1x1.gif" alt="" width="1" height="5" /><br />
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="20">&nbsp;</td>
+          <td width="340" valign="top"><table width="300" border="0" cellspacing="0" cellpadding="5">
+            <tr>
+              <td align="left" valign="top" class="ttl">Enquiries and bookings</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" class="txt2"> Enquiries and bookings can be made via email, by telephone or in person at any of our Buccaneer Diving bases. </td>
+            </tr>
+          </table>            
+            </td>
+          <td width="340" align="right" valign="top" class="ttl2"><table width="300" border="0" cellspacing="0" cellpadding="5">
+            <tr>
+              <td align="left" valign="top" class="ttl">General eMail</td>
+            </tr>
+
+            <tr>
+              <td align="left" valign="top" class="txt4"><a href="mailto:info@buccaneerdiving.com" class="linkblue">info@buccaneerdiving.com </a></td>
+            </tr>
+          </table>
+            </td>
+        </tr>
+      </table>
+      <br />
+      <table width="710" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="10"><span class="ttl2"><img src="../1x1.gif" alt="" width="1" height="1" /></span></td>
+          <td bgcolor="#CCCCCC" class="ttl2"><img src="../1x1.gif" alt="" width="1" height="1" /></td>
+        </tr>
+      </table>
+      <img src="../1x1.gif" alt="" width="1" height="5" /><br />
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="20">&nbsp;</td>
+          <td width="340" valign="top"><table width="324" border="0" cellspacing="0" cellpadding="5">
+                <tr>
+                  <td colspan="2" align="left" valign="top" class="ttl">Buccaneer Dive Bases Kenya - Bamburi</td>
+                </tr>
+                <tr>
+                  <td width="126" align="left" valign="top" class="txt2"> Whitesands Hotel &amp; Sun And Sands: </td>
+                  <td width="178" align="left" valign="top" class="txt2">+254(0)20 203 9464 <br />
+                    +254 (0)728 999 226<br />
+                    <a href="mailto:claudio@buccaneerdiving.com" class="linkblue">claudio@buccaneerdiving.com</a></td>
+                </tr>
+                <tr>
+                  <td colspan="2" align="left" valign="top" class="ttl">Buccaneer Dive Bases Kenya - Nyali</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" class="txt2">Voyager Hotel: </td>
+                  <td align="left" valign="top" class="txt2">+254 (0)20 203 9463 <br />
+                    +254 (0)728 999 225<br />
+                    <a href="mailto:david@buccaneerdiving.com" class="linkblue">david@buccaneerdiving.com</a></td>
+                </tr>
+                <tr>
+                  <td colspan="2" align="left" valign="top" class="ttl">Buccaneer Dive Bases Kenya - Mnarani</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" class="txt2">Mnarani Club: </td>
+                  <td align="left" valign="top" class="txt2">+254 (0)716 430 725<br />
+                    <a href="mailto:michael@buccaneerdiving.com" class="linkblue">michael@buccaneerdiving.com</a></td>
+                </tr>
+                <tr>
+                  <td colspan="2" align="left" valign="top" class="ttl">&nbsp;</td>
+                </tr>
+            </table></td>
+          <td width="340" align="right" valign="top" class="ttl2"><table width="300" border="0" cellspacing="0" cellpadding="5">
+                  <tr>
+                    <td align="left" valign="top" class="ttl">Buccaneer Dive Bases Zanzibar</td>
+              </tr>
+                  <tr>
+                    <td align="left" valign="top" class="txt2"> +255 777 853 403</td>
+              </tr>
+                  <tr>
+                    <td align="left" valign="top" class="txt2">+255 24 224 0445</td>
+              </tr>
+                  <tr>
+                    <td align="left" valign="top" class="txt2"><a href="mailto:zanzibar@buccaneerdiving.com" class="linkblue">zanzibar@buccaneerdiving.com</a></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" class="txt2"><p><img src="../images/contactimages/warning.jpg" width="300" height="88" /></p>We thrive to answer to all requests as quickly as possible. Please check your junk mail folder if you don't recieve an answer from us, as some servers automatically treat our messages as spam.</td>
+                  </tr>
+          </table>
+          </td>
+        </tr>
+      </table>
+    <img src="../1x1.gif" alt="" width="1" height="5" /><br />
+    <br />
+    <table width="710" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="10"><span class="ttl2"><img src="../1x1.gif" alt="" width="1" height="1" /></span></td>
+        <td bgcolor="#CCCCCC" class="ttl2"><img src="../1x1.gif" alt="" width="1" height="1" /></td>
+      </tr>
+    </table>
+    <img src="../1x1.gif" alt="" width="1" height="5" /><br />
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="20">&nbsp;</td>
+        <td width="340" valign="top"><table width="300" border="0" cellspacing="0" cellpadding="5">
+          <tr>
+            <td align="left" valign="top" class="ttl">Bruce Phillips</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="txt2"> +254 (0)733 630 369 </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="txt2">+254 (0)728 630 369</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="txt2"><a href="mailto:bruce@buccaneerdiving.com" class="linkblue">bruce@buccaneerdiving.com </a></td>
+          </tr>
+        </table></td>
+        <td width="340" align="right" valign="top" class="ttl2"><table width="300" border="0" cellspacing="0" cellpadding="5">
+          <tr>
+            <td align="left" valign="top" class="ttl">Claudio Trento <span class="txt2">- Bamburi Base</span></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="ttl">David von Helldorff <span class="txt2">- Nyali Base</span></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="ttl">Michaël Darchis <span class="txt2">- Mnarani Base</span></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="ttl">Wycliffe Mainye <span class="txt2">- Zanzibar Base</span></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+    <img src="../1x1.gif" alt="" width="1" height="5" /><br /></td>
+  </tr>
+</table>
+<table width="940" border="0" align="center" cellpadding="0" cellspacing="0" background="../imgs/footer.bg.png">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<table width="930" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="30" align="left" valign="top" class="copy">&copy; 2008-2011 Buccaneer Diving | All Rights Reserved</td>
+    <td align="right" valign="top" class="copy">Designed by <a href="http://www.ioi.rs" target="_blank" class="copy">ioi.</a></td>
+  </tr>
+</table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5517267-1");
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

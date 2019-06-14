@@ -1,0 +1,180 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- #BeginTemplate "/Templates/template.dwt" --><!-- DW6 -->
+
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>Spice Patch Instructions</title>
+<!-- #EndEditable -->
+<!-- #BeginEditable "metatags" -->
+<meta name="Keywords" content="EDA, simulation, spice simulation, schematic capture, PCB, schematic, electronic, CAD, CAM, Spice, spice software, circuit simulation, circuit design, electronics, ac circuits, DC circuits, transformers, diodes, rectifiers" />
+<!-- #EndEditable -->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="css/quotes.css" rel="stylesheet" type="text/css" media="screen" />
+
+<script type="text/javascript" src="scripts/sddm.js">
+	
+</script>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="header"> 
+			<table width="100%" border="0" cellpadding="5">
+				<tr>
+					<td rowspan=2><img src="images/logo.jpg" width="93" height="137" /></td>
+					<td>
+						<div id="logo">
+							<h1>
+								<a href="http://www.beigebag.com">Beige Bag Software</a>
+							</h1><p style="font-size:14px;vertical-alignment:top;">A Division of <a href="http://www.emagtech.com/">Emag Technologies</a></p>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div id="sddm">
+							<ul>
+								<li class="current_page_item"><a href="http://www.beigebag.com">Home</a></li>
+								<li><a href="http://www.beigebag.com/products.htm" onmouseover="mopen('m1')" onmouseout="mclosetime()">Products</a>
+									<div id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"> 
+									  <a href="http://www.beigebag.com/v5_features.htm">B2 Spice v5</a> 
+									  <a href="http://www.beigebag.com/adv4_pro.htm">B2 Spice v4</a> 
+									  <a href="http://www.beigebag.com/logic3.htm">B2 Logic 3</a> 
+									</div>
+								</li>
+								<li><a href="http://www.beigebag.com/demos.htm" onmouseover="mopen('m2')" onmouseout="mclosetime()">Downloads</a>
+									<div id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+										<a href="http://www.beigebag.com/demos.htm#v5">B2 Spice v5</a>
+										<a href="http://www.beigebag.com/demos.htm#v4">B2 Spice v4</a> 
+										<a href="http://www.beigebag.com/demos.htm#logic3">B2 Logic 3</a>
+									</div>
+								</li>
+								<li><a href="http://www.beigebag.com/tech.htm" onmouseover="mopen('m3')" onmouseout="mclosetime()">Support</a>
+									<div id="m3" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+										<a href="http://www.beigebag.com/forum">Forum</a>
+										<a href="http://www.beigebag.com/faqv5.htm">FAQ</a> 
+										<a href="http://www.beigebag.com/tech.htm#spicev5">B2 Spice v5 updates</a>
+										<a href="http://www.beigebag.com/tech.htm#spicev4_2">B2 Spice v4.2 updates</a>
+										<a href="http://www.beigebag.com/tech.htm#spicev4_0">B2 Spice v4.0 updates</a> 
+										<a href="http://www.beigebag.com/tech.htm#spicead2000">B2 Spice A/D 2000 updates</a>
+										<a href="http://www.beigebag.com/tech.htm#spice2">B2 Spice 2 updates</a> 
+										<a href="http://www.beigebag.com/tech.htm#logic3">B2 Logic 3 updates</a>
+									</div>
+								</li>
+								<li><a href="http://www.beigebag.com/resources.htm" onmouseover="mopen('m4')" onmouseout="mclosetime()">Resources</a>
+									<div id="m4" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+										<a href="http://www.beigebag.com/resources.htm">Articles</a>
+										<a href="http://www.beigebag.com/resources.htm#Sample_Circuits">Sample Circuits</a> 
+										<a href="http://www.beigebag.com/basso.htm">Books</a>
+									</div>
+								</li>
+								<li><a href="http://www.beigebag.com/pricing.htm" onmouseover="mopen('m5')" onmouseout="mclosetime()">Ordering</a>
+									<div id="m5" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+										<a href="http://www.beigebag.com/pricing.htm#v5.htm">B2 Spice v5</a>
+										<a href="http://www.beigebag.com/pricing.htm#eagle">Cadsoft Eagle</a> 
+										<a href="http://www.beigebag.com/pricing.htm#upgrades">Upgrades</a>
+										<a href="http://www.beigebag.com/pricingv4.htm">B2 Spice v4</a>
+										<a href="http://www.beigebag.com/pricing_univ.htm">Educational / Non-Profit</a> 
+										<a href="http://www.beigebag.com/pricing_other.htm">Student</a>
+										<a href="http://www.beigebag.com/comp_upgrades.htm">Competitive Upgrade</a>
+									</div>
+								</li>
+								<li><a href="dealers.htm">Dealers</a></li>
+							</ul>
+						</div> <!-- end #menu -->
+					</td>
+				</tr>
+			</table>
+		</div> <!-- end #header -->
+		<div id="page">
+			<div id="content">
+	<!-- #BeginEditable "Body" --> 
+          <div class="post"><h2 align="center"><font face="Verdana, Arial, Helvetica, sans-serif"><b>Patch 
+            Disk Instructions for B2 Spice for Windows</b></font></h2>
+          <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Install 
+            the patch to update any version of B2 Spice from version 2.0.0 or 
+            later up to version 2.1.6. Follow the steps outlined below:</font></p>
+          <blockquote> 
+            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">1) 
+              Download the appropriate file: <br />
+              <br />
+          If you are running <b>Windows 95</b> or <b>Windows NT</b>, then download 
+          the file <a
+  href="http://www.beigebag.com/files/spice2/win/patch32.exe"><b>patch32.exe.</b></a></font></p>
+            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">These 
+              are self-extracting files which contains this instructions file 
+              (readme.doc), the batch file patch_32.bat, and the actual patch 
+              executable patch_32.exe.</font></p>
+            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">2) 
+              Run the patch program which you just downloaded in step 1. Now it 
+              should be in your B2 Spice 2 directory. </font></p>
+            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">If 
+              you are running Windows 95 or NT, then the last stage of the installation 
+              will install DAO 3.5, which is a database extension from Microsoft 
+              and which Spice 2 uses. </font></p>
+            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The 
+              DAO installer will prompt you to make some choices in its second 
+              screen, as seen below. At this screen, choose Jet 3.5 only (i.e. 
+              uncheck ODBCDirect). </font></p>
+            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="images/Image7.gif" width="479" height="354" /></font></p>
+            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The 
+              next screen also prompts you to make some choices. Uncheck all of 
+              the options (i.e. Excel, Paradox, etc.) as shown below.</font></p>
+            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="images/Image8.gif" width="478" height="353" /></font></p>
+            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Then 
+              proceed with the rest of the installation of DAO.</font></p>
+            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">If 
+              the DAO setup program claims that it has failed, don&#146;t panic. 
+              To check if the setup program has succeeded, try running workshop 
+              on your computer. If it runs and you can place a device from the 
+              <i>devices</i> menu into the schematic, then the program is working.</font></p>
+            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">4) 
+              Update your parts database. If you have not added any parts to your 
+              database, then you can simply replace the parts database file by 
+              downloading the file <strong>parts32.exe</strong>. This is a self-extracting 
+              zip file which will open up into parts.mdb, for Windows 95 &amp; 
+              NT. If you have made changes to your old parts database and you 
+              don't want to lose those, then you can use both the old and new 
+              databases in B2 Spice..</font></p>
+          </blockquote>
+          <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">After 
+            running the patch, the Workshop and Device Editor applications will 
+            be updated to revision 2.1.6. You can confirm this by running <i>workshop</i> 
+            and choosing the item <i>About</i>&#133; in the Help menu.</font></p>
+          <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The patch 
+            program has a couple of idiosyncrasies. They are listed below.</font></p>
+          <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">1) While 
+            running the patch program, if you choose to select a directory other 
+            than the default, you will notice that the directory name that shows 
+            up will have &quot;\B2spice2&quot; appended to it, as in the figure 
+            below.<br />
+    </font></p>
+          <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="images/Image1.gif" width="386" height="281" /></font></p>
+          <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">You must 
+            remove the &quot;\B2Spice2&quot; from the edit field.</font></p>
+          <blockquote> 
+            <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">When 
+              you click on OK to select the destination directory, the program 
+              will confirm that you want to install to that directory. Of course 
+              you do! Simply click on Yes.</font></p>
+          </blockquote>
+          <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="images/Image2.gif" width="315" height="117" /></font></p>
+		  </div>
+    <!-- #EndEditable -->
+			</div><!-- end #content -->
+<!-- #BeginEditable "sidebar" -->
+  					<div id="sidebar">
+						<ul>
+							
+						</ul>
+					</div>
+<!-- #EndEditable --> 
+			<div style="clear: both;">&nbsp;</div>
+		</div><!-- end #page -->
+		
+	</div><!-- end #wrapper -->
+	<div id="footer">
+		<p>Beige Bag Software, Inc., 775 technology drive, Ann Arbor, MI, 48108&nbsp;&nbsp;|&nbsp;&nbsp; (ph) 734.996.3624 (fx) 734.996.3623&nbsp;&nbsp;|&nbsp;&nbsp; <a href="mailto:info@beigebag.com">info@beigebag.com</a><br />
+			Copyright &copy; 2012 Beige Bag Software, Inc. All rights reserved.</p>
+</div><!-- end #footer -->
+</body>
+<!-- #EndTemplate --></html><!-- text below generated by server. PLEASE REMOVE --><!-- Counter/Statistics data collection code --><script language="JavaScript" src="http://l.yimg.com/d/lib/smb/js/hosting/cp/js_source/whv2_001.js"></script><script language="javascript">geovisit();</script><noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?us1329035015" alt="setstats" border="0" width="1" height="1"></noscript>

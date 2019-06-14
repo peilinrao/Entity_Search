@@ -1,0 +1,237 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<title>
+					Spirit of the Laws - [Aussie Rules UK] - Australian Rules Football in Great Britain, England, Scotland and Wales
+			</title>
+
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<meta http-equiv="Content-Language" content="en-us" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta name="Generator" content="Freestyler 5.0 content management system - www.datalink.com.au/freestyler" />
+<meta name="DC.Identifier" scheme="URI" content="/getinvolved/umpire/resources/spirit" />
+<meta name="DC.Publisher" content="administrator" />
+
+	<link rel="icon" href="http://www.aussierulesuk.com/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="http://www.aussierulesuk.com/favicon.ico" type="image/x-icon" />
+	<!-- <link href="http://www.aussierulesuk.com/freestyler/lib/Freestyler/UI/css/fs_text.css" type="text/css" rel="stylesheet" /> -->
+	<link href="http://www.aussierulesuk.com/freestyler/lib/Freestyler/UI/css/fs_containers.css" type="text/css" rel="stylesheet" />
+	<link href="http://www.aussierulesuk.com/freestyler/lib/Freestyler/UI/css/fs_layout.css" type="text/css" rel="stylesheet" />
+	<link href="http://www.aussierulesuk.com/freestyler/lib/Freestyler/UI/css/fs_widgets.css" type="text/css" rel="stylesheet" />
+	<link href="http://www.aussierulesuk.com/freestyler/custom/theme/fs_theme.css" type="text/css" rel="stylesheet" />
+	<link href="http://www.aussierulesuk.com/freestyler/custom/theme/custom.css" type="text/css" rel="stylesheet" />
+	<link href="http://www.aussierulesuk.com/freestyler/custom/theme/fs_print.css" type="text/css" rel="stylesheet" media="print" />
+	<link rel="alternate" type="application/rss+xml" title="ARUK News and Events" href="http://www.aussierulesuk.com/rss.xml" />
+	<script src="http://www.aussierulesuk.com/freestyler/lib/Freestyler/UI/JS/prototype.js" type="text/javascript"></script>
+	<script src="http://www.aussierulesuk.com/freestyler/lib/Freestyler/UI/JS/scriptaculous.js?load=effects" type="text/javascript"></script>
+	<script src="http://www.aussierulesuk.com/freestyler/lib/Freestyler/UI/JS/domloaded.js" type="text/javascript"></script>
+	<script src="http://www.aussierulesuk.com/freestyler/lib/Freestyler/UI/JS/toggleElement.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		
+		/**
+		 * Object to handle the display of system messages to the user.
+		 */
+	   var FsFeedback = {
+		   feedbackType: {
+			   success: "fs_message fs_success",
+			   warning: "fs_message fs_warning",
+			   error: "fs_message fs_error",
+			   information: "fs_message fs_information"
+		   },
+		   message: null,
+		   type: null,
+		   
+		   // -------------------------------------------------------------------------
+		   // Set up the feedback parameters
+		   // -------------------------------------------------------------------------
+		   init: function(msg, type) {
+			   this.message = msg;
+			   switch (type) {
+				   case 'success':
+					   this.type = this.feedbackType.success;
+					   break;
+				   case 'error':
+					   this.type = this.feedbackType.error;
+					   break;
+				   case 'warning':
+					   this.type = this.feedbackType.warning;
+					   break;
+				   case 'information':
+					   this.type = this.feedbackType.information;
+					   break;
+			   }
+		   },
+	   
+		   // -------------------------------------------------------------------------
+		   // Display the feedback mssage in the given area
+		   // -------------------------------------------------------------------------
+		   display: function(holderElementId, messageElementId, fadeFlag) {
+			   if (this.type != null) {
+				   document.getElementById(holderElementId).className = this.type;
+				   document.getElementById(messageElementId).innerHTML = this.message;
+				   Effect.Appear(holderElementId, {duration: 0.2});
+				   new Effect.Highlight(holderElementId);
+				   if (fadeFlag) {
+					   Effect.BlindUp(holderElementId, {delay: 4, duration: 0.2});
+				   }
+			   }
+		   }
+	   } // end FsFeedback
+	   
+
+			
+	</script>
+	
+
+	<!--[if IE]>
+		<link href="http://www.aussierulesuk.com/freestyler/custom/theme/fs_iehacks.css" type="text/css" rel="stylesheet" />
+		<script defer type="text/javascript" src="http://www.aussierulesuk.com/lib/Freestyler/UI/JS/ie_dropdown.js"></script>
+	<![endif]-->
+</head>
+<body>
+
+<body>
+<div id="wrap">
+	<div id="header">
+		<a href="http://www.aussierulesuk.com"><img src="http://www.aussierulesuk.com/freestyler/custom/images/aruk_logo.png" alt="Aussie Rules UK logo" /></a>
+		<!-- <h1>Aussie Rules UK</h1> -->
+	</div>
+	
+	<!-- Menu -->
+	<div id="nav">
+		<ul>
+		<li class="right last"><a  href="http://www.aussierulesuk.com/" title="Home">Home</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+		<li ><a  href="http://www.aussierulesuk.com/about" title="About The Game">About The Game</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;<li ><a  href="http://www.aussierulesuk.com/aruk" title="About ARUK">About ARUK</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;<li ><a  href="http://www.aussierulesuk.com/schools" title="For Schools">For Schools</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;<li class="right"><a  href="http://www.aussierulesuk.com/teams" title="Teams &amp; Competitions">Teams &amp; Competitions</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;<li class="right last"><a class="active" href="http://www.aussierulesuk.com/getinvolved" title="Get Involved">Get Involved</a>
+<br>
+		</ul>
+	</div>
+
+	<div id="middle">
+
+		<div id="main">
+
+			<div id="fs_breadcrumb">
+				In: <a class="link" href="http://www.aussierulesuk.com/" title="">Home</a>&nbsp;&#187;&nbsp;<a class="link" href="http://www.aussierulesuk.com/getinvolved" title="">Get Involved</a>&nbsp;&#187;&nbsp;<a class="link" href="http://www.aussierulesuk.com/getinvolved/umpire" title="">Umpiring</a>&nbsp;&#187;&nbsp;<a class="link" href="http://www.aussierulesuk.com/getinvolved/umpire/resources" title="">Umpiring Resources</a>
+			</div>	<h1>Spirit of the Laws</h1>
+
+	
+	<h3><b>Introduction</b></h3> <p>The Laws of Australian Football are designed to control the fastest and most spectacular football code in the world - a game of varied and brilliant individual skills, coordinated teamwork and physical contact between players of differing physiques.  <h3><b>The Spirit of the Laws relating to Awarding Free Kicks (Law 12.1)</b></h3> <p>The laws provide the player who makes the ball his objective to be afforded every opportunity to gain possession. In the contest for the ball, it is illegal to interfere with an opponent when the ball is more than five metres away. When the ball is within five metres, legal use of the body can be applied to an opponent. Legal and illegal use of the body is very clearly defined in the laws.  <p>When a team has possession of the ball the laws clearly define how the ball may be disposed of. The laws also allow for team-mates to protect the player who has possession. This protection is in the form of shepherding and again, the laws clearly define what is legitimate shepherding.  <p>In an effort to achieve consistency in decision making there is an emphasis placed on understanding the "spirit of the laws" (i.e. the philosophies underlying the laws) and officiating according to the spirit of the laws.  <p>For coaching purposes 7 main areas (spirit of the laws) have been identified. They are:  <p> <ul> <li>Contest for the Ball - General Play  <li>Tackling (player in possession of the ball)  <li>Diving on the Ball  <li>Marking Contests  <li>Ruck Contests  <li>Advantage Plays  <li>50 Metre Penalty </li></ul> <h3><b>Contests for the Ball</b></h3> <p><b>Spirit of the Law</b> <br /><i>"The player whose prime objective is to contest the ball or to bump or shepherd an opponent shall be permitted to do so"</i>  <p> <ul> <li>A player may be fairly met by use of the hip, shoulder, chest, arms, open hand or be pushed or bumped in the chest or side or he may be shepherded.  <li>Solid but legal bumps, irrespective of how hard they are, are permitted.  <li>All breaches of the law shall be penalised. </li></ul> <h3><b>Tackling</b></h3> <p><b>Spirit of the Law</b> <br /><i>"The player who has possession of the ball and is held by an opponent shall be given a reasonable time to kick or handball the ball"</i>  <p> <ul> <li>All illegal tackles are to be penalised  <li>Legal tackle or bump causes dispossession - play on. </li></ul> <p>A player forfeits the benefits afforded by the spirit of the law if he: <br /> <ul> <li>Elects to dive on the ball, or when on the ground, elects to drag the ball in, and he is tackled legally.  <li>Bounces the ball prior to being tackled.  <li>Has had a reasonable time (prior opportunity) to dispose of the ball, when legally held by an opponent firmly enough to retard his progress, must dispose of the ball by a kick or handball within a reasonable time of being held. </li></ul> <h3><b>Diving on the Ball</b></h3> <p><b>Spirit of the Law</b> <br /><i>"The ball shall be kept in motion"</i>  <p> <ul> <li>When a player elects to dive on the ball, or when on the ground elects to drag the ball in and he is legally tackled, then he is to be penalised for holding the ball if he fails to immediately hit the ball clear. </li></ul> <h3><b>Marking Contests</b></h3> <p><b>Spirit of the Law</b> <br /><i>"The player whose prime objective is to contest the ball shall be permitted to do so"</i>  <p> <ul> <li>Where an infringement is observed, a free kick must be awarded.  <li>Where there is co-incidental interference (no infringement) when the ball is the prime objective (eyes on the ball) - play on.  <li>When a player leaps (early), the attempt must be realistic (able to touch the ball).  <li>The laws are to be interpreted to provide every opportunity for players who are legitimately attempting to contest the ball to do so. </li></ul> <h3><b>Ruck Contests</b></h3> <p><b>Spirit of the Law</b> <br /><i>"The player whose prime objective is to contest the ball shall be permitted to do so"</i>  <p> <ul> <li>Where an infringement is observed, a free kick must be awarded.  <li>Where there is co-incidental interference (no infringement) when the ball is the prime objective (eyes on the ball) - play on.  <li>The laws are to be interpreted to provide every opportunity for players who are legitimately attempting to contest the ball to do so. </li></ul> <h3><b>Advantage Plays</b></h3> <p><b>Spirit of the Law</b> <br /><i>"The ball shall be kept in motion by permitting the team offended against to take advantage, provided play is continuous"</i>  <p> <ul> <li>Advantage can only apply to a free kick. It cannot apply to a mark.  <li>A guide as to whether play is continuous is that the outcome of the play would have been the same had the whistle not been blown.  <li>To implement this well, umpires need to be alert for possible advantage plays in the following circumstances: </li></ul> <p>- when the ball is loose <br />- when the team offended against has possession of the ball  <h3><b>50 Metre Penalty</b></h3> <p><b>Spirit of the Law</b> <br /><i>"A 50 metre penalty will be awarded against a player who unduly delays the play or unduly encroaches over the mark after a mark or free kick has been awarded"</i>  <p> <ul> <li>A 50 metre penalty will be applied when a player who has marked the ball is knocked or dragged to the ground (thereby causing an undue delay) by an opponent whose prime objective was not to contest the ball.  <li>If a player of the offending team kicks the ball after a free kick has been awarded against his team, the umpire will award a 50 metre penalty against the player.  <li>The umpire has licence to use his discretion and not to apply a 50 metre penalty if he is of the opinion that the player was unaware a free kick had been awarded against his team (it is anticipated that this would be a rare occurrence).  <li>In an effort to assist players, umpires are to endeavour to blow the whistle a second time if the offending team has possession of the ball, however this is not to infer that the umpire will not award a 50 metre penalty because he did not blow the whistle a second time.  <li>If a team mate of the man on the mark runs through the 10 metre protected area he will automatically be penalised 50 metres unless he is following an opponent (within 5 metres) through.  <li>A 50 metre penalty will be automatically awarded against a player of the offending team who does not return the ball correctly (on the full) to the rightful player. </li></ul>
+			
+			<div class="fs_clear"></div>
+
+			<br />
+			<br />
+			<br />
+			<br />
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-0781085299688487";
+			/* 468x60, created 11/27/08 */
+			google_ad_slot = "2333597109";
+			google_ad_width = 468;
+			google_ad_height = 60;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>	
+
+
+			</div> <!-- end main div -->
+
+			<div id="sidebar">
+
+				<div class="bannerbox">
+					<div id="map">
+						<p class="maplabel">Location Map</p>
+						<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="244" id="zoom_map" align="top">
+						<param name="movie" value="http://www.aussierulesuk.com/freestyler/custom/theme/map/uk_ireland.swf?data_file=http://www.aussierulesuk.com/freestyler/custom/theme/map/data.xml" />
+						<param name="quality" value="high" />
+						<param name="bgcolor" value="#FFFFFF" />
+						<embed src="http://www.aussierulesuk.com/freestyler/custom/theme/map/uk_ireland.swf?data_file=http://www.aussierulesuk.com/freestyler/custom/theme/map/data.xml" quality="high" bgcolor="#FFFFFF"  width="244"  name="Clickable Map of the United Kingdom and Ireland" align="top" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+						</object>
+					</div>
+				</div>
+				
+										
+					<div class="bannerbox">
+														
+					</div>
+				
+				<div class="bannerbox">
+					<a href="http://www.afl.aussiesport.tv/page/loginOrBuy/?WT.mc_id=aruk" target="_blank"><img src="http://www.aussierulesuk.com/freestyler/custom/images/aussie_sport_tv_banner_placeholder.png" alt="Aussie Sport TV - Internet Replays, Highlights and Panel Shows"></img></a>
+				</div>
+
+				<div class="bannerbox">
+					<a href="http://www.sanzateaching.com/"  target="_blank"><img src="http://www.aussierulesuk.com/freestyler/custom/images/sanza_banner_placeholder.png" alt="SANZA Logo" /></a>
+				</div>
+
+				<div class="bannerbox">
+					<script type="text/javascript"><!--
+					google_ad_client = "pub-0781085299688487";
+					/* 125x125, created 11/17/08 */
+					google_ad_slot = "3351795665";
+					google_ad_width = 125;
+					google_ad_height = 125;
+					//-->
+					</script>
+					<script type="text/javascript"
+					src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+					</script>
+				</div>
+				
+			</div>
+
+		<br />
+
+<div style="clear:both;"></div>
+
+		</div> <!-- end middle div -->
+
+		<br />
+
+		<div id="footer">
+			<b>
+				<a href="http://www.aussierulesuk.com">Home</a>  |  <a href="http://www.aussierulesuk.com/aruk/policies">Policies</a>  |  <a href="http://www.aussierulesuk.com/aruk/contact">Contact</a>  |  <a href="http://www.aussierulesuk.com/aruk/shop">Shop</a>
+				<br />
+				<br />
+				Our Network: <a href="http://www.touchaussierules.com">Touch Aussie Rules</a>  |  <a href="http://www.arukfooty.com">ARUK National League</a>  |  <a href="http://www.aussieruleseurope.com">Aussie Rules Europe</a> |  <a href="http://www.aussierulesinternational.com">Aussie Rules International</a>
+			</b>
+			<br />
+			<br />
+			<p>
+				Copyright 2010 Aussie Rules UK
+				 |
+				Website Design by <a href="http://www.bestlookingwebsites.com">BLW</a>  |  Powered by <a href="http://www.datalink.com.au/freestyler">Freestyler CMS</a>
+			</p>
+		</div>
+
+	</div> <!-- end wrap div -->
+
+ 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-5621420-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+      
+
+<script type="text/javascript">
+   var infolink_pid = 22234;
+   var infolink_wsid = 4;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+
+
+</body>
+</html>

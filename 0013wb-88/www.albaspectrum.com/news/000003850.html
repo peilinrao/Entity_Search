@@ -1,0 +1,273 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Dynamics GP Warehouse Management System Implementation</title><body marginwidth="0" marginheight="0" style="margin:0px" bgcolor="#E1DFE1"><div align="center">
+  <center>
+  <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#ffffff" width="750" id="AutoNumber1" height="598">
+    <tr>
+      <td width="100%" bordercolor="#ffffff" height="163" colspan="3">
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#ffffff" width="750" id="AutoNumber2" height="63">
+        <tr>
+          <td width="250" height="163" bgcolor="#BADACC" bordercolor="#BADACC" rowspan="2">
+          <a href="http://www.albaspectrum.com">
+<img border="0" src="../AlbaSpectrumGray.gif" width="180" height="64"></a><p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+				</td>
+
+          <td width="548" height="14" bordercolor="#BADACC" bgcolor="#BADACC" colspan="2">
+          <img border="0" src="../top2.gif" width="500" height="40">
+<!-- SiteSearch Google --></td>
+        </tr>
+        <tr>
+          <td width="293" height="49" bordercolor="#BADACC" bgcolor="#BADACC">
+          <a href="http://www.albaspectrum.com/SubmitArticle/SubmitNews.aspx">
+          <img border="0" src="../TEXT.gif" width="293" height="75"></a></td>
+          <td width="255" height="49" bordercolor="#BADACC" bgcolor="#BADACC"><!-- SiteSearch Google -->
+<form method="get" action="http://www.google.com/custom" target="_top">
+<table border="0" bgcolor="#BADACC">
+<tr><td nowrap="nowrap" valign="top" align="left" height="32">
+
+<br/>
+<input type="hidden" name="domains" value="www.albaspectrum.com"></input>
+<label for="sbi" style="display: none">Enter your search terms</label>
+<input type="text" name="q" size="23" maxlength="255" value="" id="sbi"></input>
+</td></tr>
+<tr>
+<td nowrap="nowrap">
+<table>
+<tr>
+<td>
+<input type="radio" name="sitesearch" value="" id="ss0"></input>
+<label for="ss0" title="Search the Web"><font size="-1" color="#000000">Web</font></label></td>
+<td>
+<input type="radio" name="sitesearch" value="www.albaspectrum.com" checked id="ss1"></input>
+<label for="ss1" title="Search www.albaspectrum.com"><font size="-1" color="#000000">www.albaspectrum.com</font></label></td>
+</tr>
+</table>
+<label for="sbb" style="display: none">Submit search form</label>
+<input type="submit" name="sa" value="Google Search" id="sbb"></input>
+<input type="hidden" name="client" value="pub-8493234315452488"></input>
+<input type="hidden" name="forid" value="1"></input>
+<input type="hidden" name="ie" value="ISO-8859-1"></input>
+<input type="hidden" name="oe" value="ISO-8859-1"></input>
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1"></input>
+<input type="hidden" name="hl" value="en"></input>
+</td></tr></table>
+</form>
+<!-- SiteSearch Google --></td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" bordercolor="#000000" colspan="3" height="18">
+      <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3">
+        <tr>
+          <td width="33%" bgcolor="#000000">
+          <p align="center"><b><font face="Verdana" size="2" color="#FFFFFF">
+          <a href="http://www.albaspectrum.com/"><font color="#FFFFFF">Home</font></a></font></b></td>
+          <td width="33%" bgcolor="#000000">
+          <p align="center"><b><font face="Verdana" size="2" color="#FFFFFF">
+          <a href="http://www.albaspectrum.com/SubmitArticle/SubmitNews.aspx">
+          <font color="#FFFFFF">Submit Article</font></a></font></b></td>
+          <td width="34%" bgcolor="#000000">
+          <p align="center"><b><font face="Verdana" size="2" color="#FFFFFF">
+          <a href="../Archive.htm"><font color="#FFFFFF">Archive</font></a></font></b></td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" bordercolor="#000000" height="395" colspan="3">
+      <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#FFFFFF" width="100%" id="AutoNumber4" height="60" >
+        <tr>
+          <td width="15%" height="442" bgcolor="#4A8267" valign="top">
+          <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#FFFFFF" width="100%"  id="AutoNumber5">
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../Recent%20News.html"><font color="#B1CDF8">Recent News</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../Computers.html"><font color="#B1CDF8">Computers</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../Education.html"><font color="#B1CDF8">Education</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../Fiction.html"><font color="#B1CDF8">Fiction</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../Government.html"><font color="#B1CDF8">Government</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../Health.html"><font color="#B1CDF8">Health</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../History.html"><font color="#B1CDF8">History</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../International.html"><font color="#B1CDF8">International</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../politics.html"><font color="#B1CDF8">Politics</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../Press%20Release.html"><font color="#B1CDF8">Press Release</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../Religion.html"><font color="#B1CDF8">Religion</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../Society.html"><font color="#B1CDF8">Society</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../Sport.html"><font color="#B1CDF8">Sport</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../Technology.html"><font color="#B1CDF8">Technology</font></a></font></td>
+            </tr>
+            <tr>
+              <td width="100%" bgcolor="#4A8267" valign="top" bordercolor="#FFFFFF">
+              <p style="line-height: 150%; margin-left: 6">
+              <font face="Verdana" size="2" color="#B1CDF8">
+              <a href="../Travel.html"><font color="#B1CDF8">Travel</font></a></font></td>
+            </tr>
+          </table>
+          </td>
+          <td width="67%" height="60" valign="top" bgcolor="#E1DFE1">
+          <p style="margin-left: 5; margin-right: 5">
+          <font face="Verdana" size="2">&nbsp;
+<b>Dynamics GP Warehouse Management System Implementation</b><br><br><img border="1" src="000003850logo.jpg"><br>Alba Spectrum Corporation<br><br>Warehouse Management System or WMS in abbreviation is barcoding based software, where you typically automate such routines as Order Fulfillment, Inventory Replenishment, Inventory Transfers and Adjustments
+<br>
+
+<br>
+<img border="1" src="000003850Picture.jpg"><br><br>We assume that at this point you are committed to Microsoft Dynamics GP Corporate ERP platform and this application is already in production.  Now you are ready to the second phase, where you plan to organize your Supply Chain Management, Picking and Packing, Shipping and Receiving, Inventory Restocking, Cycle Counts on the warehouse floor and possibly custom barcoding based business procedures around Great Plains Dynamics GP.  In this small publication we will review the options to consider in Warehouse Management System for Dynamics GP selection, implementation steps, optimal strategy for version upgrade, data integration, WMS and SCM reporting.  In Supply Chain Management theory WMS (the abbreviation for Warehouse Management System) is considered as central part (or at least as one of the “key parts” in SCM definitions, more geared toward production and just in time parts delivery).  This is why we do recommend you to make your philosophy and detail oriented homework in selecting the right WMS for your organization.  This paper is created primarily for IT managers, and if you are company owner or CEO, we recommend you to share this publication with your IT personnel, especially when you need clarification on some technology oriented definitions:
+<br>
+
+<br>
+1.	WMS review on the level of abstraction.  If you call to specific Warehouse Management Vendor, these people will begin to realize the strategy to sell your own WMS solution, and prior to that point, you need to understand the philosophy (it should arm you with the ability to compare and judge).  If you would imagine yourself in the shoes of WMS vendor – probably the most efficient WMS software winning market strategy would be the creation of the completely self-sufficient external standalone Warehouse management System with integration modules or connectors to major ERP applications (Axapta, Great Plains, Navision, Solomon, Oracle Financials, Accpac, SAP R/3 or Business One, etc.).  This strategy should enable the way of selling your WMS solution to the variety of customers and it doesn’t restrict you to the subset of ERP customers with just one Corporate ERP application.  Now, let’s try to speculate on putting yourself into WMS end customer shoes.  Here your concerns are likely to be about cost/reliability optimization. External WMS approach is definitely great option, however this direction suggests you to pay for complete or partial Distribution business logic in software licenses to the WMS vendor, and to your displeasure you already paid for similar logic in Dynamics GP Distribution modules licensing.  If you would like the idea to pay only once and capitalize on Dynamics GP Distribution modules, you should understand the concept of WMS extensions for Great Plains Dynamics, working out of GP databases and sharing the same tables, documents and master records
+<br>
+
+<br>
+2.	Warehouse Management System specification preparation phase.  Here you need to be satisfied with the proposed solution, prepared by your Dynamics GP Partner or Consultant.  Business Processes mapping for the WMS is typically centered around such procedures as Sales Order Fulfillment (in Dynamics GP SOP Sales Transaction Form), Inventory Replenishment (in GP POP Purchase Receipt screen), Inventory Transfer, Adjustment and Physical Count (in Dynamics GP you have exactly the same forms by their names)
+<br>
+
+<br>
+3.	Dynamics GP version concerns.  WMS implementation project is often comparable or even surpassing in its budget the original Great Plains software license cost and consulting hours.  Considering that fact, we do recommend you to be on the current or at least supported (directly by Microsoft Business Solutions technical support, as we are writing these lines in September 2010, the versions supported by MBS are Dynamics GP 2010/11.0, 10.0, 9.0) version.  We are happy to support your old Great Plains version, but we do not recommend you to consider legacy GP version as the base for Warehouse Management System implementation and integration with GP.  If you are on Great Plains 8.0, 7.5, 7.0, 6.0, 5.5, 5.0, 4.0 (including Great Plains Select on Pervasive SQL 2000/Btrieve or Ctree), or Great Plains Accounting for DOS, Windows and Macintosh 9.5, 9.2, 9.1 and earlier – we recommend you to consider version update all the way through Dynamics GP 10.0 or 2010
+<br>
+
+<br>
+4.	Placing order online and Dynamics GP WMS.  Here you are diving into B2B eCommerce strategy for Microsoft Dynamics GP, where placed orders are transferred to the warehouse for automatic picking and packing.  Ecommerce module for Great Plains is another “black horse”, where you do not want to make immediate decision and rather take your time for additional homework
+<br>
+
+<br>
+5.	Placing orders via EDI (Electronic Document Interchange) protocol.  This method is very similar to direct B2B or B2C ecommerce originated documents.  You might expect some hard selling techniques from Dynamics GP EDI ISV partners, suggesting purchase often overpriced EDI solution for Great Plains.  If your EDI channel is based on one or two simple protocols, we recommend you to program EDI integration in-house
+<br>
+
+<br>
+6.	Barcode scanners to consider.  Here you are in the hands of your WMS and Barcoding budget.  Barcode scanner should be compliant to Windows Mobile OS or at least to Text mode.  To be reasonably in price/reliability median, we recommend you to consider Symbol PDT 3000 Portable Data Terminal Series, or scanner with compatible features and processing power.  From the scanner info sheet: "Symbol Technologies' PDT 3000 Portable Data Terminals answer the need for hand-held data terminals that are high on features and performance, but low in price. Designed for efficient, economical data collection, the PDT 3000 Series packs the power of a 16-bit, DOS-based PC into a small, lightweight data terminal that goes anywhere to get the job done. Feature for feature, dollar for dollar, no other terminal surpasses the PDT 3000 Series for overall value. Its durable ergonomic design, standard DOS operating system, and flexible options put the PDT 3000 in a class by itself…"  This scanner cost is around $500.  Well of course there is drawback and for this scanner it is text only user interface, whoever we do believe that Warehouse Management Worker barcode scanning training cost and learning curve period would be comparable to the option to do that with the scanner with graphical user interface (and Windows CE operating system).  The savings could be significant if you plan to deploy WMS for hundreds of warehouses
+<br>
+7.	To request further support, please call us 1-866-528-0577, help@albaspectrum.com.  By the nature of our service we are available for WMS implementation USA, Canada nationwide.  Local service is available in Western Michigan: St. Joseph, Kalamazoo, Grand Rapids, Muskegon, Holland, New Buffalo; in Chicagoland, North Western Indiana, Southern California (Los Angeles, San Diego, Irvine, Orange County), Houston and Dallas areas of Texas
+<br>
+
+<br>
+Andrew Karasev, http://www.albaspectrum.com Great Plains Dynamics GP and eEnterprise Certified Master, Microsoft MVP and consultant with 10 years and plus experience and expertise.  Alba Spectrum, 1-866-528-0577, help@albaspectrum.com.  If you are thinking to implement Dynamics GP in challenging environment, we recommend you to give us a call.  Our information portal is http://www.pegasplanet.com Pegas Planet 
+<br>
+
+<br>
+<br><a href="http://www.albaspectrum.com">Author Site</a><br><br>9/28/2010<br><br> </font><br>
+&nbsp;</td>
+          <td width="18%" bgcolor="#435E9C" height="60" valign="top">&nbsp;<script type="text/javascript"><!--
+google_ad_client = "pub-8493234315452488";
+//120x600, created 1/19/08
+google_ad_slot = "7925301234";
+google_ad_width = 120;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+          </script></td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+    <tr>
+      <td width="34%" bordercolor="#000000" bgcolor="#000000" height="19" align="center">
+      <p align="center" style="margin-top: 0; margin-bottom: 0"><b>
+      <font face="Verdana" color="#FFFFFF" size="2">
+      <a href="http://www.albaspectrum.com"><font color="#FFFFFF">Home</font></a></font></b></td>
+      <td width="33%" bordercolor="#000000" bgcolor="#000000" height="19" align="center">
+      <p align="center" style="margin-top: 0; margin-bottom: 0"><b>
+      <font size="2" face="Verdana" color="#FFFFFF">
+      <a href="http://www.albaspectrum.com/SubmitArticle/SubmitNews.aspx">
+      <font color="#FFFFFF">Submit Article</font></a></font></b></td>
+      <td width="33%" bordercolor="#000000" bgcolor="#000000" height="19" align="center">
+      <p style="margin-top: 0; margin-bottom: 0"><b>
+      <font size="2" face="Verdana" color="#FFFFFF">
+      <a href="../Archive.htm"><font color="#FFFFFF">Archive</font></a></font></b></td>
+    </tr>
+    <tr>
+      <td width="100%" bordercolor="#000000" bgcolor="#BADACC" height="19" align="center" colspan="3">
+      <p style="margin-top: 0; margin-bottom: 0">
+      <font face="Verdana" style="font-size: 7pt">Copyright AlbaSpectrum.com</font></p>
+      <p style="margin-top: 0; margin-bottom: 0">
+      <font face="Verdana" style="font-size: 7pt">All articles may be reproduced 
+      under the following conditions: content is not&nbsp; altered, author's link 
+      is preserved, article source, <a href="http://www.albaspectrum.com">
+      www.albaspectrum.com</a> is specified</font></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10827092-1");
+pageTracker._trackPageview();
+} catch(err) {}</script></body></html>

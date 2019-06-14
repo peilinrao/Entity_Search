@@ -1,0 +1,653 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<title>John Edwards Woos Robert Scoble | The Bivings Report</title>
+<link href="http://www.bivingsreport.com/wp-content/themes/simplo/style.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="http://www.bivingsreport.com/wp-content/themes/simplo/css/blue.css" media="screen" />
+	
+<link href="http://www.bivingsreport.com/wp-content/themes/simplo/css/ddsmoothmenu.css" rel="stylesheet" type="text/css" />
+<link href="http://www.bivingsreport.com/wp-content/themes/simplo/css/prettyPhoto.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" type="text/javascript" src="http://www.bivingsreport.com/wp-content/themes/simplo/js/jquery-1.4.2.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.bivingsreport.com/wp-content/themes/simplo/js/jquery.form.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.bivingsreport.com/wp-content/themes/simplo/js/cufon-yui.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.bivingsreport.com/wp-content/themes/simplo/js/DIN_400-DIN_700.font.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.bivingsreport.com/wp-content/themes/simplo/js/ddsmoothmenu.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.bivingsreport.com/wp-content/themes/simplo/js/jquery.prettyPhoto.js"></script>
+
+<script type="text/javascript">
+		Cufon.replace('#topMenu ul li a',{hover: true})('#colRight h2')('.reply',{hover:true})('#footer h2');
+		</script>
+<script type="text/javascript">
+$(document).ready(function(){
+	//DROPDOWN MENU INIT
+	ddsmoothmenu.init({
+	mainmenuid: "topMenu", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+	});
+	
+	// PRETTY PHOTO INIT
+	$("a[rel^='prettyPhoto']").prettyPhoto();
+});
+</script>
+
+<!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
+
+<!-- Code Inserter module -->
+<meta property="fb:page_id" content="106191586304" />
+<!-- /Code Inserter module -->
+
+	<meta name="description" content="Tweet Tweet" />
+	<meta name="google-site-verification" content="v_OqxFeeN86BwDwzVPgrCM2sFBXBYk4RfvW55EXDqqU" />
+	<meta name="y_key" content="6887dd90e1a2e82a" />
+<!-- /SEO Ultimate -->
+
+
+	<!-- WP Twitter Users -->
+	<link rel="stylesheet" href="http://www.bivingsreport.com/wp-content/plugins/wp-twitter-users/templates/profile.tidy/profile.tidy.css" type="text/css" media="screen" />
+<script src="http://platform.twitter.com/anywhere.js?id=BJuKc3ve1nDey8McrJbvBQ&v=1" type="text/javascript"></script>
+
+	<script type="text/javascript">twttr.anywhere(function(twitter){twitter("body").linkifyUsers();});</script>
+	<script type="text/javascript">twttr.anywhere(function(twitter){twitter.hovercards();});</script><link rel="alternate" type="application/rss+xml" title="The Bivings Report &raquo; John Edwards Woos Robert Scoble Comments Feed" href="http://www.bivingsreport.com/2006/john-edwards-woos-tech-bloggers/feed/" />
+<link rel='stylesheet' id='podpress_frontend_styles-css'  href='http://www.bivingsreport.com/wp-content/plugins/podpress/podpress.css?ver=3.0.4' type='text/css' media='all' />
+<script type="text/javascript">
+//<![CDATA[
+var podpressL10 = {
+	openblogagain : 'back to:',
+	theblog : 'the blog',
+	close : 'close'
+}
+//]]>
+</script>
+<script type="text/javascript" src="http://www.bivingsreport.com/wp-content/plugins/podpress/players/1pixelout/1pixelout_audio-player.js"></script>
+<script type="text/javascript">//<![CDATA[
+	var podPressPlayerFile = "1pixelout_player.swf";
+	var podPressPopupPlayerOpt = new Object();
+	podPressPopupPlayerOpt["bg"] = "F8F8F8";
+	podPressPopupPlayerOpt["leftbg"] = "EEEEEE";
+	podPressPopupPlayerOpt["text"] = "666666";
+	podPressPopupPlayerOpt["lefticon"] = "666666";
+	podPressPopupPlayerOpt["rightbg"] = "CCCCCC";
+	podPressPopupPlayerOpt["rightbghover"] = "999999";
+	podPressPopupPlayerOpt["righticon"] = "666666";
+	podPressPopupPlayerOpt["righticonhover"] = "FFFFFF";
+	podPressPopupPlayerOpt["slider"] = "666666";
+	podPressPopupPlayerOpt["track"] = "FFFFFF";
+	podPressPopupPlayerOpt["loader"] = "9FFFB8";
+	podPressPopupPlayerOpt["border"] = "666666";
+	podPressPopupPlayerOpt["listen_wrapper"] = "off";
+	podPressPopupPlayerOpt["volslider"] = "666666";
+	podPressPopupPlayerOpt["voltrack"] = "FFFFFF";
+	podPressPopupPlayerOpt["tracker"] = "DDDDDD";
+	podPressPopupPlayerOpt["skip"] = "666666";
+	podPressPopupPlayerOpt["initialvolume"] = "70";
+	podPressPopupPlayerOpt["buffer"] = "5";
+	podPressPopupPlayerOpt["checkpolicy"] = "no";
+	podpressAudioPlayer.setup("http://www.bivingsreport.com/wp-content/plugins/podpress/players/1pixelout/" + podPressPlayerFile, {bg:"F8F8F8", leftbg:"EEEEEE", text:"666666", lefticon:"666666", rightbg:"CCCCCC", rightbghover:"999999", righticon:"666666", righticonhover:"FFFFFF", slider:"666666", track:"FFFFFF", loader:"9FFFB8", border:"666666", listen_wrapper:"off", volslider:"666666", voltrack:"FFFFFF", tracker:"DDDDDD", skip:"666666", initialvolume:"70", buffer:"5", checkpolicy:"no",  pagebg:"FFFFFF", transparentpagebg:"yes", encode: "no"} );
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+var podPressBlogURL = "http://www.bivingsreport.com/";
+var podPressBackendURL = "http://www.bivingsreport.com/wp-content/plugins/podpress/";
+var podPressDefaultPreviewImage = "http://www.bivingsreport.com/wp-content/plugins/podpress/images/vpreview_center.png";
+var podPressMP3PlayerWrapper = false;
+var podPress_cortado_signed = false;
+var podPressOverwriteTitleandArtist = false;
+var podPressText_PlayNow = "Play Now";
+var podPressText_HidePlayer = "Hide Player";
+//]]></script>
+<script type='text/javascript' src='http://www.bivingsreport.com/wp-includes/js/jquery/jquery.js?ver=1.4.2'></script>
+<script type='text/javascript' src='http://www.bivingsreport.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1'></script>
+<script type='text/javascript' src='http://www.bivingsreport.com/wp-content/plugins/podpress/js/podpress.js?ver=3.0.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bivingsreport.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bivingsreport.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='The Bivings Report' href='http://www.bivingsreport.com/' />
+<link rel='start' title='The Bivings Report Gets a Facelift' href='http://www.bivingsreport.com/2006/tbg-blogs/' />
+<link rel='prev' title='Kids vs. Sen. Stevens: A Web-Savvy Showdown or a No-Brainer?' href='http://www.bivingsreport.com/2006/kids-vs-sen-stevens-a-web-savvy-showdown-or-a-no-brainer/' />
+<link rel='next' title='TBR&#8217;s Greatest Hits: 2006 Roundup' href='http://www.bivingsreport.com/2007/tbrs-greatest-hits-2006-roundup/' />
+<meta name="generator" content="WordPress 3.0.4" />
+<link rel='canonical' href='http://www.bivingsreport.com/2006/john-edwards-woos-tech-bloggers/' />
+<link rel='shortlink' href='http://www.bivingsreport.com/?p=708' />
+<link rel="stylesheet" href="http://disqus.com/stylesheets/bivingsreport/disqus.css?v=2.0" type="text/css" media="screen" />
+<style type='text/css'/>
+.funkyblue { color:#0000AF; }
+</style>
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: '171431549541737', status: true, cookie: true, xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
+<script type="text/javascript">var AKPC_IDS = "";</script>
+	<!-- Google Analytics Tracking by Google Analyticator 6.1.1: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = ['mp3','pdf'];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-2751809-5']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+
+<body class="single single-post postid-708">
+<!-- BEGIN MAIN WRAPPER -->
+<div id="mainWrapper">
+	<!-- BEGIN WRAPPER -->
+	<div id="wrapper">
+		<!-- BEGIN HEADER -->
+		<div id="header">
+			 <div id="logo"><a href="http://www.bivingsreport.com/"><img src="http://www.bivingsreport.com/tbr_text.jpg" alt="" /></a> </div>
+			<div id="topSocial">Social Stuff:
+																	<a href="http://www.facebook.com/brickfactory" title="Join Us!"><img src="http://www.bivingsreport.com/wp-content/themes/simplo/images/facebook_32.png" alt="Facebook" /></a>
+														<a href="http://twitter.com/brickfactory" title="Follow Us!"><img src="http://www.bivingsreport.com/wp-content/themes/simplo/images/twitter_32.png" alt="Twitter" /></a>
+									<a href="http://www.bivingsreport.com/feed/"><img src="http://www.bivingsreport.com/wp-content/themes/simplo/images/rss_32.png" alt="RSS Feed" /></a>
+			</div>
+		</div>
+		<!-- END HEADER -->
+		<!-- BEGIN TOP MENU -->
+			<div id="topMenu" class="ddsmoothmenu"><ul id="menu-bivings-report-menu" class="menu"><li id="menu-item-4445" class="menu-item menu-item-type-custom menu-item-4445"><a href="http://www.thebrickfactory.com">The Brick Factory</a></li>
+<li id="menu-item-4446" class="menu-item menu-item-type-custom menu-item-4446"><a href="http://blog.thebrickfactory.com">Brick Factory Blog</a></li>
+<li id="menu-item-4444" class="menu-item menu-item-type-post_type menu-item-4444"><a href="http://www.bivingsreport.com/archives/">Archives</a></li>
+</ul></div>            <!-- END TOP MENU -->
+			
+		<!-- BEGIN CONTENT -->
+			<div id="content" class="twocols">
+
+<!-- BEGIN COL LEFT -->
+				<div id="colLeft">
+				
+					
+					<div class="postItem">
+						
+						<div class="categs"><a href="http://www.bivingsreport.com/category/blogs/" title="View all posts in Blogs" rel="category tag">Blogs</a>, <a href="http://www.bivingsreport.com/category/politics/" title="View all posts in Politics" rel="category tag">Politics</a></div>
+						<div class="meta">
+							<div>Dec 29, 2006</div>
+							<div class="icoAuthor"><a href="http://www.bivingsreport.com" title="Visit Todd Zeigler&#8217;s website" rel="external">Todd Zeigler</a></div>
+							<div class="icoComments"><a href="http://www.bivingsreport.com/2006/john-edwards-woos-tech-bloggers/#respond" title="Comment on John Edwards Woos Robert Scoble"><span class="dsq-postid" rel="708 http://www.bivingsreport.com/2006/john-edwards-woos-tech-bloggers/">View Comments</span></a></div>
+						</div>
+						<h1><a href="http://www.bivingsreport.com/2006/john-edwards-woos-tech-bloggers/">John Edwards Woos Robert Scoble</a></h1>
+						
+						
+	<div style="float: left; bottom: 5px">
+		<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-text="John Edwards Woos Robert Scoble - The Bivings Report" data-url="http://www.bivingsreport.com/2006/john-edwards-woos-tech-bloggers/"  data-via="bivings" data-related="bivings:">Tweet</a>
+	</div>
+	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script> <fb:like href="http%3A%2F%2Fwww.bivingsreport.com%2F2006%2Fjohn-edwards-woos-tech-bloggers%2F" show_faces="false" width="350" style="margin:0px 1px 5px 1px;"></fb:like><p><img width="220" height="249" align="right" src="http://www.bivingsreport.com/wp-content/uploads/2006/12/WindowsLiveWriter/JohnEdwardsWoosTechBloggers_D85B/edwards%5B4%5D.gif" /> Ever since his <a href="http://seattlepi.nwsource.com/business/276108_gnomedex01.html">appearance before hard core geek bloggers and techies</a> at <a href="http://www.gnomedex.com/">Gnomedex</a> in July, there has been a certain enthusiasm about John Edwards&#8217; Presidential candidacy in the tech blogosphere.  Why?  I think a big reason is that he is wooing a contingency that isn&#8217;t used to being wooed by politicians.</p>
+<p>For political bloggers this stuff is old hat.  They meet with candidates, exchange emails with staffers, participate in campaign conference calls and <a href="http://thenexthurrah.typepad.com/the_next_hurrah/2006/06/mark_warners_pa.html">have opulent parties thrown for them</a>.  Hell, last cycle a number of them got put on the <a href="http://www.blogpi.net/nice-work-if-you-can-get-it-a-closer-look-at-campaign-blogger-remunerations">campaign payroll</a>.</p>
+<p>Tech bloggers are also used to being wooed.  But by tech companies.  They get pitched on daily basis and sometimes <a href="http://www.crunchnotes.com/?p=331">even get sent free computers by Microsoft</a>.</p>
+<p>So what happens when a tech blogger gets wooed by a political campaign for the first time?  They are flattered and feel important and get a little star struck by the important of it all.  Just like political bloggers are the first 4-5 times they are wooed.  They also don&#8217;t look at things nearly as critically as political bloggers.  Unlike political bloggers, their opinions about the candidate haven&#8217;t been hardened by an obsession with politics.  They can forgive Edwards for voting for the Iraq War or for being on the ticket with John Kerry.</p>
+<p>In advance of his official announcement, the Edwards campaign upped the stakes in their wooing of the tech blogosphere and <a href="http://scobleizer.com/2006/12/27/full-disclosure/">invited super blogger Robert Scoble to follow him</a> around this week.  From the sound of things, Scoble is getting awesome access to Edwards and his campaign staff. What Scoble is doing isn&#8217;t clear.  Is he some sort of unpaid advisor?  Or just covering the campaign as a blogger/journalist?</p>
+<p>Regardless, the result is what you would expect.  Scoble, who appears a bit intoxicated by the experience, has compared <a href="http://scobleizer.com/2006/12/28/avoid-politics-on-my-link-blog/">Edwards to JFK</a> and is writing enthusiastically about how technology is changing politics (a subject <a href="http://www.personaldemocracy.com/">many</a> <a href="http://www.epolitics.com/">have</a> <a href="http://www.politicsonline.com/">been</a> <a href="http://www.blogpi.net">writing</a> <a href="http://www.ipdi.org/">about</a> <a href="http://www.bivingsreport.com/2006/the-internets-role-in-political-campaigns/">for years</a>).  I think the coverage would be quite different if <a href="http://www.instapundit.com">InstaPundit</a> or <a href="http://www.dailykos.com">DailyKos</a> were on that plane.</p>
+<p>Scoble, like most Americans, isn&#8217;t burdened by a hardened ideology or an encyclopedic knowledge of recent political history.  He doesn&#8217;t have an agenda.</p>
+<p>I think reaching out to the tech blogosphere is a very shrewd move by the Edwards campaign.</p>
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script> <fb:like href="http%3A%2F%2Fwww.bivingsreport.com%2F2006%2Fjohn-edwards-woos-tech-bloggers%2F" show_faces="false" width="350" style="margin:0px 1px 5px 1px;"></fb:like>
+	<div style="float: left; bottom: 5px">
+		<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-text="John Edwards Woos Robert Scoble - The Bivings Report" data-url="http://www.bivingsreport.com/2006/john-edwards-woos-tech-bloggers/"  data-via="bivings" data-related="bivings:">Tweet</a>
+	</div>
+	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script><script type="text/javascript">AKPC_IDS += "708,";</script> 
+					</div>
+					 
+<div id="disqus_thread">
+					<div id="dsq-content">
+			<ul id="dsq-comments">
+					<li id="dsq-comment-313084">
+					<div id="dsq-comment-header-313084" class="dsq-comment-header">
+						<cite id="dsq-cite-313084">
+	http://johnedwards.com							<span id="dsq-author-user-313084">Ryan</span>
+							</cite>
+					</div>
+					<div id="dsq-comment-body-313084" class="dsq-comment-body">
+						<div id="dsq-comment-message-313084" class="dsq-comment-message"><p>Nice post!</p>
+</div>
+					</div>
+				</li>
+					<li id="dsq-comment-27751">
+					<div id="dsq-comment-header-27751" class="dsq-comment-header">
+						<cite id="dsq-cite-27751">
+	http://johnedwards.com							<span id="dsq-author-user-27751">Ryan</span>
+							</cite>
+					</div>
+					<div id="dsq-comment-body-27751" class="dsq-comment-body">
+						<div id="dsq-comment-message-27751" class="dsq-comment-message"><p>Nice post!</p>
+</div>
+					</div>
+				</li>
+					<li id="dsq-comment-313085">
+					<div id="dsq-comment-header-313085" class="dsq-comment-header">
+						<cite id="dsq-cite-313085">
+	http://scobleizer.com							<span id="dsq-author-user-313085">Robert Scoble</span>
+							</cite>
+					</div>
+					<div id="dsq-comment-body-313085" class="dsq-comment-body">
+						<div id="dsq-comment-message-313085" class="dsq-comment-message"><p>I was there just to cover the campaign. I rode along with the Washington Post and LA Times. I didn&#8217;t get into policy questions. There are plenty of other places to learn about what his views on things are (although I&#8217;d be happy to give my opinions of them, if you&#8217;d like).</p>
+<p>My reports will be up next week.</p>
+</div>
+					</div>
+				</li>
+					<li id="dsq-comment-27752">
+					<div id="dsq-comment-header-27752" class="dsq-comment-header">
+						<cite id="dsq-cite-27752">
+	http://scobleizer.com							<span id="dsq-author-user-27752">Robert Scoble</span>
+							</cite>
+					</div>
+					<div id="dsq-comment-body-27752" class="dsq-comment-body">
+						<div id="dsq-comment-message-27752" class="dsq-comment-message"><p>I was there just to cover the campaign. I rode along with the Washington Post and LA Times. I didn&#8217;t get into policy questions. There are plenty of other places to learn about what his views on things are (although I&#8217;d be happy to give my opinions of them, if you&#8217;d like).</p>
+<p>My reports will be up next week.</p>
+</div>
+					</div>
+				</li>
+					<li id="dsq-comment-28163">
+					<div id="dsq-comment-header-28163" class="dsq-comment-header">
+						<cite id="dsq-cite-28163">
+	http://www.lastpodcast.net/2006/12/30/tech-and-politics/							<span id="dsq-author-user-28163">Tech and Politics | The Last Podcast</span>
+							</cite>
+					</div>
+					<div id="dsq-comment-body-28163" class="dsq-comment-body">
+						<div id="dsq-comment-message-28163" class="dsq-comment-message"><p>[...] Don Dodge and Todd Zeigler today write about Robert Scoble&#8217;s recent travels with now presidential candidate John Edwards. Here is what Don Dodge had to say: [...]</p>
+</div>
+					</div>
+				</li>
+					<li id="dsq-comment-313086">
+					<div id="dsq-comment-header-313086" class="dsq-comment-header">
+						<cite id="dsq-cite-313086">
+	http://www.bivingsreport.com							<span id="dsq-author-user-313086">Todd Zeigler</span>
+							</cite>
+					</div>
+					<div id="dsq-comment-body-313086" class="dsq-comment-body">
+						<div id="dsq-comment-message-313086" class="dsq-comment-message"><p>Robert,</p>
+<p>I would love to hear your opinions on Edward&#8217;s politics &#8211; particularly his tech views.</p>
+<p>I think the invitation was a win for you and a win for Edwards campaign.  You got access to a new world and Edwards got coverage from a part of the blogosphere that normally doesn&#8217;t cover about politics.  Good for both parties.</p>
+<p>I hope other campaigns give you access.  To me, your foray into politics would really get interesting if you are exposed to people other than Edwards.</p>
+<p>Todd</p>
+</div>
+					</div>
+				</li>
+					<li id="dsq-comment-29277">
+					<div id="dsq-comment-header-29277" class="dsq-comment-header">
+						<cite id="dsq-cite-29277">
+	http://www.bivingsreport.com							<span id="dsq-author-user-29277">Todd Zeigler</span>
+							</cite>
+					</div>
+					<div id="dsq-comment-body-29277" class="dsq-comment-body">
+						<div id="dsq-comment-message-29277" class="dsq-comment-message"><p>Robert,</p>
+<p>I would love to hear your opinions on Edward&#8217;s politics &#8211; particularly his tech views.</p>
+<p>I think the invitation was a win for you and a win for Edwards campaign.  You got access to a new world and Edwards got coverage from a part of the blogosphere that normally doesn&#8217;t cover about politics.  Good for both parties.</p>
+<p>I hope other campaigns give you access.  To me, your foray into politics would really get interesting if you are exposed to people other than Edwards.</p>
+<p>Todd</p>
+</div>
+					</div>
+				</li>
+					<li id="dsq-comment-50616">
+					<div id="dsq-comment-header-50616" class="dsq-comment-header">
+						<cite id="dsq-cite-50616">
+	http://www.conversationalmediagroup.com/2006/12/30/president-john-edwards-delivers-the-state-of-the-blogosphere-part-ii/							<span id="dsq-author-user-50616">President John Edwards Delivers The State of The Blogosphere? Part II | Conversational Media Group Blog</span>
+							</cite>
+					</div>
+					<div id="dsq-comment-body-50616" class="dsq-comment-body">
+						<div id="dsq-comment-message-50616" class="dsq-comment-message"><p>[...]  Edward&#8217;s live blogged at the Daily Kos and invited Robert Scoble to join him in New Orleans for the announcement. The Bivings Report explains the meaning of romancing the Scoble . Don Dodge was also there and has pictures. [...]</p>
+</div>
+					</div>
+				</li>
+					<li id="dsq-comment-313087">
+					<div id="dsq-comment-header-313087" class="dsq-comment-header">
+						<cite id="dsq-cite-313087">
+	http://www.kneedeepfilms.com							<span id="dsq-author-user-313087">Cliff</span>
+							</cite>
+					</div>
+					<div id="dsq-comment-body-313087" class="dsq-comment-body">
+						<div id="dsq-comment-message-313087" class="dsq-comment-message"><p>Political writer wanted to collaborate on Presidential piece, contact cliff at :</p>
+<p><a href="mailto:cliff@kneedeepfilms.com">cliff@kneedeepfilms.com</a></p>
+</div>
+					</div>
+				</li>
+					<li id="dsq-comment-81001">
+					<div id="dsq-comment-header-81001" class="dsq-comment-header">
+						<cite id="dsq-cite-81001">
+	http://www.kneedeepfilms.com							<span id="dsq-author-user-81001">Cliff</span>
+							</cite>
+					</div>
+					<div id="dsq-comment-body-81001" class="dsq-comment-body">
+						<div id="dsq-comment-message-81001" class="dsq-comment-message"><p>Political writer wanted to collaborate on Presidential piece, contact cliff at :</p>
+<p><a href="mailto:cliff@kneedeepfilms.com">cliff@kneedeepfilms.com</a></p>
+</div>
+					</div>
+				</li>
+				</ul>
+		</div>
+	</div>
+
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+	var disqus_url = 'http://www.bivingsreport.com/2006/john-edwards-woos-tech-bloggers/ ';
+	var disqus_identifier = '708 http://www.bivingsreport.com/2006/john-edwards-woos-tech-bloggers/';
+	var disqus_container_id = 'disqus_thread';
+	var disqus_domain = 'disqus.com';
+	var disqus_shortname = 'bivingsreport';
+	var disqus_title = "John Edwards Woos Robert Scoble";
+		var disqus_config = function () {
+	    var config = this; // Access to the config object
+
+	    /* 
+	       All currently supported events:
+	        * preData — fires just before we request for initial data
+	        * preInit - fires after we get initial data but before we load any dependencies
+	        * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+	        * afterRender - fires when template is rendered but before we show it
+	        * onReady - everything is done
+	     */
+
+		config.callbacks.preData.push(function() {
+			// clear out the container (its filled for SEO/legacy purposes)
+			document.getElementById(disqus_container_id).innerHTML = '';
+		});
+				config.callbacks.onReady.push(function() {
+			// sync comments in the background so we don't block the page
+			DISQUS.request.get('?cf_action=sync_comments&post_id=708');
+		});
+					};
+	var facebookXdReceiverPath = 'http://www.bivingsreport.com/wp-content/plugins/disqus-comment-system/xd_receiver.htm';
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+	var DsqLocal = {
+		'trackbacks': [
+			{
+				'author_name':	"Tech and Politics | The Last Podcast",
+				'author_url':	"http:\/\/www.lastpodcast.net\/2006\/12\/30\/tech-and-politics\/",
+				'date':			"12\/30\/2006 01:34 PM",
+				'excerpt':		"[...] Don Dodge and Todd Zeigler today write about Robert Scoble&#8217;s recent travels with now presidential candidate John Edwards. Here ...",
+				'type':			"pingback"			}
+,			{
+				'author_name':	"President John Edwards Delivers The State of The Blogosphere? Part II | Conversational Media Group Blog",
+				'author_url':	"http:\/\/www.conversationalmediagroup.com\/2006\/12\/30\/president-john-edwards-delivers-the-state-of-the-blogosphere-part-ii\/",
+				'date':			"02\/01\/2007 04:23 PM",
+				'excerpt':		"[...]  Edward&#8217;s live blogged at the Daily Kos and invited Robert Scoble to join him in New Orleans for the ...",
+				'type':			"pingback"			}
+		],
+		'trackback_url': "http:\/\/www.bivingsreport.com\/2006\/john-edwards-woos-tech-bloggers\/trackback\/"	};
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+	dsq.async = true;
+	dsq.src = 'http://' + disqus_shortname + '.' + disqus_domain + '/embed.js?pname=wordpress&pver=2.61';
+	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+					
+								
+								
+
+				</div>
+				<!-- END COL LEFT -->
+<!-- BEGIN COL RIGHT -->
+	<div id="colRight">
+	<div id="searchBox" class="clearfix">
+			<form id="searchform" action="" method="get">
+				<input id="s" type="text" name="s" value=""/>
+				<input id="searchsubmit" type="submit" value="SEARCH"/>
+			</form>
+		</div>
+		<div class="rightBox"><h2>Notice</h2>			<div class="textwidget"><p>We are pleased to announce the launch of the Brick Factory, a Washington, DC-based digital agency founded by former employees of The Bivings Group. You can read the details of the <a href="http://blog.thebrickfactory.com/2011/09/the_brick_factory/">transition here</a>.  </p>
+<p>As a result of the change, The Bivings Report will no longer be updated, although we intend to keep it up for archival purposes.  You can read the <a href="http://blog.thebrickfactory.com">Brick Factory's new blog here</a>.</p>
+</div>
+		</div><div class="rightBox"><h2>Categories</h2><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="415">2012</option>
+	<option class="level-0" value="20">Advertising</option>
+	<option class="level-0" value="204">Asides</option>
+	<option class="level-0" value="263">Awards</option>
+	<option class="level-0" value="10">Bivings</option>
+	<option class="level-0" value="19">Blogs</option>
+	<option class="level-0" value="16">Books</option>
+	<option class="level-0" value="62">Cell Phones</option>
+	<option class="level-0" value="57">CMS</option>
+	<option class="level-0" value="302">Conferences</option>
+	<option class="level-0" value="287">DCWeek</option>
+	<option class="level-0" value="5">Design</option>
+	<option class="level-0" value="48">Design Reviews</option>
+	<option class="level-0" value="59">Drupal</option>
+	<option class="level-0" value="23">Economics</option>
+	<option class="level-0" value="40">Education</option>
+	<option class="level-0" value="330">Election</option>
+	<option class="level-0" value="47">Email</option>
+	<option class="level-0" value="63">Environment</option>
+	<option class="level-0" value="76">Facebook</option>
+	<option class="level-0" value="35">food</option>
+	<option class="level-0" value="325">Foursquare</option>
+	<option class="level-0" value="58">Friday&#8217;s Five</option>
+	<option class="level-0" value="448">Fundraising</option>
+	<option class="level-0" value="44">Gaming</option>
+	<option class="level-0" value="33">Google</option>
+	<option class="level-0" value="213">Government 2.0</option>
+	<option class="level-0" value="39">Graphhopper</option>
+	<option class="level-0" value="28">ImpactWatch</option>
+	<option class="level-0" value="52">ImpactWatch Features</option>
+	<option class="level-0" value="42">Internet</option>
+	<option class="level-0" value="41">Interviews</option>
+	<option class="level-0" value="56">Journalism that Matters</option>
+	<option class="level-0" value="43">Law</option>
+	<option class="level-0" value="46">Link Roundup</option>
+	<option class="level-0" value="92">Linux</option>
+	<option class="level-0" value="396">Magazines</option>
+	<option class="level-0" value="12">Marketing</option>
+	<option class="level-0" value="13">Media</option>
+	<option class="level-0" value="61">Microsoft</option>
+	<option class="level-0" value="45">Mobile</option>
+	<option class="level-0" value="22">Monitoring</option>
+	<option class="level-0" value="55">Movies</option>
+	<option class="level-0" value="26">Music</option>
+	<option class="level-0" value="38">Newspaper Study</option>
+	<option class="level-0" value="185">Ning</option>
+	<option class="level-0" value="414">Nonprofits</option>
+	<option class="level-0" value="91">Open Source</option>
+	<option class="level-0" value="1">Other</option>
+	<option class="level-0" value="50">Personal Democracy Forum</option>
+	<option class="level-0" value="32">Podcasting</option>
+	<option class="level-0" value="36">Podcasts</option>
+	<option class="level-0" value="14">Politics</option>
+	<option class="level-0" value="37">Polls</option>
+	<option class="level-0" value="18">PR</option>
+	<option class="level-0" value="6">Programming</option>
+	<option class="level-0" value="24">Public Affairs</option>
+	<option class="level-0" value="51">real estate</option>
+	<option class="level-0" value="4">Research</option>
+	<option class="level-0" value="8">Search</option>
+	<option class="level-0" value="449">SEO</option>
+	<option class="level-0" value="54">Sites</option>
+	<option class="level-0" value="294">Slurp140</option>
+	<option class="level-0" value="34">SMS</option>
+	<option class="level-0" value="101">Social Media</option>
+	<option class="level-0" value="29">Social Networks</option>
+	<option class="level-0" value="31">Social Responsibility</option>
+	<option class="level-0" value="264">TBGives</option>
+	<option class="level-0" value="11">Technology</option>
+	<option class="level-0" value="60">Tips</option>
+	<option class="level-0" value="17">Tools</option>
+	<option class="level-0" value="64">Twitter</option>
+	<option class="level-0" value="25">Usability</option>
+	<option class="level-0" value="27">Video</option>
+	<option class="level-0" value="21">Web 2.0</option>
+	<option class="level-0" value="30">Website review</option>
+	<option class="level-0" value="49">Wikipedia</option>
+	<option class="level-0" value="105">Wordpress</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://www.bivingsreport.com/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</div><div class="rightBox"><h2>Archives</h2>		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> <option value="">Select Month</option> 	<option value='http://www.bivingsreport.com/2011/10/'> October 2011 </option>
+	<option value='http://www.bivingsreport.com/2011/09/'> September 2011 </option>
+	<option value='http://www.bivingsreport.com/2011/08/'> August 2011 </option>
+	<option value='http://www.bivingsreport.com/2011/07/'> July 2011 </option>
+	<option value='http://www.bivingsreport.com/2011/06/'> June 2011 </option>
+	<option value='http://www.bivingsreport.com/2011/05/'> May 2011 </option>
+	<option value='http://www.bivingsreport.com/2011/04/'> April 2011 </option>
+	<option value='http://www.bivingsreport.com/2011/03/'> March 2011 </option>
+	<option value='http://www.bivingsreport.com/2011/02/'> February 2011 </option>
+	<option value='http://www.bivingsreport.com/2011/01/'> January 2011 </option>
+	<option value='http://www.bivingsreport.com/2010/12/'> December 2010 </option>
+	<option value='http://www.bivingsreport.com/2010/11/'> November 2010 </option>
+	<option value='http://www.bivingsreport.com/2010/10/'> October 2010 </option>
+	<option value='http://www.bivingsreport.com/2010/09/'> September 2010 </option>
+	<option value='http://www.bivingsreport.com/2010/08/'> August 2010 </option>
+	<option value='http://www.bivingsreport.com/2010/07/'> July 2010 </option>
+	<option value='http://www.bivingsreport.com/2010/06/'> June 2010 </option>
+	<option value='http://www.bivingsreport.com/2010/05/'> May 2010 </option>
+	<option value='http://www.bivingsreport.com/2010/04/'> April 2010 </option>
+	<option value='http://www.bivingsreport.com/2010/03/'> March 2010 </option>
+	<option value='http://www.bivingsreport.com/2010/02/'> February 2010 </option>
+	<option value='http://www.bivingsreport.com/2010/01/'> January 2010 </option>
+	<option value='http://www.bivingsreport.com/2009/12/'> December 2009 </option>
+	<option value='http://www.bivingsreport.com/2009/11/'> November 2009 </option>
+	<option value='http://www.bivingsreport.com/2009/10/'> October 2009 </option>
+	<option value='http://www.bivingsreport.com/2009/09/'> September 2009 </option>
+	<option value='http://www.bivingsreport.com/2009/08/'> August 2009 </option>
+	<option value='http://www.bivingsreport.com/2009/07/'> July 2009 </option>
+	<option value='http://www.bivingsreport.com/2009/06/'> June 2009 </option>
+	<option value='http://www.bivingsreport.com/2009/05/'> May 2009 </option>
+	<option value='http://www.bivingsreport.com/2009/04/'> April 2009 </option>
+	<option value='http://www.bivingsreport.com/2009/03/'> March 2009 </option>
+	<option value='http://www.bivingsreport.com/2009/02/'> February 2009 </option>
+	<option value='http://www.bivingsreport.com/2009/01/'> January 2009 </option>
+	<option value='http://www.bivingsreport.com/2008/12/'> December 2008 </option>
+	<option value='http://www.bivingsreport.com/2008/11/'> November 2008 </option>
+	<option value='http://www.bivingsreport.com/2008/10/'> October 2008 </option>
+	<option value='http://www.bivingsreport.com/2008/09/'> September 2008 </option>
+	<option value='http://www.bivingsreport.com/2008/08/'> August 2008 </option>
+	<option value='http://www.bivingsreport.com/2008/07/'> July 2008 </option>
+	<option value='http://www.bivingsreport.com/2008/06/'> June 2008 </option>
+	<option value='http://www.bivingsreport.com/2008/05/'> May 2008 </option>
+	<option value='http://www.bivingsreport.com/2008/04/'> April 2008 </option>
+	<option value='http://www.bivingsreport.com/2008/03/'> March 2008 </option>
+	<option value='http://www.bivingsreport.com/2008/02/'> February 2008 </option>
+	<option value='http://www.bivingsreport.com/2008/01/'> January 2008 </option>
+	<option value='http://www.bivingsreport.com/2007/12/'> December 2007 </option>
+	<option value='http://www.bivingsreport.com/2007/11/'> November 2007 </option>
+	<option value='http://www.bivingsreport.com/2007/10/'> October 2007 </option>
+	<option value='http://www.bivingsreport.com/2007/09/'> September 2007 </option>
+	<option value='http://www.bivingsreport.com/2007/08/'> August 2007 </option>
+	<option value='http://www.bivingsreport.com/2007/07/'> July 2007 </option>
+	<option value='http://www.bivingsreport.com/2007/06/'> June 2007 </option>
+	<option value='http://www.bivingsreport.com/2007/05/'> May 2007 </option>
+	<option value='http://www.bivingsreport.com/2007/04/'> April 2007 </option>
+	<option value='http://www.bivingsreport.com/2007/03/'> March 2007 </option>
+	<option value='http://www.bivingsreport.com/2007/02/'> February 2007 </option>
+	<option value='http://www.bivingsreport.com/2007/01/'> January 2007 </option>
+	<option value='http://www.bivingsreport.com/2006/12/'> December 2006 </option>
+	<option value='http://www.bivingsreport.com/2006/11/'> November 2006 </option>
+	<option value='http://www.bivingsreport.com/2006/10/'> October 2006 </option>
+	<option value='http://www.bivingsreport.com/2006/09/'> September 2006 </option>
+	<option value='http://www.bivingsreport.com/2006/08/'> August 2006 </option>
+	<option value='http://www.bivingsreport.com/2006/07/'> July 2006 </option>
+	<option value='http://www.bivingsreport.com/2006/06/'> June 2006 </option>
+	<option value='http://www.bivingsreport.com/2006/05/'> May 2006 </option>
+	<option value='http://www.bivingsreport.com/2006/04/'> April 2006 </option>
+	<option value='http://www.bivingsreport.com/2006/03/'> March 2006 </option>
+	<option value='http://www.bivingsreport.com/2006/02/'> February 2006 </option>
+	<option value='http://www.bivingsreport.com/2006/01/'> January 2006 </option>
+	<option value='http://www.bivingsreport.com/2005/12/'> December 2005 </option>
+	<option value='http://www.bivingsreport.com/2005/11/'> November 2005 </option>
+	<option value='http://www.bivingsreport.com/2005/09/'> September 2005 </option>
+	<option value='http://www.bivingsreport.com/2005/08/'> August 2005 </option>
+	<option value='http://www.bivingsreport.com/2005/07/'> July 2005 </option>
+	<option value='http://www.bivingsreport.com/2005/06/'> June 2005 </option>
+	<option value='http://www.bivingsreport.com/2005/05/'> May 2005 </option>
+	<option value='http://www.bivingsreport.com/2005/04/'> April 2005 </option>
+	<option value='http://www.bivingsreport.com/2005/02/'> February 2005 </option>
+	<option value='http://www.bivingsreport.com/2005/01/'> January 2005 </option>
+	<option value='http://www.bivingsreport.com/2004/12/'> December 2004 </option>
+	<option value='http://www.bivingsreport.com/2004/11/'> November 2004 </option>
+	<option value='http://www.bivingsreport.com/2004/09/'> September 2004 </option>
+	<option value='http://www.bivingsreport.com/2004/08/'> August 2004 </option>
+	<option value='http://www.bivingsreport.com/2004/07/'> July 2004 </option>
+	<option value='http://www.bivingsreport.com/2004/06/'> June 2004 </option>
+	<option value='http://www.bivingsreport.com/2004/05/'> May 2004 </option>
+	<option value='http://www.bivingsreport.com/2004/04/'> April 2004 </option>
+	<option value='http://www.bivingsreport.com/2004/03/'> March 2004 </option>
+	<option value='http://www.bivingsreport.com/2004/02/'> February 2004 </option>
+	<option value='http://www.bivingsreport.com/2004/01/'> January 2004 </option>
+	<option value='http://www.bivingsreport.com/2003/12/'> December 2003 </option>
+	<option value='http://www.bivingsreport.com/2003/11/'> November 2003 </option>
+	<option value='http://www.bivingsreport.com/2003/10/'> October 2003 </option>
+	<option value='http://www.bivingsreport.com/2003/09/'> September 2003 </option>
+	<option value='http://www.bivingsreport.com/2003/08/'> August 2003 </option>
+	<option value='http://www.bivingsreport.com/2003/07/'> July 2003 </option>
+	<option value='http://www.bivingsreport.com/2003/06/'> June 2003 </option>
+	<option value='http://www.bivingsreport.com/2003/05/'> May 2003 </option>
+	<option value='http://www.bivingsreport.com/2003/04/'> April 2003 </option>
+	<option value='http://www.bivingsreport.com/2003/03/'> March 2003 </option>
+	<option value='http://www.bivingsreport.com/2003/02/'> February 2003 </option>
+	<option value='http://www.bivingsreport.com/2003/01/'> January 2003 </option>
+	<option value='http://www.bivingsreport.com/2002/12/'> December 2002 </option>
+	<option value='http://www.bivingsreport.com/2002/11/'> November 2002 </option>
+	<option value='http://www.bivingsreport.com/2002/10/'> October 2002 </option>
+	<option value='http://www.bivingsreport.com/2002/09/'> September 2002 </option>
+	<option value='http://www.bivingsreport.com/2002/08/'> August 2002 </option>
+	<option value='http://www.bivingsreport.com/2002/07/'> July 2002 </option>
+	<option value='http://www.bivingsreport.com/2002/06/'> June 2002 </option>
+	<option value='http://www.bivingsreport.com/2002/05/'> May 2002 </option>
+	<option value='http://www.bivingsreport.com/2002/04/'> April 2002 </option>
+	<option value='http://www.bivingsreport.com/2002/03/'> March 2002 </option>
+	<option value='http://www.bivingsreport.com/2002/02/'> February 2002 </option>
+	<option value='http://www.bivingsreport.com/2002/01/'> January 2002 </option>
+	<option value='http://www.bivingsreport.com/2001/12/'> December 2001 </option>
+ </select>
+</div>	</div>
+<!-- END COL RIGHT -->	
+</div>
+		<!-- END CONTENT -->
+	</div>
+	<!-- END WRAPPER -->
+	<!-- BEGIN FOOTER -->
+	<div id="footer">
+	<div id="footerWidgets">
+			</div>
+	<!-- BEGIN COPYRIGHT -->
+	<div id="copyright">
+		Copyright Brick Factory 
+			<div id="site5bottom"><a href="http://gk.site5.com/t/244">Site5.com | Experts in Web Hosting.</a></div>
+	</div>
+	<!-- END COPYRIGHT -->	
+	</div>
+		
+	<!-- END FOOTER -->
+</div>
+<!-- END MAIN WRAPPER -->
+
+</body>
+</html>

@@ -1,0 +1,1739 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Bauer Insulated Puffer Jacket
+</title><link id="ctl00_lnkStyleSheet" rel="stylesheet" type="text/css" href="http://www.brhockeyequipment.com/CSS/brstyle.css" /><link id="ctl00_lnkHomeSlideShowCSS" rel="stylesheet" type="text/css" href="http://www.brhockeyequipment.com/CSS/HomeSlideShow.css" />
+
+    <script type="text/javascript" language='javascript'>  
+     
+        /* 
+           this function finds the TOP position of element on page
+        */
+        
+        function findTopPos(obj) {
+	        var curleft = curtop = 0;
+	        if (obj.offsetParent) {
+		        do {
+			        curleft += obj.offsetLeft;
+			        curtop += obj.offsetTop;
+		        } while (obj = obj.offsetParent);
+	        }
+	        return curtop;
+        }
+
+        /* 
+           this function finds the LEFT position of element on page
+        */
+        function findLefPos(obj) {
+	        var curleft = curtop = 0;
+	        if (obj.offsetParent) {
+		        do {
+			        curleft += obj.offsetLeft;
+			        curtop += obj.offsetTop;
+		        } while (obj = obj.offsetParent);
+	        }
+	        return curleft;
+        }
+        
+        
+
+        function clearTextForSearch() {
+            if (document.getElementById('ctl00_txtKeySearch').value == "Keyword Search")
+            {
+                document.getElementById('ctl00_txtKeySearch').value = "";
+            }
+        }
+
+        function resetTextForSearch() {
+            if (document.getElementById('ctl00_txtKeySearch').value == "")
+            {
+                document.getElementById('ctl00_txtKeySearch').value = "Keyword Search";
+            }                
+        }   
+        
+        function ShowLoginTabs(ntabIndex)
+        {
+            var dLogin = document.getElementById('dLogin');
+            var dCreateAccount = document.getElementById('dCreateAccount');
+                                       
+            if (ntabIndex==1)
+            {
+                dLogin.style.display='block';
+                dCreateAccount.style.display='none';
+                        
+                // className is used for IE and class for other than IE browsers
+                document.getElementById("aLogin").setAttribute("className", "select");
+                document.getElementById("aLogin").setAttribute("class", "select");
+
+                document.getElementById("aCreateAccount").setAttribute("className", "");
+                document.getElementById("aCreateAccount").setAttribute("class", "");
+                
+            }
+            else if (ntabIndex==2)
+            {
+                dCreateAccount.style.display='block';
+                dLogin.style.display='none';
+                
+                document.getElementById("aCreateAccount").setAttribute("className", "select");
+                document.getElementById("aCreateAccount").setAttribute("Class", "select");
+                
+                document.getElementById("aLogin").setAttribute("className", "");
+                document.getElementById("aLogin").setAttribute("class", "");
+            }    
+        }
+           function Email()
+        {        
+            window.open('mailto:ryan27@aaronequipment.com');                
+        }
+        
+        
+    </script>
+
+<meta name="keywords" content="Bauer, Insulated, Puffer Jacket,Hockey Apparel,Hockey Apparel" /><meta name="description" content="B&amp;R Sports carries the Bauer Insulated Puffer Jacket." /></head>
+<body id="ctl00_manageBackImage_bodyMainHeader" style="background-image:url('/images/BackgroundImages/1_17-05-11_t5.jpg');background-repeat:no-repeat;"></body>
+<form name="aspnetForm" method="post" action id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQ0MDA0ODEzMw9kFgJmD2QWBgIBD2QWBAIBDxYCHgRocmVmBTBodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9DU1MvYnJzdHlsZS5jc3NkAgIPFgIfAAU2aHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vQ1NTL0hvbWVTbGlkZVNob3cuY3NzZAIDD2QWAmYPFgIeBXN0eWxlBV9iYWNrZ3JvdW5kLWltYWdlOnVybCgnL2ltYWdlcy9CYWNrZ3JvdW5kSW1hZ2VzLzFfMTctMDUtMTFfdDUuanBnJyk7YmFja2dyb3VuZC1yZXBlYXQ6bm8tcmVwZWF0O2QCBQ9kFgwCAw9kFgRmDw8WAh4EVGV4dGVkZAICD2QWBgIBDw8WAh8CZWRkAgMPDxYCHwJlZGQCLQ8QDxYGHg1EYXRhVGV4dEZpZWxkBQROYW1lHg5EYXRhVmFsdWVGaWVsZAUHU3RhdGVJRB4LXyFEYXRhQm91bmRnZBAVMgxTZWxlY3QgU3RhdGUHQWxhYmFtYQhBcmthbnNhcwdBcml6b25hCkNhbGlmb3JuaWEIQ29sb3JhZG8LQ29ubmVjdGljdXQURGlzdHJpY3Qgb2YgQ29sdW1iaWEIRGVsYXdhcmUHRmxvcmlkYQdHZW9yZ2lhBElvd2EFSWRhaG8ISWxsaW5vaXMHSW5kaWFuYQZLYW5zYXMIS2VudHVja3kJTG91aXNpYW5hDU1hc3NhY2h1c2V0dHMITWljaGlnYW4ITWFyeWxhbmQFTWFpbmUJTWlubmVzb3RhCE1pc3NvdXJpC01pc3Npc3NpcHBpB01vbnRhbmEITmVicmFza2EGTmV2YWRhDU5ldyBIYW1wc2hpcmUKTmV3IEplcnNleQpOZXcgTWV4aWNvCE5ldyBZb3JrDk5vcnRoIENhcm9saW5hDE5vcnRoIERha290YQRPaGlvCE9rbGFob21hBk9yZWdvbgxQZW5uc3lsdmFuaWEMUmhvZGUgSXNsYW5kDlNvdXRoIENhcm9saW5hDFNvdXRoIERha290YQlUZW5uZXNzZWUFVGV4YXMEVXRhaAdWZXJtb250CFZpcmdpbmlhCldhc2hpbmd0b24NV2VzdCBWaXJnaW5pYQlXaXNjb25zaW4HV3lvbWluZxUyAi0xATEBNAE1ATcBOAE5AjEwAjExAjEyAjEzAjE1AjE2AjE3AjE4AjE5AjIwAjIxAjIyAjIzAjI0AjI1AjI2AjI3AjI4AjI5AjMwAjMxAjMyAjMzAjM0AjM1AjM3AjM4AjM5AjQwAjQyAjQzAjQ1AjQ3AjQ4AjQ5AjUwAjUxAjUyAjUzAjU0AjU1AjU2AjU3FCsDMmdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCEw9kFgoCAQ8WAh4HVmlzaWJsZWhkAgIPFgIfAAUnamF2YXNjcmlwdDphbGVydCgnTm8gaXRlbXMgYXZhaWxhYmxlJyk7ZAIDDxYCHwAFJ2phdmFzY3JpcHQ6YWxlcnQoJ05vIGl0ZW1zIGF2YWlsYWJsZScpOxYCAgEPDxYCHwIFBSQwLjAwZGQCBA8PZBYEHgdvbmZvY3VzBRRjbGVhclRleHRGb3JTZWFyY2goKR4Gb25ibHVyBRRyZXNldFRleHRGb3JTZWFyY2goKWQCBQ8PFgIeCEltYWdlVXJsBTxodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9JbWFnZXMvc2VhcmNoX2dvX2J1dHRvbi5wbmdkZAIVD2QWAgIBDzwrAAkBAA8WBB4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCAWQWAmYPZBYCAgUPDxYCHgtOYXZpZ2F0ZVVybAU0aHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vVGVhbVNhbGVzL0dyaXp6bGllc2QWAmYPFgIeA3NyYwVCaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vaW1hZ2VzL0Jhbm5lckltYWdlcy81ODM4XzExMTEuanBnZAIXD2QWBAIBD2QWBAIBDw8WAh8CBQ5Ib2NrZXkgQXBwYXJlbGRkAgMPFgIfAgVuPHVsPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktQXBwYXJlbC9Ib2NrZXktQXBwYXJlbCc+SG9ja2V5IEFwcGFyZWw8L2E+PC9saT48L3VsPiBkAgMPFgIfCwIPFh4CAQ9kFgoCAQ8WAh8ABXhodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktU3RpY2tzL0hvY2tleS1TdGlja3MtU2hhZnRzLS1CbGFkZXMvT25lLVBpZWNlLUNvbXBvc2l0ZS1TdGlja3MvQmF1MTJ0b3QxbGV3aHRpbnQWAgIBDxYIHgV3aWR0aAUCODceBmhlaWdodAUCODIfDQVGaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSW1hZ2VzL3RvdGFsb25lbGV3aGl0ZSBjb3B5LXRodW1iLmpwZx4FdGl0bGUFNUJhdWVyIFN1cHJlbWUgVG90YWxPbmUgTEUgSW50LiBDb21wb3NpdGUgSG9ja2V5IFN0aWNrZAIDDxYCHwAFeGh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1TdGlja3MvSG9ja2V5LVN0aWNrcy1TaGFmdHMtLUJsYWRlcy9PbmUtUGllY2UtQ29tcG9zaXRlLVN0aWNrcy9CYXUxMnRvdDFsZXdodGludBYCAgEPDxYCHwIFNUJhdWVyIFN1cHJlbWUgVG90YWxPbmUgTEUgSW50LiBDb21wb3NpdGUgSG9ja2V5IFN0aWNrZGQCBQ8PFgIfAgUHJDIxOS45OWRkAgcPDxYCHwIFByQyMTkuOTlkZAIJDxYCHwAFeGh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1TdGlja3MvSG9ja2V5LVN0aWNrcy1TaGFmdHMtLUJsYWRlcy9PbmUtUGllY2UtQ29tcG9zaXRlLVN0aWNrcy9CYXUxMnRvdDFsZXdodGludBYCAgEPFgIfDQU4aHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSW1hZ2VzL3ZpZXdfZGV0YWlscy5naWZkAgIPZBYKAgEPFgIfAAV2aHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSG9ja2V5LVN0aWNrcy9Ib2NrZXktU3RpY2tzLVNoYWZ0cy0tQmxhZGVzL09uZS1QaWVjZS1Db21wb3NpdGUtU3RpY2tzL0JhdTExc3RrdDFsZXl0aBYCAgEPFggfDgUCODcfDwUCODcfDQVDaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSW1hZ2VzL1RvdGFsb25lIExFIHN0aWNrLXRodW1iLmpwZx8QBUhCYXVlciBTVVBSRU1FIFRvdGFsT25lIExpbWl0ZWQgRWRpdGlvbiAoUmVkKSBZdGguIENvbXBvc2l0ZSBIb2NrZXkgU3RpY2tkAgMPFgIfAAV2aHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSG9ja2V5LVN0aWNrcy9Ib2NrZXktU3RpY2tzLVNoYWZ0cy0tQmxhZGVzL09uZS1QaWVjZS1Db21wb3NpdGUtU3RpY2tzL0JhdTExc3RrdDFsZXl0aBYCAgEPDxYCHwIFSEJhdWVyIFNVUFJFTUUgVG90YWxPbmUgTGltaXRlZCBFZGl0aW9uIChSZWQpIFl0aC4gQ29tcG9zaXRlIEhvY2tleSBTdGlja2RkAgUPDxYCHwIFBiQ1OS45OWRkAgcPDxYCHwIFBiQ1OS45OWRkAgkPFgIfAAV2aHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSG9ja2V5LVN0aWNrcy9Ib2NrZXktU3RpY2tzLVNoYWZ0cy0tQmxhZGVzL09uZS1QaWVjZS1Db21wb3NpdGUtU3RpY2tzL0JhdTExc3RrdDFsZXl0aBYCAgEPFgIfDQU4aHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSW1hZ2VzL3ZpZXdfZGV0YWlscy5naWZkAgMPZBYKAgEPFgIfAAViaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSG9ja2V5LUFjY2Vzc29yaWVzL0hvY2tleS1BY2Nlc3Nvcmllcy9Nb3V0aC1HdWFyZHMvTW9nb21vdXRoZ3VhcmQWAgIBDxYIHw4FAzEyMB8PBQI3OR8NBUJodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9JbWFnZXMvTU9HT01PVVRIR1VBUkRGUC10aHVtYi5qcGcfEAUPTW9nbyBNb3V0aGd1YXJkZAIDDxYCHwAFYmh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1BY2Nlc3Nvcmllcy9Ib2NrZXktQWNjZXNzb3JpZXMvTW91dGgtR3VhcmRzL01vZ29tb3V0aGd1YXJkFgICAQ8PFgIfAgUPTW9nbyBNb3V0aGd1YXJkZGQCBQ8PFgIfAgUGJDEyLjAwZGQCBw8PFgIfAgUGJDE1LjAwZGQCCQ8WAh8ABWJodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktQWNjZXNzb3JpZXMvSG9ja2V5LUFjY2Vzc29yaWVzL01vdXRoLUd1YXJkcy9Nb2dvbW91dGhndWFyZBYCAgEPFgIfDQU4aHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSW1hZ2VzL3ZpZXdfZGV0YWlscy5naWZkAgQPZBYKAgEPFgIfAAVdaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSG9ja2V5LVNrYXRlcy9JY2UtSG9ja2V5LVNrYXRlcy9TZW5pb3ItU2thdGVzL0JhdTEwc2t0MTEwMHNyFgICAQ8WCB8OBQI5Nx8PBQI4OB8NBURodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9JbWFnZXMvc2tfc3VwX29uZTEwMF9oaWdoLXRodW1iLmpwZx8QBSpCYXVlciBTdXByZW1lIE9uZTEwMCBTci4gSWNlIEhvY2tleSBTa2F0ZXNkAgMPFgIfAAVdaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSG9ja2V5LVNrYXRlcy9JY2UtSG9ja2V5LVNrYXRlcy9TZW5pb3ItU2thdGVzL0JhdTEwc2t0MTEwMHNyFgICAQ8PFgIfAgUqQmF1ZXIgU3VwcmVtZSBPbmUxMDAgU3IuIEljZSBIb2NrZXkgU2thdGVzZGQCBQ8PFgIfAgUHJDU5OS45OWRkAgcPDxYCHwIFByQ1OTkuOTlkZAIJDxYCHwAFXWh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1Ta2F0ZXMvSWNlLUhvY2tleS1Ta2F0ZXMvU2VuaW9yLVNrYXRlcy9CYXUxMHNrdDExMDBzchYCAgEPFgIfDQU4aHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSW1hZ2VzL3ZpZXdfZGV0YWlscy5naWZkAgUPZBYKAgEPFgIfAAVwaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vUHJvdGVjdGl2ZS1FcXVpcG1lbnQvSG9ja2V5LVNob3VsZGVyLVBhZHMvU2VuaW9yLVNob3VsZGVyLVBhZHMvV2FyMTBzcHByb2pla3RzchYCAgEPFggfDgUDMTIwHw8FAjg5Hw0FS2h0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0ltYWdlcy93YXJyaW9yIHNob3VsZGVycyBwcm9qZWt0LXRodW1iLmpwZx8QBSFXYXJyaW9yIFByb2pla3QgU3IuIFNob3VsZGVyIFBhZHNkAgMPFgIfAAVwaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vUHJvdGVjdGl2ZS1FcXVpcG1lbnQvSG9ja2V5LVNob3VsZGVyLVBhZHMvU2VuaW9yLVNob3VsZGVyLVBhZHMvV2FyMTBzcHByb2pla3RzchYCAgEPDxYCHwIFIVdhcnJpb3IgUHJvamVrdCBTci4gU2hvdWxkZXIgUGFkc2RkAgUPDxYCHwIFByQxMDkuOTBkZAIHDw8WAh8CBQckMTM5LjkwZGQCCQ8WAh8ABXBodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Qcm90ZWN0aXZlLUVxdWlwbWVudC9Ib2NrZXktU2hvdWxkZXItUGFkcy9TZW5pb3ItU2hvdWxkZXItUGFkcy9XYXIxMHNwcHJvamVrdHNyFgICAQ8WAh8NBThodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9JbWFnZXMvdmlld19kZXRhaWxzLmdpZmQCBg9kFgoCAQ8WAh8ABV9odHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktQXBwYXJlbC9Ib2NrZXktQXBwYXJlbC9IYXRzLUFuZC1CZWFuaWVzL0Vhc3NjcmVhbWluZWNhcBYCAgEPFggfDgUCODcfDwUCODcfDQVBaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSW1hZ2VzL3NjcmVhbWluJyBlIGNhcC10aHVtYi5qcGcfEAUWRWFzdG9uIFNjcmVhbWluJyBFIENhcGQCAw8WAh8ABV9odHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktQXBwYXJlbC9Ib2NrZXktQXBwYXJlbC9IYXRzLUFuZC1CZWFuaWVzL0Vhc3NjcmVhbWluZWNhcBYCAgEPDxYCHwIFFkVhc3RvbiBTY3JlYW1pbicgRSBDYXBkZAIFDw8WAh8CBQYkMTMuOTBkZAIHDw8WAh8CBQYkMjAuMDBkZAIJDxYCHwAFX2h0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1BcHBhcmVsL0hvY2tleS1BcHBhcmVsL0hhdHMtQW5kLUJlYW5pZXMvRWFzc2NyZWFtaW5lY2FwFgICAQ8WAh8NBThodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9JbWFnZXMvdmlld19kZXRhaWxzLmdpZmQCBw9kFgoCAQ8WAh8ABXtodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktU3RpY2tzL0hvY2tleS1TdGlja3MtU2hhZnRzLS1CbGFkZXMvT25lLVBpZWNlLUNvbXBvc2l0ZS1TdGlja3MvV2FyMTFzdGt3aWRzZWdyaXBpbnQWAgIBDxYIHw4FAjk3Hw8FAjgzHw0FP2h0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0ltYWdlcy93aWRvdyBzZSBibHVlLXRodW1iLmpwZx8QBTFXYXJyaW9yIFdpZG93IFNFIEdyaXAgSW50LiBDb21wb3NpdGUgSG9ja2V5IFN0aWNrZAIDDxYCHwAFe2h0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1TdGlja3MvSG9ja2V5LVN0aWNrcy1TaGFmdHMtLUJsYWRlcy9PbmUtUGllY2UtQ29tcG9zaXRlLVN0aWNrcy9XYXIxMXN0a3dpZHNlZ3JpcGludBYCAgEPDxYCHwIFMVdhcnJpb3IgV2lkb3cgU0UgR3JpcCBJbnQuIENvbXBvc2l0ZSBIb2NrZXkgU3RpY2tkZAIFDw8WAh8CBQckMjA5Ljk5ZGQCBw8PFgIfAgUHJDI1OS45OWRkAgkPFgIfAAV7aHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSG9ja2V5LVN0aWNrcy9Ib2NrZXktU3RpY2tzLVNoYWZ0cy0tQmxhZGVzL09uZS1QaWVjZS1Db21wb3NpdGUtU3RpY2tzL1dhcjExc3Rrd2lkc2VncmlwaW50FgICAQ8WAh8NBThodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9JbWFnZXMvdmlld19kZXRhaWxzLmdpZmQCCA9kFgoCAQ8WAh8ABWZodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktQXBwYXJlbC9Ib2NrZXktQXBwYXJlbC9ULVNoaXJ0cy1BbmQtU3dlYXRzaGlydHMvV2FyMTF0ZWNodGVlbHMWAgIBDxYIHw4FAjcxHw8FAjg4Hw0FPmh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0ltYWdlcy90ZWNoIHRlZS1yZWQtdGh1bWIuanBnHxAFHFdhcnJpb3IgVGVjaCBUZWUgTG9uZyBTbGVldmVkAgMPFgIfAAVmaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSG9ja2V5LUFwcGFyZWwvSG9ja2V5LUFwcGFyZWwvVC1TaGlydHMtQW5kLVN3ZWF0c2hpcnRzL1dhcjExdGVjaHRlZWxzFgICAQ8PFgIfAgUcV2FycmlvciBUZWNoIFRlZSBMb25nIFNsZWV2ZWRkAgUPDxYCHwIFBiQyOC4wMGRkAgcPDxYCHwIFBiQzNS4wMGRkAgkPFgIfAAVmaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSG9ja2V5LUFwcGFyZWwvSG9ja2V5LUFwcGFyZWwvVC1TaGlydHMtQW5kLVN3ZWF0c2hpcnRzL1dhcjExdGVjaHRlZWxzFgICAQ8WAh8NBThodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9JbWFnZXMvdmlld19kZXRhaWxzLmdpZmQCCQ9kFgoCAQ8WAh8ABWRodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktQXBwYXJlbC9Ib2NrZXktQXBwYXJlbC9ULVNoaXJ0cy1BbmQtU3dlYXRzaGlydHMvQmF1MTFoYXdrdGVlFgICAQ8WCB8OBQI1Mx8PBQI4OR8NBTpodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9JbWFnZXMvaGF3ayB0ZWUtdGh1bWIuanBnHxAFIkJhdWVyIEhvY2tleSBIYXdrIFNob3J0IFNsZWV2ZSBUZWVkAgMPFgIfAAVkaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSG9ja2V5LUFwcGFyZWwvSG9ja2V5LUFwcGFyZWwvVC1TaGlydHMtQW5kLVN3ZWF0c2hpcnRzL0JhdTExaGF3a3RlZRYCAgEPDxYCHwIFIkJhdWVyIEhvY2tleSBIYXdrIFNob3J0IFNsZWV2ZSBUZWVkZAIFDw8WAh8CBQYkMjcuMDBkZAIHDw8WAh8CBQYkMzMuMDBkZAIJDxYCHwAFZGh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1BcHBhcmVsL0hvY2tleS1BcHBhcmVsL1QtU2hpcnRzLUFuZC1Td2VhdHNoaXJ0cy9CYXUxMWhhd2t0ZWUWAgIBDxYCHw0FOGh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0ltYWdlcy92aWV3X2RldGFpbHMuZ2lmZAIKD2QWCgIBDxYCHwAFd2h0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1TdGlja3MvSG9ja2V5LVN0aWNrcy1TaGFmdHMtLUJsYWRlcy9PbmUtUGllY2UtQ29tcG9zaXRlLVN0aWNrcy9XYXIxMXN0a3dpZHNlaW50FgICAQ8WCB8OBQI3MR8PBQI4Mx8NBUFodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9JbWFnZXMvd2lkb3cgc2UgcGxhc21zLXRodW1iLmpwZx8QBSxXYXJyaW9yIFdpZG93IFNFIEludC4gQ29tcG9zaXRlIEhvY2tleSBTdGlja2QCAw8WAh8ABXdodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktU3RpY2tzL0hvY2tleS1TdGlja3MtU2hhZnRzLS1CbGFkZXMvT25lLVBpZWNlLUNvbXBvc2l0ZS1TdGlja3MvV2FyMTFzdGt3aWRzZWludBYCAgEPDxYCHwIFLFdhcnJpb3IgV2lkb3cgU0UgSW50LiBDb21wb3NpdGUgSG9ja2V5IFN0aWNrZGQCBQ8PFgIfAgUHJDIwOS45OWRkAgcPDxYCHwIFByQyNTkuOTlkZAIJDxYCHwAFd2h0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1TdGlja3MvSG9ja2V5LVN0aWNrcy1TaGFmdHMtLUJsYWRlcy9PbmUtUGllY2UtQ29tcG9zaXRlLVN0aWNrcy9XYXIxMXN0a3dpZHNlaW50FgICAQ8WAh8NBThodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9JbWFnZXMvdmlld19kZXRhaWxzLmdpZmQCCw9kFgoCAQ8WAh8ABXtodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktU3RpY2tzL0hvY2tleS1TdGlja3MtU2hhZnRzLS1CbGFkZXMvT25lLVBpZWNlLUNvbXBvc2l0ZS1TdGlja3MvV2FyMTFzdGt3aWRzZWdyaXB5dGgWAgIBDxYIHw4FAjk3Hw8FAjgzHw0FP2h0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0ltYWdlcy93aWRvdyBzZSBibHVlLXRodW1iLmpwZx8QBTFXYXJyaW9yIFdpZG93IFNFIEdyaXAgWXRoLiBDb21wb3NpdGUgSG9ja2V5IFN0aWNrZAIDDxYCHwAFe2h0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1TdGlja3MvSG9ja2V5LVN0aWNrcy1TaGFmdHMtLUJsYWRlcy9PbmUtUGllY2UtQ29tcG9zaXRlLVN0aWNrcy9XYXIxMXN0a3dpZHNlZ3JpcHl0aBYCAgEPDxYCHwIFMVdhcnJpb3IgV2lkb3cgU0UgR3JpcCBZdGguIENvbXBvc2l0ZSBIb2NrZXkgU3RpY2tkZAIFDw8WAh8CBQYkNzkuOTlkZAIHDw8WAh8CBQckMTI5Ljk5ZGQCCQ8WAh8ABXtodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktU3RpY2tzL0hvY2tleS1TdGlja3MtU2hhZnRzLS1CbGFkZXMvT25lLVBpZWNlLUNvbXBvc2l0ZS1TdGlja3MvV2FyMTFzdGt3aWRzZWdyaXB5dGgWAgIBDxYCHw0FOGh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0ltYWdlcy92aWV3X2RldGFpbHMuZ2lmZAIMD2QWCgIBDxYCHwAFZWh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1BcHBhcmVsL0hvY2tleS1BcHBhcmVsL1Nob3J0cy1BbmQtU3dlYXRwYW50cy9CYXUxMXN3ZWF0c2hvcnRzFgICAQ8WCB8OBQI2MB8PBQI4OR8NBT1odHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9JbWFnZXMvc3dlYXRzaG9ydHMtdGh1bWIuanBnHxAFEUJhdWVyIFN3ZWF0c2hvcnRzZAIDDxYCHwAFZWh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1BcHBhcmVsL0hvY2tleS1BcHBhcmVsL1Nob3J0cy1BbmQtU3dlYXRwYW50cy9CYXUxMXN3ZWF0c2hvcnRzFgICAQ8PFgIfAgURQmF1ZXIgU3dlYXRzaG9ydHNkZAIFDw8WAh8CBQYkMzQuMDBkZAIHDw8WAh8CBQYkNDAuMDBkZAIJDxYCHwAFZWh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1BcHBhcmVsL0hvY2tleS1BcHBhcmVsL1Nob3J0cy1BbmQtU3dlYXRwYW50cy9CYXUxMXN3ZWF0c2hvcnRzFgICAQ8WAh8NBThodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9JbWFnZXMvdmlld19kZXRhaWxzLmdpZmQCDQ9kFgoCAQ8WAh8ABV1odHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktU2thdGVzL0ljZS1Ib2NrZXktU2thdGVzL1Nlbmlvci1Ta2F0ZXMvQmF1MTBza3R0b25lc3IWAgIBDxYIHw4FAjk3Hw8FAjg2Hw0FPGh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0ltYWdlcy90ZXN0c2thdGVzLXRodW1iLmpwZx8QBSxCYXVlciBTdXByZW1lIFRvdGFsT25lIFNyLiBJY2UgSG9ja2V5IFNrYXRlc2QCAw8WAh8ABV1odHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktU2thdGVzL0ljZS1Ib2NrZXktU2thdGVzL1Nlbmlvci1Ta2F0ZXMvQmF1MTBza3R0b25lc3IWAgIBDw8WAh8CBSxCYXVlciBTdXByZW1lIFRvdGFsT25lIFNyLiBJY2UgSG9ja2V5IFNrYXRlc2RkAgUPDxYCHwIFByQ3OTkuOTlkZAIHDw8WAh8CBQckNzk5Ljk5ZGQCCQ8WAh8ABV1odHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktU2thdGVzL0ljZS1Ib2NrZXktU2thdGVzL1Nlbmlvci1Ta2F0ZXMvQmF1MTBza3R0b25lc3IWAgIBDxYCHw0FOGh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0ltYWdlcy92aWV3X2RldGFpbHMuZ2lmZAIOD2QWCgIBDxYCHwAFe2h0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1TdGlja3MvSG9ja2V5LVN0aWNrcy1TaGFmdHMtLUJsYWRlcy9PbmUtUGllY2UtQ29tcG9zaXRlLVN0aWNrcy9CYXUxMXN0a3ZhcGFweGdyaXBqchYCAgEPFggfDgUCODcfDwUCODcfDQVAaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSW1hZ2VzL2FweCBzdGljayBncmlwLXRodW1iLmpwZx8QBTJCYXVlciBWYXBvciBKci4gQVBYIEdyaXB0YWMgQ29tcG9zaXRlIEhvY2tleSBTdGlja2QCAw8WAh8ABXtodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktU3RpY2tzL0hvY2tleS1TdGlja3MtU2hhZnRzLS1CbGFkZXMvT25lLVBpZWNlLUNvbXBvc2l0ZS1TdGlja3MvQmF1MTFzdGt2YXBhcHhncmlwanIWAgIBDw8WAh8CBTJCYXVlciBWYXBvciBKci4gQVBYIEdyaXB0YWMgQ29tcG9zaXRlIEhvY2tleSBTdGlja2RkAgUPDxYCHwIFByQxODkuOTlkZAIHDw8WAh8CBQckMTg5Ljk5ZGQCCQ8WAh8ABXtodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktU3RpY2tzL0hvY2tleS1TdGlja3MtU2hhZnRzLS1CbGFkZXMvT25lLVBpZWNlLUNvbXBvc2l0ZS1TdGlja3MvQmF1MTFzdGt2YXBhcHhncmlwanIWAgIBDxYCHw0FOGh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0ltYWdlcy92aWV3X2RldGFpbHMuZ2lmZAIPD2QWCgIBDxYCHwAFdmh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1TdGlja3MvSG9ja2V5LVN0aWNrcy1TaGFmdHMtLUJsYWRlcy9PbmUtUGllY2UtQ29tcG9zaXRlLVN0aWNrcy9FYXMxMXN0a3NzdGdyc3IWAgIBDxYIHw4FAjg3Hw8FAjg3Hw0FOWh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0ltYWdlcy9hMTg3MTkxLXRodW1iLmpwZx8QBTFFYXN0b24gU3luZXJneSBTVCBHcmlwIFNyLiBDb21wb3NpdGUgSG9ja2V5IFN0aWNrZAIDDxYCHwAFdmh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1TdGlja3MvSG9ja2V5LVN0aWNrcy1TaGFmdHMtLUJsYWRlcy9PbmUtUGllY2UtQ29tcG9zaXRlLVN0aWNrcy9FYXMxMXN0a3NzdGdyc3IWAgIBDw8WAh8CBTFFYXN0b24gU3luZXJneSBTVCBHcmlwIFNyLiBDb21wb3NpdGUgSG9ja2V5IFN0aWNrZGQCBQ8PFgIfAgUHJDEyOS45MGRkAgcPDxYCHwIFByQxOTkuOTlkZAIJDxYCHwAFdmh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1TdGlja3MvSG9ja2V5LVN0aWNrcy1TaGFmdHMtLUJsYWRlcy9PbmUtUGllY2UtQ29tcG9zaXRlLVN0aWNrcy9FYXMxMXN0a3NzdGdyc3IWAgIBDxYCHw0FOGh0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0ltYWdlcy92aWV3X2RldGFpbHMuZ2lmZAIZD2QWBGYPFgIfBmgWAgIHDw8WAh8CZWRkAgEPZBYwZg8WAh8ABS9odHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktQXBwYXJlbBYCAgEPDxYCHwIFDkhvY2tleSBBcHBhcmVsZGQCAQ8WAh8ABT5odHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktQXBwYXJlbC9Ib2NrZXktQXBwYXJlbBYCAgEPDxYCHwIFDkhvY2tleSBBcHBhcmVsZGQCAg8WAh8ABVdodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Ib2NrZXktQXBwYXJlbC9Ib2NrZXktQXBwYXJlbC9ULVNoaXJ0cy1BbmQtU3dlYXRzaGlydHMWAgIBDw8WAh8CBRhULVNoaXJ0cyBhbmQgU3dlYXRzaGlydHNkZAIDDw8WAh8CBQ5CQVUxMVBVRkZFUkpLVGRkAgQPFgIfAAVDaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSW1hZ2VzL2luc3VsYXRlZCBwdWZmZXIgamFja2V0LmpwZxYCAgEPFggeA2FsdAUdQmF1ZXIgSW5zdWxhdGVkIFB1ZmZlciBKYWNrZXQfDQVJaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSW1hZ2VzL2luc3VsYXRlZCBwdWZmZXIgamFja2V0LXRodW1iLmpwZx8OBQI4Mx8PBQMxNTBkAgUPFgIfAAVDaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vSW1hZ2VzL2luc3VsYXRlZCBwdWZmZXIgamFja2V0LmpwZ2QCCA8PFgIfAgUdQmF1ZXIgSW5zdWxhdGVkIFB1ZmZlciBKYWNrZXRkZAIJDw8WAh8CBQYkOTQuMDBkZAIKD2QWAgIBDw8WAh8CBQckMTA2LjAwZGQCCw9kFgICAQ88KwANAQAPFgQfBWcfCwIBZBYCZg9kFgZmDw8WAh8GaGRkAgEPZBYCZg9kFgQCAQ8PFgIfAgUSQmF1ZXIgVGVlcy9Ib29kaWVzZGQCAw8QDxYGHwVnHwMFEVByb2R1Y3RPcHRpb25OYW1lHwQFDk9wdGlvbkRldGFpbElEZBAVBw1DaG9vc2UgT3B0aW9uDUFkdWx0LVgtU21hbGwLQWR1bHQtU21hbGwMQWR1bHQtTWVkaXVtC0FkdWx0LUxhcmdlDUFkdWx0LVgtTGFyZ2UOQWR1bHQtWFgtTGFyZ2UVBwADNTMxAzM4NwMzODgDMzg5AzM5MAMzOTEUKwMHZ2dnZ2dnZ2RkAgIPDxYCHwZoZGQCDA9kFgJmD2QWBgIND2QWBgIBDw8WAh8JBTFodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9pbWFnZXMvQ2xvc2UuSlBHZGQCEw8PFgQfDAUxaHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vQ2FydERldGFpbHMuYXNweB8JBUFodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9pbWFnZXMvY2hlY2tvdXQtcG9wdXAtYnV0dG9uLmpwZ2RkAhUPDxYCHwkFQ2h0dHA6Ly93d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL2ltYWdlcy9jb250aW51ZS1zaG9wcGluZy1wb3B1cC5qcGdkZAIRDw8WAh8CZWRkAhMPDxYCHwJlZGQCDQ8WAh8GaGQCDg8WAh8GaBYCZg9kFgICBQ8WAh4FVmFsdWUFBzk0LjAwMDBkAg8PFgIfBmhkAhAPFgIfBmhkAhEPFgIfBmhkAhIPFgIfBmhkAhMPDxYCHwIFmgFGYWJyaWMgU2hlbGw6IDEwMCUgTnlsb24gLyBGaWxsOiAxMDAlIFBvbHllc3RlciANCkRldGFpbHMgRnVsbHkgcXVpbHRlZCwgc2hvY2sgY29yZCBwdWxsIGF0IGhlbSBGcm9udCBwb2NrZXRzIGFuZCBob29kIEJBVUVSIGxvZ28gZW1icm9pZGVyeSBvbiBsZWZ0IGNoZXN0ZGQCFQ88KwAJAQAPFgQfChYAHwsC/////w9kZAIYDxYCHwZoFgICAQ88KwAJAGQCGQ8WCB8RBQVCYXVlch8NBTdodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9JbWFnZXMvQmF1ZXItdGh1bWIuanBnHw4FAzEyMB8PBQIxNGQCGg8PFgIfAgUFQmF1ZXJkZAIbDw8WAh8CBaACPHA+QmF1ZXIgSG9ja2V5LCBJbmMgaXMgYW4gaW5ub3ZhdGl2ZSBob2NrZXkgc2thdGVzIGFuZCBnZWFyIG1hbnVmYWN0dXJlci4gQmF1ZXIgd2FzIGZvdW5kZWQgaW4gMTkyNyAuIEJhdWVyIGlzIHRoZSBtYXJrZXQgbGVhZGVyIGluIHRoZSBob2NrZXkgZXF1aXBtZW50IGFuZCBhcHBhcmVsIG1hcmtldCBpbiBVU0EsIENhbmFkYSBhbmQgRXVyb3BlLiBHcmVlbmxhbmQsIE5IIGlzIHRoZSB3b3JsZCBjb3Jwb3JhdGUgSFEsIHdpdGggcmVnaW9uYWwgb2ZmaWNlcyBpbiBDYW5hZGEgYW5kIFN3ZWRlbi48L3A+ZGQCHQ8WAh8ABSZodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9CYXVlcmQCGw9kFgJmDxYCHglpbm5lcmh0bWwF2wYgPGxpIHN0eWxlPSd3aWR0aDoyNTlweDsgaGVpZ2h0OjEyNnB4Oyc+ICA8aW1nIHNyYz0naHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vaW1hZ2VzL1RvdGFsb25lLWdsb3Zlcy1mb3Itd2ViLWZpbi5qcGcnIG9uY2xpY2s9J1JlZGlyZWN0TGluaygid3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9Qcm90ZWN0aXZlLUVxdWlwbWVudC9Ib2NrZXktR2xvdmVzL1Nlbmlvci1Ib2NrZXktR2xvdmVzL0JhdTExZ2x2dG90YWwxIik7JyAgd2lkdGg9JzMwMCcgaGVpZ2h0PScxMjYnIC8+IDwvbGk+ICA8bGkgc3R5bGU9J3dpZHRoOjI1OXB4OyBoZWlnaHQ6MTI2cHg7Jz4gIDxpbWcgc3JjPSdodHRwOi8vd3d3LmJyaG9ja2V5ZXF1aXBtZW50LmNvbS9pbWFnZXMvU3RlYWx0aCBSUyBjb3B5LmpwZycgb25jbGljaz0nUmVkaXJlY3RMaW5rKCJ3d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1TdGlja3MvSG9ja2V5LVN0aWNrcy1TaGFmdHMtLUJsYWRlcy9PbmUtUGllY2UtQ29tcG9zaXRlLVN0aWNrcy9FYXMxMXN0a3N0ZWFsdGhycyIpOycgIHdpZHRoPSczMDAnIGhlaWdodD0nMTI2JyAvPiA8L2xpPiAgPGxpIHN0eWxlPSd3aWR0aDoyNTlweDsgaGVpZ2h0OjEyNnB4Oyc+ICA8aW1nIHNyYz0naHR0cDovL3d3dy5icmhvY2tleWVxdWlwbWVudC5jb20vaW1hZ2VzL3RvdGFsb25lIGxlIHdoaXRlLmpwZycgb25jbGljaz0nUmVkaXJlY3RMaW5rKCJ3d3cuYnJob2NrZXllcXVpcG1lbnQuY29tL0hvY2tleS1TdGlja3MvSG9ja2V5LVN0aWNrcy1TaGFmdHMtLUJsYWRlcy9PbmUtUGllY2UtQ29tcG9zaXRlLVN0aWNrcy9CYXUxMnRvdDF3aHQiKTsnICB3aWR0aD0nMzAwJyBoZWlnaHQ9JzEyNicgLz4gPC9saT4gZBgCBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAwUaY3RsMDAkSGVhZGVyMSRpbWdLZXlTZWFyY2gFH2N0bDAwJGNwaEFjdHVhbFNpdGUkaWJUYXNrQ2xvc2UFHmN0bDAwJGNwaEFjdHVhbFNpdGUkaWJDb250aW51ZQUeY3RsMDAkY3BoQWN0dWFsU2l0ZSRncmRPcHRpb25zDxQrAApkZGRkZGQVAQhPcHRpb25JRBQrAAEUKwABAhsCARQrAAECG2T2byCmS6XgLUYTrnY3jZqzGy+huQ==" />
+</div>
+
+
+<script src="/ScriptResource.axd?d=ZLe3NWDxHBmUVNj7baD76xVSCq8VovcAnzbVnKZD0SWc8UyHXC-YiDyJLKp__NR_F1ecKlg1dmCtMwOOqPSOxG1PrOiRIurZmwDZnzxfzgYXUld_nqFE1MbAFUeUQcQlxepUEUo2Sq18ls7-65qZio70mNtWIhA5M8TvH--Y1qJx8A4D0&amp;t=77e10878" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=qu6YIPQ49gwBJtiNOk36954W3hMXP5wlDwVT0k-sCpY2NK1NP6FgraWTC58eYnSXJsxBEHGvCmDpkgWl3LGHZFMjcOKJTlOLvDqzJrPyy8JjBAQoqR5UTmPJaAaTfO9xK1TYY3etyMMtA-G7fkHm1zxSVRE1&amp;t=1a3f2f46" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qJ2po5iPmRWi3DC36437ao5BxmTZd367m55vEXPHd31DvqOFsPgwYRchTWBOXgQ-_mWJxi17bepONSls6cDjGHR-VcBYlfwSpeMt21hHZdmAtcVS89hLgZ927L4iMLQPFp5faWdcs3eLnnLreBNqxCL77ao1&amp;t=1a3f2f46" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qjwAB-Ga4J5TSh6NSsSrxYCS3pUORTy34JmfXvzuzqEozD-7UWfpIxM8vsVQBjfvVzVz_54s2V0DPEcFiEPp5KGHdT9T5I8NyK8wwVYlbQRYkJClxPZBoxH4gNH7E1-xVg_GXFJHtimMdCxO2zAaNQk6BltsZ-oTa5NpBhrvnDfTBfPl0&amp;t=1a3f2f46" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=e4-rzcz6t14pslCtm_3ogCZ-a5qLu-x7HAeCMInaOzbuxE2uX-V08tLDAd1CMsfmpk44PCNH7g1DRmCPnxVvr8kL6p43zxD9eddJ5MDRlicd6Q817JYNkdpOScRd7QdZXe4uScNyXHRiG9iT_zDCPQ6knBM1&amp;t=1a3f2f46" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=kuDVoZ-u6BYYWcNsQ_8wdcRQVCO5Fb6ZLXE4YcUMHUlTcO2-BknwDOov_Ko2d1g8-HMEFSLIDqzFWpgtQez7EIbTZeOlLQHjF8E0TTohCVhQ3hepqukuWN3-QrAZPfE_MpYhwZpAUpqMohfezbK-X3bcyvpd0--5GflfIWd0C7hAMLz80&amp;t=1a3f2f46" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=wT7bUf0R0K4sczVWwYX0J52Uz4rPG_JIPI-mW_aVBgiQyFYgg1Pi7v32f-H6rnfJxqGF649GifCLpKeJ4UnX729j1DwIx_gKWYPK4E1JEakZDa-8klVqUvVF4shrqopIe1--M1CdSGpA9WAVO_hE_cRkN5pg89Az7wl_D6lJpW5-SNdp0&amp;t=1a3f2f46" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=IVsDTFU6bmFbevUqgD6pjpCd4yXY8etsP-giixf43GX2MQvRhX6lJ0_E76xUwFLmmEU4HEWZXZ7ANqRtdPHo9vTrPqAapEGsurHJwlYYoIfyKiGPCNwU8HHyO0r7rQz95Gc0gAY6MR4XqHABB0OlCJFWnz0laqWloDMZZnAta9CbSsQA0&amp;t=1a3f2f46" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=P1lNVVLbWYsVtzZTDJX4iKURmiaiYyyMjBGClRuHL1_TR1RumdZ1ma3pwaePzKHsDOPt3DLyjSF_xEZjPuAPmQvmx09mHlBre-p13VTY2JRS_OfeuS6mdL_YXflxUJZ6ns2JsEC8agxZt5G5uZzEG2Varp41&amp;t=1a3f2f46" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=tlH0dBKkduVlrl50hsUuahHv6UNm5ZX3jXX30Vkc8763fXYgU7HjFe-ld692MOJ6Rqw0kBpfd6IMPgS-U0tOwic3H4YLvDJktxRenZ4TJPi0IW5DzwRRqSJl6w2EIe8iG6IHirP2r7jCHjJ20Gx3B3D38nZkteFEbtY4sumf8xMLvaL40&amp;t=1a3f2f46" type="text/javascript"></script>
+
+<!-- Login pop up tab -->
+<div id="ctl00_plLoginTab" style="display: none">
+	    
+        <div class="popup_Wrap">
+         <div class="popup">
+            <p class="closeicon"><img id="imgCloseTab" src="http://www.brhockeyequipment.com/images/close_icon.gif" width="12" height="11" /></p>
+            <div class="poptab">
+                <ul>
+                    <li><a id="aLogin" onclick="javascript:ShowLoginTabs(1);" href="javascript:void(0);" class="select">Login to My Account</a></li>
+                    <li><a id="aCreateAccount" href="javascript:void(0);" onclick="javascript:ShowLoginTabs(2);">Create an Account</a></li>
+                </ul>
+            </div>
+            
+            <div id="dLogin" class="pop_content">
+                <div class="formwrap">
+                    <div style="width:100%;text-align:center;">
+                        <span id="ctl00_lblLoginError" class="error-text"></span>
+                    </div>                        
+                <div id="ctl00_plLogin">
+		        
+                <ul>
+                    <li class="formlableleft">
+                        Email
+                        &nbsp;                        
+                    </li>
+                    <li class="formlablelright">
+                        <input name="ctl00$txtEmail" type="text" maxlength="100" id="ctl00_txtEmail" class="cartinput" style="width:220px;" />
+                        &nbsp;                      
+                     </li>
+                </ul>
+                <ul>
+                    <li class="formlableleft">
+                        Password
+                        &nbsp;                        
+                    </li>
+                    <li class="formlablelright">
+                        <input name="ctl00$txtUserPassword" type="password" maxlength="16" id="ctl00_txtUserPassword" class="cartinput" style="width:220px;" />
+                    </li>
+                </ul>
+                <ul>
+                    <li class="formlableleft">&nbsp;</li>
+                    <li class="formlablelright"><a href="#">Forgot Password ?</a></li>
+                </ul>
+                <ul>
+                    <li class="formlableleft">
+                        
+                    </li>
+                    <li class="formlablelright">
+                        <input type="submit" name="ctl00$btLogin" value="Login &amp; Checkout" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btLogin&quot;, &quot;&quot;, true, &quot;LoginTab&quot;, &quot;&quot;, false, false))" id="ctl00_btLogin" class="bluebutton" />
+                    </li>
+                </ul>
+                
+	</div>
+                
+                <ul>
+                    <li class="formlableleft"></li>
+                    <li class="formlablelright">
+                    <input type="checkbox" name="checkbox" id="checkbox" />Remember me  <a href="#">What's this</a></li>
+                </ul>
+                </div>
+            </div>           
+            
+            <div id="ctl00_plCreateAccount">
+		  
+            <div id="dCreateAccount" class="pop_content" style="display:none;">
+                <div class="formwrap">
+                    <div style="width: 100%; text-align: center;">
+                        <span id="ctl00_lblNewAccountSuccess" class="success-text"></span>
+                        <span id="ctl00_lblNewAccountError" class="error-text"></span>
+                    </div>
+                    <ul>
+                        <li class="formlableleft">
+                            First Name
+                            &nbsp;                                                    
+                        </li>
+                        <li class="formlablelright">
+                            <input name="ctl00$txtFirstName" type="text" maxlength="100" id="ctl00_txtFirstName" class="cartinput" style="width:220px;" />
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="formlableleft">
+                            Last Name
+                            &nbsp;                             
+                        </li>
+                        <li class="formlablelright">
+                            <input name="ctl00$txtLastName" type="text" maxlength="100" id="ctl00_txtLastName" class="cartinput" style="width:220px;" />
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="formlableleft">
+                            Email
+                            &nbsp;                                                            
+                        </li>
+                        <li class="formlablelright">
+                            <input name="ctl00$txtUserEmail" type="text" maxlength="100" id="ctl00_txtUserEmail" class="cartinput" style="width:220px;" />
+                            &nbsp;
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="formlableleft">
+                            Confirm Email
+                            &nbsp;                            
+                        </li>
+                        <li class="formlablelright">
+                            <input name="ctl00$txtReEmail" type="text" maxlength="100" id="ctl00_txtReEmail" class="cartinput" style="width:220px;" />
+                            &nbsp;                             
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="formlableleft">
+                            Password
+                            &nbsp;                            
+                        </li>
+                        <li class="formlablelright">
+                            <input name="ctl00$txtPassword" type="password" maxlength="16" id="ctl00_txtPassword" class="cartinput" style="width:220px;" />
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="formlableleft">
+                            Confirm Password
+                            &nbsp;                            
+                        </li>
+                        <li class="formlablelright">
+                            <input name="ctl00$txtConfirmPass" type="password" maxlength="16" id="ctl00_txtConfirmPass" class="cartinput" style="width:220px;" />                            
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="formlableleft">
+                            Company 
+                                                       
+                        </li>
+                        <li class="formlablelright">
+                            <input name="ctl00$txtCompany" type="text" maxlength="100" id="ctl00_txtCompany" class="cartinput" style="width:220px;" />
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="formlableleft">
+                           Address 1                            
+                        </li>
+                        <li class="formlablelright">
+                            <input name="ctl00$txtAddress1" type="text" maxlength="100" id="ctl00_txtAddress1" class="cartinput" style="width:220px;" />
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="formlableleft">
+                           Address 2
+                                                      
+                        </li>
+                        <li class="formlablelright">
+                            <input name="ctl00$txtAddress2" type="text" maxlength="100" id="ctl00_txtAddress2" class="cartinput" style="width:220px;" />
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="formlableleft">
+                            City
+                                                       
+                        </li>
+                        <li class="formlablelright">
+                            <input name="ctl00$txtCity" type="text" maxlength="100" id="ctl00_txtCity" class="cartinput" style="width:220px;" />
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="formlableleft">
+                           	 Zip/Postal Code
+                                                      
+                        </li>
+                        <li class="formlablelright">
+                            <input name="ctl00$txtZip" type="text" maxlength="100" id="ctl00_txtZip" class="cartinput" style="width:220px;" />
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="formlableleft">
+                           	Phone Number  
+                                                      
+                        </li>
+                        <li class="formlablelright">
+                            <input name="ctl00$txtPhone" type="text" maxlength="100" id="ctl00_txtPhone" class="cartinput" style="width:220px;" />
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="formlableleft">
+                            State
+                                                      
+                        </li>
+                        <li class="formlablelright">
+                            <select name="ctl00$ddlState" id="ctl00_ddlState" class="cartddlinput">
+			<option value="-1">Select State</option>
+			<option value="1">Alabama</option>
+			<option value="4">Arkansas</option>
+			<option value="5">Arizona</option>
+			<option value="7">California</option>
+			<option value="8">Colorado</option>
+			<option value="9">Connecticut</option>
+			<option value="10">District of Columbia</option>
+			<option value="11">Delaware</option>
+			<option value="12">Florida</option>
+			<option value="13">Georgia</option>
+			<option value="15">Iowa</option>
+			<option value="16">Idaho</option>
+			<option value="17">Illinois</option>
+			<option value="18">Indiana</option>
+			<option value="19">Kansas</option>
+			<option value="20">Kentucky</option>
+			<option value="21">Louisiana</option>
+			<option value="22">Massachusetts</option>
+			<option value="23">Michigan</option>
+			<option value="24">Maryland</option>
+			<option value="25">Maine</option>
+			<option value="26">Minnesota</option>
+			<option value="27">Missouri</option>
+			<option value="28">Mississippi</option>
+			<option value="29">Montana</option>
+			<option value="30">Nebraska</option>
+			<option value="31">Nevada</option>
+			<option value="32">New Hampshire</option>
+			<option value="33">New Jersey</option>
+			<option value="34">New Mexico</option>
+			<option value="35">New York</option>
+			<option value="37">North Carolina</option>
+			<option value="38">North Dakota</option>
+			<option value="39">Ohio</option>
+			<option value="40">Oklahoma</option>
+			<option value="42">Oregon</option>
+			<option value="43">Pennsylvania</option>
+			<option value="45">Rhode Island</option>
+			<option value="47">South Carolina</option>
+			<option value="48">South Dakota</option>
+			<option value="49">Tennessee</option>
+			<option value="50">Texas</option>
+			<option value="51">Utah</option>
+			<option value="52">Vermont</option>
+			<option value="53">Virginia</option>
+			<option value="54">Washington</option>
+			<option value="55">West Virginia</option>
+			<option value="56">Wisconsin</option>
+			<option value="57">Wyoming</option>
+
+		</select>
+                            
+                        </li>
+                    </ul>
+                   
+                    
+                    <ul>
+                        <li class="formlableleft"></li>
+                        <li class="formlablelright">
+                            <input type="submit" name="ctl00$btCreateAccount" value="Create Account" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btCreateAccount&quot;, &quot;&quot;, true, &quot;CreatAccount&quot;, &quot;&quot;, false, false))" id="ctl00_btCreateAccount" class="grybutton" />                            
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="formlableleft"></li>
+                        <li class="formlablelright">
+                        <input type="checkbox" name="checkbox" id="checkbox1" />
+                        Remember me  <a href="#">What's this</a>?</li>
+                    </ul>
+                    <ul>
+                        <li>
+                             
+                        </li>
+                    </ul>               
+                    <ul>
+                        <li>
+                            
+                        </li>
+                    </ul>                
+                    <ul>
+                        <li>
+                            
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            
+	</div>
+        </div>
+        </div>
+    
+</div>
+<div id="ctl00_EmailSignup" style="display: none">
+	    
+      <div class="popup_Wrap">
+              <div class="popup">
+                 <p class="closeicon"><img id="imgClosePopup" src="http://www.brhockeyequipment.com/images/close_icon.gif" width="12" height="11" /></p>
+                    <div id="ctl00_DivSignup" class="pop_content" style="display:block;">
+                          <div class="formwrap">
+                            <p>
+                           <span style="font-size:16; font-weight:bold;" >  Email Newsletter Sign Up  </span></p>
+                             <p>
+                             Receive B & R Sports exclusive emails regarding New  
+                             arrivals,specials and promotions on all your favourite 
+                             hockey quipment and apparel
+                             </p>
+                             <div>
+                             Email Address : <input name="ctl00$txtsignUpEmail" type="text" maxlength="90" id="ctl00_txtsignUpEmail" style="width:200px;" />
+                              &nbsp;  
+                            
+                             &nbsp;     
+                            
+                             </div>
+                          <div style="text-align:right; padding-right:10px; padding-top:0px;">
+                             <input type="submit" name="ctl00$btnSignUp" value="Sign Up" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnSignUp&quot;, &quot;&quot;, true, &quot;SignUp&quot;, &quot;&quot;, false, false))" id="ctl00_btnSignUp" class="grybutton" style="color:Black;width:100px;" /></div>
+                          
+                          <p> &nbsp;
+                          </p>
+                          </div>
+                    </div>
+                    
+                    <div id="ctl00_DivThankYou" class="pop_content" style="display:none;">
+                      <div class="formwrap">
+                             <p>
+                             Thank you for signing up for the B&R Sports 
+                             news and promotional e-mails.
+                             </p>
+                             <div style="text-align:right; padding-right:10px; padding-top:0px;">
+                             <input type="submit" name="ctl00$btnThankyou" value="Ok" id="ctl00_btnThankyou" class="grybutton" style="color:Black;width:100px;" /></div>
+                            <br />
+                             
+                      </div>                             
+                    </div>
+              </div>
+      </div>
+    
+</div>
+
+
+<input type="submit" name="ctl00$btHideLogin" value="Hide" id="ctl00_btHideLogin" style="display: none;" />
+<input type="submit" name="ctl00$btHideSignUp" value="Hide" id="ctl00_btHideSignUp" style="display: none;" />
+<input type="hidden" name="ctl00$hfFromCartPage" id="ctl00_hfFromCartPage" value="0" />
+<input type="hidden" name="ctl00$hfForReviewPage" id="ctl00_hfForReviewPage" value="0" />
+<!-- Login pop up tab -->
+<div class="outerwrap">
+    
+
+
+<script type="text/javascript">
+
+        function clearTextForSearch() {
+                    if (document.getElementById('ctl00_Header1_txtKeySearch').value == "Keyword Search")
+                    {
+                        document.getElementById('ctl00_Header1_txtKeySearch').value = "";
+                    }
+                }
+
+        function resetTextForSearch() {
+                    if (document.getElementById('ctl00_Header1_txtKeySearch').value == "")
+                    {
+                        document.getElementById('ctl00_Header1_txtKeySearch').value = "Keyword Search";
+                    }                
+                }   
+                
+                
+        function SearchonEnterHit()
+        {
+         	if (window.event.keyCode == 13)
+         	{
+         	document.getElementById('ctl00_Header1_imgKeySearch').click();
+         	}
+        }        
+                
+</script>
+ 
+<div class="headerwrap">
+    <div class="col1_logo">
+        <a href='http://www.brhockeyequipment.com/default.aspx'>
+            <img src='http://www.brhockeyequipment.com/images/brsportslogo.png' alt="B&R Sports " border="0" /></a></div>
+    <div class="SocialNetworking" >
+        
+        Follow us on:<br />
+            <a target="_blank" href="http://www.twitter.com/BandR_Sports">
+                <img src='http://www.brhockeyequipment.com/images/twitter-icon.png' alt="twitter" border="0" />                
+            </a>
+            <a target="_blank" href="http://www.facebook.com/BRsports">
+                <img src='http://www.brhockeyequipment.com/images/facebook-icon.png' alt="twitter" border="0" />        
+            </a>             
+    </div>
+    <div class="header_right">
+        <div class="col2_call">
+            <div class="shopping">
+                <div id="ctl00_Header1_trLogin" class="signup"><a id="ctl00_Header1_lnkSignup" href="javascript:__doPostBack('ctl00$Header1$lnkSignup','')">E-mail Sign Up</a> | <a id="ctl00_Header1_lbLogin" href="javascript:__doPostBack('ctl00$Header1$lbLogin','')">Log In / Register</a></div>
+                
+                <div style="text-align: right;">
+                    <a href="javascript:alert('No items available');" id="ctl00_Header1_lnkRequestQuote"><span>Shopping Cart</span></a> | Total: <a href="javascript:alert('No items available');" id="ctl00_Header1_lnkRequestQuoteTotal">
+                        <span id="ctl00_Header1_lblCartTotal">$0.00</span></a></div>
+            </div>
+            <div class="search_section">
+                 
+                    <input name="ctl00$Header1$txtKeySearch" type="text" value="Keyword Search" maxlength="60" id="ctl00_Header1_txtKeySearch" onfocus="clearTextForSearch()" onblur="resetTextForSearch()" style="height:20px;width:150px;" /><input type="image" name="ctl00$Header1$imgKeySearch" id="ctl00_Header1_imgKeySearch" class="header_search_img" onkeydown="Javascript:SearchonEnterHit();" src="http://www.brhockeyequipment.com/Images/search_go_button.png" style="height:23px;width:23px;border-width:0px;" />
+                    
+                 
+            </div>
+        </div>
+        <div class="col3_toplink">
+            <a href='http://www.brhockeyequipment.com/VendorDisplay.aspx'>Shop by Brand</a> <a  href='http://www.brhockeyequipment.com/NewItems.aspx'>New Items</a>
+            <a href='http://www.brhockeyequipment.com/clearancesales'>Clearance </a><a href='http://www.brhockeyequipment.com/Team-Sales'>Team Sales</a> </div>
+    </div>
+</div>
+<div class="maindiv">
+    <div class="menuwrap">
+        <ul>
+            <li><a href='http://www.brhockeyequipment.com/Hockey-Skates'>Hockey<br />
+                Skates</a></li>
+            <li><a href='http://www.brhockeyequipment.com/Protective-Equipment'>Protective<br />
+                Equipment</a></li>
+            <li><a href='http://www.brhockeyequipment.com/Hockey-Sticks'>Hockey<br />
+                Sticks</a></li>
+            <li><a href='http://www.brhockeyequipment.com/Hockey-Bags'>Hockey<br />
+                Bags</a></li>
+            <li><a href='http://www.brhockeyequipment.com/Hockey-Accessories'>Hockey<br />
+                Accessories</a></li>
+            <li><a href='http://www.brhockeyequipment.com/Hockey-Apparel'>Hockey<br />
+                Apparel</a></li>
+            <li><a href='http://www.brhockeyequipment.com/Jerseys-and-Socks'>Jerseys<br />
+                &amp; Socks</a></li>
+            <li><a href='http://www.brhockeyequipment.com/Hockey-Nets'>Hockey<br />
+                Nets</a></li>
+            <li><a href='http://www.brhockeyequipment.com/Goalie-Equipment'>Goalie<br />
+                Equipment</a></li>
+            <li class="last"><a href='http://www.brhockeyequipment.com/Referee-Equipment'>Referee<br />
+                Equipment</a></li>
+        </ul>
+    </div>
+
+    
+    <div>
+        
+<div class="TeamSalesBanner_Display">
+    
+    <table id="ctl00_TeamSalesBanner1_dlstBannerList" cellspacing="3" cellpadding="5" border="0" style="border-width:0px;">
+	<tr>
+		<td>
+            <div style="text-align: left; margin-bottom: 2px;">
+                <div style="float:left;">
+                    <input type="hidden" name="ctl00$TeamSalesBanner1$dlstBannerList$ctl00$hfBannerURL" id="ctl00_TeamSalesBanner1_dlstBannerList_ctl00_hfBannerURL" value="http://www.brhockeyequipment.com/TeamSales/Grizzlies" />
+                    <input type="hidden" name="ctl00$TeamSalesBanner1$dlstBannerList$ctl00$hfBannerImage" id="ctl00_TeamSalesBanner1_dlstBannerList_ctl00_hfBannerImage" value="5838_1111.jpg" />
+                    <a id="ctl00_TeamSalesBanner1_dlstBannerList_ctl00_hlBannerURL" href="http://www.brhockeyequipment.com/TeamSales/Grizzlies"><img src="http://www.brhockeyequipment.com/images/BannerImages/5838_1111.jpg" id="ctl00_TeamSalesBanner1_dlstBannerList_ctl00_imgBannerImage" alt="Team Sales Banner" border="0" /></a>
+                </div>
+            </div>
+        </td>
+	</tr>
+</table>
+</div>
+
+    </div>
+    
+    
+<div class="leftpanel">
+    <div id="ctl00_SubCatLeftNavMenu1_dCateorySubCategory" class="leftpanel_links">
+        <h6 class="dashed">
+            <span id="ctl00_SubCatLeftNavMenu1_lblCategoryName">Hockey Apparel</span>
+        </h6>
+        <ul><li><a href='http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel'>Hockey Apparel</a></li></ul> 
+    </div>
+    <div class="leftpanel_featuresproduct">
+        
+                <h4 class="bluebk">
+                    Featured Product</h4>
+                <div class="left_featured_wrap">
+                    <div style="direction: ltr;">
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Bau12tot1lewhtint" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl01_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/totalonelewhite copy-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl01_imgItem" width="87" height="82" border="0" title="Bauer Supreme TotalOne LE Int. Composite Hockey Stick" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Bau12tot1lewhtint" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl01_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl01_lblItemName">Bauer Supreme TotalOne LE Int. Composite Hockey Stick</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl01_lblItemPrice">$219.99</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl01_lblMSRP">$219.99</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Bau12tot1lewhtint" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl01_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl01_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Bau11stkt1leyth" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl02_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/Totalone LE stick-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl02_imgItem" width="87" height="87" border="0" title="Bauer SUPREME TotalOne Limited Edition (Red) Yth. Composite Hockey Stick" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Bau11stkt1leyth" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl02_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl02_lblItemName">Bauer SUPREME TotalOne Limited Edition (Red) Yth. Composite Hockey Stick</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl02_lblItemPrice">$59.99</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl02_lblMSRP">$59.99</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Bau11stkt1leyth" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl02_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl02_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Accessories/Hockey-Accessories/Mouth-Guards/Mogomouthguard" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl03_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/MOGOMOUTHGUARDFP-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl03_imgItem" width="120" height="79" border="0" title="Mogo Mouthguard" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Accessories/Hockey-Accessories/Mouth-Guards/Mogomouthguard" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl03_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl03_lblItemName">Mogo Mouthguard</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl03_lblItemPrice">$12.00</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl03_lblMSRP">$15.00</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Accessories/Hockey-Accessories/Mouth-Guards/Mogomouthguard" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl03_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl03_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Skates/Ice-Hockey-Skates/Senior-Skates/Bau10skt1100sr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl04_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/sk_sup_one100_high-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl04_imgItem" width="97" height="88" border="0" title="Bauer Supreme One100 Sr. Ice Hockey Skates" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Skates/Ice-Hockey-Skates/Senior-Skates/Bau10skt1100sr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl04_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl04_lblItemName">Bauer Supreme One100 Sr. Ice Hockey Skates</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl04_lblItemPrice">$599.99</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl04_lblMSRP">$599.99</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Skates/Ice-Hockey-Skates/Senior-Skates/Bau10skt1100sr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl04_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl04_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Protective-Equipment/Hockey-Shoulder-Pads/Senior-Shoulder-Pads/War10spprojektsr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl05_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/warrior shoulders projekt-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl05_imgItem" width="120" height="89" border="0" title="Warrior Projekt Sr. Shoulder Pads" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Protective-Equipment/Hockey-Shoulder-Pads/Senior-Shoulder-Pads/War10spprojektsr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl05_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl05_lblItemName">Warrior Projekt Sr. Shoulder Pads</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl05_lblItemPrice">$109.90</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl05_lblMSRP">$139.90</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Protective-Equipment/Hockey-Shoulder-Pads/Senior-Shoulder-Pads/War10spprojektsr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl05_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl05_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel/Hats-And-Beanies/Easscreaminecap" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl06_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/screamin' e cap-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl06_imgItem" width="87" height="87" border="0" title="Easton Screamin' E Cap" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel/Hats-And-Beanies/Easscreaminecap" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl06_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl06_lblItemName">Easton Screamin' E Cap</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl06_lblItemPrice">$13.90</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl06_lblMSRP">$20.00</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel/Hats-And-Beanies/Easscreaminecap" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl06_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl06_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/War11stkwidsegripint" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl07_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/widow se blue-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl07_imgItem" width="97" height="83" border="0" title="Warrior Widow SE Grip Int. Composite Hockey Stick" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/War11stkwidsegripint" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl07_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl07_lblItemName">Warrior Widow SE Grip Int. Composite Hockey Stick</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl07_lblItemPrice">$209.99</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl07_lblMSRP">$259.99</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/War11stkwidsegripint" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl07_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl07_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel/T-Shirts-And-Sweatshirts/War11techteels" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl08_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/tech tee-red-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl08_imgItem" width="71" height="88" border="0" title="Warrior Tech Tee Long Sleeve" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel/T-Shirts-And-Sweatshirts/War11techteels" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl08_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl08_lblItemName">Warrior Tech Tee Long Sleeve</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl08_lblItemPrice">$28.00</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl08_lblMSRP">$35.00</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel/T-Shirts-And-Sweatshirts/War11techteels" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl08_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl08_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel/T-Shirts-And-Sweatshirts/Bau11hawktee" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl09_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/hawk tee-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl09_imgItem" width="53" height="89" border="0" title="Bauer Hockey Hawk Short Sleeve Tee" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel/T-Shirts-And-Sweatshirts/Bau11hawktee" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl09_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl09_lblItemName">Bauer Hockey Hawk Short Sleeve Tee</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl09_lblItemPrice">$27.00</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl09_lblMSRP">$33.00</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel/T-Shirts-And-Sweatshirts/Bau11hawktee" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl09_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl09_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/War11stkwidseint" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl10_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/widow se plasms-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl10_imgItem" width="71" height="83" border="0" title="Warrior Widow SE Int. Composite Hockey Stick" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/War11stkwidseint" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl10_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl10_lblItemName">Warrior Widow SE Int. Composite Hockey Stick</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl10_lblItemPrice">$209.99</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl10_lblMSRP">$259.99</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/War11stkwidseint" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl10_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl10_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/War11stkwidsegripyth" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl11_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/widow se blue-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl11_imgItem" width="97" height="83" border="0" title="Warrior Widow SE Grip Yth. Composite Hockey Stick" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/War11stkwidsegripyth" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl11_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl11_lblItemName">Warrior Widow SE Grip Yth. Composite Hockey Stick</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl11_lblItemPrice">$79.99</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl11_lblMSRP">$129.99</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/War11stkwidsegripyth" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl11_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl11_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel/Shorts-And-Sweatpants/Bau11sweatshorts" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl12_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/sweatshorts-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl12_imgItem" width="60" height="89" border="0" title="Bauer Sweatshorts" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel/Shorts-And-Sweatpants/Bau11sweatshorts" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl12_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl12_lblItemName">Bauer Sweatshorts</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl12_lblItemPrice">$34.00</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl12_lblMSRP">$40.00</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel/Shorts-And-Sweatpants/Bau11sweatshorts" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl12_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl12_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Skates/Ice-Hockey-Skates/Senior-Skates/Bau10skttonesr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl13_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/testskates-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl13_imgItem" width="97" height="86" border="0" title="Bauer Supreme TotalOne Sr. Ice Hockey Skates" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Skates/Ice-Hockey-Skates/Senior-Skates/Bau10skttonesr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl13_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl13_lblItemName">Bauer Supreme TotalOne Sr. Ice Hockey Skates</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl13_lblItemPrice">$799.99</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl13_lblMSRP">$799.99</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Skates/Ice-Hockey-Skates/Senior-Skates/Bau10skttonesr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl13_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl13_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Bau11stkvapapxgripjr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl14_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/apx stick grip-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl14_imgItem" width="87" height="87" border="0" title="Bauer Vapor Jr. APX Griptac Composite Hockey Stick" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Bau11stkvapapxgripjr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl14_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl14_lblItemName">Bauer Vapor Jr. APX Griptac Composite Hockey Stick</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl14_lblItemPrice">$189.99</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl14_lblMSRP">$189.99</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Bau11stkvapapxgripjr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl14_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl14_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                <p>
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Eas11stksstgrsr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl15_lnkImageLink">
+                        <img src="http://www.brhockeyequipment.com/Images/a187191-thumb.jpg" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl15_imgItem" width="87" height="87" border="0" title="Easton Synergy ST Grip Sr. Composite Hockey Stick" />
+                    </a>
+                </p>
+                <p class="prod_descrp">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Eas11stksstgrsr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl15_lnkViewItem">
+                        <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl15_lblItemName">Easton Synergy ST Grip Sr. Composite Hockey Stick</span>
+                    </a>
+                </p>
+                <p class="pricetxt">Our Price:
+                    <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl15_lblItemPrice">$129.90</span></p>
+                <p class="grytxt11">MSRP <span id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl15_lblMSRP">$199.99</span> </p>
+                <p class="viewdetail">
+                    <a href="http://www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Eas11stksstgrsr" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl15_lnkViewDetails">
+                        <img src="http://www.brhockeyequipment.com/Images/view_details.gif" id="ctl00_SubCatLeftNavMenu1_rptFeaturedList_ctl15_imgViewDetails" width="81" height="25" border="0" />
+                    </a>
+                </p>
+                <hr class="linebreak" />
+            
+                </div> </div>
+            
+    </div>
+</div>
+
+    
+    
+    <link href="http://www.brhockeyequipment.com/CSS/visuallightbox.css" rel="stylesheet" type="text/css"
+        media="screen" />
+    <link href="http://www.brhockeyequipment.com/CSS/vlightbox.css" rel="stylesheet" type="text/css" media="screen" />
+
+    <script src="http://www.brhockeyequipment.com/JS/jquery.min.js" type="text/javascript"></script>
+
+    
+    <style type="text/css">
+        #vlightbox a#vlb
+        {
+            display: none;
+        }
+    </style>
+
+    <script type="text/javascript" language="javascript">  
+	
+	function AddItemTeamOrders() {            
+        
+	       var Qty = document.getElementById("ctl00_cphActualSite_txtVolDisQty").value;
+	       
+	       var VolDisQty = document.getElementById("ctl00_cphActualSite_hfVolDisQty").value;
+	      
+	       if(Qty < VolDisQty)
+	       {
+	            alert("Please enter valid quantity for Team Orders");
+	            return false;
+	       }
+
+	       Qty = Qty.toString();
+
+	       for (i = 0; i < Qty.length; i++) {
+	           var c = Qty.charAt(i);
+	           if (isNaN(c)) {
+	               alert("Please enter proper quantity value");
+	               return false;
+	           }
+	       }
+
+		  document.getElementById("ctl00_cphActualSite_imgBuyNowTeamOrders").click();
+		   return true;
+			 
+	}
+	
+	   function AddItem() {
+
+	       var Qty = document.getElementById("ctl00_cphActualSite_txtQty").value;
+
+	       Qty = Qty.toString();
+
+	       for (i = 0; i < Qty.length; i++) {
+	           var c = Qty.charAt(i);
+	           if (isNaN(c)) {
+	               alert("Please enter proper quantity value");
+	               return false;
+	           }
+	       }
+
+		  document.getElementById("ctl00_cphActualSite_imgRequestQuoteLarge").click();
+		   return true;			 
+	}
+		
+	  function CheckRating(sender, args)
+	{
+		var text = document.getElementById('ctl00_cphActualSite_hdRating').value;
+		var intVal = parseInt(text);     
+		if(intVal == 0){
+			 args.IsValid = false;    
+			 return;        
+		}
+		document.getElementById('ctl00_cphActualSite_cvRating').style.visibility = "hidden";
+		args.IsValid = true;    
+	}
+
+	function SetValue(val)
+	{
+		document.getElementById("ctl00_cphActualSite_hdRating").value = val;
+		document.getElementById('ctl00_cphActualSite_cvRating').style.visibility = "hidden";
+	}
+			
+	function DisplayDiv(ntabIndex)
+	{
+		ShowFirstTabDiv(ntabIndex);
+		ShowSecondTabDiv(1);               
+	}
+	
+	function DisplayDivForCart(ntabIndex)
+	{
+		ShowFirstTabDiv(ntabIndex);
+		ShowSecondTabDiv(1);        
+		
+		try
+		{
+		   ShowPopUp();
+		}
+		catch(err)
+		{
+			//Handle errors here
+		}
+	}
+
+	function FnOpenPrintProduct(ProductID) {
+		 var url = '../../../PrintProduct.aspx?ID=' + ProductID;
+		 var load = window.open(url, '', 'scrollbars=yes,menubar=no,height=310,width=620,resizable=no,toolbar=no,location=no,status=no');
+		 }
+
+	
+	function DisplayFirstSecondDiv(nFirstDivtabIndex,nSecondDivtabIndex)
+	{
+		ShowFirstTabDiv(nFirstDivtabIndex);
+		ShowSecondTabDiv(nSecondDivtabIndex);
+	}
+		
+	function DisplayMessage(ntabIndex)
+	{
+		if (ntabIndex==2)
+		{
+			alert('Thank You for your Ask A Question enquiry. A representative will be in touch with you soon.');
+		}        
+		ShowSecondTabDiv(ntabIndex);
+		ShowFirstTabDiv(1);
+	}
+	
+	function ShowFirstTabDiv(ntabIndex)
+		{
+			var dDescription=document.getElementById('dDescription');
+			var dProductDetails=document.getElementById('dProductDetails');
+			var dSpecification=document.getElementById('dSpecification');
+			
+			var aDescription =document.getElementById("aDescription") ;
+			var aProductDetails = document.getElementById("aProductDetails") ;
+			var aSpecification = document.getElementById("aSpecification") ;
+			
+									   
+			if (ntabIndex==1)
+			{
+				dDescription.style.display='block';                
+				dProductDetails.style.display='none';
+				dSpecification.style.display='none'; 
+				
+				if ( aDescription != null )
+				{
+				document.getElementById("aDescription").setAttribute("className", "active");
+				document.getElementById("aDescription").setAttribute("class", "active");
+				}
+
+			  if ( aProductDetails != null ) {
+				document.getElementById("aProductDetails").setAttribute("className", "");
+				document.getElementById("aProductDetails").setAttribute("Class", "");
+				}
+				if ( aSpecification != null ) {
+				document.getElementById("aSpecification").setAttribute("className", "");
+				document.getElementById("aSpecification").setAttribute("Class", "");
+				}                                                
+				
+			}
+			else if (ntabIndex==2)
+			{
+				dProductDetails.style.display='block';
+				
+				dDescription.style.display='none';  
+				dSpecification.style.display='none';    
+				
+				if ( aDescription != null ){
+				document.getElementById("aDescription").setAttribute("className", "");
+				document.getElementById("aDescription").setAttribute("class", "");
+				 }
+				 
+				 if ( aProductDetails != null ) {
+				document.getElementById("aProductDetails").setAttribute("className", "active");
+				document.getElementById("aProductDetails").setAttribute("Class", "active");
+				}
+				if ( aSpecification != null ) {
+				document.getElementById("aSpecification").setAttribute("className", "");
+				document.getElementById("aSpecification").setAttribute("Class", "");
+				}                                
+				
+			}
+			else if (ntabIndex==3)
+			{
+				dSpecification.style.display='block';
+				dDescription.style.display='none';                
+				dProductDetails.style.display='none';    
+				
+				 if ( aDescription != null ){                 
+				document.getElementById("aDescription").setAttribute("className", "");
+				document.getElementById("aDescription").setAttribute("class", "");
+				 }
+				 
+				   if ( aProductDetails != null ){
+				document.getElementById("aProductDetails").setAttribute("className", "");
+				document.getElementById("aProductDetails").setAttribute("Class", "");
+				}
+				
+				  if ( aSpecification != null ){
+				document.getElementById("aSpecification").setAttribute("className", "active");
+				document.getElementById("aSpecification").setAttribute("Class", "active");
+				}                                                
+				
+			}
+			else if (ntabIndex==4)
+			{
+				
+				dDescription.style.display='none';  
+				dProductDetails.style.display='none'; 
+				dSpecification.style.display='none';               
+						 
+			   if ( aDescription != null ){          
+				document.getElementById("aDescription").setAttribute("className", "");
+				document.getElementById("aDescription").setAttribute("Class", "");
+			   }
+			   
+				if ( aProductDetails != null ){     
+				document.getElementById("aProductDetails").setAttribute("className", "");
+				document.getElementById("aProductDetails").setAttribute("Class", "");
+				}
+				if ( aSpecification != null ){     
+				document.getElementById("aSpecification").setAttribute("className", "");
+				document.getElementById("aSpecification").setAttribute("Class", "");
+				}
+				
+			}
+		}
+				
+		function ShowSecondTabDiv(ntabIndex)
+		{
+			var dVendor=document.getElementById('dVendor');
+			var dAskAQuestion=document.getElementById('dAskAQuestion');
+					
+			
+			if (ntabIndex==1)
+			{
+				dVendor.style.display='block';                
+				
+				dAskAQuestion.style.display='none';                
+				
+				
+
+				
+				document.getElementById("aVendor").setAttribute("className", "active");
+				document.getElementById("aVendor").setAttribute("class", "active");
+
+				document.getElementById("aAskaQuestion").setAttribute("className", "");
+				document.getElementById("aAskaQuestion").setAttribute("Class", "");                
+				
+				
+				
+				
+			}
+			else if (ntabIndex==2)
+			{
+				dAskAQuestion.style.display='block';
+				dVendor.style.display='none';   
+				
+				
+				
+				
+				document.getElementById("aVendor").setAttribute("className", "");
+				document.getElementById("aVendor").setAttribute("class", "");
+
+				document.getElementById("aAskaQuestion").setAttribute("className", "active");
+				document.getElementById("aAskaQuestion").setAttribute("Class", "active"); 
+				
+				
+				
+				
+			}
+			else if (ntabIndex==3)
+			{
+				dAskAQuestion.style.display='none';
+				dVendor.style.display='block';   
+				
+				
+				
+				
+				document.getElementById("aVendor").setAttribute("className", "active");
+				document.getElementById("aVendor").setAttribute("class", "active");
+
+				document.getElementById("aAskaQuestion").setAttribute("className", "");
+				document.getElementById("aAskaQuestion").setAttribute("Class", ""); 
+				
+				
+				
+				
+				
+			}
+			else if (ntabIndex==4)
+			{                          
+				dAskAQuestion.style.display='none';
+				dVendor.style.display='block';   
+				
+				
+				
+				
+				document.getElementById("aVendor").setAttribute("className", "active");
+				document.getElementById("aVendor").setAttribute("class", "active");
+
+				document.getElementById("aAskaQuestion").setAttribute("className", "");
+				document.getElementById("aAskaQuestion").setAttribute("Class", ""); 
+				
+				
+				
+				
+				
+			}
+		  
+		}
+		
+		function CheckQuestionComments(sender, args)
+		{    
+			if(event.type == 'click')
+			{
+				var text = document.getElementById('ctl00_cphActualSite_txtQuestionComments').value;
+				text = Trim(text);
+				if (text.length == 0){        
+					 args.IsValid = false;    
+					 return;
+				}
+				if (!checkLength(text)){
+					 alert("The length of comments entered is more than 1000 characters.");
+					 args.IsValid = false;    
+					 return;
+				}
+				args.IsValid = true;
+			}     
+		}
+	
+	function Trim(str){
+		while (str.substring(0,1) == ' '){ // check for white spaces from beginning
+			str = str.substring(1, str.length);
+		}
+		while (str.substring(str.length-1, str.length) == ' '){  // check white space from end
+			str = str.substring(0,str.length-1);
+		}
+		return str;
+	}
+
+	function checkLength(text){
+		max = 1000;
+		 if (text.length > max) {
+		  return false;
+		 }
+		return true;
+	}
+	
+    </script>
+
+    <script type="text/javascript">
+		var sMax;	// Isthe maximum number of stars
+		var holder; // Is the holding pattern for clicked state
+		var preSet; // Is the PreSet value onces a selection has been made
+		var rated;
+
+			// Rollover for image Stars //
+			function rating(num){
+				sMax = 0;	// Isthe maximum number of stars
+				for(n=0; n<num.parentNode.childNodes.length; n++){
+					if(num.parentNode.childNodes[n].nodeName == "A"){
+						sMax++;	
+					}
+				}
+				
+				//if(!rated){
+					s = num.id.replace("_", ''); // Get the selected star
+					a = 0;
+					for(i=1; i<=sMax; i++){		
+						if(i<=s){
+							document.getElementById("_"+i).className = "on";
+							document.getElementById("rateStatus").innerHTML = num.title;	
+							holder = a+1;
+							a++;
+						}else{
+							document.getElementById("_"+i).className = "";
+						}
+					}
+				//}
+			}
+
+			// For when you roll out of the the whole thing //
+			function off(me){
+				//if(!rated){
+					if(!preSet){	
+						for(i=1; i<=sMax; i++){		
+							document.getElementById("_"+i).className = "";
+							document.getElementById("rateStatus").innerHTML = me.parentNode.title;
+						}
+					}else{
+						rating(preSet);
+						//document.getElementById("rateStatus").innerHTML = document.getElementById("ratingSaved").innerHTML;
+					}
+				//}
+			}
+
+			// When you actually rate something //
+			function rateIt(me){
+				//if(!rated){
+					//document.getElementById("rateStatus").innerHTML = document.getElementById("ratingSaved").innerHTML + " :: "+me.title;
+					preSet = me;
+					rated=1;
+					sendRate(me);
+					rating(me);
+				//}
+			}
+
+			// Send the rating information somewhere using Ajax or something like that.
+			function sendRate(sel){
+				//alert("Your rating was: "+sel.title);
+			}
+    </script>
+
+    
+    <div id="ctl00_cphActualSite_dItemDetails" class="midcontent">
+        <!--Sub Categoriesproducts-->
+        <!--<h3>Bar Supplies Sub Categories:</h3>-->
+        <div class="rowwrap">
+            <div class="top_bar">
+                <div class="Landingbar_links">
+                    <p class="pathlink">
+                        <a href="http://www.brhockeyequipment.com/Hockey-Apparel" id="ctl00_cphActualSite_aCategory">
+                            <span id="ctl00_cphActualSite_lblCategory">Hockey Apparel</span>
+                        </a>| <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel" id="ctl00_cphActualSite_aSubCategory">
+                            <span id="ctl00_cphActualSite_lblSubCategory">Hockey Apparel</span>
+                        </a>| <a href="http://www.brhockeyequipment.com/Hockey-Apparel/Hockey-Apparel/T-Shirts-And-Sweatshirts" id="ctl00_cphActualSite_aLevel3">
+                            <span id="ctl00_cphActualSite_lblLevel3">T-Shirts and Sweatshirts</span>
+                        </a>| <span class="currentpro">
+                            <span id="ctl00_cphActualSite_lblItem">BAU11PUFFERJKT</span>
+                        </span>
+                    </p>
+                </div>
+                <div class="Icon_div">
+                    <ul style="padding-left: 50px;">
+                        <li><a href="#">
+                            <img src='http://www.brhockeyequipment.com/images/email_icon.gif' border="0" /></a></li>
+                        <li><a href="#">Email</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="#">
+                            <img src='http://www.brhockeyequipment.com/images/print.gif' border="0" /></a></li>
+                        <li><a href="#" onclick="FnOpenPrintProduct(1062);">Print</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="prod_view_div">
+                <div class="landing_prowrap">
+                    <p>
+                        <div id="vlightbox">
+                            <a href="http://www.brhockeyequipment.com/Images/insulated puffer jacket.jpg" id="ctl00_cphActualSite_aMainImage" class="vlightbox">
+                                <img src="http://www.brhockeyequipment.com/Images/insulated puffer jacket-thumb.jpg" id="ctl00_cphActualSite_imgItem" style="border: 0px; cursor: pointer;" alt="Bauer Insulated Puffer Jacket" width="83" height="150" />
+                            </a>
+                        </div>
+                        <p style="text-align: center;" class="dashlinediv">
+                            <a href="http://www.brhockeyequipment.com/Images/insulated puffer jacket.jpg" id="ctl00_cphActualSite_aItemImage" class="vlightbox">Click Here to Enlarge</a>
+                        </p>
+                    <div id="ctl00_cphActualSite_divProductImageList" style="border: 0px;">
+                    </div>
+                    <div class="divrow_wrap ">
+                        
+                    </div>
+                    
+                </div>
+                <div class="landing_prowrap_detail">
+                    <div class="title">
+                        <span id="ctl00_cphActualSite_lblItemName">Bauer Insulated Puffer Jacket</span>
+                    </div>
+                    <div class="price_div">
+                        <div class="our_price">
+                            Our Price: <span class="our_price_bold">
+                                <span id="ctl00_cphActualSite_lblOurPrice">$94.00</span>
+                            </span>
+                        </div>
+                        <div id="ctl00_cphActualSite_RegPrice" class="reg_price">
+                            Reg. Price:
+                            <span id="ctl00_cphActualSite_lblMARP">$106.00</span>
+                        </div>
+                    </div>
+                    <table width="100%">
+                        <tr valign="top">
+                            <td valign="top">
+                                <div id="ctl00_cphActualSite_dOptions" class="pd_options dashlinediv" style="vertical-align: top;">
+                                    <div>
+	<table cellspacing="0" cellpadding="0" border="0" id="ctl00_cphActualSite_grdOptions" style="color:#333333;font-family:Verdana;font-size:11px;width:100%;border-collapse:collapse;">
+		<tr>
+			<td>
+																<span id="ctl00_cphActualSite_grdOptions_ctl02_lblOptionName" class="normal-text">Bauer Tees/Hoodies</span>
+																<select name="ctl00$cphActualSite$grdOptions$ctl02$ddlOptionValue" id="ctl00_cphActualSite_grdOptions_ctl02_ddlOptionValue" class="normal-text" style="width:250px;">
+				<option value="">Choose Option</option>
+				<option value="531">Adult-X-Small</option>
+				<option value="387">Adult-Small</option>
+				<option value="388">Adult-Medium</option>
+				<option value="389">Adult-Large</option>
+				<option value="390">Adult-X-Large</option>
+				<option value="391">Adult-XX-Large</option>
+
+			</select>
+												 </td>
+		</tr>
+	</table>
+</div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                
+                                <div id="ctl00_cphActualSite_Updatepanel1">
+	
+										<table width="100%" border="0" class="qty_div">
+											<tr>
+												
+												<td id="ctl00_cphActualSite_tdQty" valign="middle" align="right" style="width: 35%">
+													<span>Quantity:</span>
+													<input name="ctl00$cphActualSite$txtQty" type="text" value="1" maxlength="5" id="ctl00_cphActualSite_txtQty" style="width:25px;" />
+												</td>
+	
+												<td id="ctl00_cphActualSite_tdBuNow" align="left">
+												    <img src='http://www.brhockeyequipment.com/images/buy_now.gif' border="0"  style="cursor: pointer; cursor: hand;" onclick="return AddItem();" />        												
+												    
+												</td>
+	
+                                            </tr>
+                                           	
+                                            <tr>
+												<td colspan="3">
+                                                    
+													<input type="submit" name="ctl00$cphActualSite$imgRequestQuoteLarge" value="" id="ctl00_cphActualSite_imgRequestQuoteLarge" class="RequestQuote" />
+													<a href="#" id="ctl00_cphActualSite_aTask" style="display: none; visibility: hidden;"></a>
+													
+													<div id="ctl00_cphActualSite_dTask" align="center" style="display: none; z-index: 1005;
+														position: absolute; background-color: #F6F6F2; border: 1px black solid; top: 30%;
+														left: 0%; width: 750px; height: auto;">
+														<table border="0" width="100%">
+															<tr style="background-color: #E2DBDA;">
+																<td align="right">
+																	<input type="image" name="ctl00$cphActualSite$ibTaskClose" id="ctl00_cphActualSite_ibTaskClose" title="Close" src="http://www.brhockeyequipment.com/images/Close.JPG" alt="Close" style="border-width:0px;" />
+																</td>
+															</tr>
+															<tr>
+																<td>
+																	<table border="0" width="100%">
+																		<tr>
+																			<td align="left" colspan="2">
+																				<div style="color:Red; font-weight: bold; font-size: 16px;">
+																					<span id="ctl00_cphActualSite_lblCartItemAdded">1 item added to your cart</span>
+																				</div>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style="padding: 5px;">
+																				<table style="background-color: White;" cellpadding="5" cellspacing="5" border="0"
+																					width="100%">
+																					<tr>
+																						<td valign="top" align="center">
+																							<img id="ctl00_cphActualSite_imgCartItemImage" width="400" height="400" border="0" />
+																						</td>
+																						<td valign="top" align="left">
+																							<table border="0" width="100%" cellpadding="5" cellspacing="5">
+																								<tr>
+																									<td>
+																										<div class="Carttitle">
+																											<span id="Span1">
+																												<span id="ctl00_cphActualSite_lblCartItemName"></span>
+																											</span>
+																										</div>
+																									</td>
+																								</tr>
+																								<tr>
+																									<td>
+																										<div class="CartOtherText">
+																											<span id="ctl00_cphActualSite_lblCartItemQuantity"></span>
+																										</div>
+																									</td>
+																								</tr>
+																								<tr>
+																									<td align="left">
+																										<div class="CartOtherText" style="padding-left:0px;">
+																											
+																										</div>
+												</td>
+											</tr>																					
+											<tr>
+												<td>
+													<div class="CartOtherText">
+														<span id="ctl00_cphActualSite_lblCartOurPrice"></span>
+													</div>
+												</td>
+											</tr>
+											
+										</table>
+                            </td>
+                        </tr>
+                    </table>
+                    </td>
+                    <td valign="top" align="left">
+                        <table cellpadding="5" cellspacing="5">
+                            <tr>
+                                <td>
+                                    <div style="color: #999091; font-size: large;">
+                                        Cart Summary
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="CartOtherText">
+                                        <span id="ctl00_cphActualSite_lblCartItems"></span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="CartOtherText">
+                                        <span id="ctl00_cphActualSite_lblCartSubTotal"></span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a id="ctl00_cphActualSite_lnkCheckOut" href="http://www.brhockeyequipment.com/CartDetails.aspx"><img src="http://www.brhockeyequipment.com/images/checkout-popup-button.jpg" style="border-width:0px;" /></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <input type="image" name="ctl00$cphActualSite$ibContinue" id="ctl00_cphActualSite_ibContinue" src="http://www.brhockeyequipment.com/images/continue-shopping-popup.jpg" style="border-width:0px;" />
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    </tr> </table> </td> </tr> </table>
+                </div>
+                </td> </tr> </table>
+                <div>
+                    
+                    <span id="ctl00_cphActualSite_lblOversizeMessage" style="color:Red;font-size:11px;"></span>
+                    <br />
+                    <span id="ctl00_cphActualSite_lblOverweightMessage" style="color:Red;font-size:11px;"></span>
+                </div>
+                
+</div>
+                
+                </td> </tr> </table>
+                
+                
+                
+                
+                <div class="proDetail_div">
+                    <div id="top_menu">
+                        <ul>
+                            <li id="liDescription"><a onclick="javascript:ShowFirstTabDiv(1);" id="aDescription">
+                                <span>Description</span></a></li>
+                            
+                            
+                        </ul>
+                        <div id="dDescription" class="content_box">
+                            <p>
+                                <span id="ctl00_cphActualSite_lblDescription">Fabric Shell: 100% Nylon / Fill: 100% Polyester 
+Details Fully quilted, shock cord pull at hem Front pockets and hood BAUER logo embroidery on left chest</span>
+                            </p>
+                        </div>
+                        <div id="dProductDetails" class="content_box" style="display: none;">
+                            
+                            <p>
+                                
+                            </p>
+                        </div>
+                        <div id="dSpecification" class="content_box" style="display: none; width: auto;">
+                            <p>
+                                <div id="ctl00_cphActualSite_divFlash" style="width: 100%; float: left;">
+                                </div>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="ItemMain_rowwrap">
+        <div class="bold">
+            <span id="ctl00_cphActualSite_lblRelatedItemsCount"></span>
+        </div>
+        <div class="Item_prowrap">
+            
+        </div>
+    </div>
+    <!--Sub Categoriesproducts end-->
+    <div class="proDetail_div">
+        <div id="top_menu">
+            <ul>
+                <li id="liVendor" class="active"><a onclick="javascript:ShowSecondTabDiv(1);" id="aVendor">
+                    <span class="active">Vendor Information</span></a></li>
+                <li id="liAskAQuestion"><a onclick="javascript:ShowSecondTabDiv(2);" id="aAskaQuestion">
+                    <span>Sizing Charts</span></a></li>
+            </ul>
+        </div>
+        <div class="content_box">
+            <div id="dVendor" class="content_box" style="display: none;">
+                <div style="padding-top: 7px;" class="tab_img">
+                    <img src="http://www.brhockeyequipment.com/Images/Bauer-thumb.jpg" id="ctl00_cphActualSite_imgVendor" alt="Bauer" width="120" height="14" />
+                </div>
+                <div style="padding-top: 10px;" class="tab_txt">
+                    <span id="ctl00_cphActualSite_lblVendorName" class="VendorName">Bauer</span>
+                    <p>
+                        <span id="ctl00_cphActualSite_lblVendorDesc"><p>Bauer Hockey, Inc is an innovative hockey skates and gear manufacturer. Bauer was founded in 1927 . Bauer is the market leader in the hockey equipment and apparel market in USA, Canada and Europe. Greenland, NH is the world corporate HQ, with regional offices in Canada and Sweden.</p></span>
+                    </p>
+                    <p>
+                        <input type="hidden" name="ctl00$cphActualSite$hfVendorCode" id="ctl00_cphActualSite_hfVendorCode" value="2" />
+                        <a href="http://www.brhockeyequipment.com/Bauer" id="ctl00_cphActualSite_aVendorCode">View all Products from
+                            this manufacturer</a>
+                    </p>
+                </div>
+            </div>
+            <div id="dAskAQuestion" class="content_box" style="display: none;">
+                <div class="askaq">
+                    Unsure of your size? Check B&R sizing charts to order your correct equipment size.
+                    <a href="http://www.brhockeyequipment.com/Sizing-Charts">View B&R Sizing Charts.</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <script src="http://www.brhockeyequipment.com/JS/visuallightbox.js" type="text/javascript"></script>
+
+    <script language="javascript" type="text/javascript" for="window" event="onclick">
+// <![CDATA[
+return window_onclick()
+// ]]>
+    </script>
+
+
+    
+    
+</div>
+
+<script type="text/javascript">
+function RedirectLink(url)
+     {
+      window.location = 'http://' + url;
+     }
+</script>
+
+<div class="footer">
+    
+    <div class="bottom_ads">
+        <div class="span-18 last marginTop-OneGutter">
+            <div id="secondaryMessage" class="append-bottom rounded ieRounded">
+                <ul>
+                    <div id="ctl00_Footer1_blockAds"> <li style='width:259px; height:126px;'>  <img src='http://www.brhockeyequipment.com/images/Totalone-gloves-for-web-fin.jpg' onclick='RedirectLink("www.brhockeyequipment.com/Protective-Equipment/Hockey-Gloves/Senior-Hockey-Gloves/Bau11glvtotal1");'  width='300' height='126' /> </li>  <li style='width:259px; height:126px;'>  <img src='http://www.brhockeyequipment.com/images/Stealth RS copy.jpg' onclick='RedirectLink("www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Eas11stkstealthrs");'  width='300' height='126' /> </li>  <li style='width:259px; height:126px;'>  <img src='http://www.brhockeyequipment.com/images/totalone le white.jpg' onclick='RedirectLink("www.brhockeyequipment.com/Hockey-Sticks/Hockey-Sticks-Shafts--Blades/One-Piece-Composite-Sticks/Bau12tot1wht");'  width='300' height='126' /> </li> </div>
+                </ul>
+                <span class="usbicon usbicon-big usbicon-carouselleft prev"></span><span class="usbicon usbicon-big usbicon-carouselright next">
+                </span>
+            </div>
+        </div>
+        <div style="float: left; margin-left:20px;">
+            <div class="AuthorizeNetSeal">
+
+                <script type="text/javascript" language="javascript">var ANS_customer_id="32b27865-66f0-42c3-8d53-6786b50d083f";</script>
+
+                <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script>
+
+            </div>
+        </div>
+        <div style="float: left; margin-left:80px;">
+            <p>
+                <a href='http://www.brhockeyequipment.com/default.aspx'>Home</a> | <a href='http://www.brhockeyequipment.com/About-BandR-Sports'>
+                    About B&amp;R </a>| <a href='http://www.brhockeyequipment.com/Locations'>Locations</a> | <a href='http://www.brhockeyequipment.com/FAQs'>
+                        FAQs</a> | <a href='http://www.brhockeyequipment.com/Sizing-Charts'>Sizing Charts</a> | <a href='http://www.brhockeyequipment.com/Repairs-and-Service'>
+                            Repairs &amp; Service</a> | <a href='http://www.brhockeyequipment.com/ContactUs.aspx'>Contact Us</a>
+                | <a href='http://www.brhockeyequipment.com/Sitemap'>Site Map</a>
+            </p>
+            <p>
+                Copyright © 2010 B &amp; R Sports | <a href='http://www.brhockeyequipment.com/Privacy-Policy'>Privacy Policy</a>
+                | <a href='http://www.brhockeyequipment.com/Warranties'>Warranties </a>| <a href='http://www.brhockeyequipment.com/Shipping-and-Returns'>
+                    Shipping &amp; Returns</a>
+            </p>
+        </div>
+        <div style="float: left;  margin-left:40px;">
+            <span id="siteseal">
+
+                <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=rmk8tT2mCGRovIax7ZZWzYkHRat4SvbkiersijLRAoLpr7xpUgmoL8uk"></script>
+
+                <br />
+            </span>
+        </div>
+    </div>
+</div>
+
+<script src="http://www.brhockeyequipment.com/JS/global.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://www.brhockeyequipment.com/Js/HomePageSlideShow.js"></script>
+
+<script type="text/javascript"> 
+<!--//--><![CDATA[//><!--
+ 
+$(document).ready(function(){
+ 	styleLinkButtons();
+	createMarketingCarousel($("#secondaryMessage"));
+ 
+});
+ 
+//--><!]]>
+</script>
+
+<script type="text/javascript"> 
+ var Speed = '6000';
+loadAndRotateFeatures(10,parseInt(Speed));
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17578165-1']);
+
+  _gaq.push(['_trackPageview']);
+
+ 
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+  })();
+
+ 
+
+</script>
+
+    
+    
+</div>
+
+<script type='text/javascript' language='javascript'>DisplayDiv(1);</script>
+<script type="text/javascript">
+//<![CDATA[
+ShowSecondTabDiv(1);strUserBackgroundimageName = '1_17-05-11_t5.jpg';Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"imgCloseTab","PopupControlID":"ctl00_plLoginTab","dynamicServicePath":"/ItemDetails.aspx","id":"ctl00_mpeLogin"}, null, null, $get("ctl00_btHideLogin"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"imgClosePopup","OkControlID":"ctl00_btnThankyou","PopupControlID":"ctl00_EmailSignup","dynamicServicePath":"/ItemDetails.aspx","id":"ctl00_mpeSignup"}, null, null, $get("ctl00_btHideSignUp"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"ModalPopupBG","CancelControlID":"ctl00_cphActualSite_ibTaskClose","PopupControlID":"ctl00_cphActualSite_dTask","dynamicServicePath":"/ItemDetails.aspx","id":"ctl00_cphActualSite_mepTasks"}, null, null, $get("ctl00_cphActualSite_aTask"));
+});
+//]]>
+</script>
+</form>
+</html>

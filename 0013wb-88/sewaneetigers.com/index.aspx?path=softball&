@@ -1,0 +1,561 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><link type="text/css" rel="Stylesheet" title="Core_CSS" href="http://assets.sidearmsports.com/common/css/core_compressed.css" /><link type="application/rss+xml" rel="alternate" title="RSS Feed" href="/rss.aspx?path=softball" /><link id="ctl00_lnkStyleSheet" rel="stylesheet" type="text/css" href="/site/site.css?0.5784584" /><link id="ctl00_lnkStyleSheet_custom" rel="stylesheet" type="text/css" href="/site/custom_css.css?0.2783998" /><link rel="shortcut icon" href="/images/favicon.ico" type="image/vnd.microsoft.icon" /><link type="text/css" rel="stylesheet" href="/WebResource.axd?d=AJyv3O9zZmwOw2W9rq2sQjgfB3ZhJfqhaqeli8r_F9KcptqBDar3OON4IZcNBW-I-DZm-hUf626emGHsXcoNJjiteeKE1_6Rd4oqsVkUdqJNh-x1YIaD-xXAGjfhrjO1iJwZOzmOCOBVHdahTsTDP4Jaz5Y1&amp;amp;t=634531748947552877" /><link type="text/css" rel="stylesheet" href="/common/skins/menu/Default/styles.css" /><title>
+	The Athletics Website of Sewanee: The University of the South
+</title></head>
+
+<body>
+
+    <h1>The athletics website of Sewanee: The University of the South</h1>
+
+	<form name="aspnetForm" method="post" action="/index.aspx?path=softball&amp;" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMjcxODE4OTcPZBYCZg9kFgRmD2QWBAICDxYCHgRocmVmBRgvc2l0ZS9zaXRlLmNzcz8wLjU3ODQ1ODRkAgMPFgIfAAUeL3NpdGUvY3VzdG9tX2Nzcy5jc3M/MC4yNzgzOTk4ZAIBD2QWAgIPD2QWBAIFDxYCHgVzdHlsZQUhZmxvYXQ6bGVmdDtiYWNrZ3JvdW5kLWNvbG9yOiNmZmY7FgQCAQ8WAh4HVmlzaWJsZWhkAgMPZBYCAgEPZBYGAgEPZBYCZg9kFgRmD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIBFgJmD2QWAmYPZBYEAgEPDxYCHghtZWRpYV9pZALBF2QWAmYPZBYIZg9kFgICAQ8PFgQeCEltYWdlVXJsBTMvaW1hZ2VzLzIwMTEvMy8yMy9ycF9wcmltYXJ5Ml80LSBEYW5hIE1pZGRsZXRvbi5KUEceDUFsdGVybmF0ZVRleHRlZGQCAQ9kFgICAQ8WAh8BBQ13aWR0aDoyMjBweDs7FgYCAw8PFgIfBQUzL2ltYWdlcy8yMDExLzMvMjMvcnBfcHJpbWFyeTJfNC0gRGFuYSBNaWRkbGV0b24uSlBHFgIeA2FsdGVkAgcPFgIfAmhkAgkPZBYCAgEPFgIeBFRleHQFDkRhbmEgTWlkZGxldG9uZAICD2QWAgIBD2QWAmYPDxYCHgtfIURhdGFCb3VuZGdkZAIDD2QWAgIFDxYCHwMC/////w9kAgIPFQgiL25ld3MvMjAxMS80LzI1L1NCXzA0MjUxMTA0MjEuYXNweC9EYW5hIE1pZGRsZXRvbiBTZWxlY3RlZCB0byBBbGwtU0NBQyBTZWNvbmQgVGVhbQUwNC4yNQhTb2Z0YmFsbKcCPGRpdj48Yj5TVVdBTkVFLCBHYS4gPC9iPjQvMjUvMTEgJm5kYXNoOyBTb3Bob21vcmUgc2Vjb25kIGJhc2VtYW4gPGRmbj48YSBocmVmPSIvcm9zdGVyLmFzcHg/cnBfaWQ9MTc2OSIgcmVsPSJzbWFydHRhZyIgcmV2PSIxNzY5Ij5EYW5hIE1pZGRsZXRvbjwvYT48L2Rmbj4gaGFzIGJlZW4gbmFtZWQgQWxsLVNvdXRoZXJuIENvbGxlZ2lhdGUgQXRobGV0aWMgQ29uZmVyZW5jZSBzZWNvbmQgdGVhbSBpbiBleGNsdXNpdmUgYmFsbG90aW5nIGJ5IHRoZSBsZWFndWUncyBzb2Z0YmFsbCBjb2FjaGVzLjwvZGl2Pg0KPGJyPiIvbmV3cy8yMDExLzQvMjUvU0JfMDQyNTExMDQyMS5hc3B4CHNvZnRiYWxsL0RhbmEgTWlkZGxldG9uIFNlbGVjdGVkIHRvIEFsbC1TQ0FDIFNlY29uZCBUZWFtZAIFD2QWAgIBDzwrAAkAZAIFD2QWAmYPZBYCAgUPZBYCAgEPPCsACQEADxYEHghEYXRhS2V5cxYAHwMCAmQWBGYPZBYCZg8VBmQvY29tbW9uL2NvbnRyb2xzL2ltYWdlX2hhbmRsZXIuYXNweD90aHVtYl9wcmVmaXg9cnBfaGwmYW1wO2ltYWdlX3BhdGg9L2ltYWdlcy8yMDExLzMvMjMvSU1HXzA5NzguSlBHCTQuMTcuMjAxMQhTb2Z0YmFsbCIvbmV3cy8yMDExLzQvMTcvU0JfMDQxNzExNTU1NC5hc3B4CHNvZnRiYWxsOFRpZ2VycyBDbG9zZSBPdXQgU2Vhc29uIHdpdGggRG91YmxlaGVhZGVyIExvc3MgdG8gUmhvZGVzZAIBD2QWAmYPFQZsL2NvbW1vbi9jb250cm9scy9pbWFnZV9oYW5kbGVyLmFzcHg/dGh1bWJfcHJlZml4PXJwX2hsJmFtcDtpbWFnZV9wYXRoPS9pbWFnZXMvMjAxMS8zLzIzLy8xMi0gS2FsaSBPdXNsZXkuSlBHCTQuMTYuMjAxMQhTb2Z0YmFsbCIvbmV3cy8yMDExLzQvMTYvU0JfMDQxNjExMjMxOS5hc3B4CHNvZnRiYWxsMVJob2RlcyBDb2xsZWdlIFN3ZWVwcyBUaWdlcnMgaW4gU0NBQyBEb3VibGVoZWFkZXJkAgkPZBYCZg9kFgQCBQ9kFgQCAQ8WAh8CaBYCAgMPZBYEZg8QDxYGHg5EYXRhVmFsdWVGaWVsZAUIc3BvcnRfaWQeDURhdGFUZXh0RmllbGQFDHNwb3J0X2FiYnJldh8JZ2QQFRoKQWxsIFNwb3J0cwJCQgNDSFIGRVFVRVNUAkZCBUZIT0NLA0dFTgNNQkIFTUdPTEYETUxBWARNU09DBU1TV0lNBE1URU4ETVRSSwNNWEMCU0IFdGNhbXACVkIDV0JCBVdHT0xGBFdMQVgEV1NPQwVXU1dJTQRXVEVOBFdUUksDV1hDFRoAATIBNQE4AjEwATkCMjUBMwIxMQIxMwIxNQIxOAIyMgIyMAE2AjE3AjI2AjI0ATQCMTICMTQCMTYCMTkCMjMCMjEBNxQrAxpnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZxYBAg9kAgYPZBYCAgEPPCsACwBkAgMPFgIfAwIGFgxmD2QWAmYPZBYCZg8VCQc0LjEzLjExCFNvZnRiYWxsIi9uZXdzLzIwMTEvNC8xMy9TQl8wNDEzMTExNzI5LmFzcHgEMTIzNENUaWdlcnMgUmlkZSBBcm0gYW5kIEJhdCBvZiBUaGlib2RlYXV4IGluIERvdWJsZWhlYWRlciBTd2VlcCBvZiBGaXNrBDEyMzSmAzxzdHJvbmc+U0VXQU5FRSwgVGVubi48L3N0cm9uZz4gNC8xMy8xMSAmbmRhc2g7IEZyZXNobWFuIDxkZm4+PGEgaHJlZj0iL3Jvc3Rlci5hc3B4P3JwX2lkPTE3NzIiIHJlbD0ic21hcnR0YWciIHJldj0iMTc3MiI+TWljaGVsbGUgVGhpYm9kZWF1eDwvYT48L2Rmbj4gcGlja2VkIHVwIGJvdGggd2lucyBpbiB0aGUgY2lyY2xlIGFuZCB0dXJuZWQgaW4gYSA0LWZvci03IGVmZm9ydCBhdCB0aGUgcGxhdGUgdG8gbGVhZCB0aGUgU2V3YW5lZSBUaWdlcnMgdG8gYSBzd2VlcCBvZiB0aGUgRmlzayBCdWxsZG9ncyBpbiBhbiBhZnRlcm5vb24gZG91YmxlaGVhZGVyIHBsYXllZCB0b2RheSBpbiBTZXdhbmVlLiZuYnNwO1RoZSBUaWdlcnMgdG9vayB0aGUgZmlyc3QgZ2FtZSAxNC0yIGFuZCB0aGUgbmlnaHRjYXAgYnkgdGhlIHNjb3JlIG9mIDE2LTAuBDEyMzQiL25ld3MvMjAxMS80LzEzL1NCXzA0MTMxMTE3MjkuYXNweGQCAg9kFgJmD2QWAmYPFQkHNC4xMC4xMQhTb2Z0YmFsbCIvbmV3cy8yMDExLzQvMTAvU0JfMDQxMDExNDgyNC5hc3B4BDEyMjc0VGlnZXJzIFN3ZXB0IGJ5IENlbnRyZSBpbiBTQ0FDIFNvZnRiYWxsIERvdWJsZWhlYWRlcgQxMjI3kwI8c3Ryb25nPkRBTlZJTExFLCBLeS48L3N0cm9uZz4gNC8xMC8xMSAmbmRhc2g7IFRoZSBTZXdhbmVlIFRpZ2VycyBhbmQgdGhlIENlbnRyZSBDb2xvbmVscyB3cmFwcGVkIHVwIGEgZm91ci1nYW1lIFNDQUMgc29mdGJhbGwgc2VyaWVzIHRvZGF5IHdpdGggdGhlIENvbG9uZWxzIHN3ZWVwaW5nIHRoZSBhZnRlcm5vb24gZG91YmxlaGVhZGVyIGZyb20gdGhlIFRpZ2Vycy4mbmJzcDtDZW50cmUgd29uIHRoZSBmaXJzdCBnYW1lIDEyLTMgYW5kIHRoZSBzZWNvbmQgZ2FtZSA4LTIuPGJyPgQxMjI3Ii9uZXdzLzIwMTEvNC8xMC9TQl8wNDEwMTE0ODI0LmFzcHhkAgQPZBYCZg9kFgJmDxUJBjQuOS4xMQhTb2Z0YmFsbCEvbmV3cy8yMDExLzQvOS9TQl8wNDA5MTExODM4LmFzcHgEMTIyNSxUaWdlcnMgRmFsbCBUd2ljZSB0byBDb2xvbmVscyBpbiBTQ0FDIEFjdGlvbgQxMjI1/QI8ZGl2PjxiPkRBTlZJTExFPC9iPjxiPiwgS3kuIDQvOS8xMSAmbmRhc2g7IDwvYj5EZXNwaXRlIGEgcGVyZmVjdCA2LWZvci02IGRheSBhdCB0aGUgcGxhdGUgYnkgc29waG9tb3JlIDxkZm4+PGEgaHJlZj0iL3Jvc3Rlci5hc3B4P3JwX2lkPTE3NjkiIHJlbD0ic21hcnR0YWciIHJldj0iMTc2OSI+RGFuYSBNaWRkbGV0b248L2E+PC9kZm4+LCB0aGUgQ2VudHJlIENvbG9uZWxzIHN3ZXB0IGEgZG91YmxlaGVhZGVyIGZyb20gdGhlIFNld2FuZWUgVGlnZXJzIHRvZGF5IGluIERhbnZpbGxlLiZuYnNwO1RoZSBDb2xvbmVscyB3ZXJlIHZpY3RvcmlvdXMgaW4gR2FtZSAxIGJ5IGEgc2NvcmUgb2YgOS0wIGFuZCAxOS01IGluIHRoZSBzZWNvbmQgZ2FtZS48L2Rpdj4NCjxicj4EMTIyNSEvbmV3cy8yMDExLzQvOS9TQl8wNDA5MTExODM4LmFzcHhkAgYPZBYCZg9kFgJmDxUJBjQuMy4xMQhTb2Z0YmFsbCEvbmV3cy8yMDExLzQvMy9TQl8wNDAzMTE0NTA5LmFzcHgEMTIxMzlUaWdlcnMgU3dlcHQgYnkgQmlybWluZ2hhbSBTb3V0aGVybiBpbiBTQ0FDIFNvZnRiYWxsIFBsYXkEMTIxM8wDPHN0MTpjaXR5IHc6c3Q9Im9uIj48c3Ryb25nIHN0eWxlPSJtc28tYmlkaS1mb250LXdlaWdodDogbm9ybWFsIj5CSVJNSU5HSEFNPC9zdHJvbmc+PC9zdDE6Y2l0eT48c3Ryb25nIHN0eWxlPSJtc28tYmlkaS1mb250LXdlaWdodDogbm9ybWFsIj4sIDxzdDE6c3RhdGUgdzpzdD0ib24iPkFsYS48L3N0MTpzdGF0ZT48L3N0cm9uZz4gNC8zLzExICZuZGFzaDsgVGhlIEJpcm1pbmdoYW0gU291dGhlcm4gUGFudGhlcnMgc3dlcHQgcGFzdCB0aGUgU2V3YW5lZSBUaWdlcnMgaW4gYW4gU0NBQyBzb2Z0YmFsbCBkb3VibGVoZWFkZXIgcGxheWVkIHRvZGF5IGluIDxzdDE6cGxhY2UgdzpzdD0ib24iPjxzdDE6Y2l0eSB3OnN0PSJvbiI+QmlybWluZ2hhbTwvc3QxOmNpdHk+PC9zdDE6cGxhY2U+LiZuYnNwOyBUaGUgUGFudGhlcnMgd29uIHRoZSBmaXJzdCBnYW1lIDEwLTAgYW5kIHRoZSBzZWNvbmQgZ2FtZSAxNS0wLgQxMjEzIS9uZXdzLzIwMTEvNC8zL1NCXzA0MDMxMTQ1MDkuYXNweGQCCA9kFgJmD2QWAmYPFQkGNC4yLjExCFNvZnRiYWxsIS9uZXdzLzIwMTEvNC8yL1NCXzA0MDIxMTEzMDUuYXNweAQxMjAyQEJpcm1pbmdoYW0gU291dGhlcm4gU3dlZXBzIFNld2FuZWUgaW4gU0NBQyBTb2Z0YmFsbCBEb3VibGVoZWFkZXIEMTIwMqUDPHN0MTpwbGFjZSB3OnN0PSJvbiI+PHN0MTpjaXR5IHc6c3Q9Im9uIj48c3Ryb25nIHN0eWxlPSJtc28tYmlkaS1mb250LXdlaWdodDogbm9ybWFsIj5CSVJNSU5HSEFNPC9zdHJvbmc+PC9zdDE6Y2l0eT48c3Ryb25nIHN0eWxlPSJtc28tYmlkaS1mb250LXdlaWdodDogbm9ybWFsIj4sIDxzdDE6c3RhdGUgdzpzdD0ib24iPkFsYS48L3N0MTpzdGF0ZT48L3N0cm9uZz48L3N0MTpwbGFjZT4gNC8yLzExICZuZGFzaDsgVGhlIEJpcm1pbmdoYW0gU291dGhlcm4gUGFudGhlcnMgdG9vayBib3RoIGVuZHMgb2YgYW4gU0NBQyBkb3VibGVoZWFkZXIgZnJvbSB0aGUgU2V3YW5lZSBUaWdlcnMgdG9kYXkuJm5ic3A7IFRoZSBQYW50aGVycyB3b24gdGhlIGZpcnN0IGdhbWUgOC0wIGFuZCB0aGUgc2Vjb25kIGdhbWUgYnkgYSBzY29yZSBvZiAyNS0wLgQxMjAyIS9uZXdzLzIwMTEvNC8yL1NCXzA0MDIxMTEzMDUuYXNweGQCCg9kFgJmD2QWAmYPFQkHMy4yNy4xMQhTb2Z0YmFsbCIvbmV3cy8yMDExLzMvMjcvU0JfMDMyNzExMTkwMi5hc3B4BDExOTIfU29mdGJhbGwgRG91YmxlaGVhZGVyIENhbmNlbGxlZAQxMTkylgI8c3Ryb25nIHN0eWxlPSJtc28tYmlkaS1mb250LXdlaWdodDogbm9ybWFsIj5TRVdBTkVFLCBUZW5uLjwvc3Ryb25nPiAzLzI3LzExICZuZGFzaDsgVGhlIFNDQUMgc29mdGJhbGwgZG91YmxlaGVhZGVyIHNjaGVkdWxlZCBmb3IgdG9kYXkgYmV0d2VlbiBTZXdhbmVlIGFuZCBEZVBhdXcgVW5pdmVyc2l0eSBoYXMgYmVlbiBjYW5jZWxsZWQgZHVlIHRvIHdldCBmaWVsZCBjb25kaXRpb25zIGFuZCBmb2cuJm5ic3A7IE5vIG1ha2V1cCBkYXRlIGZvciB0aGUgZ2FtZXMgaGFzIGJlZW4gc2V0LgQxMTkyIi9uZXdzLzIwMTEvMy8yNy9TQl8wMzI3MTExOTAyLmFzcHhkAggPZBYCAgEPPCsACQBkAgcPZBYEAgEPZBYCAgEPDxYCHgxtb250aF9ldmVudHMy6goAAQAAAP////8BAAAAAAAAAAwCAAAATlN5c3RlbS5EYXRhLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQUBAAAAFVN5c3RlbS5EYXRhLkRhdGFUYWJsZQMAAAAZRGF0YVRhYmxlLlJlbW90aW5nVmVyc2lvbglYbWxTY2hlbWELWG1sRGlmZkdyYW0DAQEOU3lzdGVtLlZlcnNpb24CAAAACQMAAAAGBAAAAL0HPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTE2Ij8+DQo8eHM6c2NoZW1hIHhtbG5zPSIiIHhtbG5zOnhzPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgeG1sbnM6bXNkYXRhPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOnhtbC1tc2RhdGEiPg0KICA8eHM6ZWxlbWVudCBuYW1lPSJUYWJsZTEiPg0KICAgIDx4czpjb21wbGV4VHlwZT4NCiAgICAgIDx4czpzZXF1ZW5jZT4NCiAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0ib3Bwb25lbnRfaWQiIHR5cGU9InhzOmludCIgbXNkYXRhOnRhcmdldE5hbWVzcGFjZT0iIiBtaW5PY2N1cnM9IjAiIC8+DQogICAgICAgIDx4czplbGVtZW50IG5hbWU9ImdhbWVfbG9jYXRpb25faW5kaWNhdG9yIiB0eXBlPSJ4czpzdHJpbmciIG1zZGF0YTp0YXJnZXROYW1lc3BhY2U9IiIgbWluT2NjdXJzPSIwIiAvPg0KICAgICAgICA8eHM6ZWxlbWVudCBuYW1lPSJnYW1lX2RhdGUiIHR5cGU9InhzOmRhdGVUaW1lIiBtc2RhdGE6dGFyZ2V0TmFtZXNwYWNlPSIiIG1pbk9jY3Vycz0iMCIgLz4NCiAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iZ2FtZV9lbmRfZGF0ZSIgdHlwZT0ieHM6ZGF0ZVRpbWUiIG1zZGF0YTp0YXJnZXROYW1lc3BhY2U9IiIgbWluT2NjdXJzPSIwIiAvPg0KICAgICAgPC94czpzZXF1ZW5jZT4NCiAgICA8L3hzOmNvbXBsZXhUeXBlPg0KICA8L3hzOmVsZW1lbnQ+DQogIDx4czplbGVtZW50IG5hbWU9InRtcERhdGFTZXQiIG1zZGF0YTpJc0RhdGFTZXQ9InRydWUiIG1zZGF0YTpNYWluRGF0YVRhYmxlPSJUYWJsZTEiIG1zZGF0YTpVc2VDdXJyZW50TG9jYWxlPSJ0cnVlIj4NCiAgICA8eHM6Y29tcGxleFR5cGU+DQogICAgICA8eHM6Y2hvaWNlIG1pbk9jY3Vycz0iMCIgbWF4T2NjdXJzPSJ1bmJvdW5kZWQiIC8+DQogICAgPC94czpjb21wbGV4VHlwZT4NCiAgPC94czplbGVtZW50Pg0KPC94czpzY2hlbWE+BgUAAACAATxkaWZmZ3I6ZGlmZmdyYW0geG1sbnM6bXNkYXRhPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOnhtbC1tc2RhdGEiIHhtbG5zOmRpZmZncj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp4bWwtZGlmZmdyYW0tdjEiIC8+BAMAAAAOU3lzdGVtLlZlcnNpb24EAAAABl9NYWpvcgZfTWlub3IGX0J1aWxkCV9SZXZpc2lvbgAAAAAICAgIAgAAAAAAAAD//////////wtkFgJmD2QWBGYPZBYCAgEPZBYCZg9kFggCAQ88KwAKAQAPFgIeAlNEFgEGAADMZTC3zghkZAIDDw8WAh8IBRJTdW4sIEZlYi4gMTIsIDIwMTJkZAIFDxYCHwJoZAIHDxYCHwJnZAIBD2QWAgIBD2QWAgICD2QWBGYPEA8WBh8LBQhzcG9ydF9pZB8MBQxzcG9ydF9hYmJyZXYfCWdkEBUaCkFsbCBTcG9ydHMCQkIDQ0hSBkVRVUVTVAJGQgVGSE9DSwNHRU4DTUJCBU1HT0xGBE1MQVgETVNPQwVNU1dJTQRNVEVOBE1UUksDTVhDAlNCBXRjYW1wAlZCA1dCQgVXR09MRgRXTEFYBFdTT0MFV1NXSU0EV1RFTgRXVFJLA1dYQxUaAAEyATUBOAIxMAE5AjI1ATMCMTECMTMCMTUCMTgCMjICMjABNgIxNwIyNgIyNAE0AjEyAjE0AjE2AjE5AjIzAjIxATcUKwMaZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2cWAGQCBg9kFgICAQ88KwALAGQCCw8PFgIeB3BvbGxfaWQCB2QWAgICD2QWAgIBD2QWAmYPZBYCAgEPZBYGAgEPFgIfCAU9V2hpY2ggd2ludGVyIHNwb3J0IHdpbGwgZmluaXNoIGhpZ2hlc3QgaW4gdGhlIFNDQUMgc3RhbmRpbmdzP2QCAw8QZA8WBGYCAQICAgMWBBAFEE1lbidzIEJhc2tldGJhbGwFAjM5ZxAFEldvbWVuJ3MgQmFza2V0YmFsbAUCNDBnEAUZTWVuJ3MgU3dpbW1pbmcgYW5kIERpdmluZwUCNDFnEAUbV29tZW4ncyBTd2ltbWluZyBhbmQgRGl2aW5nBQI0MmdkZAIHDw8WAh8CaGRkGAwFJWN0bDAwJGFkMSRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUlY3RsMDAkYWQyJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBRZjdGwwMCR1cGNvbWluZzEkbXZNYWluDw9kZmQFJ2N0bDAwJGN0bDAzJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwwNCRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUlY3RsMDAkYWQzJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjcGxoTWFpbkNvbnRlbnQkVG9wU3RvcmllcyRtdk1haW4PD2RmZAUmY3RsMDAkY3BsaE1haW5Db250ZW50JGhlYWRsaW5lcyRtdk1haW4PD2QCBWQFKGN0bDAwJGNwbGhNYWluQ29udGVudCRUb3BTdG9yaWVzMiRtdk1haW4PD2QCBWQFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBRRjdGwwMCROYXYzJHJhZFRvcE5hdgUSY3RsMDAkSW1hZ2VCdXR0b24xBRNjdGwwMCRQb2xsczEkbXZQb2xsDw9kZmQFTmN0bDAwJGNwbGhNYWluQ29udGVudCRUb3BTdG9yaWVzJHJwdFRvcFN0b3JpZXMkY3RsMDAkY3RsMDAkTWVkaWFPYmplY3QxJG1vVmlldw8PZAIBZL0qPPPJNzVr8k9mrMxjKMpKQi5Y" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
+<script src="http://assets.sidearmsports.com/common/js/master_compressed_v5.js?201110201430" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=GYi18AM_HsJ4sMbeLK2Zbn8pwBt6s-kWrmsDQXBTymrmhgrX7XmypbDITsGcfQp9GM1NpUHv1BeT1L0JNGWSj6V5LqcV406PSuVfx4DOjuujQaXvkaa5Vjkhz03piehy5wR29dTnEqkQdWjrIDOh6tVL_v81&amp;t=50457f2d" type="text/javascript"></script>
+<input type="hidden" name="ctl00_upcoming1_calTop_NonselectableDates" id="ctl00_upcoming1_calTop_NonselectableDates" value="4411,4412,4413,4414,4415,4416,4417,4418,4419,4420,4421,4422,4423,4424,4425,4426,4427,4428,4429,4430,4431,4432,4433,4434,4435,4436,4437,4438,4439,4440,4441,4442,4443,4444,4445,4446,4447,4448,4449,4450,4451,4452" />
+	
+	
+	    <div id="mainDiv">
+	    
+	    	<div id="header">
+	    	    <a id="ctl00_imgHeader" AlternateText="Sewanee University" href="/index.aspx"><img src="/images/header.jpg" border="0" /></a>
+	    	</div>     
+            <table cellpadding="0" cellspacing="0" width="980">
+                <tr valign="top">
+                    
+                    <td class="noprint" id="tdLeftNav" valign="top">
+                    
+                            <div id="ctl00_innerPage">    
+
+                                <div id="divSidebars">
+                                    
+
+<div class="sidebar_header"></div><div class="sidebar_container sidebar_softball"><ul class="sidebar_links"><li onmouseover="className='sidebar_item_container sidebar_item_container_on';" onmouseout="className='sidebar_item_container sidebar_item_container_off';"><a href="/roster.aspx?path=softball&amp;roster=122&amp;">Roster</a></li><li onmouseover="className='sidebar_item_container sidebar_item_container_on';" onmouseout="className='sidebar_item_container sidebar_item_container_off';"><a href="/schedule.aspx?path=softball&amp;schedule=91&amp;">Schedule/Results</a></li><li onmouseover="className='sidebar_item_container sidebar_item_container_on';" onmouseout="className='sidebar_item_container sidebar_item_container_off';"><a href="/coaches.aspx?roster=90&amp;path=softball">Coaching Staff</a></li><li onmouseover="className='sidebar_item_container sidebar_item_container_on';" onmouseout="className='sidebar_item_container sidebar_item_container_off';"><a href="http://www.scacsports.com/sports/sball/2010-11/stats/uos.htm">Statistics</a></li><li onmouseover="className='sidebar_item_container sidebar_item_container_on';" onmouseout="className='sidebar_item_container sidebar_item_container_off';"><a href="/sports/2008/9/24/SB_0924080942.aspx?path=softball">Prospect Questionnaire</a></li></ul></div><div class="sidebar_footer"></div>
+
+
+
+
+
+
+
+
+                                </div>
+
+                            </div>
+                            <div style="clear:both"></div>
+                            
+                            
+
+<h2><img src="/images/nav_images/leftnav_athletics.gif" alt="Athletic Department" /></h2><ul>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="/sports/2008/9/18/GEN_0918084327.aspx?tab=athleticsphilosophy" class="nav_link" >Athletics Philosophy</a></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="/sports/2008/9/18/GEN_0918083032.aspx?tab=compliance" class="nav_link" >Compliance</a></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="/sports/2008/9/18/GEN_0918083617.aspx?tab=facilities" class="nav_link" >Facilities</a></li>
+<li id="facilities" title="leftNav_WB" style="display:none;height:1%;"><ul>
+<li class="nav_item_container nav_container_depth_2 nav_item_container_off" onmouseover="className='nav_item_container nav_container_depth_2 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_2 nav_item_container_off';">
+<a href="/sports/2009/3/23/GEN_0323095533.aspx?tab=facilities" class="nav_link" >Fowler Center Hours</a></li>
+</ul></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="/hof.aspx?tab=halloffame" class="nav_link" >Hall of Fame</a></li>
+<li id="halloffame" title="leftNav_WB" style="display:none;height:1%;"><ul>
+<li class="nav_item_container nav_container_depth_2 nav_item_container_off" onmouseover="className='nav_item_container nav_container_depth_2 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_2 nav_item_container_off';">
+<a href="http://athletics.sewanee.edu/08HOF" class="nav_link" >2008 HOF Pictures</a></li>
+<li class="nav_item_container nav_container_depth_2 nav_item_container_off" onmouseover="className='nav_item_container nav_container_depth_2 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_2 nav_item_container_off';">
+<a href="/photo_gallery.aspx?gallery=5&amp;tab=halloffame&amp;path=gen" class="nav_link" >2009 HOF Pictures</a></li>
+</ul></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="/sports/2011/11/2/GEN_1102110347.aspx?tab=intramurals" class="nav_link" >Intramurals</a></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="/sports/2009/9/1/GEN_0901094815.aspx?tab=prospectivestudent-athletes" class="nav_link" >Prospective Student-Athletes</a></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="/sports/2008/9/18/GEN_0918085216.aspx?tab=saac" class="nav_link" >SAAC</a></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="/sports/2009/5/20/GEN_0520094245.aspx?tab=summercamps" class="nav_link" >Summer Camps</a></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="/sports/2008/9/18/GEN_0918085630.aspx?tab=sewaneegolfclub" class="nav_link" >Sewanee Golf Club</a></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="" onclick="javascript:expand('sportsmedicine', false);return false;"  class="nav_link" >Sports Medicine</a></li>
+<li id="sportsmedicine" title="leftNav_WB" style="display:none;height:1%;"><ul>
+<li class="nav_item_container nav_container_depth_2 nav_item_container_off" onmouseover="className='nav_item_container nav_container_depth_2 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_2 nav_item_container_off';">
+<a href="/sports/2008/9/22/GEN_0922085228.aspx?tab=sportsmedicine&amp;path=gen" class="nav_link" >Overview</a></li>
+<li class="nav_item_container nav_container_depth_2 nav_item_container_off" onmouseover="className='nav_item_container nav_container_depth_2 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_2 nav_item_container_off';">
+<a href="/sports/2008/9/22/GEN_0922085234.aspx?tab=sportsmedicine&amp;path=gen" class="nav_link" >Staff</a></li>
+<li class="nav_item_container nav_container_depth_2 nav_item_container_off" onmouseover="className='nav_item_container nav_container_depth_2 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_2 nav_item_container_off';">
+<a href="/sports/2008/9/19/GEN_0919085717.aspx?tab=sportsmedicine&amp;path=gen" class="nav_link" >Medical Forms</a></li>
+<li class="nav_item_container nav_container_depth_2 nav_item_container_off" onmouseover="className='nav_item_container nav_container_depth_2 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_2 nav_item_container_off';">
+<a href="/sports/2009/5/18/GEN_0518092024.aspx?tab=sportsmedicine&amp;path=gen" class="nav_link" >Team Physicians</a></li>
+<li class="nav_item_container nav_container_depth_2 nav_item_container_off" onmouseover="className='nav_item_container nav_container_depth_2 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_2 nav_item_container_off';">
+<a href="&amp;path=gen" class="nav_link" >Visiting Team Information</a></li>
+</ul></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="/staff.aspx?tab=staffdirectory" class="nav_link" >Staff Directory</a></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="http://www.sewanee.edu/" class="nav_link" >Sewanee.edu</a></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="http://admission.sewanee.edu/" class="nav_link" >Sewanee Admissions</a></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="http://visit.sewanee.edu/" class="nav_link"  target="_blank" >Visit Sewanee</a></li>
+<li class="nav_item_container nav_container_depth_1 nav_item_container_off nav_item_1" onmouseover="className='nav_item_container nav_container_depth_1 nav_item_container_on';" onmouseout="className='nav_item_container nav_container_depth_1 nav_item_container_off';"><a href="http://www.facebook.com/pages/Sewanee-Athletics/147994175242276?ref=mf" class="nav_link" >Sewanee Tigers on Facebook!</a></li>
+</ul>
+
+
+
+
+
+
+
+
+                            <center>
+                                
+    
+            <a href="http://www.scac-online.org/" id="ctl00_ad1_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=1&amp;target=http://www.scac-online.org/', '_blank'); return false;" class="ad_spot_affiliation" rev="affiliation_1">
+                
+        <img id="ctl00_ad1_rptAds_ctl00_mediaAd_imgPrimary_LS" src="/images/2008/9/15/leftnav_scac.gif" alt="SCAC Conference" border="0" style="z-index:1;display:block;" />
+    
+            </a>
+        
+    
+    
+
+                                
+    
+            <a href="http://www.ncaa.org" id="ctl00_ad2_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=2&amp;target=http://www.ncaa.org', '_blank'); return false;" class="ad_spot_affiliation" rev="affiliation_2">
+                
+        <img id="ctl00_ad2_rptAds_ctl00_mediaAd_imgPrimary_LS" src="/images/2008/9/15/leftnav_ncaa.gif" alt="NCAA" border="0" style="z-index:1;display:block;" />
+    
+            </a>
+        
+    
+    
+
+                                
+    
+            <a href="http://www.ncaa.org/d3specialolympics" id="ctl00_ad3_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=7&amp;target=http://www.ncaa.org/d3specialolympics', '_blank'); return false;" class="ad_spot_affiliation" rev="affiliation_3">
+                
+        <img id="ctl00_ad3_rptAds_ctl00_mediaAd_imgPrimary_LS" src="/images/2011/9/27/medium_SO-Logo.jpg" alt="Special Olympics" border="0" style="z-index:1;display:block;" />
+    
+            </a>
+        
+    
+    
+
+                            <br /><br />
+                            </center>
+                    </td>
+                    
+                    <td id="ctl00_tdContent" class="tdContent" valign="top">
+                        
+                        <div id="ctl00_topnavsection">
+                            <div style="float:left">
+
+
+
+
+
+<div id="ctl00_Nav3_radTopNav" class="radmenu RadMenu_Default radMenu " style="background-color:White;border-width:0px;">
+	<!-- 4.4.8 --><script type="text/javascript" src="/WebResource.axd?d=nMpt9WH7wQK44xy0g8rB-la8zNH8PH6UMvtm2Q-kI7VLtw3IoINy4tHK4jQxo5FqAL92_qi9HcmRojVgf8IK_NHYf-GTOq-ItMssUNJQkkwgYyuCoKR3SQSFIz55cf-JDKyBzuXgMJXgnFutCIRO_SBouZg1&amp;t=634531748947552877"></script><ul class="horizontal rootGroup">
+		<li class="item first"><a href="#" id="ctl00_Nav3_radTopNav_m0" title="Men's Sports" class="link" style="display:inline-block;border-width:0px;"><img alt="Men's Sports" src="/images/nav_images/topnav_mens.gif" class="leftImage" /><span class="text"></span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="/index.aspx?path=baseball&amp;" id="ctl00_Nav3_radTopNav_m0_m0" class="link" style="display:inline-block;border-width:0px;"><span class="text">Baseball</span></a></li><li class="item"><a href="/index.aspx?path=mbball&amp;" id="ctl00_Nav3_radTopNav_m0_m1" class="link" style="display:inline-block;border-width:0px;"><span class="text">Basketball</span></a></li><li class="item"><a href="/index.aspx?path=mcross&amp;" id="ctl00_Nav3_radTopNav_m0_m2" class="link" style="display:inline-block;border-width:0px;"><span class="text">Cross Country</span></a></li><li class="item"><a href="/index.aspx?path=equest&amp;" id="ctl00_Nav3_radTopNav_m0_m3" class="link" style="display:inline-block;border-width:0px;"><span class="text">Equestrian</span></a></li><li class="item"><a href="/index.aspx?path=football&amp;" id="ctl00_Nav3_radTopNav_m0_m4" class="link" style="display:inline-block;border-width:0px;"><span class="text">Football</span></a></li><li class="item"><a href="/index.aspx?path=mgolf&amp;" id="ctl00_Nav3_radTopNav_m0_m5" class="link" style="display:inline-block;border-width:0px;"><span class="text">Golf</span></a></li><li class="item"><a href="/index.aspx?path=mlax&amp;" id="ctl00_Nav3_radTopNav_m0_m6" class="link" style="display:inline-block;border-width:0px;"><span class="text">Lacrosse</span></a></li><li class="item"><a href="/index.aspx?path=msoc&amp;" id="ctl00_Nav3_radTopNav_m0_m7" class="link" style="display:inline-block;border-width:0px;"><span class="text">Soccer</span></a></li><li class="item"><a href="/index.aspx?path=mswim&amp;" id="ctl00_Nav3_radTopNav_m0_m8" class="link" style="display:inline-block;border-width:0px;"><span class="text">Swimming and Diving</span></a></li><li class="item"><a href="/index.aspx?path=mten&amp;" id="ctl00_Nav3_radTopNav_m0_m9" class="link" style="display:inline-block;border-width:0px;"><span class="text">Tennis</span></a></li><li class="item last"><a href="/index.aspx?path=mtrack&amp;" id="ctl00_Nav3_radTopNav_m0_m10" class="link" style="display:inline-block;border-width:0px;"><span class="text">Track and Field</span></a></li>
+			</ul>
+		</div></li><li class="item last"><a href="#" id="ctl00_Nav3_radTopNav_m1" title="Women's Sports" class="link" style="display:inline-block;border-width:0px;"><img alt="Women's Sports" src="/images/nav_images/topnav_womens.gif" class="leftImage" /><span class="text"></span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="/index.aspx?path=wbball&amp;" id="ctl00_Nav3_radTopNav_m1_m0" class="link" style="display:inline-block;border-width:0px;"><span class="text">Basketball</span></a></li><li class="item"><a href="/index.aspx?path=cheer&amp;" id="ctl00_Nav3_radTopNav_m1_m1" class="link" style="display:inline-block;border-width:0px;"><span class="text">Cheerleading</span></a></li><li class="item"><a href="/index.aspx?path=wcross&amp;" id="ctl00_Nav3_radTopNav_m1_m2" class="link" style="display:inline-block;border-width:0px;"><span class="text">Cross Country</span></a></li><li class="item"><a href="/index.aspx?path=equest&amp;" id="ctl00_Nav3_radTopNav_m1_m3" class="link" style="display:inline-block;border-width:0px;"><span class="text">Equestrian</span></a></li><li class="item"><a href="/index.aspx?path=fhockey&amp;" id="ctl00_Nav3_radTopNav_m1_m4" class="link" style="display:inline-block;border-width:0px;"><span class="text">Field Hockey</span></a></li><li class="item"><a href="/index.aspx?path=wgolf&amp;" id="ctl00_Nav3_radTopNav_m1_m5" class="link" style="display:inline-block;border-width:0px;"><span class="text">Golf</span></a></li><li class="item"><a href="/index.aspx?path=wlax&amp;" id="ctl00_Nav3_radTopNav_m1_m6" class="link" style="display:inline-block;border-width:0px;"><span class="text">Lacrosse</span></a></li><li class="item"><a href="/index.aspx?path=wsoc&amp;" id="ctl00_Nav3_radTopNav_m1_m7" class="link" style="display:inline-block;border-width:0px;"><span class="text">Soccer</span></a></li><li class="item"><a href="/index.aspx?path=softball&amp;" id="ctl00_Nav3_radTopNav_m1_m8" class="link" style="display:inline-block;border-width:0px;"><span class="text">Softball</span></a></li><li class="item"><a href="/index.aspx?path=wswim&amp;" id="ctl00_Nav3_radTopNav_m1_m9" class="link" style="display:inline-block;border-width:0px;"><span class="text">Swimming and Diving</span></a></li><li class="item"><a href="/index.aspx?path=wten&amp;" id="ctl00_Nav3_radTopNav_m1_m10" class="link" style="display:inline-block;border-width:0px;"><span class="text">Tennis</span></a></li><li class="item"><a href="/index.aspx?path=wtrack&amp;" id="ctl00_Nav3_radTopNav_m1_m11" class="link" style="display:inline-block;border-width:0px;"><span class="text">Track and Field</span></a></li><li class="item last"><a href="/index.aspx?path=wvball&amp;" id="ctl00_Nav3_radTopNav_m1_m12" class="link" style="display:inline-block;border-width:0px;"><span class="text">Volleyball</span></a></li>
+			</ul>
+		</div></li>
+	</ul><input type="hidden" id="ctl00_Nav3_radTopNav_Hidden" name="ctl00$Nav3$radTopNav" /><script type="text/javascript">window["ctl00_Nav3_radTopNav"] = RadMenu.Create("ctl00_Nav3_radTopNav");window["ctl00_Nav3_radTopNav"].Initialize({"Skin":"Default","Enabled":true,"OnClientItemFocus":"Expand_508","OnClientItemBlur":"Collapse_508"},{"ctl00_Nav3_radTopNav_m0":{"NavigateAfterClick":false},"ctl00_Nav3_radTopNav_m1":{"NavigateAfterClick":false}});</script>
+</div>
+
+
+
+</div>
+                            <div id="search" style="float:left;width:284px;height:29px;background-image:url(/images/topnav_search-bg.gif);background-repeat:repeat-x">
+	                            <table style="margin-left:8px">
+					                <tr>
+						                <td><input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" style="width:210px;height:20px;font-size:11px" /></td>
+						                <td><input type="image" name="ctl00$ImageButton1" id="ctl00_ImageButton1" src="/images/topnav_search-go.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ImageButton1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" /></td>
+						                </tr>
+				                </table>
+	                        </div>                                                                           
+                        </div>
+                            
+                        <div style="clear:both"></div>
+                        
+                                                
+                        
+                                                                       
+                        <div id="ctl00_contentDiv_container" style="float:left;background-color:#fff;">
+                            
+                            <a name="content"></a>
+                            
+                            
+                            
+                            <div id="ctl00_contentDiv" style="width:430px;float:left;">
+                                
+
+  
+        
+        
+
+
+<div class="divTopStory_container" style="background-color:#fff;">
+
+    <div class="divTopStory_TV_container_bigmedia">
+        <div style="padding:5px;">
+            
+        <div id="ctl00_cplhMainContent_TopStories_rptTopStories_ctl00_ctl00_MediaObject1_divImage" class="media_object_image" style="width:220px;;">
+        
+            
+                <img id="ctl00_cplhMainContent_TopStories_rptTopStories_ctl00_ctl00_MediaObject1_imgPrimary" alt="" src="/images/2011/3/23/rp_primary2_4-%20Dana%20Middleton.JPG" border="0" style="z-index:1" />
+            
+            
+            <div id="ctl00_cplhMainContent_TopStories_rptTopStories_ctl00_ctl00_MediaObject1_divCaption" class="media_object_caption"><div class="media_object_inner_caption">Dana Middleton</div></div>
+            <div style="clear:both"></div>
+            
+        </div>
+         
+    
+        </div>
+        <div class="divTopStory_link_container" style="background-image:none;"><a href="/news/2011/4/25/SB_0425110421.aspx" class="topstory_headline_alt">Dana Middleton Selected to All-SCAC Second Team</a></div>
+    </div>
+    <div class="divTopStory_TV_container"  style="background-color:#fff"">
+        <div class="divTopStory_sport_container">04.25 | Softball</div>
+        <div class="divTopStory_summary">
+            <div><b>SUWANEE, Ga. </b>4/25/11 &ndash; Sophomore second baseman <dfn><a href="/roster.aspx?rp_id=1769" rel="smarttag" rev="1769">Dana Middleton</a></dfn> has been named All-Southern Collegiate Athletic Conference second team in exclusive balloting by the league's softball coaches.</div>
+<br>
+            <br /><br />
+            <!--
+            <a href="/news/2011/4/25/SB_0425110421.aspx?path=softball" class="divTopStory_ReadMore" title="Read Dana Middleton Selected to All-SCAC Second Team Story" >Full Story</a>
+            -->
+        </div>
+    </div>
+    
+
+</div>
+
+  
+    
+
+
+
+        <img src="/images/body_recent.gif" alt="Recent Headlines" border="0" />
+        
+        <div id="highlights_outer" class="highlights_outer">
+            <table id="ctl00_cplhMainContent_TopStories2_rptHighlights" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td valign="top">
+                    <div class="highlights_story_overall">
+                        <div class="highlights_image_outer">
+                            <div class="highlights_image"><img src="/common/controls/image_handler.aspx?thumb_prefix=rp_hl&amp;image_path=/images/2011/3/23/IMG_0978.JPG" /></div>
+                        </div>
+                        <div class="highlights_story_content">
+                            <div class="highlights_sport_container">4.17.2011 | Softball</div>
+                            <div class="highlights_title"><a href="/news/2011/4/17/SB_0417115554.aspx?path=softball">Tigers Close Out Season with Doubleheader Loss to Rhodes</a></div>
+                        </div>
+                    </div>
+                    
+                </td><td valign="top">
+                    <div class="highlights_story_overall">
+                        <div class="highlights_image_outer">
+                            <div class="highlights_image"><img src="/common/controls/image_handler.aspx?thumb_prefix=rp_hl&amp;image_path=/images/2011/3/23//12- Kali Ousley.JPG" /></div>
+                        </div>
+                        <div class="highlights_story_content">
+                            <div class="highlights_sport_container">4.16.2011 | Softball</div>
+                            <div class="highlights_title"><a href="/news/2011/4/16/SB_0416112319.aspx?path=softball">Rhodes College Sweeps Tigers in SCAC Doubleheader</a></div>
+                        </div>
+                    </div>
+                    
+                </td><td></td>
+	</tr>
+</table>
+        </div>
+    
+
+
+
+        <img src="/images/body_more.gif" alt="More Stories" width="429" border="0" />
+        
+        <div class="divMoreHeadline_overall_container">
+        <div style="height:1px" class="divMoreHeadline_singlepixel"></div>
+        
+        
+
+<div class="divMoreHeadline_container">
+    <div class="divMoreHeadline_sport_container">4.13.11 | Softball</div>
+    <div class="divMoreHeadline_link_container"><a href="/news/2011/4/13/SB_0413111729.aspx" class="aMoreHeadline" onmouseover="moreheadlines_show(1234)" onmouseout="moreheadlines_stoptimer()">Tigers Ride Arm and Bat of Thibodeaux in Doubleheader Sweep of Fisk</a></div>
+    <div id="divMoreHeadline_more_1234" class="divMoreHeadline_morebox">
+        <strong>SEWANEE, Tenn.</strong> 4/13/11 &ndash; Freshman <dfn><a href="/roster.aspx?rp_id=1772" rel="smarttag" rev="1772">Michelle Thibodeaux</a></dfn> picked up both wins in the circle and turned in a 4-for-7 effort at the plate to lead the Sewanee Tigers to a sweep of the Fisk Bulldogs in an afternoon doubleheader played today in Sewanee.&nbsp;The Tigers took the first game 14-2 and the nightcap by the score of 16-0.
+        <br /><br />
+        <a href="javascript:void(0)" onclick="moreheadlines_hide(1234)" class="aMoreHeadline">Close</a> | <a href="/news/2011/4/13/SB_0413111729.aspx" class="aMoreHeadline">Full Story</a>
+    </div>
+</div>
+
+                <div class="divMoreHeadline_separator"> </div>
+            
+
+<div class="divMoreHeadline_container alt">
+    <div class="divMoreHeadline_sport_container">4.10.11 | Softball</div>
+    <div class="divMoreHeadline_link_container"><a href="/news/2011/4/10/SB_0410114824.aspx" class="aMoreHeadline" onmouseover="moreheadlines_show(1227)" onmouseout="moreheadlines_stoptimer()">Tigers Swept by Centre in SCAC Softball Doubleheader</a></div>
+    <div id="divMoreHeadline_more_1227" class="divMoreHeadline_morebox">
+        <strong>DANVILLE, Ky.</strong> 4/10/11 &ndash; The Sewanee Tigers and the Centre Colonels wrapped up a four-game SCAC softball series today with the Colonels sweeping the afternoon doubleheader from the Tigers.&nbsp;Centre won the first game 12-3 and the second game 8-2.<br>
+        <br /><br />
+        <a href="javascript:void(0)" onclick="moreheadlines_hide(1227)" class="aMoreHeadline">Close</a> | <a href="/news/2011/4/10/SB_0410114824.aspx" class="aMoreHeadline">Full Story</a>
+    </div>
+</div>
+
+                <div class="divMoreHeadline_separator"> </div>
+            
+
+<div class="divMoreHeadline_container">
+    <div class="divMoreHeadline_sport_container">4.9.11 | Softball</div>
+    <div class="divMoreHeadline_link_container"><a href="/news/2011/4/9/SB_0409111838.aspx" class="aMoreHeadline" onmouseover="moreheadlines_show(1225)" onmouseout="moreheadlines_stoptimer()">Tigers Fall Twice to Colonels in SCAC Action</a></div>
+    <div id="divMoreHeadline_more_1225" class="divMoreHeadline_morebox">
+        <div><b>DANVILLE</b><b>, Ky. 4/9/11 &ndash; </b>Despite a perfect 6-for-6 day at the plate by sophomore <dfn><a href="/roster.aspx?rp_id=1769" rel="smarttag" rev="1769">Dana Middleton</a></dfn>, the Centre Colonels swept a doubleheader from the Sewanee Tigers today in Danville.&nbsp;The Colonels were victorious in Game 1 by a score of 9-0 and 19-5 in the second game.</div>
+<br>
+        <br /><br />
+        <a href="javascript:void(0)" onclick="moreheadlines_hide(1225)" class="aMoreHeadline">Close</a> | <a href="/news/2011/4/9/SB_0409111838.aspx" class="aMoreHeadline">Full Story</a>
+    </div>
+</div>
+
+                <div class="divMoreHeadline_separator"> </div>
+            
+
+<div class="divMoreHeadline_container alt">
+    <div class="divMoreHeadline_sport_container">4.3.11 | Softball</div>
+    <div class="divMoreHeadline_link_container"><a href="/news/2011/4/3/SB_0403114509.aspx" class="aMoreHeadline" onmouseover="moreheadlines_show(1213)" onmouseout="moreheadlines_stoptimer()">Tigers Swept by Birmingham Southern in SCAC Softball Play</a></div>
+    <div id="divMoreHeadline_more_1213" class="divMoreHeadline_morebox">
+        <st1:city w:st="on"><strong style="mso-bidi-font-weight: normal">BIRMINGHAM</strong></st1:city><strong style="mso-bidi-font-weight: normal">, <st1:state w:st="on">Ala.</st1:state></strong> 4/3/11 &ndash; The Birmingham Southern Panthers swept past the Sewanee Tigers in an SCAC softball doubleheader played today in <st1:place w:st="on"><st1:city w:st="on">Birmingham</st1:city></st1:place>.&nbsp; The Panthers won the first game 10-0 and the second game 15-0.
+        <br /><br />
+        <a href="javascript:void(0)" onclick="moreheadlines_hide(1213)" class="aMoreHeadline">Close</a> | <a href="/news/2011/4/3/SB_0403114509.aspx" class="aMoreHeadline">Full Story</a>
+    </div>
+</div>
+
+                <div class="divMoreHeadline_separator"> </div>
+            
+
+<div class="divMoreHeadline_container">
+    <div class="divMoreHeadline_sport_container">4.2.11 | Softball</div>
+    <div class="divMoreHeadline_link_container"><a href="/news/2011/4/2/SB_0402111305.aspx" class="aMoreHeadline" onmouseover="moreheadlines_show(1202)" onmouseout="moreheadlines_stoptimer()">Birmingham Southern Sweeps Sewanee in SCAC Softball Doubleheader</a></div>
+    <div id="divMoreHeadline_more_1202" class="divMoreHeadline_morebox">
+        <st1:place w:st="on"><st1:city w:st="on"><strong style="mso-bidi-font-weight: normal">BIRMINGHAM</strong></st1:city><strong style="mso-bidi-font-weight: normal">, <st1:state w:st="on">Ala.</st1:state></strong></st1:place> 4/2/11 &ndash; The Birmingham Southern Panthers took both ends of an SCAC doubleheader from the Sewanee Tigers today.&nbsp; The Panthers won the first game 8-0 and the second game by a score of 25-0.
+        <br /><br />
+        <a href="javascript:void(0)" onclick="moreheadlines_hide(1202)" class="aMoreHeadline">Close</a> | <a href="/news/2011/4/2/SB_0402111305.aspx" class="aMoreHeadline">Full Story</a>
+    </div>
+</div>
+
+                <div class="divMoreHeadline_separator"> </div>
+            
+
+<div class="divMoreHeadline_container alt">
+    <div class="divMoreHeadline_sport_container">3.27.11 | Softball</div>
+    <div class="divMoreHeadline_link_container"><a href="/news/2011/3/27/SB_0327111902.aspx" class="aMoreHeadline" onmouseover="moreheadlines_show(1192)" onmouseout="moreheadlines_stoptimer()">Softball Doubleheader Cancelled</a></div>
+    <div id="divMoreHeadline_more_1192" class="divMoreHeadline_morebox">
+        <strong style="mso-bidi-font-weight: normal">SEWANEE, Tenn.</strong> 3/27/11 &ndash; The SCAC softball doubleheader scheduled for today between Sewanee and DePauw University has been cancelled due to wet field conditions and fog.&nbsp; No makeup date for the games has been set.
+        <br /><br />
+        <a href="javascript:void(0)" onclick="moreheadlines_hide(1192)" class="aMoreHeadline">Close</a> | <a href="/news/2011/3/27/SB_0327111902.aspx" class="aMoreHeadline">Full Story</a>
+    </div>
+</div>
+
+                <div class="divMoreHeadline_separator"> </div>
+                <div class="divMoreHeadline_archive_container">
+                    <a href="/archives.aspx?path=softball">View Archives</a>
+                </div>
+            
+        </div>
+    
+
+
+
+
+
+                            </div>
+                        </div>
+                        
+                        <div id="ctl00_rightnav" class="rightnav">
+                        
+                                                      
+                            <div id="ctl00_upcoming_calendar" class="upcoming_calendar">
+                                <img src="/images/rightnav_cal.gif" alt="Calendar" />   
+                                
+        <noscript>
+            <a href="/calendar.aspx?smallcal=true">View Searchable Schedule</a>
+        </noscript>
+        <div id="ctl00_upcoming1_UpdatePanel1">
+	
+              <div class="upcoming_cal_overall">
+                <div class="upcoming_cal_left_pane">
+                    <table id="ctl00_upcoming1_calTop" cellspacing="0" cellpadding="0" border="0" width="100%">
+		<tr>
+			<td class="upcoming_cal_title" colspan="7"><table cellspacing="0" cellpadding="0" border="0" style="width:100%;">
+				<tr>
+					<td class="upcoming_cal_next" style="width:15%;"><a href="javascript:__doPostBack('ctl00$upcoming1$calTop','V4383')">Jan</a></td><td align="center" style="width:70%;">February 2012</td><td class="upcoming_cal_next" align="right" style="width:15%;"><a href="javascript:__doPostBack('ctl00$upcoming1$calTop','V4443')">Mar</a></td>
+				</tr>
+			</table></td>
+		</tr><tr>
+			<th class="upcoming_cal_dayheader" scope="col" abbr="Sunday">Su</th><th class="upcoming_cal_dayheader" scope="col" abbr="Monday">Mo</th><th class="upcoming_cal_dayheader" scope="col" abbr="Tuesday">Tu</th><th class="upcoming_cal_dayheader" scope="col" abbr="Wednesday">We</th><th class="upcoming_cal_dayheader" scope="col" abbr="Thursday">Th</th><th class="upcoming_cal_dayheader" scope="col" abbr="Friday">Fr</th><th class="upcoming_cal_dayheader" scope="col" abbr="Saturday">Sa</th>
+		</tr><tr valign="top">
+			<td class="upcoming_cal_day upcoming_cal_othermonth" style="text-decoration:none;">29</td><td class="upcoming_cal_day upcoming_cal_othermonth" style="text-decoration:none;">30</td><td class="upcoming_cal_day upcoming_cal_othermonth" style="text-decoration:none;">31</td><td class="upcoming_cal_day" style="text-decoration:none;">1</td><td class="upcoming_cal_day" style="text-decoration:none;">2</td><td class="upcoming_cal_day" style="text-decoration:none;">3</td><td class="upcoming_cal_day" style="text-decoration:none;">4</td>
+		</tr><tr valign="top">
+			<td class="upcoming_cal_day" style="text-decoration:none;">5</td><td class="upcoming_cal_day" style="text-decoration:none;">6</td><td class="upcoming_cal_day" style="text-decoration:none;">7</td><td class="upcoming_cal_day" style="text-decoration:none;">8</td><td class="upcoming_cal_day" style="text-decoration:none;">9</td><td class="upcoming_cal_day" style="text-decoration:none;">10</td><td class="upcoming_cal_day" style="text-decoration:none;">11</td>
+		</tr><tr valign="top">
+			<td class="upcoming_cal_day upcoming_cal_selected_day upcoming_cal_today" style="text-decoration:none;">12</td><td class="upcoming_cal_day" style="text-decoration:none;">13</td><td class="upcoming_cal_day" style="text-decoration:none;">14</td><td class="upcoming_cal_day" style="text-decoration:none;">15</td><td class="upcoming_cal_day" style="text-decoration:none;">16</td><td class="upcoming_cal_day" style="text-decoration:none;">17</td><td class="upcoming_cal_day" style="text-decoration:none;">18</td>
+		</tr><tr valign="top">
+			<td class="upcoming_cal_day" style="text-decoration:none;">19</td><td class="upcoming_cal_day" style="text-decoration:none;">20</td><td class="upcoming_cal_day" style="text-decoration:none;">21</td><td class="upcoming_cal_day" style="text-decoration:none;">22</td><td class="upcoming_cal_day" style="text-decoration:none;">23</td><td class="upcoming_cal_day" style="text-decoration:none;">24</td><td class="upcoming_cal_day" style="text-decoration:none;">25</td>
+		</tr><tr valign="top">
+			<td class="upcoming_cal_day" style="text-decoration:none;">26</td><td class="upcoming_cal_day" style="text-decoration:none;">27</td><td class="upcoming_cal_day" style="text-decoration:none;">28</td><td class="upcoming_cal_day" style="text-decoration:none;">29</td><td class="upcoming_cal_day upcoming_cal_othermonth" style="text-decoration:none;">1</td><td class="upcoming_cal_day upcoming_cal_othermonth" style="text-decoration:none;">2</td><td class="upcoming_cal_day upcoming_cal_othermonth" style="text-decoration:none;">3</td>
+		</tr><tr valign="top">
+			<td class="upcoming_cal_day upcoming_cal_othermonth" style="text-decoration:none;">4</td><td class="upcoming_cal_day upcoming_cal_othermonth" style="text-decoration:none;">5</td><td class="upcoming_cal_day upcoming_cal_othermonth" style="text-decoration:none;">6</td><td class="upcoming_cal_day upcoming_cal_othermonth" style="text-decoration:none;">7</td><td class="upcoming_cal_day upcoming_cal_othermonth" style="text-decoration:none;">8</td><td class="upcoming_cal_day upcoming_cal_othermonth" style="text-decoration:none;">9</td><td class="upcoming_cal_day upcoming_cal_othermonth" style="text-decoration:none;">10</td>
+		</tr>
+	</table>
+                </div>
+                <div class="upcoming_cal_right_pane">
+                    <span id="ctl00_upcoming1_lblDate" class="upcoming_cal_maindate">Sun, Feb. 12, 2012</span>
+                    
+                    <span class="upcoming_cal_noevents"><br /><br />There are no events scheduled.</span>
+                </div>
+              </div>
+            
+</div>
+    
+                            </div>                  
+                            
+                            <div id="ctl00_aotw">
+                                  
+                                <div id="ctl00_aw_aow_on">
+        <div class="aow_wrapper">
+            <div class="aow_header"></div>
+            <div class="aow_title">Tiger of the Week</div>
+                
+            <div id="ctl00_aw_pnlSideBySide">
+	
+                <table class="aow_sbs_table" cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        
+
+<td>
+    <div class="aow_image"><img src="/common/controls/image_handler.aspx?image_path=/images/2011/9/17/Sewanee_S_Logo.jpeg&amp;thumb_prefix=rp_aotw" alt="Sally Warm/ Valentino Bryant" border="0" /></div>
+    <div style="float:left">
+        <div class="aow_player">Sally Warm/ Valentino Bryant</div>
+        <div class="aow_player_info">General<br /><a href="/sports/2011/9/6/GEN_0906113843.aspx">Read Full Bio</a></div>
+     </div>
+</td>     
+
+                    </tr>
+                </table>
+            
+</div>
+            
+        </div>
+        <div class="aow_footer"></div>
+    </div>
+
+                         
+                            </div>
+                           
+                            <div style="width:100%;text-align:center;">
+                                
+    
+            <a href="/sports/2010/1/8/GEN_0108105700.aspx?id=84" id="ctl00_ctl03_rptAds_ctl00_hlAdSpot" onclick="window.open('/common/controls/adhandler.aspx?ad_id=4&amp;target=/sports/2010/1/8/GEN_0108105700.aspx?id=84', '_self'); return false;" class="ad_rightnav" rev="below_rightnav1">
+                
+        <img id="ctl00_ctl03_rptAds_ctl00_mediaAd_imgPrimary_LS" src="/images/2010/1/12/rightnav_ysr.gif" alt="YSR Join Now!" border="0" style="z-index:1;display:block;" />
+    
+            </a>
+        
+    
+    
+
+                                
+    
+            <a href="/subscribe.aspx" id="ctl00_ctl04_rptAds_ctl00_hlAdSpot" onclick="window.open('/common/controls/adhandler.aspx?ad_id=3&amp;target=/subscribe.aspx', '_self'); return false;" class="ad_rightnav" rev="below_rightnav2">
+                
+        <img id="ctl00_ctl04_rptAds_ctl00_mediaAd_imgPrimary_LS" src="/images/2008/9/15/rightnav_newsletter.gif" alt="Join Newsletter" border="0" style="z-index:1;display:block;" />
+    
+            </a>
+        
+    
+    
+
+                                
+    
+    
+    
+
+                           </div>
+                            
+                            <div id="divPoll">
+                                <img src="/images/rightnav_poll.gif" alt="Poll" />
+                                <div id="ctl00_Polls1_poll_header" class="poll_header"></div>
+<div id="ctl00_Polls1_div_overall_container">
+
+        <div id="ctl00_Polls1_divQuestion" class="poll_container" style="width:280">
+            <div class="poll_question">Which winter sport will finish highest in the SCAC standings?</div>
+            <span id="ctl00_Polls1_rblPollAnswers" class="poll_item"><input id="ctl00_Polls1_rblPollAnswers_0" type="radio" name="ctl00$Polls1$rblPollAnswers" value="39" /><label for="ctl00_Polls1_rblPollAnswers_0">Men's Basketball</label><br /><input id="ctl00_Polls1_rblPollAnswers_1" type="radio" name="ctl00$Polls1$rblPollAnswers" value="40" /><label for="ctl00_Polls1_rblPollAnswers_1">Women's Basketball</label><br /><input id="ctl00_Polls1_rblPollAnswers_2" type="radio" name="ctl00$Polls1$rblPollAnswers" value="41" /><label for="ctl00_Polls1_rblPollAnswers_2">Men's Swimming and Diving</label><br /><input id="ctl00_Polls1_rblPollAnswers_3" type="radio" name="ctl00$Polls1$rblPollAnswers" value="42" /><label for="ctl00_Polls1_rblPollAnswers_3">Women's Swimming and Diving</label></span>
+            <br />
+            <div class="poll_submit_button_container">
+                <a id="ctl00_Polls1_lbVote" class="poll_vote_button_text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$Polls1$lbVote&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Vote...</a>
+                
+            </div>
+        </div>
+        <div class="poll_results_window" id="poll_results_container" style="position:absolute;display:none;">
+            
+        </div>
+        <script type="text/javascript"></script>
+    
+</div>
+<div id="ctl00_Polls1_poll_footer" class="poll_footer"></div>
+
+
+
+
+
+
+
+
+                            </div>
+                            
+                        </div>                        
+                        
+                    </td>
+
+                </tr>
+	        </table>
+	        <div class="no_print">
+            <div id="footer">
+                <div id="footer_inside">
+                    <div style="float:left" class="footer">
+                    </div>
+                    <div style="float:right;"><a href="http://athletics.internetconsult.com" target="_blank"><img src="/images/footer_sidearm.gif" alt="ICS SIDEARM" border="0" /></a>
+                </div>
+            </div>
+        </div>
+        </div>
+        </div>
+
+        
+
+    
+<script type="text/javascript">addLoadEvent(count_ad_master);</script><script type="text/javascript">checkVersion;</script><script type="text/javascript">fkey = '1ff5ab0066a189ded05'</script><script type="text/javascript">count_ad(1);</script><script type="text/javascript">launch_ads ('affiliation_1',true,8000)</script><script type="text/javascript">count_ad(2);</script><script type="text/javascript">launch_ads ('affiliation_2',true,8000)</script><script type="text/javascript">count_ad(7);</script><script type="text/javascript">launch_ads ('affiliation_3',true,8000)</script><script type="text/javascript">count_ad(4);</script><script type="text/javascript">launch_ads ('below_rightnav1',true,8000)</script><script type="text/javascript">count_ad(3);</script><script type="text/javascript">launch_ads ('below_rightnav2',true,8000)</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+	</script>    
+    	<script type="text/javascript">
+		var so = new SWFObject("/images/header.swf?softball", "moviename", "980", "269", "8", "#000000");
+			so.addParam("wmode", "transparent");
+		so.write("header");
+	</script>
+	
+    
+ 
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5650617-6");
+pageTracker._trackPageview();
+</script>
+    
+    
+</body>
+</html>
+

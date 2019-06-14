@@ -1,0 +1,180 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>The Asiatic Society of Japan</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
+
+  <base href="http://www.asjapan.org/web.php/" />
+
+  <link href="/newdesign/css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/newdesign/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <!--[if !IE 7]>
+  <link href="/newdesign/css/screen_ie.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link href="/newdesign/css/screen_ie7.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script type="text/javascript" src="/newdesign/inc/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.core.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.sortable.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/jquery.metadata.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/mbTabset.js"></script>
+
+  <script type="text/javascript">
+		$(function(){
+			$("#tabset1").buildMbTabset({sortable:false});
+		});
+  </script>
+
+    <script type="text/javascript">
+		$(function(){
+			$("#a").removeClass("sel");
+			$("#cont_1").hide();
+			$("#b").addClass("sel");
+			$("#cont_2").fadeIn("fast");
+			$("#linklectures").addClass("optselected");
+			$("#lecturesfor").show();
+		});
+  </script>
+
+
+
+</head>
+<body>
+
+<center><div id="main" align="left">
+
+  <div id="header" align="left">
+    <center>
+      <div><img src="/newdesign/tasoj.gif" alt="The Asiatic Society of Japan" title="The Asiatic Society of Japan"/></div>
+      <div style="height:16px; width:613px; background-color: black; margin-top:3px; padding-top:1px;"/>
+      <div style="height:15px; width:613px; background-color: white; font-family:times new roman,courier;font-size: 10px; padding-bottom:3px; padding-top:2px;">Established 1872. Registered with the <a href="http://www.scj.go.jp/en/index.html" class="dotted">Science Council of Japan</a>.</div>
+      </div>
+    </center>
+  </div>
+
+  <table id="menuasj" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr><td><p id="bigspacer">&nbsp;</p></td></tr>
+    <tr><td>
+      <div class="tabset" id="tabset1">
+        <a href="#" id="a" class="tab {container:'cont_1'}" onclick="return false;">About Us</a><a href="#" id="b" class="tab {container:'cont_2'}" onclick="return false;">ASJ Info Central</a><a href="#" id="c" class="tab {container:'cont_3'}" onclick="return false;">ASJ Merchandise</a><a href="#" id="d" class="tab {container:'cont_4'}" onclick="return false;">Search</a><!--<a href="#" id="e" class="tab {container:'cont_5'}" onclick="return false;">Members</a>-->
+      </div>
+      <div class="mbTabsetContainer" >
+        <span id="cont_1">
+          <a id="linkmain" href="main">Home</a> &middot; <a id="linkwelcome" href="about/welcome">Welcome</a> &middot; <a id="linkhistory" href="about/history">History</a> &middot; <a id="linkpatrons" href="about/patrons">Our Patron</a> &middot; <a id="linkcouncil" href="about/council">The Council</a> &middot; <a id="linkjoin" href="about/join">Join</a> &middot; <a id="linklinks" href="about/links">Other Asiatic Societies</a> &middot; <a id="linkcontact" href="about/contact">Contact</a> &middot; <a id="linksitemap" href="about/sitemap">Site Map</a>
+        </span>
+        <span id="cont_2">
+          <a id="linklectures" href="lectures/index">Lecture Archive</a> &middot; <a id="linkspeakers" href="speakers/index">Speaker Bios</a> &middot; <a id="linkcouncils" href="councils/index">Past Councils</a> &middot; <a id="linkreports" href="reports/index">Annual Reports</a> &middot; <a id="linkmemorial" href="memorial/index">Memorial Wall</a>
+        </span>
+        <span id="cont_3">
+          <a id="linktransactions" href="mercantile/transactions">Transactions and Offprints</a> &middot; <a id="linkpublications" href="mercantile/publications">Other ASJ Publications</a> &middot; <a id="linkgift" href="mercantile/gift">Gift Memberships</a>
+        </span>
+        <span id="cont_4">
+          <form action="/search.php" method="get" >Type your query <input type="text" name="q" size="16" style="height: 16px; font-size: 12px; padding: 1px;"/> <input type="submit" value="search!" style="font-size: 12px; padding: 1px;"/></form>
+        </span>
+<!--        <span id="cont_5">
+          <a id="linkbulletin" href="members/bulletin">Current bulletin</a> &middot; <a id="linkmemlect" href="members/lectures">2008 Lectures</a> &middot; All these options require to login
+        </span>-->
+      </div>
+    </td></tr>
+    <tr><td><p id="smallspacer">&nbsp;</p></td></tr>
+  </table>
+
+
+  <div id="content">
+
+    <div id="lecturesfor">
+
+<table width="750"  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+	<tr>
+		<td valign="bottom" align="center">
+			<table  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+				<tr>
+					<td align="center">
+						<!-- start horizontal menu -->
+						<table class="rootVoices" cellspacing='0' cellpadding='0' border='0'><tr>
+							<td class="rootVoice"><a id="linkarchive2007" href="lectures/2007/index">2007</a></td>
+							<td class="rootVoice"><a id="linkarchive2006" href="lectures/2006/index">2006</a></td>
+							<td class="rootVoice"><a id="linkarchive2005" href="lectures/2005/index">2005</a></td>
+							<td class="rootVoice"><a id="linkarchive2004" href="lectures/2004/index">2004</a></td>
+							<td class="rootVoice"><a id="linkarchive2003" href="lectures/2003/index">2003</a></td>
+							<td class="rootVoice"><a id="linkarchive2002" href="lectures/2002/index">2002</a></td>
+							<td class="rootVoice"><a id="linkarchive2001" href="lectures/2001/index">2001</a></td>
+							<td class="rootVoice"><a id="linkarchive2000" href="lectures/2000/index">2000</a></td>
+							<td class="rootVoice"><a id="linkarchive1999" href="lectures/1999/index">1999</a></td>
+							<td class="rootVoice"><a id="linkarchive1998" href="lectures/1998/index">1998</a></td>
+							<td class="rootVoice"><a id="linkarchive1997" href="lectures/1997/index">1997</a></td>
+							<td class="rootVoice"><a id="linkarchive1996" href="lectures/1996/index">1996</a></td>
+							<td class="rootVoice"><a id="linkarchive1995" href="lectures/1995/index">1995</a></td>
+							<td class="rootVoice"><a id="linkarchive1994" href="lectures/1994/index">1994</a></td>
+						</tr></table>
+						<!-- end horizontal menu -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+    </div>
+    <div id="text">
+
+<h3>Towards an Asian Christianity</h3>
+
+<p><b>Dr. William Johnston</b></p>
+
+Lecture 2002-05-20<br/>
+
+<p>Once again we had an ambassadorial presence at the meeting, as it was attended by H.E. the Irish Ambassador, Mr. Padraig Murphy, and former Cambodian ambassador Mr. Truong Mealy (not forgetting our own Council member, Mrs. Hisami Kurokochi, onetime Japanese ambassador to Finland). The meeting was chaired by Dr. Charles De Wolf,  who has returned to us after a year's sabbatical in Germany.</p>
+
+<p>The speaker was Dr. William Johnston of Sophia University, who had been called upon at short notice to replace the scheduled speaker. Dr. Johnston had taken as his subject  &quot;Towards an Asian Christianity&quot;, but he began by apologizing for the fact that upon reflection he had felt he should rather speak on &quot;Towards a Global Christianity&quot;.  In this present age when all religions had to be global, it did not do to speak of different kinds of Christianity. Differences might exist, but like yin and yang, they were meant to be complementary and form a dialogue together. It was the business of religion today to build a peaceful world. Einstein had  said that mankind must find a new way of thinking or it would be faced with disaster.   Dr. Johnston believed that it was the responsibility of religion, all religions, to create the necessary change of heart. The various religions were still very often fighting among themselves, so that was the first change that needed to take place. The first step was dialogue, as exemplified by the meeting of representatives of the leading religions at Assissi, called by Pope John Paul some years ago.  Other signs of a meeting of minds was the spread of Western thinking in Asia, and conversely of Eastern thinking in the West.</p>
+
+<p>Dr. Johnston focused principally on the writings of certain Japanese Christians. The first of these was &quot;The Bells of Nagasaki&quot; by Takashi Nagai. Nagai became a Christian when he married, as his wife belonged to one of the old Christian families in Nagasaki. She was killed in the atomic bombing, and in his book he writes of his resulting experience of change from being a strong nationalist to to becoming an internationalist. He wrote the book in 1948, when he was dying of leukaemia, and at first it was not allowed to be published.  He was a doctor, and the book gives a harrowing first-hand account of the condition of the atom bomb victims that he attended. Though he himself became sick he kept on working, and at the end of it all he reflected that World War II had been something out of human control, reaching a climax in the dropping of the atom bomb. His conversion came like a flash of satori. He was asked to treat a badly injured patient, but was fed up, and his immediate reaction was &quot;What does it matter if one more is added to the millions who have already died?&quot;, and he refused. Suddenly the thought came, &quot;Even one life is worth saving.&quot; The war was over. Japan had been destroyed because she had held life cheap, but his work was now beginning. He became committed to building world peace. To young people who wanted to keep fighting he said, &quot;Where is the beauty of the atom bomb? If you had seen the hell it caused you would never think of another war.  Atom bombs would annihilate us all, like ants under a steamroller. Go into the mountains and meditate.&quot; The book ends with a prayer that man will never again plan war, which would lead to the suicide of the human race. &quot;Let us follow the commandment to love one another.&quot;</p>
+
+<p>Dr. Johnston felt there had been three Christian prophets in Japan: Kanzo Uchimura, Shusaku Endo and Takashi Nagai.	At a certain point his own command of Japanese had reached a plateau, and he decided to expand it by translating Endo's Chinmoku ('Silence') before he had even read the book. He soon found there were many Christians who did not like the book, and some even tried to get his superior to stop him. Endo himself was a cheerful person, a good Catholic, Christocentric, and his devotion to his Bible can be seen from the number of marginal notes he wrote in it. </p>
+
+<p>Following the method he had been taught in translating from Latin, Dr. Johnston read a passage 	over a number of times until he had digested its meaning, and then finally wrote a translation. In this way he got to know Endo's way of thinking, and found it very  depressing, with its theme that Japan was not well suited for Christianity and was a swamp in which all new ideas became submerged. In the story, the priest Ferreira is forced to tread on the fumie (picture of the suffering Christ) in order to save his flock. He closes his eyes and prays the prayers of the Stations of the Cross, recalling Jesus' words &quot;Weep not for me, but weep for yourselves, and for your children.&quot; He goes through agonies as he prepares to trample, and his foot aches. Then the Christ in the fumie says to him, &quot;Trample! I know your pain. I was born into the world to be trampled on by men like you; I carried my cross because I came to share your suffering.&quot; He tramples, and then the cock crows. It is a modern question of conscience. Whether it is better, for example, as in the case of Catholics in China, to go along with the government authorities and hope to achieve a dialogue, or to resist and go underground.</p>
+
+<p>Endo's last book is Fukai Kawa ('Deep River'). Whereas in Chinmoku Western Christianity does not fit Japan and must be Japanized,  in this book he looks in the end for an Asian Christianity. The Catholic priest Otsu, who had studied in France, goes to the Ganges, the source of Asian thought. In France he had felt &quot;They don't understand me. I can't make their sharp distinction between good and evil. God can even use my sins. They think I'm heretical, but yin and yang form one composite.&quot; (Here Dr. Johnston felt that Endo overdid the 'either-or' dualism of the West, and ignored the element of contemplation, which sees God as present in all things.) In India Otsu meets an old girlfriend, Mitsuko, who says she doesn't understand God. &quot;All right,&quot; he says, &quot;let's say 'Onion'. The river of love is my Onion.&quot; Otsu understands the relation of Christianity to other religions, and says, &quot;My Onion is in Hinduism and Buddhism as well.&quot; (It  is now acceptable for Catholics to speak in this way, but at the time it was considered heretical. &quot;This is my way of life, not just an idea.&quot; So Endo has grown in this his last book, feeling that all religions lead to the same place.</p>
+
+<p>Turning to another theme, Dr. Johnston said he had known the Jesuit Father Hugo Enomiya Lassalle, who practised Zen because he felt it was the centre of Japanese culture. He found it was also a way for Christianity, and the mystical dimension is something that is needed in a global religion.</p>
+
+<p>One thing that had deeply impressed Dr. Johnston in this country was the Japanese reverence for the dead, and he felt they had a sense of solidarity with those who had gone before. This he found beautiful. Though it would shock some people to hear it, he said he was glad Prime Minister Koizumi had visited the Yasukuni Shrine; reverence for the dead was something that went deeper than politics. There were war criminals in every country, and he reminded his audience that the Indian judge Pal at the war trials had argued for a verdict of not guilty. Mr. Pal was a deeply religious Hindu who felt that true peace could only come by overcoming hatred, and that all countries needed to apologize.</p>
+
+<p>In conclusion, Dr. Johnston reiterated that the future lay in dialogue between the religions, with each religion keeping its own distinct identity. This was not the time to pressure others to change their religion. One could present one's own message, and then should  leave the other person free to choose (this was the position taken at the Second Vatican Council). What was important was the way one presented Christianity; it should not be a set catechism.</p>
+
+<p>In answer to a question, Dr. Johnston added that Lassalle had said that the best dialogue is a wordless dialogue. He himself felt that the future lay with mysticism; some people were saying that an evolution of human consciousness was on its way. In the present situation of sharp confrontation between Bush and al-Qaeda it was clear that the religions were not fulfilling their vocation.</p>
+
+<p>The meeting closed with a vote of thanks proposed by Dr. Berendt.</p>
+
+<hr/>
+
+<p>Adapted from &quot;The Asiatic Society of Japan Bulletin No. 6&quot;, June 2002, compiled by Prof. Hugh E. Wilkinson and Mrs. Doreen Simmons.</p>
+
+
+      <div align="center">
+        <p id="copyright">Copyright &copy; 1994-2012 The Asiatic Society of Japan. All rights reserved. </p>
+      </div>
+
+    </div>
+
+  </div>
+  <br/>
+
+</div></center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4845051-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+

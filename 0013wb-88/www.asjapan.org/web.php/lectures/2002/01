@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>The Asiatic Society of Japan</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
+
+  <base href="http://www.asjapan.org/web.php/" />
+
+  <link href="/newdesign/css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/newdesign/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <!--[if !IE 7]>
+  <link href="/newdesign/css/screen_ie.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link href="/newdesign/css/screen_ie7.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script type="text/javascript" src="/newdesign/inc/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.core.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.sortable.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/jquery.metadata.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/mbTabset.js"></script>
+
+  <script type="text/javascript">
+		$(function(){
+			$("#tabset1").buildMbTabset({sortable:false});
+		});
+  </script>
+
+    <script type="text/javascript">
+		$(function(){
+			$("#a").removeClass("sel");
+			$("#cont_1").hide();
+			$("#b").addClass("sel");
+			$("#cont_2").fadeIn("fast");
+			$("#linklectures").addClass("optselected");
+			$("#lecturesfor").show();
+		});
+  </script>
+
+
+
+</head>
+<body>
+
+<center><div id="main" align="left">
+
+  <div id="header" align="left">
+    <center>
+      <div><img src="/newdesign/tasoj.gif" alt="The Asiatic Society of Japan" title="The Asiatic Society of Japan"/></div>
+      <div style="height:16px; width:613px; background-color: black; margin-top:3px; padding-top:1px;"/>
+      <div style="height:15px; width:613px; background-color: white; font-family:times new roman,courier;font-size: 10px; padding-bottom:3px; padding-top:2px;">Established 1872. Registered with the <a href="http://www.scj.go.jp/en/index.html" class="dotted">Science Council of Japan</a>.</div>
+      </div>
+    </center>
+  </div>
+
+  <table id="menuasj" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr><td><p id="bigspacer">&nbsp;</p></td></tr>
+    <tr><td>
+      <div class="tabset" id="tabset1">
+        <a href="#" id="a" class="tab {container:'cont_1'}" onclick="return false;">About Us</a><a href="#" id="b" class="tab {container:'cont_2'}" onclick="return false;">ASJ Info Central</a><a href="#" id="c" class="tab {container:'cont_3'}" onclick="return false;">ASJ Merchandise</a><a href="#" id="d" class="tab {container:'cont_4'}" onclick="return false;">Search</a><!--<a href="#" id="e" class="tab {container:'cont_5'}" onclick="return false;">Members</a>-->
+      </div>
+      <div class="mbTabsetContainer" >
+        <span id="cont_1">
+          <a id="linkmain" href="main">Home</a> &middot; <a id="linkwelcome" href="about/welcome">Welcome</a> &middot; <a id="linkhistory" href="about/history">History</a> &middot; <a id="linkpatrons" href="about/patrons">Our Patron</a> &middot; <a id="linkcouncil" href="about/council">The Council</a> &middot; <a id="linkjoin" href="about/join">Join</a> &middot; <a id="linklinks" href="about/links">Other Asiatic Societies</a> &middot; <a id="linkcontact" href="about/contact">Contact</a> &middot; <a id="linksitemap" href="about/sitemap">Site Map</a>
+        </span>
+        <span id="cont_2">
+          <a id="linklectures" href="lectures/index">Lecture Archive</a> &middot; <a id="linkspeakers" href="speakers/index">Speaker Bios</a> &middot; <a id="linkcouncils" href="councils/index">Past Councils</a> &middot; <a id="linkreports" href="reports/index">Annual Reports</a> &middot; <a id="linkmemorial" href="memorial/index">Memorial Wall</a>
+        </span>
+        <span id="cont_3">
+          <a id="linktransactions" href="mercantile/transactions">Transactions and Offprints</a> &middot; <a id="linkpublications" href="mercantile/publications">Other ASJ Publications</a> &middot; <a id="linkgift" href="mercantile/gift">Gift Memberships</a>
+        </span>
+        <span id="cont_4">
+          <form action="/search.php" method="get" >Type your query <input type="text" name="q" size="16" style="height: 16px; font-size: 12px; padding: 1px;"/> <input type="submit" value="search!" style="font-size: 12px; padding: 1px;"/></form>
+        </span>
+<!--        <span id="cont_5">
+          <a id="linkbulletin" href="members/bulletin">Current bulletin</a> &middot; <a id="linkmemlect" href="members/lectures">2008 Lectures</a> &middot; All these options require to login
+        </span>-->
+      </div>
+    </td></tr>
+    <tr><td><p id="smallspacer">&nbsp;</p></td></tr>
+  </table>
+
+
+  <div id="content">
+
+    <div id="lecturesfor">
+
+<table width="750"  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+	<tr>
+		<td valign="bottom" align="center">
+			<table  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+				<tr>
+					<td align="center">
+						<!-- start horizontal menu -->
+						<table class="rootVoices" cellspacing='0' cellpadding='0' border='0'><tr>
+							<td class="rootVoice"><a id="linkarchive2007" href="lectures/2007/index">2007</a></td>
+							<td class="rootVoice"><a id="linkarchive2006" href="lectures/2006/index">2006</a></td>
+							<td class="rootVoice"><a id="linkarchive2005" href="lectures/2005/index">2005</a></td>
+							<td class="rootVoice"><a id="linkarchive2004" href="lectures/2004/index">2004</a></td>
+							<td class="rootVoice"><a id="linkarchive2003" href="lectures/2003/index">2003</a></td>
+							<td class="rootVoice"><a id="linkarchive2002" href="lectures/2002/index">2002</a></td>
+							<td class="rootVoice"><a id="linkarchive2001" href="lectures/2001/index">2001</a></td>
+							<td class="rootVoice"><a id="linkarchive2000" href="lectures/2000/index">2000</a></td>
+							<td class="rootVoice"><a id="linkarchive1999" href="lectures/1999/index">1999</a></td>
+							<td class="rootVoice"><a id="linkarchive1998" href="lectures/1998/index">1998</a></td>
+							<td class="rootVoice"><a id="linkarchive1997" href="lectures/1997/index">1997</a></td>
+							<td class="rootVoice"><a id="linkarchive1996" href="lectures/1996/index">1996</a></td>
+							<td class="rootVoice"><a id="linkarchive1995" href="lectures/1995/index">1995</a></td>
+							<td class="rootVoice"><a id="linkarchive1994" href="lectures/1994/index">1994</a></td>
+						</tr></table>
+						<!-- end horizontal menu -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+    </div>
+    <div id="text">
+
+<h3>The Tokugawa Art Collection: An Illustrated Lecture</h3>
+
+<p><b>Mr. Yoshinobu Tokugawa</b><br/>
+<b>ASJ 130th Anniversary Special Event</b></p>
+
+Lecture 2002-01-21. Annual General Meeting<br/>
+Venue: British Embassy<br/>
+
+<p>Following the Annual General Meeting came the main event, &quot;The Tokugawa Art Collection: an   Illustrated Lecture&quot; presented by Mr. Yoshinobu Tokugawa, with the aid of two slide projectors. The collection of the Tokugawa Art Museum, said Mr. Tokugawa, consisted of the works of art and craft successively handed down in the Owari branch of the Tokugawa family, the household with the closest ties to the ruling shoguns throughout the Edo period (1603-1868). The museum is unique in two respects. First, out of 260 daimyo families in Japan, this is the only family collection of treasures and records preserved almost in its entirety; and second, of nearly 500 art museums in existence with daimyo family treasures in their collections, it is the only one devoted to one family's collection. Mr. Tokugawa's late grandfather, Marquis Yoshichika Tokugawa, who was the 19th head of the Owari Tokugawa family, established the Reimeikai Foundation to which he donated almost all the household treasures, and then, under this foundation, built in 1935 the Tokugawa Art Museum in Nagoya, the old capital of the Owari territory. At the core of the collection were objects inherited from the first Tokugawa shogun Ieyasu by his ninth son Yoshinao, the founder of the Owari branch of the family. These treasures included sutras from the Nara period, pictorial hand scrolls from the Heian and Kamakura periods, paintings and art objects from the Southern Song, Yuan and Ming dynasties in China, and paintings and tea bowls from the Koryo and Yi dynasties in Korea.</p>
+
+<p>Prior to the Edo period, the daimyos had been simply military leaders; but with the establishment of the Tokugawa shogunate they were also required to be competent administrators, &quot;excelling with both the pen and the sword&quot;. To accomplish this double task, they had also to apply themselves to various scholarly and cultural pursuits, a change of approach which led to changes in the type of articles employed for daily use and the decorative objects with which they surrounded themselves, articles which now make up the museum's collection.</p>
+
+<p>The original museum, set up on the site of one of the old family villas, consists of one large gallery and two smaller galleries of no special character, though the building is roofed like and old castle. The building was extended three times in twenty years. In 1987 six new galleries were added, which Mr Tokugawa himself designed to replicate the living conditions of a typical daimyo.</p>
+
+<p>A daimyo's possessions can be divided into two main categories:  omote-dogu, articles for official use, and oku-dogu, articles for private use. The omote-dogu consist of arms and armour which reflect his status and wealth, together with other articles required for official use or formal occasions. The oku-dogu consist of articles for his personal use and his pastimes. Among the arms, swords were definitely of the first rank, and were the most precious of all the gifts exchanged between the shogun, the daimyos and their retainers. The most refined techniques were used on the scabbard and hilt, and the decorative elements were mostly poetic, representing floral motifs. On January 11th every year, the daimyo's helmet and armour would be put on display, together with the long sword and battle banner and standard, to invoke military success and peace. These articles are now on show in the first of four galleries designed to show the official life of the daimyo.</p>
+
+<p>The second gallery contains a thatched wooden hut which is a reconstruction of the 17th-century tea house in Nagoya Castle, which was destroyed in 1945 during the war. The tea ceremony, established by Sen-no-Rikyu in the latter half of the 16th century, was part of the daimyo's official functions, such as receiving a shogunal visit or entertaining distinguished visitors. The reception started at the tea house, and the daimyo himself would act as host. Of the articles in the present collection we were shown examples of a flower vase, tea caddy, tea bowl and kettle. All such articles were carefully selected for the purpose of subtly manifesting the status of the owner, and with full consideration given to their appropriateness to the season and occasion. The utensils might seem modest, even humble, but each had its traditional history, and it was part of a daimyo's education to know how to appreciate these cultural objects, either as a host or a guest.</p>
+
+<p>The third gallery is designed to reproduce the main room of the residence in Nagoya Castle, in which the tatami flooring is about five inches higher than in the adjacent rooms; here the daimyo issued orders or received guests at banquets. The lavish gilt decoration, which stands in sharp contrast to the tea house, served to enhance his status and authority. The rooms are separated by decorated wall panels or sliding doors. In the main room is a large tokonoma with three hanging scrolls. In front of the scrolls is a small table with the mitsugusoku (three traditional Buddhist ornaments), an incense burner, a flower vase and a candle stand, and on either side of the table are vases of flowers. On the left-hand side of the room there is another alcove where writing articles such as brushes, ink sticks and ink stones were kept. All the ornamentation of the room follows strict customs and rules which originated in the previous Ashikaga shogunate.</p>
+
+<p>Other rooms in this gallery are reconstructions of the kusarinoma and dokonoma rooms in Nagoya Castle, which were used to entertain guests and spend time in a relaxed mood. Here the architecture and decoration are simpler. The fourth gallery contains a reconstruction of a Noh theatre according to the original in Nagoya Castle. In the 15th and 16th centuries, Noh was patronized by warriors and daimyos, and Ieyasu adopted it as the official music-drama of the shogunate. So it became an integral part of the protocol for formal receptions, and highly ranked daimyos were required to maintain a full set of Noh accoutrements, and retain Noh actors in their employ. In addition, Noh dancing and singing were considered a desirable accomplishment for daimyos, and every year on January 2nd the shogun himself performed the first chanting of the year. The museum's collection contains examples of sumptuous and elegant Noh costumes and typical masks.</p>
+
+<p>The fifth gallery shows articles used in the daimyo's private life. (The private space might be considerable, depending on the size of the family; the 11th shogun, Ienari, had a wife, 40 concubines, 55 children and more than 500 servants.) In contrast to the many articles in Chinese taste used in the official quarters, most of the private effects and art works were of Japanese design, though their craftsmanship and decoration could still reflect the wealth and influence of their owners. Most of these articles no longer survive, and those that do formed part of the trousseaux of the ladies who married into the Owari Tokugawa family. Ostensibly functional, specially commissioned sets of articles were carefully stored and handed down as heirlooms, and most of them bear the family's aoi crest. A typical example is a set of lacquerware made by the most famous craftsman of the day, which was brought to the second Owari daimyo by his bride, who was the daughter of the third shogun, Iemitsu. All these items have been designated as National Treasures. The high level of cultural and artistic education required of a daimyo meant that he patronized leading scholars, calligraphers and painters, and high-quality examples of Japanese and Chinese calligraphy and painting had to be acquired and maintained.</p>
+
+<p>The most famous National Treasures in the Tokugawa collection are the hand scroll paintings of the Tale of Genji. Though they are now nationally known cultural objects, originally they formed part of the private effects of a daimyo. These scroll paintings are now housed in the original gallery, which is often used for special exhibitions. Other objects on show there are 11th-century examples of calligraphy, folding screens from the 17th century, paintings from the Southern Song dynasty, and a set of Ryukyuan court musical instruments.</p>
+
+<p>In conclusion, Mr. Tokugawa said he hoped he had made it clear that the fundamental governing policy of the Tokugawa shogunate was based on culture, and that the shogun and daimyos were not the barbarians depicted in the novel and TV drama &quot;Shogun&quot;!</p>
+
+<p>After a brief question time, a vote of thanks was proposed by Dr. Peter McMillan, who emphasized the uniqueness of the Tokugawa collection, and in particular the high quality of the tea objects; he also drew attention to the extensive research Mr. Tokugawa had conducted in order to reproduce faithfully the style of living of a daimyo of the period. The assembled company then proceeded to the adjacent rooms to enjoy the British embassy's hospitality, for which we would like to convey here our heartfelt appreciation to the Gomersalls (and we hope they will get some vicarious pleasure out of reading this account!). We were also treated, as usual, by Mr. Takeo Yamaoka to his gift of sake and commemorative masu, for which we are always grateful.</p>
+
+<hr/>
+
+<p>Adapted from &quot;The Asiatic Society of Japan Bulletin No. 2&quot;, February 2002, compiled by Prof. Hugh E. Wilkinson and Mrs. Doreen Simmons.</p>
+
+
+      <div align="center">
+        <p id="copyright">Copyright &copy; 1994-2012 The Asiatic Society of Japan. All rights reserved. </p>
+      </div>
+
+    </div>
+
+  </div>
+  <br/>
+
+</div></center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4845051-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+

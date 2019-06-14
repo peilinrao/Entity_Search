@@ -1,0 +1,1815 @@
+
+<HTML>
+<HEAD>
+<TITLE>
+Electric Wheelchairs | Scooters | Lift Chairs :: Elderly Scooters
+ :: Assistive Living Mobility
+</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="description" content="
+Elderly scooters...Give yourself the freedom to go where you want quickly and easily. We have an elderly scooter to meet your every need. 
+">
+
+<META name="keywords" content="
+elderly, scooters, scooter, products, health care, people, home health 
+">
+
+
+<LINK rel="stylesheet" href="/skin1/skin1.css">
+</HEAD>
+<BODY leftmargin="0" topmargin="0" rightmargin="0" bottomargin="0" marginwidth="0" marginheight="0">
+
+<SCRIPT type="text/javascript" language="JavaScript 1.2">
+<!--
+
+//
+// Enviroment identificator
+//
+var localIsDOM = document.getElementById?true:false;
+var localIsJava = navigator.javaEnabled();
+var localIsStrict = document.compatMode=='CSS1Compat';
+var localPlatform = navigator.platform;
+var localVersion = "0";
+var localBrowser = "";
+if(window.opera && localIsDOM) {
+	localBrowser = "Opera";
+	if(navigator.userAgent.search(/^.*Opera.([\d.]+).*$/) != -1)
+		localVersion = navigator.userAgent.replace(/^.*Opera.([\d.]+).*$/, "$1");
+	else if(window.print)
+		localVersion = "6";
+	else
+		localVersion = "5";
+} else if(document.all && document.all.item)
+	localBrowser = 'MSIE';
+if(navigator.appName=="Netscape") {
+	if(!localIsDOM) {
+		localBrowser = 'Netscape';
+		localVersion = navigator.userAgent.replace(/^.*Mozilla.([\d.]+).*$/, "$1");
+		if(localVersion != '')
+			localVersion = "4";
+	} else if(navigator.userAgent.indexOf("Safari") >= 0)
+		localBrowser = 'Safari';
+	else if(navigator.userAgent.indexOf("Netscape") >= 0)
+		localBrowser = 'Netscape';
+	else if(navigator.userAgent.indexOf("Firefox") >= 0)
+		localBrowser = 'Firefox';
+	else 
+		localBrowser = 'Mozilla';
+	
+}
+if(navigator.userAgent.indexOf("MSMSGS") >= 0)
+	localBrowser = "WMessenger";
+else if(navigator.userAgent.indexOf("e2dk") >= 0)
+	localBrowser = "Edonkey";
+else if(navigator.userAgent.indexOf("Gnutella") + navigator.userAgent.indexOf("Gnucleus") >= 0)
+	localBrowser = "Gnutella";
+else if(navigator.userAgent.indexOf("KazaaClient") >= 0)
+	localBrowser = "Kazaa";
+
+if(localVersion == '0' && localBrowser != '') {
+	var rg = new RegExp("^.*"+localBrowser+".([\\d.]+).*$");
+	localVersion = navigator.userAgent.replace(rg, "$1");
+}
+var localIsCookie = ((localBrowser == 'Netscape' && localVersion == '4')?(document.cookie != ''):navigator.cookieEnabled);
+
+//
+// Opener/Closer HTML block
+//
+function visibleBox(id,skipOpenClose) {
+	elm1 = document.getElementById("open"+id);
+	elm2 = document.getElementById("close"+id);
+	elm3 = document.getElementById("box"+id);
+
+	if(!elm3)
+		return false;
+
+	if (skipOpenClose) {
+		elm3.style.display = (elm3.style.display == "")?"none":"";
+	} else if(elm1) {
+		if (elm1.style.display == "") {
+			elm1.style.display = "none";
+			if(elm2)
+				elm2.style.display = "";
+			elm3.style.display = "none";
+		} else {
+			elm1.style.display = "";
+			if(elm2)
+				elm2.style.display = "none";
+			elm3.style.display = "";
+		}
+	}
+}
+
+//
+// URL encode
+//
+function urlEncode(url) {
+	return url.replace(/\s/g, "+").replace(/&/, "&amp;").replace(/"/, "&quot;")
+}
+
+//
+// Substitute
+//
+function substitute(lbl) {
+var x, rg;
+	for(x = 1; x < arguments.length; x+=2) {
+		if(arguments[x] && arguments[x+1]) {
+			rg = new RegExp("\\{\\{"+arguments[x]+"\\}\\}", "gi");
+			lbl = lbl.replace(rg,  arguments[x+1]);
+			rg = new RegExp('~~'+arguments[x]+'~~', "gi");
+			lbl = lbl.replace(rg,  arguments[x+1]);
+		}
+	}
+	return lbl;
+}
+
+-->
+</SCRIPT>
+<TABLE align="center" border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
+  <TR>
+    <TD valign="top"><DIV style="position: absolute;" id="div_null"></DIV><TABLE border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#FFFFFF">
+<TR align=center><TD><br><a href="http://www.assistivelivingmobility.com/"><img alt="wheelchairs, mobility devices" border="0" src="/skin1/images/custom/banner2.jpg" 
+width="950" height="95" usemap="#banner"></a></div>
+</TD></TR>
+
+<!-- Commented out by PGR 1/15/06
+<TR> 
+<TD width="27">&nbsp;</TD>
+<TD><A href="http://www.assistivelivingmobility.com"><IMG src="/skin1/images/xlogo.gif" width="244" height="67" border="0"></A></TD>
+<TD valign="top" align="right">
+<TABLE border="0" cellpadding="0" cellspacing="0">
+<TR>
+<TD valign="top" align="right">
+<TABLE border="0" cellpadding="0" cellspacing="0">
+<TR>
+<TD valign="top"><TABLE border="0" cellpadding="0" cellspacing="0">
+<TR>
+<TD width="9" background="/skin1/images/tab_l.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+<TD height="5" valign="bottom" class="Tab"><IMG src="/skin1/images/spacer.gif" width="1" height="5" border="0" alt=""></TD>
+<TD width="9" background="/skin1/images/tab_r.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+</TR>
+<TR>
+<TD width="9" background="/skin1/images/tab_l.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+<TD width="85" height="30" class="Tab" align="center"><A href="home.php">Home</A></TD>
+<TD width="9" background="/skin1/images/tab_r.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+</TR>
+<TR>
+<TD width="9" height="9" background="/skin1/images/tab_c1.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+<TD height="9" background="/skin1/images/tab_b.gif"><IMG src="/skin1/images/spacer.gif" width="1" height="9" border="0" alt=""></TD>
+<TD width="9" height="9" background="/skin1/images/tab_c2.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+</TR>
+</TABLE></TD>
+<TD width="1"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0" alt=""></TD>
+<TD valign="top"><TABLE border="0" cellpadding="0" cellspacing="0">
+<TR>
+<TD width="9" background="/skin1/images/tab_l.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+<TD height="5" valign="bottom" class="Tab"><IMG src="/skin1/images/spacer.gif" width="1" height="5" border="0" alt=""></TD>
+<TD width="9" background="/skin1/images/tab_r.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+</TR>
+<TR>
+<TD width="9" background="/skin1/images/tab_l.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+<TD width="85" height="30" class="Tab" align="center"><A href="cart.php">Shopping Cart</A></TD>
+<TD width="9" background="/skin1/images/tab_r.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+</TR>
+<TR>
+<TD width="9" height="9" background="/skin1/images/tab_c1.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+<TD height="9" background="/skin1/images/tab_b.gif"><IMG src="/skin1/images/spacer.gif" width="1" height="9" border="0" alt=""></TD>
+<TD width="9" height="9" background="/skin1/images/tab_c2.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+</TR>
+</TABLE></TD>
+<TD width="1"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0" alt=""></TD>
+<TD valign="top"><TABLE border="0" cellpadding="0" cellspacing="0">
+<TR>
+<TD width="9" background="/skin1/images/tab_l.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+<TD height="5" valign="bottom" class="Tab"><IMG src="/skin1/images/spacer.gif" width="1" height="5" border="0" alt=""></TD>
+<TD width="9" background="/skin1/images/tab_r.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+</TR>
+<TR>
+<TD width="9" background="/skin1/images/tab_l.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+<TD width="85" height="30" class="Tab" align="center"><A href="help.php?section=contactus&mode=update">Contact Us</A></TD>
+<TD width="9" background="/skin1/images/tab_r.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+</TR>
+<TR>
+<TD width="9" height="9" background="/skin1/images/tab_c1.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+<TD height="9" background="/skin1/images/tab_b.gif"><IMG src="/skin1/images/spacer.gif" width="1" height="9" border="0" alt=""></TD>
+<TD width="9" height="9" background="/skin1/images/tab_c2.gif"><IMG src="/skin1/images/spacer.gif" width="9" height="1" border="0" alt=""></TD>
+</TR>
+</TABLE></TD>
+<TD width="1"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0" alt=""></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+<TR>
+<TD height="35" align="center" class="HeadText">
+US TOLL FREE: 1-800-670-4306&nbsp;&nbsp;&nbsp;International: 303-660-2605&nbsp;&nbsp;</TD>
+</TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+<TABLE border="0" cellpadding="0" cellspacing="0" width="100%">
+<TR> 
+<TD  colspan="2" class="VertMenuBorder"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0"></TD>
+</TR>
+<TR> 
+<TD class="HeadLine" height="22">
+</TD>
+<TD class="HeadLine" align="right">
+&nbsp;
+</TD>
+</TR>
+<TR> 
+<TD  colspan="2" class="VertMenuBorder"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0"></TD>
+</TR>
+<TR>
+	<TD colspan="2" valign="middle" height="32">
+<TABLE cellspacing="0" cellpadding="0" border="0" width="100%" height="18">
+<TR>
+	<TD><IMG src="/skin1/images/spacer.gif" width="1" height="18" border="0"></TD>
+<TD width="100%" valign="middle" align="right"><TABLE cellspacing="0" cellpadding="0" border="0" valign="middle">
+<TR>
+	<TD align="right" valign="middle"><A href="http://www.assistivelivingmobility.com/product.php?printable=Y&productid=566&cat=79&page=1" style="TEXT-DECORATION: underline;">Printable version&nbsp;</A></TD>
+	<TD width="16" valign="middle"><A href="http://www.assistivelivingmobility.com/product.php?printable=Y&productid=566&cat=79&page=1"><IMG src="/skin1/images/printer.gif" border="0"></A></TD>
+</TR>
+</TABLE></TD>
+<TD><IMG src="/skin1/images/spacer.gif" width="176" height="1" border="0"></TD>
+</TR>
+</TABLE>
+	</TD>
+</TR>
+-->
+
+</TABLE>
+
+<map id="banner" name="banner">
+<area shape="rect" coords="561,1,602,16" href="http://www.assistivelivingmobility.com" title="Home" />
+
+</map><!-- main area -->
+<TABLE border="0" width="950" cellpadding="0" cellspacing="0" align="center">
+<TR>
+<TD width="1" bgcolor="#D2D2D2"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0"></TD>
+<TD width="2" bgcolor="#ffffff"><IMG src="/skin1/images/spacer.gif" width="2" height="1" border="0"></TD>
+<TD width="175" valign="top" bgcolor="#F8F8F1"><br><IMG src="/skin1/images/custom/search-this-site.gif" border="0"><br> 
+<br><br>
+<IMG src="/skin1/images/custom/shop-mobility.gif" border="0"><br>
+<center><script type="text/javascript"><!--
+google_ad_client = "pub-7909768034781524";
+/* 160x600, created 3/26/10 */
+google_ad_slot = "4254178404";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center><br>
+
+
+
+<TABLE border="0" cellpadding="0" cellspacing="0" width="100%">
+<TR> 
+<TD class="VertMenuBorder"> 
+<TABLE border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="#F8F8F1">
+
+<!-- Commented out by PGR  1/15/06
+<TR> 
+<TD class="VertMenuTitle">&nbsp;&nbsp;<IMG src="/skin1/images/dingbats_categorie.gif" width="21" height="20" border="0" 
+
+align="absmiddle">&nbsp;&nbsp;
+<FONT class="VertMenuBoxNewsTitle">Categories</FONT>
+</TD>
+</TR>
+-->
+
+<TR> 
+<TD class="VertMenuBox"> 
+ <TABLE border="0" cellpadding="5" cellspacing="0" width="100%">
+ <TR> 
+ <TD><FONT class="CategoriesList"><A href="home.php?cat=6" class="VertMenuItems">Electric Wheelchairs</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=70" class="VertMenuItems">Power Chairs</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=18" class="VertMenuItems">Adjustable Beds</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=19" class="VertMenuItems">Manual Wheelchairs</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=4" class="VertMenuItems">Mobility Scooters - Power Scooters</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=79" class="VertMenuItems">Elderly Scooters</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=17" class="VertMenuItems">Lift Chairs</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=5" class="VertMenuItems">Stair Lifts</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=1" class="VertMenuItems">WheelChair Lift</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=2" class="VertMenuItems">WheelChair Ramps</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=15" class="VertMenuItems">Portable Wheelchair Ramps</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=34" class="VertMenuItems">Canes and Crutches</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=33" class="VertMenuItems">Walkers and Walker Accessories</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=35" class="VertMenuItems">Rollators</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=36" class="VertMenuItems">Commodes</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=13" class="VertMenuItems">Wheelchair Parts</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=3" class="VertMenuItems">Wheelchair Accessories</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=12" class="VertMenuItems">Wheelchair Batteries</A></FONT><BR>
+<FONT class="CategoriesList"><A href="home.php?cat=14" class="VertMenuItems">Wheelchair Cushions</A></FONT><BR>
+<BR></TD></TR>
+ </TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE><BR>
+<IMG src="/skin1/images/custom/ask-a-question.gif" border="0"><br><br>
+
+<table cellspacing=0 cellpadding=0 border=0 align=center><tr><td>
+<form action="http://www.assistivelivingmobility.com/form/formmail.php" method="post" name="question">
+<input type="hidden" name="recipient" value="info@assistivelivingmobility.com">
+<input type="hidden" name="subject" value="Ask a Question">
+<input type="hidden" name="required" value="email">
+<input type="hidden" name="title" value="Feedback Form Results">
+<input type="hidden" name="return_link_url" value="http://www.assistivelivingmobility.com">
+<input type="hidden" name="return_link_title" value="Back to Main Page">
+<input type="hidden" name="redirect" value="http://www.assistivelivingmobility.com/formsent.html">
+<input type="hidden" name="css" value="http://www.---------------.com/store/skin1/skin1.css">
+<input type="hidden" name="hidden" value="email">
+<input type="hidden" name="env_report" value="REMOTE_HOST,REMOTE_ADDR">
+<font size=1>Your email:</font></td></tr><tr><td>
+<input type="textbox" name="email" value="" size="22"></td></tr><tr><td><font size=1>Your name:</font></td></tr><tr><td>
+<input type="textbox" name="name" value="" size="22"></textarea></td></tr><tr><td><font size=1>Your question:</font></td></tr><tr><td>
+<textarea rows="6" name="question" cols="22"></textarea> 
+</td></tr><tr align=center><td><br><input type="submit" value="Send" name="OK"></td></tr></table></form>
+
+<br><br>
+<IMG src="/skin1/images/custom/customer-help.gif" border="0"><br>
+<TABLE border="0" cellpadding="0" cellspacing="0" width="100%">
+<TR> 
+<TD class="VertMenuBorder"> 
+<TABLE border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="#F8F8F1">
+
+<!-- Commented out by PGR  1/15/06
+<TR> 
+<TD class="VertMenuTitle">&nbsp;&nbsp;<IMG src="/skin1/images/dingbats_help.gif" width="21" height="20" border="0" 
+
+align="absmiddle">&nbsp;&nbsp;
+<A href="help.php"><FONT class="VertMenuTitle">Help</FONT></A>
+</TD>
+</TR>
+-->
+
+<TR> 
+<TD class="VertMenuBox"> 
+ <TABLE border="0" cellpadding="5" cellspacing="0" width="100%">
+ <TR> 
+ <TD><A href="help.php?section=contactus&mode=update" class="VertMenuItems">Contact us</A><BR>
+<A href="help.php?section=business" class="VertMenuItems">Privacy statement</A><BR>
+<A href="help.php?section=conditions" class="VertMenuItems">Terms & Conditions</A><BR>
+ 
+<A href="javascript:self.location.href='pages.php?pageid=264';" class=VertMenuItems>Low Price Guarantee</A><BR> 
+ 
+<A href="javascript:self.location.href='pages.php?pageid=2';" class=VertMenuItems>About Us</A><BR> 
+ 
+<A href="javascript:self.location.href='pages.php?pageid=7';" class=VertMenuItems>Wheelchair Articles</A><BR> 
+ 
+<A href="javascript:self.location.href='pages.php?pageid=9';" class=VertMenuItems>White Glove Delivery</A><BR> 
+ 
+<A href="javascript:self.location.href='pages.php?pageid=6';" class=VertMenuItems>Resources1</A><BR> 
+<BR></TD></TR>
+ </TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE><br><TABLE border="0" cellpadding="0" cellspacing="0" width="100%">
+<TR> 
+<TD class="VertMenuBorder"> 
+<TABLE border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="#F8F8F1">
+
+<!-- Commented out by PGR  1/15/06
+<TR> 
+<TD class="VertMenuTitle">&nbsp;&nbsp;<IMG src="/skin1/images/dingbats_categorie.gif" width="21" height="20" border="0" 
+
+align="absmiddle">&nbsp;&nbsp;
+<FONT class="VertMenuBoxNewsTitle">Special</FONT>
+</TD>
+</TR>
+-->
+
+<TR> 
+<TD class="VertMenuBox"> 
+ <TABLE border="0" cellpadding="5" cellspacing="0" width="100%">
+ <TR> 
+ <TD><A href="giftcert.php" class="VertMenuItems">Gift certificates</A><BR><BR></TD></TR>
+ </TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE><BR>
+<br>
+<IMG src="/skin1/images/spacer.gif" width="175" height="1" border="0">
+</TD>
+<TD width="2" bgcolor="#ffffff"><IMG src="/skin1/images/spacer.gif" width="2" height="1" border="0"></TD>
+<TD width="1" bgcolor="#D2D2D2"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0"></TD>
+<TD width="20">&nbsp;</TD>
+<TD valign="top" width="558">
+<!-- central space -->
+<br>
+
+
+
+<SCRIPT type="text/javascript" language="JavaScript 1.2">
+function FormValidation() {
+
+        if(!check_exceptions()) {
+        alert(exception_msg);
+        return false;
+    }
+	    
+	if(document.getElementById('product_avail'))
+	    if(document.getElementById('product_avail').value == 0) {
+    	    alert("Out of stock");
+        	return false;
+	    }
+
+    return true;
+}
+</SCRIPT>
+<TABLE border="0" cellpadding="0" cellspacing="0" width=100%>
+<TR> 
+<TD height="15" class="DialogTitle"  valign="bottom">&nbsp;&nbsp;Golden Tech Avenger IV -  4 Wheel Mobility Scooter 500 lbs. Capacity</TD>
+</TR>
+<TR><TD><TABLE border="0" cellpadding="10" cellspacing="1" width="100%">
+<TR><TD><TABLE border="0" width="100%">
+<FORM name="orderform" method="post" action="cart.php?mode=add" onsubmit="javascript: return FormValidation();">
+<TR>
+<TD valign="top" align="center" rowspan="2" width="100">
+<IMG id="product_thumbnail" src="http://www.assistivelivingmobility.com/files/t_566.jpg" width="120" height="130" alt="Golden Tech Avenger IV -  4 Wheel Mobility Scooter 500 lbs. Capacity" border="0">&nbsp;
+
+<br><br>
+
+<TABLE border="0" width="60"><TR><TD width="55" height="56" class="SaveMoneyLabel" background="/skin1/images/save_money.gif" align="center" valign="middle">
+<BR>
+
+&nbsp;<SPAN id="save_percent"> 14</SPAN>%
+</TD></TR></TABLE>
+</TD>
+<TD valign="top">
+<P>
+<TABLE width="100%" cellpadding="0" cellspacing="0" border="0">
+<TR><TD colspan="2"><B><FONT class="ProductDetailsTitle">Details</FONT></B></TD></TR>
+<TR><TD class="Line" height="1" colspan="2"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0"></TD></TR>
+<TR><TD colspan="2">&nbsp;</TD></TR>
+<TR><TD width="30%">
+
+</TD>
+<TD>
+Do you want stability and maneuverability? This mobility scooter by Golden Technologies is the "Cadillac" of mobility scooters!
+</TD>
+</TR>
+
+<TR>
+  <TD class="ProductPriceConverting" valign="top">Market price:</TD>
+  <TD valign="top"><S>
+<span style="WHITE-SPACE: nowrap">$3,595.00</span></S></FONT></TD>
+</TR>
+<TR><TD class="ProductPriceConverting" valign="top">Price:</TD>
+<TD valign="top">
+<FONT class="ProductDetailsTitle"><SPAN id="product_price"><span style="WHITE-SPACE: nowrap">$3,095.00</span></SPAN></FONT><FONT class="MarketPrice"> <SPAN id="product_alt_price"></SPAN></FONT>
+</TD>
+</TR>
+</TABLE>
+<P>
+<TABLE border="0" width="100%" cellpadding="0" cellspacing="0">
+<TR><TD colspan="2">
+<B><FONT class="ProductDetailsTitle">Options</FONT></B>
+</TD></TR>
+<TR><TD class="Line" height="1" colspan="2"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0"></TD></TR>
+<TR><TD colspan="2">&nbsp;</TD></TR>
+<SCRIPT type="text/javascript" language="JavaScript 1.2">
+var alert_msg = '';
+</SCRIPT>
+
+<SCRIPT>
+
+//	variants array:
+//	0 - array:
+//		0 -taxed price
+// 		1 - quantity
+// 		2 - variantid if variant have thumbnail
+// 		3 - weight
+// 		4 - original price (without taxes)
+//	1 - array: varinat options as classid => optionid
+//	2 - array: taxes as taxid => tax amount
+var variants = new Array();
+
+// modifiers array: as clasid => array: as optionid => array:
+//	0 - price_modifier
+//	1 - modifier_type
+//	2 - taxes array: as taxid => tax amount
+var modifiers = new Array();
+var cls_is_modifier = new Array();
+// names array: as classid => class name
+var names = new Array();
+cls_is_modifier[160] = 'C';
+modifiers[160] = new Array(); 
+modifiers[160][866] = new Array(252.00, '$', new Array());
+modifiers[160][867] = new Array(260.00, '$', new Array());
+modifiers[160][868] = new Array(99.00, '$', new Array());
+modifiers[160][869] = new Array(38.00, '$', new Array());
+modifiers[160][870] = new Array(226.00, '$', new Array());
+modifiers[160][871] = new Array(97.00, '$', new Array());
+modifiers[160][872] = new Array(110.00, '$', new Array());
+names[160] = "options";
+
+// taxes array: as taxid => tax amount
+var taxes = new Array();
+
+// exceptions array: as exctionid => array: as clasid => optionid
+var exceptions = new Array();
+
+// product_wholesale array: as id => array:
+//	0 - quantity
+//	1 - next quantity
+//	2 - taxed price
+//	3 - taxes array: as taxid => tax amount
+//	4 - original price (without taxes)
+var product_wholesale = new Array();
+
+var exception_msg = "Warning! This combination of variants of the product options cannot be selected!";
+var txt_out_of_stock = "Out of stock";
+var pconf_price = 0
+var default_price = 3095.00;
+var currency_symbol = "$";
+var alter_currency_symbol = "";
+var alter_currency_rate = 0;
+var image_dir = "/image.php?productid=&variantid=";
+var txt_no = "No";
+var list_price = 3595.00;
+var price = 3095.00;
+var orig_price = 3095.00;
+var current_taxes = new Array();
+var mq = 50;
+var dynamic_save_money_enabled = 'Y';
+var is_unlimit = 'Y';
+
+
+function check_options() {
+var x, cnt, flag, c, t, select_avail, optid;
+var local_taxes = new Array();
+
+	for(t in taxes)
+		local_taxes[t] = taxes[t];
+	price = default_price;
+
+	// Find variant
+	for(x = 0; x < variants.length; x++) {
+		if(variants[x][1].length == 0)
+			continue;
+		flag = true;
+		for(c in variants[x][1])
+			if(document.getElementById('po'+c)) {
+				if(document.getElementById('po'+c).value != variants[x][1][c]) {
+					flag = false;
+					break;
+				}
+			}
+
+		// If variant found ...
+		if(flag) {
+			price = variants[x][0][0];
+			orig_price = variants[x][0][4];
+			avail = variants[x][0][1];
+			for(t in local_taxes)
+				if(variants[x][2][t])
+					local_taxes[t] = parseFloat(variants[x][2][t]);
+			if(variants[x][0][2] != '' && document.getElementById('product_thumbnail'))
+				document.getElementById('product_thumbnail').src = image_dir+variants[x][0][2];
+			if(document.getElementById('product_weight'))
+				document.getElementById('product_weight').innerHTML = variants[x][0][3];
+			break;
+		}
+	}
+
+	if(pconf_price > 0)
+		price = pconf_price;
+
+
+
+	// Find modifiers
+	var add_price = 0;
+	for(x in modifiers) {
+		if(cls_is_modifier[x] == 'C') {
+			for (optid in modifiers[x]) {
+				if(document.getElementById('po'+x+'_'+optid).checked) {
+	                if(modifiers[x][optid]) {
+    	                add_price += parseFloat(modifiers[x][optid][1] == '$'?modifiers[x][optid][0]:(price*modifiers[x][optid][0]/100));
+        	            for(t in local_taxes) {
+            	            if(modifiers[x][optid][2][t]) {
+                	            local_taxes[t] = parseFloat(local_taxes[t])+parseFloat(modifiers[x][optid][1] == '$'?modifiers[x][optid][2][t]:(orig_price*modifiers[x][optid][0]/100*modifiers[x][optid][2][t]/100));
+                    	    }
+	                    }
+    	            }
+				}
+			}
+		} else {
+			if(document.getElementById('po'+x).value) {
+				if(modifiers[x][document.getElementById('po'+x).value]) {
+					add_price += parseFloat(modifiers[x][document.getElementById('po'+x).value][1] == '$'?modifiers[x][document.getElementById('po'+x).value][0]:(price*modifiers[x][document.getElementById('po'+x).value][0]/100));
+					for(t in local_taxes) {
+						if(modifiers[x][document.getElementById('po'+x).value][2][t]) {
+							local_taxes[t] = parseFloat(local_taxes[t])+parseFloat(modifiers[x][document.getElementById('po'+x).value][1] == '$'?modifiers[x][document.getElementById('po'+x).value][2][t]:(orig_price*modifiers[x][document.getElementById('po'+x).value][0]/100*modifiers[x][document.getElementById('po'+x).value][2][t]/100));
+						}
+					}
+				}
+			}
+		}
+	}
+	price += add_price;
+
+	// Update taxes
+	for(t in local_taxes) {
+		if(document.getElementById('tax_'+t))
+			document.getElementById('tax_'+t).innerHTML = currency_symbol+price_format(local_taxes[t], 2);
+		current_taxes[t] = local_taxes[t];
+	}
+
+	// Update form elements
+	// Update price
+	if(document.getElementById('product_price'))
+		document.getElementById('product_price').innerHTML = currency_symbol+price_format(price, 2);
+	// Update alt. price
+	if(alter_currency_rate > 0 && alter_currency_symbol != "" && document.getElementById('product_alt_price'))
+		document.getElementById('product_alt_price').innerHTML = "("+alter_currency_symbol+" "+price_format(price*alter_currency_rate, 2)+")";
+	// Update Save %
+	if(document.getElementById('save_percent') && list_price > 0 && dynamic_save_money_enabled == 'Y') {
+		if(price < list_price)
+			document.getElementById('save_percent').innerHTML = Math.round(100-(price/list_price)*100);
+		else
+			document.getElementById('save_percent').innerHTML = '0';
+	}
+
+	if((mq > 0 && avail > mq) || is_unlimit == 'Y')
+		avail = mq;
+
+	// Update product quantity
+	if(document.getElementById('product_avail_txt'))
+		document.getElementById('product_avail_txt').innerHTML = ((avail > 0)?(flag?avail:product_avail):txt_no);
+	select_avail = min_avail;
+	// Update product quantity selector
+	if(document.getElementById('product_avail')) {
+		if(document.getElementById('product_avail').options) {
+			if(!isNaN(min_avail) && !isNaN(avail)) {
+				var first_value = -1;
+				if(document.getElementById('product_avail').options[0])
+					first_value = document.getElementById('product_avail').options[0].value;
+				if(first_value == min_avail) {
+					if((avail-min_avail+1) != document.getElementById('product_avail').options.length) {
+						if(document.getElementById('product_avail').options.length > avail) {
+							cnt = document.getElementById('product_avail').options.length;
+							for(x = avail; x < cnt; x++)
+								document.getElementById('product_avail').options[document.getElementById('product_avail').options.length-1] = null;
+						} else {
+							cnt = document.getElementById('product_avail').options.length;
+							for(x = cnt+1; x <= avail; x++)
+								document.getElementById('product_avail').options[cnt++] = new Option(x, x);
+						}
+					}
+				} else {
+					while(document.getElementById('product_avail').options.length > 0)
+						document.getElementById('product_avail').options[0] = null;
+					cnt = 0;
+					for(x = min_avail; x <= avail; x++)
+						document.getElementById('product_avail').options[cnt++] = new Option(x, x);
+				}
+				if(document.getElementById('product_avail').options.length == 0)
+					document.getElementById('product_avail').options[0] = new Option(txt_out_of_stock, 0);
+			}
+		}
+		select_avail = document.getElementById('product_avail').options[document.getElementById('product_avail').selectedIndex].value;
+	}
+
+	check_wholesale(select_avail);
+
+	if((alert_msg == 'Y') && (min_avail > avail))
+		alert(txt_out_of_stock);
+	
+	// Check exceptions
+	var ex_flag = check_exceptions();
+	if(!ex_flag && (alert_msg == 'Y'))
+		alert(exception_msg);
+			
+	if(document.getElementById('exception_msg'))
+		document.getElementById('exception_msg').innerHTML = (ex_flag?'':exception_msg+"<BR><BR>");
+
+	return true;
+}
+
+function check_exceptions() {
+var x, cnt;
+
+	for(x in exceptions) {
+        flag = true;
+		if(exceptions[x].length != names.length)
+			continue;
+        for(c in exceptions[x])
+            if(document.getElementById('po'+c).value != exceptions[x][c]) {
+                flag = false;
+                break;
+            }
+		if(flag)
+			return false;
+	}
+	return true;
+}
+
+function price_format(price, precision) {
+var x, cnt, top, botom;
+	precision = Math.pow(10, precision);
+	price = Math.round(price*precision)/precision;
+	top = Math.floor(price);
+	bottom = Math.round((price-top)*precision)+precision;
+	top = top+"";
+	bottom = bottom+"";
+	cnt = 0;
+	for(x = top.length; x >= 0; x--) {
+		if(cnt%3 == 0 && cnt > 0 && x > 0)
+			top = top.substr(0,x)+","+top.substr(x,top.length);
+		cnt++;
+	}
+	price = top+"."+bottom.substr(1,bottom.length);
+	return price;
+}
+
+function product_option(classid) {
+	if(!isNaN(classid)) {
+		return document.getElementById(classid);
+	} else if(names) {
+		var x;
+		for(x in names) {
+			if(names[x] == classid) {
+				if(document.getElementById('po'+x)) {
+					return document.getElementById('po'+x);
+				}
+				break;
+			}
+		}
+	}
+	return false;
+}
+
+function check_wholesale(qty) {
+var x, wl_price, t, found;
+var wl_taxes = new Array();
+
+	if(product_wholesale.length == 0)
+		return true;
+
+	wl_taxes = current_taxes;
+
+	wl_price = price;
+	found = false;
+	for(x = 0; x < product_wholesale.length; x++) {
+		if(product_wholesale[x][0] <= qty && (product_wholesale[x][1] >= qty || product_wholesale[x][1] == 0)) {
+			wl_price = product_wholesale[x][2];
+			wl_taxes = product_wholesale[x][3];
+			found = true;
+		}
+		if(document.getElementById('wp'+x))
+			document.getElementById('wp'+x).innerHTML = currency_symbol+price_format(price-default_price+product_wholesale[x][2], 2);
+	}
+
+	if(found) {
+		document.getElementById('product_price').innerHTML = currency_symbol+price_format(price-default_price+wl_price, 2);
+		if(alter_currency_rate > 0 && alter_currency_symbol != "" && document.getElementById('product_alt_price'))
+			document.getElementById('product_alt_price').innerHTML = "("+alter_currency_symbol+" "+price_format((price-default_price+wl_price)*alter_currency_rate, 2)+")";
+		for(x in taxes)
+			if(document.getElementById('tax_'+x) && current_taxes[x])
+				document.getElementById('tax_'+x).innerHTML = currency_symbol+price_format(current_taxes[x]-taxes[x]+wl_taxes[x], 2);
+	} else {
+		document.getElementById('product_price').innerHTML = currency_symbol+price_format(price, 2);
+		if(alter_currency_rate > 0 && alter_currency_symbol != "" && document.getElementById('product_alt_price'))
+			document.getElementById('product_alt_price').innerHTML = "("+alter_currency_symbol+" "+price_format(price*alter_currency_rate, 2)+")";
+		for(x in taxes)
+			if(document.getElementById('tax_'+x) && current_taxes[x])
+				document.getElementById('tax_'+x).innerHTML = currency_symbol+price_format(current_taxes[x], 2);
+	}
+
+	return true;
+}
+
+function product_options(name) {
+var x;
+	if(names)
+		for(x in names)
+			if(names[x] == name) {
+				if(document.getElementById('po'+x)) {
+					var obj = document.getElementById('po'+x);
+					return (obj.type == 'select-one')?obj.options[obj.selectedIndex].text:obj.value;
+				}
+				break;
+			}
+	return false;
+}
+
+</SCRIPT>
+<TR >
+<TD valign="middle" height="25" colspan="2">
+Options</TD>
+</TR><TR>
+<TD valign="middle" colspan="2">
+<br>
+<TABLE width="100%" border="0" cellpadding="3" cellspacing="0">
+<TR style="FONT-WEIGHT: bold;">
+	<TD>&nbsp;</TD>
+	<TD></TD>
+	<TD align="right">Our price</TD>
+	<TD align="center"> Add/Remove</TD>
+</TR>
+
+<TR >
+	<TD>&nbsp;</TD>
+	<TD class="CheckBoxOption">Foam filled tires (4)&nbsp;</TD>
+	<TD align="right"  class="CheckBoxOption"><span style="WHITE-SPACE: nowrap">+$252.00</span></TD>
+	<TD  class="CheckBoxOption" align="center"><INPUT type="checkbox" id="po160_866" name="product_options[160][866]" value="Y"  onClick="javascript: check_options();"></TD>
+</TR>
+<TR >
+	<TD>&nbsp;</TD>
+	<TD class="CheckBoxOption">Batteries (55 Amp) (pair)&nbsp;</TD>
+	<TD align="right"  class="CheckBoxOption"><span style="WHITE-SPACE: nowrap">+$260.00</span></TD>
+	<TD  class="CheckBoxOption" align="center"><INPUT type="checkbox" id="po160_867" name="product_options[160][867]" value="Y"  onClick="javascript: check_options();"></TD>
+</TR>
+<TR >
+	<TD>&nbsp;</TD>
+	<TD class="CheckBoxOption">White glove delivery&nbsp;</TD>
+	<TD align="right"  class="CheckBoxOption"><span style="WHITE-SPACE: nowrap">+$99.00</span></TD>
+	<TD  class="CheckBoxOption" align="center"><INPUT type="checkbox" id="po160_868" name="product_options[160][868]" value="Y"  onClick="javascript: check_options();"></TD>
+</TR>
+<TR >
+	<TD>&nbsp;</TD>
+	<TD class="CheckBoxOption">Seat belt&nbsp;</TD>
+	<TD align="right"  class="CheckBoxOption"><span style="WHITE-SPACE: nowrap">+$38.00</span></TD>
+	<TD  class="CheckBoxOption" align="center"><INPUT type="checkbox" id="po160_869" name="product_options[160][869]" value="Y"  onClick="javascript: check_options();"></TD>
+</TR>
+<TR >
+	<TD>&nbsp;</TD>
+	<TD class="CheckBoxOption">Stump support&nbsp;</TD>
+	<TD align="right"  class="CheckBoxOption"><span style="WHITE-SPACE: nowrap">+$226.00</span></TD>
+	<TD  class="CheckBoxOption" align="center"><INPUT type="checkbox" id="po160_870" name="product_options[160][870]" value="Y"  onClick="javascript: check_options();"></TD>
+</TR>
+<TR >
+	<TD>&nbsp;</TD>
+	<TD class="CheckBoxOption">Quad cane holder&nbsp;</TD>
+	<TD align="right"  class="CheckBoxOption"><span style="WHITE-SPACE: nowrap">+$97.00</span></TD>
+	<TD  class="CheckBoxOption" align="center"><INPUT type="checkbox" id="po160_871" name="product_options[160][871]" value="Y"  onClick="javascript: check_options();"></TD>
+</TR>
+<TR >
+	<TD>&nbsp;</TD>
+	<TD class="CheckBoxOption">Oxygen tank holder&nbsp;</TD>
+	<TD align="right"  class="CheckBoxOption"><span style="WHITE-SPACE: nowrap">+$110.00</span></TD>
+	<TD  class="CheckBoxOption" align="center"><INPUT type="checkbox" id="po160_872" name="product_options[160][872]" value="Y"  onClick="javascript: check_options();"></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+<TR><TD colspan="2">&nbsp;</TD></TR>
+
+
+<TR><TD height="25" width="30%">Quantity</TD>
+<TD>
+
+<SCRIPT type="text/javascript" language="JavaScript 1.2">
+var min_avail = 1;
+var avail = 51-1;
+var product_avail = 1000;
+</SCRIPT>
+<SELECT id="product_avail" name="amount" onchange="check_wholesale(this.value);">
+<OPTION value="1" >1</OPTION>
+<OPTION value="2" >2</OPTION>
+<OPTION value="3" >3</OPTION>
+<OPTION value="4" >4</OPTION>
+<OPTION value="5" >5</OPTION>
+<OPTION value="6" >6</OPTION>
+<OPTION value="7" >7</OPTION>
+<OPTION value="8" >8</OPTION>
+<OPTION value="9" >9</OPTION>
+<OPTION value="10" >10</OPTION>
+<OPTION value="11" >11</OPTION>
+<OPTION value="12" >12</OPTION>
+<OPTION value="13" >13</OPTION>
+<OPTION value="14" >14</OPTION>
+<OPTION value="15" >15</OPTION>
+<OPTION value="16" >16</OPTION>
+<OPTION value="17" >17</OPTION>
+<OPTION value="18" >18</OPTION>
+<OPTION value="19" >19</OPTION>
+<OPTION value="20" >20</OPTION>
+<OPTION value="21" >21</OPTION>
+<OPTION value="22" >22</OPTION>
+<OPTION value="23" >23</OPTION>
+<OPTION value="24" >24</OPTION>
+<OPTION value="25" >25</OPTION>
+<OPTION value="26" >26</OPTION>
+<OPTION value="27" >27</OPTION>
+<OPTION value="28" >28</OPTION>
+<OPTION value="29" >29</OPTION>
+<OPTION value="30" >30</OPTION>
+<OPTION value="31" >31</OPTION>
+<OPTION value="32" >32</OPTION>
+<OPTION value="33" >33</OPTION>
+<OPTION value="34" >34</OPTION>
+<OPTION value="35" >35</OPTION>
+<OPTION value="36" >36</OPTION>
+<OPTION value="37" >37</OPTION>
+<OPTION value="38" >38</OPTION>
+<OPTION value="39" >39</OPTION>
+<OPTION value="40" >40</OPTION>
+<OPTION value="41" >41</OPTION>
+<OPTION value="42" >42</OPTION>
+<OPTION value="43" >43</OPTION>
+<OPTION value="44" >44</OPTION>
+<OPTION value="45" >45</OPTION>
+<OPTION value="46" >46</OPTION>
+<OPTION value="47" >47</OPTION>
+<OPTION value="48" >48</OPTION>
+<OPTION value="49" >49</OPTION>
+<OPTION value="50" >50</OPTION>
+</SELECT>
+</TD></TR>
+<TR><TD colspan="2">
+<INPUT type="hidden" name="mode" value="add">
+<BR>
+<TABLE border="0" cellspacing="0" cellpadding="0" onclick="javascript: if(FormValidation()) document.orderform.submit();" style="cursor: pointer;" valign="middle">
+<TR><TD valign="MIDDLE"><IMG src="/skin1/images/but1.gif" width="11" height="25" border="0"></TD>
+<TD class="Button" valign="MIDDLE" nowrap><FONT class="Button">&nbsp;Add to cart&nbsp;</FONT></TD>
+<TD><IMG src="/skin1/images/but2.gif" width="11" height="25" border="0"></TD></TR>
+</TABLE>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<BR><BR>
+</TD>
+</TR></TABLE>
+</TD>
+<TD align="right" valign="top" width="1">
+</TD>
+</TR>
+<INPUT type="hidden" name="productid" value="566">
+<INPUT type="hidden" name="cat" value="79">
+<INPUT type="hidden" name="page" value="1">
+</FORM>
+</TABLE>
+
+&nbsp;
+</TD></TR>
+</TABLE></TD></TR>
+</TABLE>
+<P>
+<!--
+<P>
+<SCRIPT type="text/javascript" language="JavaScript 1.2">
+var requiredFields = new Array();
+requiredFields[0] = new Array('send_name', "Your name", false);
+requiredFields[1] = new Array('send_from', "Your e-mail", false);
+requiredFields[2] = new Array('send_to', "Recipient's e-mail", false);
+</SCRIPT>
+<SCRIPT type="text/javascript">
+
+var lbl_required_field_is_empty = "The required field '~~field~~' is empty!";
+
+function checkRequired(id) {
+var errors = new Array();
+var x, true_id, type;
+var cnt = 0;
+var id_element = -1;
+
+	if(!requiredFields)
+		return true;
+	if(requiredFields.length == 0)
+		return true;
+
+	if(id) {
+		for(x = 0; x < requiredFields.length; x++)
+			if(requiredFields[x][0] == id) {
+				id_element = x;
+				break;
+			}
+	}
+
+	for(x = 0; x < requiredFields.length; x++) {
+		if(x != id_element && id_element != -1)
+			continue;
+		if(requiredFields[x].length > 2)
+			true_id = ((requiredFields[x][2] && document.getElementById("_"+requiredFields[x][0]))?"_":"")+requiredFields[x][0];
+		else
+			true_id = ((document.getElementById("_"+requiredFields[x][0]))?"_":"")+requiredFields[x][0];
+		if(document.getElementById(true_id)) {
+			type = document.getElementById(true_id).type;
+			if(document.getElementById(true_id).value == '' && (type == 'text' || type == 'password' || type == 'textarea'))
+				errors[cnt++] = new Array(requiredFields[x][1],true_id);
+		}
+	}
+
+	if(errors.length == 0)
+		return true;
+
+	if(lbl_required_field_is_empty != '')
+		alert(lbl_required_field_is_empty.replace(/~~field~~/gi, errors[0][0]));
+	else
+		alert(errors[0][0]);
+
+	if(!document.getElementById(errors[0][1]).disabled && document.getElementById(errors[0][1]).type != 'hidden')
+		document.getElementById(errors[0][1]).focus();
+	
+	return false;
+}
+
+</SCRIPT>
+<SCRIPT type="text/javascript" language="JavaScript 1.2">
+function checkEmailAddress(field, empty_err) {
+var err = false;
+var res, x;
+	if(!field)
+		return true;
+
+	if(field.value.length == 0) {
+		if(empty_err != 'Y')
+			return true;
+		else
+			err = true;
+	}
+
+	var arrEmail = field.value.split('@');
+	if(arrEmail.length != 2 || arrEmail[0].length < 1)
+		err = true;
+	if(!err) {
+		if(arrEmail[0].length > 2)
+			res = arrEmail[0].search(/^[-\w][-\.\w]+[-\w]$/gi);
+		else
+			res = arrEmail[0].search(/^[-\w]+$/gi);
+		if(res == -1)
+			err = true;
+	}
+	if(!err) {
+		var arr2Email = arrEmail[1].split('.');
+		if(arr2Email.length < 2)
+			err = true;
+	}
+	if(!err) {
+		var domenTail = arr2Email[arr2Email.length-1];
+		var _arr2Email = new Array();
+		for(x = 0; x < arr2Email.length-1; x++)
+			_arr2Email[x] = arr2Email[x];
+		arr2Email = _arr2Email;
+		var domen = arr2Email.join('.');
+		res = domen.search(/^[-!#\$%&*+\\\/=?\.\w^`{|}~]+$/gi);
+		if(res == -1)
+			err = true;
+		res = domenTail.search(/^[a-zA-Z]+$/gi);
+		if(res == -1 || domenTail.length < 2 || domenTail.length > 6)
+			err = true;
+	}
+//	/^([-\w][-\.\w]*)?[-\w]@([-!#\$%&*+\\\/=?\w^`{|}~]+\.)+[a-zA-Z]{2,6}$/gi
+
+	if (err) {
+		alert("E-mail address is invalid! Please correct");
+		field.focus();
+		field.select();
+	}
+	return !err;
+}
+</SCRIPT>
+
+<TABLE border="0" cellpadding="0" cellspacing="0" width=100%>
+<TR> 
+<TD height="15" class="DialogTitle"  valign="bottom">&nbsp;&nbsp;<center>Send to friend</center></TD>
+</TR>
+<TR><TD><TABLE border="0" cellpadding="10" cellspacing="1" width="100%">
+<TR><TD><TABLE border="0">
+<FORM action="product.php" method="post" name="send">
+<INPUT type="hidden" name="mode" value="send">
+<INPUT type="hidden" name="productid" value="566">
+
+<TR>
+    <TD class="FormButton">Your name:</TD>
+	<TD><FONT class="Star">*</FONT></TD>
+    <TD><INPUT id="send_name" type="text" size="45" name="name"></TD>
+</TR>
+
+<TR>
+	<TD class="FormButton">Your e-mail:</TD>
+	<TD><FONT class="Star">*</FONT></TD>
+	<TD><INPUT id="send_from" type="text" size="45" name="from" onchange="javascript: checkEmailAddress(this);"></TD>
+</TR>
+
+<TR>
+    <TD class="FormButton">Recipient's e-mail:</TD>
+	<TD><FONT class="Star">*</FONT></TD>
+    <TD><INPUT id="send_to" type="text" size="45" name="email" onchange="javascript: checkEmailAddress(this);"></TD>
+</TR> 
+
+<TR>
+	<TD colspan="3"><BR><TABLE border="0" cellspacing="0" cellpadding="0" onclick="javascript: if(checkRequired('')) document.send.submit();" style="cursor: pointer;" valign="middle">
+<TR><TD valign="MIDDLE"><IMG src="/skin1/images/but1.gif" width="11" height="25" border="0"></TD>
+<TD class="Button" valign="MIDDLE" nowrap><FONT class="Button">&nbsp;<center>Send to friend</center>&nbsp;</FONT></TD>
+<TD><IMG src="/skin1/images/but2.gif" width="11" height="25" border="0"></TD></TR>
+</TABLE>
+</TD>
+</TR>
+
+</FORM>
+
+</TABLE>
+
+
+&nbsp;
+</TD></TR>
+</TABLE></TD></TR>
+</TABLE>
+<P>
+<P>
+<P>
+<TABLE border="0" cellpadding="0" cellspacing="0" width=100%>
+<TR> 
+<TD height="15" class="DialogTitle"  valign="bottom">&nbsp;&nbsp;Recommended products list</TD>
+</TR>
+<TR><TD><TABLE border="0" cellpadding="10" cellspacing="1" width="100%">
+<TR><TD><LI>
+<A href="product.php?productid=556"><FONT class="ItemsList">Golden Tech Capri Lift Chair</FONT></A>
+</LI>
+<LI>
+<A href="product.php?productid=570"><FONT class="ItemsList">7' Rear Van Folding Wheelchair Ramp</FONT></A>
+</LI>
+<LI>
+<A href="product.php?productid=573"><FONT class="ItemsList">12260 Performance Plus Sealed Absorbed Wheelchair Battery</FONT></A>
+</LI>
+<LI>
+<A href="product.php?productid=600"><FONT class="ItemsList">Glide Skis for Walker</FONT></A>
+</LI>
+<LI>
+<A href="product.php?productid=604"><FONT class="ItemsList">5" Swivel Wheels with Lock Rear Glides</FONT></A>
+</LI>
+<LI>
+<A href="product.php?productid=610"><FONT class="ItemsList">Walker Tray (Tray only, walker is not included)</FONT></A>
+</LI>
+<LI>
+<A href="product.php?productid=639"><FONT class="ItemsList">Amputee Perfomer Cushion</FONT></A>
+</LI>
+<LI>
+<A href="product.php?productid=641"><FONT class="ItemsList">Heavy Duty 350 Lbs. Acorn Stairlifts</FONT></A>
+</LI>
+<LI>
+<A href="product.php?productid=655"><FONT class="ItemsList">Complete Modular Systems Available</FONT></A>
+</LI>
+<LI>
+<A href="product.php?productid=660"><FONT class="ItemsList">Drive Cirrus Plus Folding Electric Wheelchair</FONT></A>
+</LI>
+
+&nbsp;
+</TD></TR>
+</TABLE></TD></TR>
+</TABLE>
+<P>
+<TABLE border="0" cellpadding="0" cellspacing="0" width=100%>
+<TR> 
+<TD height="15" class="DialogTitle"  valign="bottom">&nbsp;&nbsp;Product rating</TD>
+</TR>
+<TR><TD><TABLE border="0" cellpadding="10" cellspacing="1" width="100%">
+<TR><TD><TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<FORM method="GET" action="product.php">
+<INPUT type="hidden" name="mode" value="vote">
+<INPUT type="hidden" name="productid" value="566">
+<TR><TD colspan="2">
+<B><FONT class="ProductDetailsTitle">Product rating</FONT></B>
+</TD></TR>
+<TR><TD class="Line" height="1" colspan="2"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0"></TD></TR>
+<TR>
+<TD><BR>Voting</TD>
+<TD>
+<BR>
+<SELECT name="vote">
+<OPTION value="" selected>Select your rating...</OPTION>
+<OPTION value="5">Excellent!</OPTION>
+<OPTION value="4">Very good</OPTION>
+<OPTION value="3">Good</OPTION>
+<OPTION value="2">Fair</OPTION>
+<OPTION value="1">Poor</OPTION>
+</SELECT>&nbsp;<INPUT type="submit" value="Rate It!">
+</TD></TR></FORM><TR><TD colspan="2"><BR><BR></TD></TR>
+<FORM method="POST" action="product.php?mode=review&productid=566">
+<TR><TD colspan="2">
+<B><FONT class="ProductDetailsTitle">Customer Reviews</FONT></B>
+</TD></TR>
+<TR><TD class="Line" height="1" colspan="2"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0"></TD></TR>
+<TR>
+<TD colspan="2"><BR><B>Author: comltmhv</B><BR>p3FHjA  jitdrunpvaia, [url=http://yilrjlobrwjm.com/]yilrjlobrwjm[/url], [link=http://boiomxfkbvvg.com/]boiomxfkbvvg[/link], http://wymavsculrns.com/<BR><BR></TD></TR>
+<TR>
+<TD colspan="2"><BR><B>Author: vlqkqa</B><BR>nCKWfH  kxytaskygatg, [url=http://ighrcgnowrkm.com/]ighrcgnowrkm[/url], [link=http://xrptwqgbgfau.com/]xrptwqgbgfau[/link], http://ioizosewrzzm.com/<BR><BR></TD></TR>
+<TR>
+<TD colspan="2"><BR><B>Author: grebjc</B><BR>Bzy8NC  qzomsyvnmqjf, [url=http://hyhmysrgkcbf.com/]hyhmysrgkcbf[/url], [link=http://nkgtbwwqxtuw.com/]nkgtbwwqxtuw[/link], http://ruebejlpyqou.com/<BR><BR></TD></TR>
+<TR>
+<TD colspan="2"><BR><B>Author: rmtittfhm</B><BR>STgZ6c  ljbnpmykyznh, [url=http://leoelttprrhl.com/]leoelttprrhl[/url], [link=http://pjmfvgmkxcnv.com/]pjmfvgmkxcnv[/link], http://rpavnyftnzii.com/<BR><BR></TD></TR>
+<TR>
+<TD colspan="2"><BR><B>Author: uhpnnmr</B><BR>wKPgUx  tbqmizxzjgck, [url=http://wfioirqjixeu.com/]wfioirqjixeu[/url], [link=http://kfctjuyofmfn.com/]kfctjuyofmfn[/link], http://htwhfwswnjgx.com/<BR><BR></TD></TR>
+<TR>
+<TD colspan="2"><BR><B>Author: jqlckejp</B><BR>bpB8Tz  xherzxwpqkfz, [url=http://qrcdkkfthqmo.com/]qrcdkkfthqmo[/url], [link=http://msdnkbeijveq.com/]msdnkbeijveq[/link], http://atyipgcpdhzf.com/<BR><BR></TD></TR>
+<TR>
+<TD colspan="2"><BR><B>Author: ujuvhixu</B><BR>YEDMPJ  cevipalbcqap, [url=http://ngbqlgjbkwfr.com/]ngbqlgjbkwfr[/url], [link=http://tpubrlpadata.com/]tpubrlpadata[/link], http://jqnjieyxntav.com/<BR><BR></TD></TR>
+<TR>
+<TD colspan="2"><BR><B>Author: kvapkhbh</B><BR>ggsFkz  owtrfaivjdqn, [url=http://zsphrevzwfcg.com/]zsphrevzwfcg[/url], [link=http://ppzxlhtlvjpi.com/]ppzxlhtlvjpi[/link], http://oqiqeekidqwt.com/<BR><BR></TD></TR>
+<TR><TD colspan="2">
+<BR><B><FONT class="ProductDetailsTitle">Add your review here</FONT></B>
+</TD></TR>
+<TR><TD class="Line" height="1" colspan="2"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0"></TD></TR>
+<INPUT type="hidden" name="productid" value='566'>
+<TR>
+<TD width="30%"><BR>Your name:</TD><TD><BR><INPUT type="text" size="24" name="review_author" ></TD></TR>
+<TR>
+<TD width="30%">Your message:</TD><TD><TEXTAREA cols="40" rows="4" name="review_message"></TEXTAREA></TD></TR>
+<TR>
+<TD colspan="2"><INPUT type="submit" value="Add review"></TD></TR>
+</FORM></TABLE>
+
+&nbsp;
+</TD></TR>
+</TABLE></TD></TR>
+</TABLE>
+// -->
+ <LINK rel="stylesheet" href="/skin1/tabs_menu/tabs_menu.css">
+ 
+ <script type="text/javascript">
+      function switchOn(tab,contents) {
+        switchAllOff();
+        document.getElementById(tab).className = 'selectedtab';
+        document.getElementById(contents).className = 'selectedcontents';
+      }
+      function clearTop() {
+        topRow = document.getElementById('toprow');
+        tabArray = topRow.childNodes;
+        for (var i=0; i<tabArray.length; i++) {
+          if (tabArray[i].className != 'tabspacer') {
+            tabArray[i].className = 'tabs';
+          }
+        }
+      }
+
+      function clearContents() {
+        contentsCell = document.getElementById('contentscell');
+        contentsArray = contentsCell.childNodes;
+        for (var j=0; j<contentsArray.length; j++) {
+          contentsArray[j].className = 'contents';
+        }
+      }
+      function switchAllOff() {
+        clearTop();
+        clearContents();
+      }
+    </script>
+     <table id="tabmenu" border="0" cellpadding="0" cellspacing="0">
+          <tr id="toprow">
+            <td class="tabs" id="tab1" onclick="switchOn('tab1','contents1');"></td>
+            <td class="tabspacer">&nbsp;</td>
+            <td class="tabs" id="tab2" onclick="switchOn('tab2','contents2');">                <center>   Warranty &<br>Shipping</center></td>
+            <td class="tabspacer">&nbsp;</td>
+            <td class="tabs" id="tab3" onclick="switchOn('tab3','contents3');"><center>Detailed images</center></td>
+            <td class="tabspacer">&nbsp;</td>
+            <td class="tabs" id="tab4" onclick="switchOn('tab4','contents4');"><center>Send to friend</center></td>
+            <td class="tabspacer">&nbsp;</td>
+            <td class="tabs" id="tab5" onclick="switchOn('tab5','contents5');"></td>
+          </tr>
+           </table>
+           <table id="tabmenu" width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td id="contentscell">
+              <div class="contents" id="contents1"><TABLE border="0" cellpadding="0" cellspacing="0" width=100%>
+<TR> 
+<TD width="100%">&nbsp;&nbsp;</TD>
+</TR>
+<TR><TD class="DialogBorder" ><TABLE border="0" cellpadding="10" cellspacing="1" width="100%">
+<TR><TD class="DialogBox"><DIV align="left">
+<strong><em><font color="#FF0000" size="3" face="Arial, Helvetica, sans-serif">Free 
+  Shipping!</font></em></strong><br><br>
+
+<b>Specifications:</b> <br><br>
+
+Length:  57.5",  Width:  24.6",  Turning radius:  48.5",  Speed:  7 mph, Range:  up to 18 miles<br><br>   
+
+Standard included seating: 22" wide x 17.5" deep N/C<br><br>
+
+
+
+<table width="601" height="0" border="0">
+  <!--DWLayoutTable-->
+  <tr> 
+    <td width="190" height="382" valign="top"> <ul>
+        <li>Handsome, Heavy-Duty Mobility Scooter<br>
+          <br>
+          </li>
+        <li>Outdoor ruggedness<br>
+          <br>
+          </li>
+        <li>Speeds up to 7 MPH<br>
+          <br>
+         </li>
+        <li> Standard front basket<br>
+          <br>
+          </li>
+        <li> Head light for safety<br>
+          <br>
+          </li>
+        <li> 360 degree swivel seat<br>
+          <br>
+          </li>
+        <li>Battery charger on board: 4amp<br>
+          <br>
+          </li>
+      </ul></td>
+    <td width="195" valign="top"><ul>
+        <li>500 lb. Weight Capacity<br>
+          <br>
+        </li>
+        <li>Oversize tires<br>
+          <br>
+          </li>
+        <li>Colors available:<br>
+          Arctic Blue<br>
+          Vermillion Red<br>
+          Sahara <br>
+          <br>
+          </li>
+        <li>Swivel seat<br>
+          <br>
+          </li>
+        <li>Self diagnostics<br>
+          <br>
+          </li>
+        <li>Sleep mode<br><br>
+          </li>
+        <li>Sleep diagnostics<br>
+          </li>
+      </ul></td>
+    <td width="202" valign="top"><ul>
+        <li>Up to 18 mile range (Depending on conditions)<br>
+          <br>
+          </li>
+        <li>Arms adjust in width and height<br><br>
+         </li>
+        <li>Bumper guard protection<br>
+          <br>
+          </li>
+        <li> High visibility tail lights<br>
+          <br>
+          </li>
+        <li> Adjustable seat height<br>
+          <br>
+          </li>
+        <li> Flip-up armrests for easy transfers<br><br>
+          </li>
+        <li>Infinite adjustable tiller<br>
+          </li>
+      </ul></td>
+  </tr>
+  <tr> 
+    <td height="2"></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+</DIV>
+
+&nbsp;
+</TD></TR>
+</TABLE></TD></TR>
+</TABLE>
+</div>
+              <div class="contents" id="contents2"><TABLE border="0" cellpadding="0" cellspacing="0" width=100%>
+<TR> 
+<TD width="100%">&nbsp;&nbsp;</TD>
+</TR>
+<TR><TD class="DialogBorder" ><TABLE border="0" cellpadding="10" cellspacing="1" width="100%">
+<TR><TD class="DialogBox"><DIV align="left">
+<font size="2">Free curbside delivery is included, but for only $99 <b>(Normal cost $250.00) </b>White Glove Delivery Service is available. This valuable delivery service is <strong>second to none.</strong><br><br><strong>What is White Glove Delivery? </strong><br><br>
+
+
+<p><font size="2" face="Arial, Helvetica, sans-serif">It's a custom delivery service 
+  where you don't worry about anything except<br>
+  telling the delivery men where you want your Avenger Mobility Scooter.<br>
+  (Please see exceptions below)<br>
+  <strong><br>
+  Here's what included:</strong></font></p>
+<ul>
+  <li><font size="2" face="Arial, Helvetica, sans-serif">Inside delivery of your 
+    Avenger Mobility Scooter<br>
+    <br>
+    </font></li>
+  <li><font size="2" face="Arial, Helvetica, sans-serif">Your Avenger Mobility 
+    Scooter will be set-up in the room of your choice as long as this<br>
+    room is not more than one floor up or down from the main entrance.<br>
+    (If more than one floor, additional charges will apply)<br>
+    <br>
+    </font></li>
+  <li><font size="2" face="Arial, Helvetica, sans-serif"> Complete set-up of your 
+    Avenger Mobility Scooter<br>
+    <br>
+    </font></li>
+  <li><font size="2" face="Arial, Helvetica, sans-serif">Your Avenger Mobility 
+    Scooter will be visually inspected for damages or defects<br>
+    <br>
+    </font></li>
+  <li><font size="2" face="Arial, Helvetica, sans-serif">The Avenger Mobility 
+    Scooter will be tested to make sure it's in top operating condition<br>
+    <br>
+    </font></li>
+  <li><font size="2" face="Arial, Helvetica, sans-serif">You'll be given a basic 
+    overview on how to operate your Avenger Mobility Scooter<br>
+    while it is being tested.<br>
+    <br>
+    <br>
+    <strong>What's not included: </strong>The dismantling of the Avenger Mobiltiy 
+    Scooter to fit through<br>
+    hallways or stairs. No moving of any existing furniture due to liablity issues, 
+    plus no <br>
+    removal or disposal of any existing furniture. No in-depth training to use 
+    your <br>
+    powechair. <strong>The Avenger Mobility Scooter is easy to use and maintain, 
+    <br>
+    and each comes with an in-depth owner's manual.</strong><br>
+    </font></li>
+</ul>
+
+
+</DIV>
+
+&nbsp;
+</TD></TR>
+</TABLE></TD></TR>
+</TABLE>
+</div>
+              <div class="contents" id="contents3">&nbsp;</div>
+ 
+              <div class="contents" id="contents4"><SCRIPT type="text/javascript" language="JavaScript 1.2">
+var requiredFields = new Array();
+requiredFields[0] = new Array('send_name', "Your name", false);
+requiredFields[1] = new Array('send_from', "Your e-mail", false);
+requiredFields[2] = new Array('send_to', "Recipient's e-mail", false);
+</SCRIPT>
+<SCRIPT type="text/javascript">
+
+var lbl_required_field_is_empty = "The required field '~~field~~' is empty!";
+
+function checkRequired(id) {
+var errors = new Array();
+var x, true_id, type;
+var cnt = 0;
+var id_element = -1;
+
+	if(!requiredFields)
+		return true;
+	if(requiredFields.length == 0)
+		return true;
+
+	if(id) {
+		for(x = 0; x < requiredFields.length; x++)
+			if(requiredFields[x][0] == id) {
+				id_element = x;
+				break;
+			}
+	}
+
+	for(x = 0; x < requiredFields.length; x++) {
+		if(x != id_element && id_element != -1)
+			continue;
+		if(requiredFields[x].length > 2)
+			true_id = ((requiredFields[x][2] && document.getElementById("_"+requiredFields[x][0]))?"_":"")+requiredFields[x][0];
+		else
+			true_id = ((document.getElementById("_"+requiredFields[x][0]))?"_":"")+requiredFields[x][0];
+		if(document.getElementById(true_id)) {
+			type = document.getElementById(true_id).type;
+			if(document.getElementById(true_id).value == '' && (type == 'text' || type == 'password' || type == 'textarea'))
+				errors[cnt++] = new Array(requiredFields[x][1],true_id);
+		}
+	}
+
+	if(errors.length == 0)
+		return true;
+
+	if(lbl_required_field_is_empty != '')
+		alert(lbl_required_field_is_empty.replace(/~~field~~/gi, errors[0][0]));
+	else
+		alert(errors[0][0]);
+
+	if(!document.getElementById(errors[0][1]).disabled && document.getElementById(errors[0][1]).type != 'hidden')
+		document.getElementById(errors[0][1]).focus();
+	
+	return false;
+}
+
+</SCRIPT>
+<SCRIPT type="text/javascript" language="JavaScript 1.2">
+function checkEmailAddress(field, empty_err) {
+var err = false;
+var res, x;
+	if(!field)
+		return true;
+
+	if(field.value.length == 0) {
+		if(empty_err != 'Y')
+			return true;
+		else
+			err = true;
+	}
+
+	var arrEmail = field.value.split('@');
+	if(arrEmail.length != 2 || arrEmail[0].length < 1)
+		err = true;
+	if(!err) {
+		if(arrEmail[0].length > 2)
+			res = arrEmail[0].search(/^[-\w][-\.\w]+[-\w]$/gi);
+		else
+			res = arrEmail[0].search(/^[-\w]+$/gi);
+		if(res == -1)
+			err = true;
+	}
+	if(!err) {
+		var arr2Email = arrEmail[1].split('.');
+		if(arr2Email.length < 2)
+			err = true;
+	}
+	if(!err) {
+		var domenTail = arr2Email[arr2Email.length-1];
+		var _arr2Email = new Array();
+		for(x = 0; x < arr2Email.length-1; x++)
+			_arr2Email[x] = arr2Email[x];
+		arr2Email = _arr2Email;
+		var domen = arr2Email.join('.');
+		res = domen.search(/^[-!#\$%&*+\\\/=?\.\w^`{|}~]+$/gi);
+		if(res == -1)
+			err = true;
+		res = domenTail.search(/^[a-zA-Z]+$/gi);
+		if(res == -1 || domenTail.length < 2 || domenTail.length > 6)
+			err = true;
+	}
+//	/^([-\w][-\.\w]*)?[-\w]@([-!#\$%&*+\\\/=?\w^`{|}~]+\.)+[a-zA-Z]{2,6}$/gi
+
+	if (err) {
+		alert("E-mail address is invalid! Please correct");
+		field.focus();
+		field.select();
+	}
+	return !err;
+}
+</SCRIPT>
+
+<TABLE border="0" cellpadding="0" cellspacing="0" width=100%>
+<TR> 
+<TD width="100%">&nbsp;&nbsp;</TD>
+</TR>
+<TR><TD class="DialogBorder" ><TABLE border="0" cellpadding="10" cellspacing="1" width="100%">
+<TR><TD class="DialogBox"><TABLE border="0">
+<FORM action="product.php" method="post" name="send">
+<INPUT type="hidden" name="mode" value="send">
+<INPUT type="hidden" name="productid" value="566">
+
+<TR>
+    <TD class="FormButton">Your name:</TD>
+	<TD><FONT class="Star">*</FONT></TD>
+    <TD><INPUT id="send_name" type="text" size="45" name="name"></TD>
+</TR>
+
+<TR>
+	<TD class="FormButton">Your e-mail:</TD>
+	<TD><FONT class="Star">*</FONT></TD>
+	<TD><INPUT id="send_from" type="text" size="45" name="from" onchange="javascript: checkEmailAddress(this);"></TD>
+</TR>
+
+<TR>
+    <TD class="FormButton">Recipient's e-mail:</TD>
+	<TD><FONT class="Star">*</FONT></TD>
+    <TD><INPUT id="send_to" type="text" size="45" name="email" onchange="javascript: checkEmailAddress(this);"></TD>
+</TR> 
+
+<TR>
+	<TD colspan="3"><BR><TABLE border="0" cellspacing="0" cellpadding="0" onclick="javascript: if(checkRequired('')) document.send.submit();" style="cursor: pointer;" valign="middle">
+<TR><TD valign="MIDDLE"><IMG src="/skin1/images/but1.gif" width="11" height="25" border="0"></TD>
+<TD class="Button" valign="MIDDLE" nowrap><FONT class="Button">&nbsp;<center>Send to friend</center>&nbsp;</FONT></TD>
+<TD><IMG src="/skin1/images/but2.gif" width="11" height="25" border="0"></TD></TR>
+</TABLE>
+</TD>
+</TR>
+
+</FORM>
+
+</TABLE>
+
+
+&nbsp;
+</TD></TR>
+</TABLE></TD></TR>
+</TABLE>
+&nbsp;</div>
+              <div class="contents" id="contents5"><TABLE border="0" cellpadding="0" cellspacing="0" width=100%>
+<TR> 
+<TD width="100%">&nbsp;&nbsp;</TD>
+</TR>
+<TR><TD class="DialogBorder" ><TABLE border="0" cellpadding="10" cellspacing="1" width="100%">
+<TR><TD class="DialogBox"><DIV align="left">
+
+</DIV>
+
+&nbsp;
+</TD></TR>
+</TABLE></TD></TR>
+</TABLE>
+</div>
+            </td>
+          </tr>
+      </table><br>
+      <script type="text/javascript">
+        switchOn('tab1','contents1');
+      </script>
+    </div> 
+
+<SCRIPT type="text/javascript" language="JavaScript 1.2">
+check_options();
+</SCRIPT>
+
+<br><br>
+<HR size="1" NOSHADE class="VertMenuHr">
+<br><div align=center>
+<IMG src="/skin1/images/custom/footer-logos.gif" border="0">
+<br><br>
+ 
+<br><br><font size=1>
+Copyright 2008 AssistiveLivingMobility.com<br>&nbsp;</font></div>
+
+<!-- /central space -->
+&nbsp;
+</TD>
+<TD width="20">&nbsp;</TD>
+<TD width="1" bgcolor="#D2D2D2"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0"></TD>
+<TD width="2" bgcolor="#ffffff"><IMG src="/skin1/images/spacer.gif" width="2" height="1" border="0"></TD>
+<TD width="175" valign="top" bgcolor="#F8F8F1">
+
+
+
+
+
+
+
+
+
+
+<br><IMG src="/skin1/images/custom/sign-up-today.gif" border="0"><br><br>
+<TABLE cellspacing=0 cellpadding=0 border=0 width=165 align=center><TR><TD></TD></TR></TABLE><TABLE border="0" cellpadding="0" cellspacing="0" width="100%">
+<TR> 
+<TD class="VertMenuBorder"> 
+<TABLE border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="#F8F8F1">
+
+<!-- Commented out by PGR  1/15/06
+<TR> 
+<TD class="VertMenuTitle">&nbsp;&nbsp;<IMG src="/skin1/images/dingbats_news.gif" width="21" height="20" border="0" 
+
+align="absmiddle">&nbsp;&nbsp;
+<FONT class="VertMenuBoxNewsTitle">News</FONT>
+</TD>
+</TR>
+-->
+
+<TR> 
+<TD class="VertMenuBox"> 
+ <TABLE border="0" cellpadding="5" cellspacing="0" width="100%">
+ <TR> 
+ <TD><FONT  class="VertMenuItems">
+<SPAN style="font-size: 9px">
+<font size="2"><b>Get Your FREE Report:</b> "Find a Wheelchair or Scooter to make your life more productive." <br><font size="2">Enter your email address below (kept strictly confidental).</font>
+<HR size="1" noshade class="VertMenuHr">
+</SPAN>
+<IMG src="/skin1/images/spacer.gif" width="1" height="8"><BR>
+<TABLE>
+<FORM action="/mail/subscribe.php" name="subscribeform">
+<INPUT type="hidden" name="redirect" value="customer">
+<TR>
+<TD>
+Your email:
+<BR>
+<INPUT type="text" name="newsemail" size="16">
+<BR>
+<A href="javascript:document.subscribeform.submit()" class="VertMenuItems"><FONT class="VertMenuItems">Subscribe&nbsp;</FONT><IMG src="/skin1/images/go_menu.gif" width="27" height="14" border="0" align="absmiddle"></A>
+</TD>
+</TR>
+</FORM>
+</TABLE>
+</FONT>
+<BR></TD></TR>
+ </TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE><HR size="1" NOSHADE class="VertMenuHr">  <IMG src="/skin1/images/custom/your-cart.gif" border="0"><br>
+<TABLE border="0" cellpadding="0" cellspacing="0" width="100%">
+<TR> 
+<TD class="VertMenuBorder"> 
+<TABLE border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="#F8F8F1">
+
+<!-- Commented out by PGR  1/15/06
+<TR> 
+<TD class="VertMenuTitle">&nbsp;&nbsp;<IMG src="/skin1/images/dingbats_orders.gif" width="21" height="20" border="0" 
+
+align="absmiddle">&nbsp;&nbsp;
+<FONT class="VertMenuBoxNewsTitle">Your cart</FONT>
+</TD>
+</TR>
+-->
+
+<TR> 
+<TD class="VertMenuBox"> 
+ <TABLE border="0" cellpadding="5" cellspacing="0" width="100%">
+ <TR> 
+ <TD><TABLE border="0" cellpadding="1" cellspacing="0">
+<TR>
+<TD rowspan="2" width="23">
+<IMG border="0" src="/skin1/images/cart_empty.gif" width="19" height="16"></TD>
+<TD class="VertMenuItems"><CENTER><B>Cart is empty</B></CENTER></TD>
+</TR>
+<TR>
+<TD class="VertMenuItems"></TD>
+</TR>
+</TABLE>
+<HR size="1" NOSHADE class="VertMenuHr"><A href="cart.php" class="VertMenuItems">View cart</A><BR>
+<A href="cart.php?mode=checkout" class="VertMenuItems">Checkout</A><BR>
+
+<BR></TD></TR>
+ </TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE><BR>
+<br><IMG src="/skin1/images/custom/registered-users.gif" border="0"><br>
+<TABLE border="0" cellpadding="0" cellspacing="0" width="100%">
+<TR> 
+<TD class="VertMenuBorder"> 
+<TABLE border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="#F8F8F1">
+
+<!-- Commented out by PGR  1/15/06
+<TR> 
+<TD class="VertMenuTitle">&nbsp;&nbsp;<IMG src="/skin1/images/dingbats_authentification.gif" width="21" height="20" border="0" 
+
+align="absmiddle">&nbsp;&nbsp;
+<FONT class="VertMenuBoxNewsTitle">Authentication</FONT>
+</TD>
+</TR>
+-->
+
+<TR> 
+<TD class="VertMenuBox"> 
+ <TABLE border="0" cellpadding="5" cellspacing="0" width="100%">
+ <TR> 
+ <TD><TABLE border="0" cellpadding="0" cellspacing="0" width="100%">
+
+<FORM action="https://www.assistivelivingmobility.com/include/login.php" method="post" name="authform">
+<INPUT type="hidden" name="xid" value="663fdacef6110911291e3cd998d9885b">
+ <TR>
+<TD class="VertMenuItems">
+<FONT class="VertMenuItems">Username</FONT><BR>
+<INPUT type="text" name="username" size="16" value=""><BR>
+<FONT class="VertMenuItems">Password</FONT><BR>
+<INPUT type="password" name="password" size="16" value=""><BR>
+<INPUT type="hidden" name="mode" value="login">
+<INPUT type="hidden" name="usertype" value="C">
+<INPUT type="hidden" name="redirect" value="customer">
+</TD></TR>
+<TR>
+<TD height="24" class="VertMenuItems">
+<A href="javascript: document.authform.submit()" class="VertMenuItems"><FONT class="VertMenuItems">Log in </FONT><INPUT type="image" src="/skin1/images/go_menu.gif" width="27" height="14" border="0" align="absmiddle"></A>
+</TD>
+</TR>
+ <TR>
+<TD height="24" nowrap class="VertMenuItems">
+<A href="register.php" class="VertMenuItems"><FONT class="VertMenuItems">Register </FONT><IMG src="/skin1/images/go_menu.gif" width="27" height="14" border="0" align="absmiddle"></A>
+</TD>
+</TR>
+<TR>
+<TD height="24" nowrap class="VertMenuItems">
+<A href="help.php?section=Password_Recovery" class="VertMenuItems">Recover password</A>
+</TD>
+</TR>
+
+<TR>
+<TD class="VertMenuItems" align="right">
+<BR>
+<A href="/product.php?productid=566&cat=79&page=1&js=n" class="SmallNote">If Javascript is disabled in your browser click here</A>
+</TD>
+</TR>
+</FORM>
+</TABLE>
+<BR></TD></TR>
+ </TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE><BR>
+<BR>
+<BR>
+<IMG src="/skin1/images/spacer.gif" width="175" height="1" border="0">
+</TD>
+<TD width="2" bgcolor="#ffffff"><IMG src="/skin1/images/spacer.gif" width="2" height="1" border="0"></TD>
+<TD width="1" bgcolor="#D2D2D2"><IMG src="/skin1/images/spacer.gif" width="1" height="1" border="0"></TD>
+</TR>
+</TABLE>
+
+ 
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-215859-5";
+urchinTracker();
+</script>
+
+</BODY>
+</HTML>

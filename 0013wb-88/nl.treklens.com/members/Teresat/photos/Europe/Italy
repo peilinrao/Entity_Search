@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Teresat | TrekLens</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="content-language" content="nl" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="ROBOTS" content="INDEX, FOLLOW" />
+<link rel="stylesheet" media="screen" href="http://i1.treklens.com/misc/style.css" type="text/css" />
+<link rel="stylesheet" media="screen" href="http://i1.treklens.com/misc/style-scrpulous.css" type="text/css" />
+<link rel="stylesheet" media="screen" href="http://i1.treklens.com/misc/js/lightwindow/css/lightwindow.css" type="text/css" />
+<!--[if IE ]>
+<link rel="stylesheet" href="http://i1.treklens.com/misc/iestyle.css" type="text/css" />
+<![endif]-->
+<script src="http://i1.treklens.com/misc/js/prototype.js" type="text/javascript"></script>
+<script src="http://i1.treklens.com/misc/js/scriptaculous.js" type="text/javascript"></script>
+<script src="http://i1.treklens.com/misc/init.js" type="text/javascript"></script>
+<script src="http://i1.treklens.com/misc/js/lightwindow/javascript/lightwindow.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+if (self != top) { if (document.images) { top.location.replace(window.location.href); } else { top.location.href = window.location.href; } }
+// --></script></head>
+<body>
+<div id="mainwrap">
+<div id="mast">
+<a id="logo" href="/"><img src="http://i1.treklens.com/misc/logo.gif" alt="TrekLens" width="180" height="77" /></a>
+<div id="mast-content">
+<form name="lform" action="/members/Teresat/photos/Europe/Italy/" method="post" class="clearfix">
+<ul id="nav"><li><a href="/gallery/">Galerij</a></li>
+	<li><a href="/forums.php">Forums</a></li>
+	<li><a href="/members/">Leden</a></li><li><a href="/signin.php">Mijn account</a></li><li><a href="/links.php">Links</a></li>
+	<li><a href="/about.php">OverTrekLens</a></li></ul><select name="lang" size="1" onChange="lform.submit()">
+<option value="zh">Chinees (S)</option>
+<option value="zhtw">Chinees (T)</option>
+<option value="en">Engels</option>
+<option value="fr">Frans</option>
+<option value="he">Hebreeuws</option>
+<option value="ja">Japans</option>
+<option value="ko">Koreaans</option>
+<option value="lt">Litouws</option>
+<option value="nl" selected>Nederlands</option>
+<option value="pl">Pools</option>
+<option value="pt">Portugees</option>
+<option value="ru">Russisch</option>
+<option value="es">Spaans</option>
+</select>
+<input type="hidden" name="filter" value="PE" /></form>
+<div id="mast-data" class="clearfix"><h2>Leden: <span class="highlighted-text">Teresat</span> >> <a href="/members/Teresat/photos/">Foto's</a> >> <a href="/members/Teresat/photos/Europe/">Europa</a> >> <span class="highlighted-text">Italië</span></h2><h3><a href="/register.php">Registreren</a></h3>
+</div> <!-- This closes #mast-data -->
+</div> <!-- This closes #mast-content -->
+</div> <!-- This closes #mast -->
+<div id="container">
+<div id="content">
+<div id="subnav" class="clearfix">
+<a href="/members/Teresat/" class="tab-off">Inleiding</a> <strong class="tab-on">Foto's</strong> <a href="/critiques.php?filter=Teresat" class="tab-off">Beoordelingen</a> <a href="/trip.php?filter=Teresat" class="tab-off">Reisverslagen</a> <a href="/themes.php?filter=Teresat" class="tab-off">Thema's</a> <a href="/threads.php?filter=Teresat" class="tab-off">Forum items</a>   
+</div><div id="pages"><span style="font-size: 120%">Pagina's: </span><strong>1</strong> <a href="/members/Teresat/photos/Europe/Italy/page2.htm">2</a> &nbsp;<a href="/members/Teresat/photos/Europe/Italy/page2.htm">></a></div><table align="center" border="0" cellspacing="7" width="100%">
+<tr align="center"><td width="32%"><a href="/gallery/Europe/Italy/Tuscany/Florence/">Florence</a><br /><a href="/viewphotos.php?l=5&p=629920"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/bike-xtttt_s_.jpg" width="150" height="100" border="1" alt="Title: light and dark" title="Title: light and dark" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo629920.htm">light and dark</a> (46) <br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Europe/Italy/Veneto/Venice/">Venice</a><br /><a href="/viewphotos.php?l=5&p=607497"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/liquids_s_.jpg" width="100" height="150" border="1" alt="Title: song of liquid days" title="Title: song of liquid days" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo607497.htm">song of liquid days</a> (102) <a href="/favorites.php?pid=607497" title="Added by 1 member" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Europe/Italy/Veneto/Venice/">Venice</a><br /><a href="/viewphotos.php?l=5&p=596185"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/twarm_s_.jpg" width="100" height="150" border="1" alt="Title: my kind of road" title="Title: my kind of road" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo596185.htm">my kind of road</a> (88) <a href="/favorites.php?pid=596185" title="Added by 1 member" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><tr align="center"><td width="32%"><a href="/gallery/Europe/Italy/Veneto/Venice/">Venice</a><br /><a href="/viewphotos.php?l=5&p=590127"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/gold_s_.jpg" width="150" height="95" border="1" alt="Title: golden days" title="Title: golden days" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo590127.htm">golden days</a> (58) <br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Europe/Italy/Campania/Naples/">Naples</a><br /><a href="/viewphotos.php?l=5&p=589689"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/tunnelt_s_.jpg" width="100" height="150" border="1" alt="Title: stones of geometry" title="Title: stones of geometry" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo589689.htm">stones of geometry</a> (70) <br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Europe/Italy/Lombardia/Milan/">Milan</a><br /><a href="/viewphotos.php?l=5&p=588877"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/tmadona_s_.jpg" width="95" height="150" border="1" alt="Title: Madona  22" title="Title: Madona  22" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo588877.htm">Madona  22</a> (54) <a href="/favorites.php?pid=588877" title="Added by 2 members" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td></tr>
+<tr align="center"><td width="32%"><a href="/gallery/Europe/Italy/Lazio/Rome/">Rome</a><br /><a href="/viewphotos.php?l=5&p=585853"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/romepicto2t_s_.jpg" width="100" height="150" border="1" alt="Title: issue of pictorialism" title="Title: issue of pictorialism" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo585853.htm">issue of pictorialism</a> (77) <br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Europe/Italy/Veneto/Venice/">Venice</a><br /><a href="/viewphotos.php?l=5&p=585443"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/p1220502puret_s_.jpg" width="150" height="100" border="1" alt="Title: exodus" title="Title: exodus" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo585443.htm">exodus</a> (48) <br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Europe/Italy/Lombardia/Sondrio/">Sondrio</a><br /><a href="/viewphotos.php?l=5&p=581502"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/trek_s_.jpg" width="150" height="100" border="1" alt="Title: the good guys" title="Title: the good guys" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo581502.htm">the good guys</a> (54) <br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td></tr>
+<tr align="center"><td width="32%"><a href="/gallery/Europe/Italy/Lazio/Rome/">Rome</a><br /><a href="/viewphotos.php?l=5&p=581170"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/romano_s_.jpg" width="150" height="100" border="1" alt="Title: forum" title="Title: forum" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo581170.htm">forum</a> (80) <a href="/favorites.php?pid=581170" title="Added by 1 member" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Europe/Italy/Campania/Naples/">Naples</a><br /><a href="/viewphotos.php?l=5&p=578320"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/tgirl_s_.jpg" width="100" height="150" border="1" alt="Title: blind goat" title="Title: blind goat" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo578320.htm">blind goat</a> (74) <a href="/favorites.php?pid=578320" title="Added by 1 member" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Europe/Italy/Veneto/Venice/">Venice</a><br /><a href="/viewphotos.php?l=5&p=576941"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/girlst_s_.jpg" width="150" height="100" border="1" alt="Title: les demoiselles" title="Title: les demoiselles" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo576941.htm">les demoiselles</a> (144) <a href="/favorites.php?pid=576941" title="Added by 1 member" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td></tr>
+<tr align="center"><td width="32%"><a href="/gallery/Europe/Italy/Lombardia/Como/">Como</a><br /><a href="/viewphotos.php?l=5&p=556144"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/lake_s_.jpg" width="150" height="100" border="1" alt="Title: Aldo" title="Title: Aldo" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo556144.htm">Aldo</a> (106) <a href="/favorites.php?pid=556144" title="Added by 3 members" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Europe/Italy/Lazio/Rome/">Rome</a><br /><a href="/viewphotos.php?l=5&p=503294"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/the-man_s_.jpg" width="150" height="100" border="1" alt="Title: A man in Italy" title="Title: A man in Italy" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo503294.htm">A man in Italy</a> (124) <a href="/favorites.php?pid=503294" title="Added by 2 members" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Europe/Italy/Lazio/Rome/">Rome</a><br /><a href="/viewphotos.php?l=5&p=500730"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/p1140984_s_.jpg" width="100" height="150" border="1" alt="Title: Non ho l'et&agrave;" title="Title: Non ho l'et&agrave;" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo500730.htm">Non ho l'età</a> (118) <a href="/favorites.php?pid=500730" title="Added by 1 member" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td></tr>
+<tr align="center"><td width="32%"><a href="/gallery/Europe/Italy/Tuscany/Florence/">Florence</a><br /><a href="/viewphotos.php?l=5&p=493546"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/p1160086_s_.jpg" width="150" height="100" border="1" alt="Title: Meet Moretti" title="Title: Meet Moretti" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo493546.htm">Meet Moretti</a> (120) <a href="/favorites.php?pid=493546" title="Added by 1 member" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Europe/Italy/Lazio/Rome/">Rome</a><br /><a href="/viewphotos.php?l=5&p=491301"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/p1140892_s_.jpg" width="150" height="104" border="1" alt="Title: Roman Holiday" title="Title: Roman Holiday" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo491301.htm">Roman Holiday</a> (112) <a href="/favorites.php?pid=491301" title="Added by 2 members" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Europe/Italy/Lazio/Rome/">Rome</a><br /><a href="/viewphotos.php?l=5&p=489681"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/p1tr150115x_s_.jpg" width="150" height="100" border="1" alt="Title: Ritratto al  Bernini" title="Title: Ritratto al  Bernini" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Europe/Italy/photo489681.htm">Ritratto al  Bernini</a> (128) <a href="/favorites.php?pid=489681" title="Added by 3 members" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td></tr>
+<tr><td>&nbsp</td><td width="32%"><!-- begin ad tag --><script language="JavaScript" src="http://ad.doubleclick.net/adj/te_ros/;dcopt=ist;sz=300x250;ord=6?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/te_ros/;sz=300x250;ord=6?" target="_blank"><img src="http://ad.doubleclick.net/ad/te_ros/;sz=300x250;ord=6?" width="300" height="250" border="0" alt=""></a></noscript><!-- End ad tag --></td><td>&nbsp;</td></tr>
+</table>
+</div> <!-- This closes #content -->
+</div> <!-- This closes #container -->
+<div id="sidebar" class="clearfix">
+<h3 id="sidesearch">Zoeken</h3>
+<form name="sform" action="/search.php" method="get">
+&nbsp;&nbsp;<input type="text" name="phrase" value="" maxlength="20" size="13" />
+<input type="hidden" name="type" value="artists" />
+<input type="submit" name="search" value="Go" />
+</form>
+<div id="ad-sidebar"><script type="text/javascript">
+//<!--
+google_adtest = 'off';
+google_ad_client = "ca-ib-radlinks";
+google_ad_channel = 'TrekLens_LftRadLink_160x90,TrekLens_AFC_URL';
+google_hints = '';
+ad_dimensions = '160x90RL';
+ad_border = 'B0C4DE';
+ad_title = '3366FF';
+ad_bg = 'B0C4DE';
+ad_text = '000';
+ad_url = '008000';
+//--></script>
+<script type='text/javascript' src='http://static.internetbrands.com/partners/afc/afc_glue.js?'></script>
+<script type='text/javascript' src='http://pagead2.googlesyndication.com/pagead/show_ads.js'></script>
+</div><h3>Regio's</h3>
+<ul><li>Abruzzo</li>
+<li>Apulia</li>
+<li>Basilicata</li>
+<li>Calabria</li>
+<li><a href="/members/Teresat/photos/Europe/Italy/Campania/">Campania</a></li>
+<li>Emilia-Romagna</li>
+<li>Friuli-Venezia Giulia</li>
+<li><a href="/members/Teresat/photos/Europe/Italy/Lazio/">Lazio</a></li>
+<li>Le Marche</li>
+<li>Liguria</li>
+<li><a href="/members/Teresat/photos/Europe/Italy/Lombardia/">Lombardia</a></li>
+<li>Molise</li>
+<li>Piedmont</li>
+<li>Sardegna</li>
+<li>Sicily</li>
+<li>Trentino Alto Adige</li>
+<li><a href="/members/Teresat/photos/Europe/Italy/Tuscany/">Tuscany</a></li>
+<li>Umbria</li>
+<li>Val dAosta</li>
+<li><a href="/members/Teresat/photos/Europe/Italy/Veneto/">Veneto</a></li>
+</ul><h3>Snelkoppelingen</h3>
+<h4>Camera's</h4>
+<ul>
+<li><a href="/photos.php?cat=camera&id=43">Nikon Coolpix 5700</a></li>
+<li><a href="/photos.php?cat=camera&id=872">Pentax *ist D</a></li>
+</ul>
+<h4>Beelden</h4>
+<ul>
+<li><a href="/photos.php?filter=panoramas">Panoramas</a></li>
+<li><a href="/photos.php?filter=welcome">Welkomsgallerij</a></li>
+<li><a href="/photos.php?filter=uc">Onbeoordeeld</a></li>
+</ul>
+</div> <!-- This closes #sidebar -->
+<div id="footer">
+<div id="bottom">
+<div id="pages"><span style="font-size: 120%">Pagina's: </span><strong>1</strong> <a href="/members/Teresat/photos/Europe/Italy/page2.htm">2</a> &nbsp;<a href="/members/Teresat/photos/Europe/Italy/page2.htm">></a></div><div id="copyright"><a href="/copyright.php">Copyright &#169; 2012 TrekLens</a> | <a href="http://www.internetbrands.com/ib/privacy/travel?site=treklens.com" rel="nofollow">Privacy Policy</a> | <a href="/tou.php">Terms of Use</a></div>
+</div> <!-- This closes #bottom -->
+</div> <!-- This closes #footer -->
+</div> <!-- This closes #mainwrap -->
+		<!-- IB Pixel Code-->
+		<script type="text/javascript"> 
+		var pxlSiteFile = "treklens.com.js";  
+		pxlScriptStart = '%3Cscr' + 'ipt type="text/javascript"';  
+		pxlScriptEnd = '%3C/scr' + 'ipt%3E'; 
+		if (location.protocol.indexOf("https") == -1) { 
+			document.write(unescape(pxlScriptStart + ' src="http://pxl.ibpxl.com/v2.js"%3E'+pxlScriptEnd)); } 
+		else { 
+			document.write(unescape(pxlScriptStart + ' src="https://pxl.ibpxl.com/v2.js"%3E'+pxlScriptEnd)); 
+		} 
+		</script>
+		<!-- End IB Pixel Code-->
+
+</body>
+</html>

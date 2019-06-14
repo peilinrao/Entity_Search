@@ -1,0 +1,530 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+	<title>Rental Properties in Hawaii Kai</title>
+	<meta name="Slurp" content="NOYDIR">
+	<meta name="format-detection" content="telephone=no">
+	
+		<meta name="description" content="">
+
+	
+		<meta name="keywords" content="">
+
+	
+	
+	<link href="/static/css/site/www.adrhi.com.css?version=430bf27e7603424dedc31a5534188424" rel="stylesheet" type="text/css">
+	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="/static/css/ie6.css"><![endif]-->
+	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/static/css/ie7.css"><![endif]-->
+        
+	
+	
+        
+        <script type="text/javascript">
+            var _rgq = _rgq || [];
+            _rgq.push(['_setDomain','www.adrhi.com']);
+            (function() {
+               var rg = document.createElement('script'); rg.type = 'text/javascript'; rg.async = true;
+//               rg.src = 'http://widgets.realgeeks.com/static/js/rg.js';
+               rg.src = '/static/widgets/js/rg.js';
+               var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(rg, s);
+             })();
+        </script>
+        
+            <script type="text/javascript" src="/static/js/base_compressed.js?version=93a808757a1cd52ea96b34ebe57eea58" charset="utf-8"></script>
+       
+        
+	
+        
+	
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'11e02396-5a3e-4ec7-8953-57243d39c5a6'});</script>
+<script type="text/javascript" charset="utf-8">	
+function bindPostCommentHandler() {	
+		 $('#comment_form form input.submit-preview').remove();	
+		 $('#comment_form form').submit(function() {	
+				 $.ajax({	
+						type: "POST",	
+						data: $('#comment_form form').serialize(),	
+						url: "/rg2-comments/post/",	
+						cache: false,	
+						dataType: "html",	
+						success: function(html, textStatus) {	
+								$('#comment_form form').replaceWith(html);	
+								bindPostCommentHandler();	
+						},	
+						error: function (XMLHttpRequest, textStatus, errorThrown) {	
+								$('#comment_form form').replaceWith('Your comment was unable to be posted at this time.	We apologise for the inconvenience.');	
+						}	
+				});	
+				return false;	
+		});	
+}	
+function getCommentForm() {
+    $.get('/blog/ajax/get_blog_comment_form_for_post/66/',function(data) {
+        $('#comment_form').html(data);
+		bindPostCommentHandler();	
+    });
+}
+	
+$(document).ready(function() {	
+        getCommentForm();
+});	
+</script> 
+
+	
+
+	<!--[if lt IE 8]>
+		<script type="text/javascript">
+			DISABLE_FACEBOOK = true;
+			DISABLE_TWITTER = true;
+			DISABLE_GOOGLEPLUS = true;
+		</script>
+		<![endif]-->
+	<script type="text/javascript">
+(function() {
+    function async_load(){
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = "http://platform.twitter.com/widgets.js";
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+    }
+    if (window.DISABLE_TWITTER !== true){
+        if (window.attachEvent)
+            window.attachEvent('onload', async_load);
+        else
+            window.addEventListener('load', async_load, false);
+    }
+})();
+</script>
+
+	<script type="text/javascript">
+(function() {
+    function async_load(){
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.id = 'facebook-jssdk';
+        s.async = true;
+        s.src = "http://connect.facebook.net/en_US/all.js#xfbml=1";
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+    }
+    if (window.DISABLE_FACEBOOK !== true){
+        if (window.attachEvent)
+            window.attachEvent('onload', async_load);
+        else
+            window.addEventListener('load', async_load, false);
+    }
+})();
+</script>
+
+	<script type="text/javascript">
+(function() {
+    function async_load(){
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = "https://apis.google.com/js/plusone.js";
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+    }
+    if (window.DISABLE_GOOGLEPLUS !== true){
+        if (window.attachEvent)
+            window.attachEvent('onload', async_load);
+        else
+            window.addEventListener('load', async_load, false);
+    };
+})();
+</script>
+
+	
+
+        
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1589589-1']);
+  
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</head>
+<body>
+
+<div id="fb-root"></div>
+<div id="overlord" class=" search_in_landscape blog_post">
+		<div id="header_container">
+		<div id="header">
+            
+			<a href="/" class="header_logo"><img src="/static/uploads/adrhi/adr.jpg" alt="American Dream Realty - Hawaii Real Estate Company"></a>
+            
+			<div id="header_contact">
+				<ul>
+					<li><strong>Office:</strong> (808) 792-7040</li>
+					<li><strong>Toll-free:</strong> (800) 705-0281</li>
+				</ul>
+			</div>
+			<div class="spacer"><!-- NOTHING HERE --></div>
+		</div>
+	</div>
+	<div class="spacer"><!-- NOTHING HERE --></div>
+	<div id="primary_top_nav_container">
+		<div id="primary_top_nav">
+			<ul>
+				<li><a href="/" ><span>Home</span></a></li>
+				<li><a href="/oahu-real-estate/" ><span>Oahu Real Estate</span></a></li>
+				<li><a href="/maui-real-estate/" ><span>Maui Real Estate</span></a></li>
+				<li><a href="/kauai-real-estate/" ><span>Kauai Real Estate</span></a></li>
+				<li><a href="/big-island-hawaii-real-estate/" ><span>Big Island Hawaii Real Estate</span></a></li>
+				<li><a href="/member/contact/" class="popup" rel="nofollow"><span>Contact Us</span></a></li>
+			</ul>
+
+			<div class="spacer"><!-- NOTHING HERE --></div>
+		</div>
+	</div>
+   
+	<div class="spacer"><!--IE SUX--></div>
+	
+		<div id="empty_landscape"style="background-image: url(/static/img/header_backgrounds/adrhi.gif);"><div><!--IE SUX--></div></div>
+	
+	<div class="spacer"><!--IE SUX--></div>
+	<div id="content_container">
+		<div id="content" class="content">
+
+	
+	<div id="content_left" class="">
+		
+		
+<div class="blogpost page">
+
+<div class="date">July 21, 2011</div>
+	<h2 class="title"><a href="/hawaiirealestate/rental-properties-hawaii-kai/">Rental Properties in Hawaii Kai</a></h2>
+	
+		
+			
+				<p>Although there probably isn&rsquo;t a person alive who doesn&rsquo;t immediately associate Honolulu with Hawaii when the nation&rsquo;s 50<sup>th</sup>&nbsp;state is mentioned, very few people may be familiar with Hawaii Kai, the largest residential neighborhood in the eastern area of the city. The Hawaii Kai community is residential for the most part with 619 owner occupied single family residences, 282 single family rental housing units and a number of larger condominiums and apartment complexes as of the June 2011 statistics released by the Chamber of Commerce.</p>
+<p><strong>Living in Near Perfect Climate</strong></p>
+<p><img style="float: left; border: 1px solid black; margin: 3px;" src="/static/uploads/adrhi/images.jpeg" alt="" width="259" height="195">Whenever we think of Hawaii, we envision <a href="http://www.adrhi.com/beaches/oahu/sandy/">sandy beaches</a> and tourists sipping cool tropical drinks while enjoying luaus and watching Hawaiian fire dancers. But there is a whole other side to the Hawaiian Islands in which families live, work and go to school just as we do everywhere else in the country. The only difference is that the residents of Hawaii Kai are fortunate enough to live in a neighborhood that has near perfect climate and some of the loveliest views in the world.</p>
+<p><strong>Relocating to Hawaii Kai</strong></p>
+<p>If you are <a href="http://www.adrhi.com/oahu-real-estate/hawaii-kai/">relocating to Hawaii Kai</a> or the greater metropolitan area of Hawaii, the first thing you will want to do is find a residence. As mentioned, there are 282 SFR rental units in this neighborhood which also boasts more than 237 buildings with twenty or more units. These larger complexes are mostly condominiums, some of which have seasonal or yearly rentals available.</p>
+<p><strong>A Relatively Young Neighborhood</strong></p>
+<p>One of the things you will notice about Hawaii Kai is that it is a relatively young neighborhood in the scheme of things. It is noted that there are no existing residences that were built prior to 1940, with most residential buildings being erected in the 1970&rsquo;s and 1980&rsquo;s. According to the latest statistics published by the Hawaii Kai Chamber of Commerce, the ages of residential buildings are broken down as follows:</p>
+<ul>
+<li>Before 1940 &ndash; 0</li>
+<li>1940&rsquo;s &ndash; 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+<li>1950&rsquo;s &ndash; 12</li>
+<li>1960&rsquo;s &ndash; 61</li>
+<li>1970&rsquo;s &ndash; 726</li>
+<li>1980&rsquo;s &ndash; 371</li>
+<li>1990&rsquo;s to present &ndash; 88</li>
+</ul>
+<p>By these figures, it is apparent that the majority of buildings are between 30 and 40 years old but what isn&rsquo;t at first obvious is that the newer buildings are mostly condos and larger apartment complexes.</p>
+<p><strong>A Glimpse of the People in Hawaii Kai</strong></p>
+<p>Another surprising fact about living in Hawaii Kai is that the majority of households are married couples without children of which there are 514. The second demographic group would be couples with children totaling 233 families. There are only 50 single parent households, 16 of which have a male head of household while 34 of those have a female head of household. Then there are 55 non family households.</p>
+<p>Any family that is looking for rental <a href="http://www.adrhi.com/oahu-real-estate/honolulu/">properties in Honolulu</a> would be well served to consider Hawaii Kai since this is a neighborhood largely comprised of couples and families. While there are some exciting things to do and see in this eastern part of the greater metropolitan city of Honolulu, you can feel secure in knowing that it is a largely residential area with the more &lsquo;touristy&rsquo; locations elsewhere on the island.&nbsp;</p>
+			
+		
+	
+	<div class="category">
+		Posted in
+		<a href="/hawaiirealestate/category/hawaii-kai/">Hawaii Kai</a>
+		,<a href="/hawaiirealestate/category/oahu-relocation/">Oahu Relocation</a>
+		
+	</div>
+    <div class="sharethis_header">Share This Post</div>
+    
+    <span class="st_facebook" st_url="http://www.adrhi.com/hawaiirealestate/rental-properties-hawaii-kai/" st_title="Rental Properties in Hawaii Kai"></span>
+    
+    <span class="st_twitter" st_url="http://www.adrhi.com/hawaiirealestate/rental-properties-hawaii-kai/" st_title="Rental Properties in Hawaii Kai"></span>
+    
+    <span class="st_stumbleupon" st_url="http://www.adrhi.com/hawaiirealestate/rental-properties-hawaii-kai/" st_title="Rental Properties in Hawaii Kai"></span>
+    
+    <span class="st_digg" st_url="http://www.adrhi.com/hawaiirealestate/rental-properties-hawaii-kai/" st_title="Rental Properties in Hawaii Kai"></span>
+    
+    <span class="st_reddit" st_url="http://www.adrhi.com/hawaiirealestate/rental-properties-hawaii-kai/" st_title="Rental Properties in Hawaii Kai"></span>
+    
+    <span class="st_plusone" st_url="http://www.adrhi.com/hawaiirealestate/rental-properties-hawaii-kai/" st_title="Rental Properties in Hawaii Kai"></span>
+    
+
+</div>
+
+
+<dl id="comments">
+  
+</dl>
+
+<div id="comment_form" >
+    Please enable Javascript to comment on this blog
+</div>
+
+
+	</div>
+	
+	
+		<div id="content_right" class="sidepane">
+			
+			
+			<div class="social_media_buttons">
+				<div><g:plusone  count="false" href="http://www.adrhi.com/hawaiirealestate/rental-properties-hawaii-kai/" size="medium"></g:plusone>
+</div>
+				<div><a href="http://twitter.com/share" class="twitter-share-button" rel="nofollow"  data-count="none" data-text="Checking out this property on Adrhi.com" data-url="http://www.adrhi.com/hawaiirealestate/rental-properties-hawaii-kai/">Tweet</a>
+</div>
+				<div class="hide_facebook_numbers"><div class="fb-like"  data-show-faces="false" data-send="false" data-layout="button_count" data-href="http://www.adrhi.com/hawaiirealestate/rental-properties-hawaii-kai/"></div>
+</div>
+			</div>
+			<div class="spacer"><!--IE SUX--></div>
+			
+			
+			
+			
+			<div class="section">
+  
+    <h3>Foreclosure Searches</h3>
+  
+  
+    <ul>
+    
+      
+        <li><a href="/foreclosures/hawaii/">Oahu Hawaii Foreclosures</a></li>
+      
+    
+      
+        <li><a href="/maui-foreclosures/">Maui Foreclosures</a></li>
+      
+    
+      
+        <li><a href="/kauai-foreclosures/">Kauai Foreclosures</a></li>
+      
+    
+      
+        <li><a href="/kona-foreclosures/">Kona Foreclosures</a></li>
+      
+    
+    </ul>
+    <div class="spacer"><!--NOTHING HERE! --></div>
+  
+</div>
+
+<div class="section">
+  
+    <h3>Short Sale Help &amp; Listings</h3>
+  
+  
+    <ul>
+    
+      
+        <li><a href="/hawaii-short-sale-experts/">Hawaii Short Sales</a></li>
+      
+    
+      
+        <li><a href="/maui-short-sale-experts/">Maui Short Sales</a></li>
+      
+    
+      
+        <li><a href="/kauai-short-sale-experts/">Kauai Short Sales</a></li>
+      
+    
+      
+        <li><a href="/big-island-short-sale-experts/">Big Island Short Sales</a></li>
+      
+    
+    </ul>
+    <div class="spacer"><!--NOTHING HERE! --></div>
+  
+</div>
+
+<div class="links"><div class="section">
+	<h3>Categories</h3>
+	<ul>
+		
+		<li><a href="/hawaiirealestate/category/big-island-real-estate/">Big Island Real Estate</a></li>
+		
+		<li><a href="/hawaiirealestate/category/diamond-head/">Diamond Head</a></li>
+		
+		<li><a href="/hawaiirealestate/category/ewa-plain/">Ewa Plain</a></li>
+		
+		<li><a href="/hawaiirealestate/category/ewa-plains/">Ewa Plains</a></li>
+		
+		<li><a href="/hawaiirealestate/category/hanalei/">Hanalei</a></li>
+		
+		<li><a href="/hawaiirealestate/category/hawaii-kai/">Hawaii Kai</a></li>
+		
+		<li><a href="/hawaiirealestate/category/honolulu/">Honolulu</a></li>
+		
+		<li><a href="/hawaiirealestate/category/kahala/">Kahala</a></li>
+		
+		<li><a href="/hawaiirealestate/category/kailua/">Kailua</a></li>
+		
+		<li><a href="/hawaiirealestate/category/kalaheo/">kalaheo</a></li>
+		
+		<li><a href="/hawaiirealestate/category/ka/">Kaneohe</a></li>
+		
+		<li><a href="/hawaiirealestate/category/kapaa/">Kapaa</a></li>
+		
+		<li><a href="/hawaiirealestate/category/kapolei/">Kapolei</a></li>
+		
+		<li><a href="/hawaiirealestate/category/kauai-real-estate/">Kauai Real Estate</a></li>
+		
+		<li><a href="/hawaiirealestate/category/kilauea/">Kilauea</a></li>
+		
+		<li><a href="/hawaiirealestate/category/ko-olina/">Ko Olina</a></li>
+		
+		<li><a href="/hawaiirealestate/category/koloa/">Koloa</a></li>
+		
+		<li><a href="/hawaiirealestate/category/lanikai/">Lanikai</a></li>
+		
+		<li><a href="/hawaiirealestate/category/lihue/">Lihue</a></li>
+		
+		<li><a href="/hawaiirealestate/category/makakilo/">Makakilo</a></li>
+		
+		<li><a href="/hawaiirealestate/category/market-update/">Market Update</a></li>
+		
+		<li><a href="/hawaiirealestate/category/maui-real-estate/">Maui Real Estate</a></li>
+		
+		<li><a href="/hawaiirealestate/category/mililani/">Mililani</a></li>
+		
+		<li><a href="/hawaiirealestate/category/north-shore-oahu/">North Shore Oahu</a></li>
+		
+		<li><a href="/hawaiirealestate/category/oahu-relocation/">Oahu Relocation</a></li>
+		
+		<li><a href="/hawaiirealestate/category/pearl-city/">Pearl City</a></li>
+		
+		<li><a href="/hawaiirealestate/category/poipu/">Poipu</a></li>
+		
+		<li><a href="/hawaiirealestate/category/princeville/">Princeville</a></li>
+		
+		<li><a href="/hawaiirealestate/category/real-estate/">Real Estate</a></li>
+		
+		<li><a href="/hawaiirealestate/category/vacation-rentals/">Vacation Rentals</a></li>
+		
+		<li><a href="/hawaiirealestate/category/waikiki/">Waikiki</a></li>
+		
+		<li><a href="/hawaiirealestate/category/waimea/">Waimea</a></li>
+		
+	</ul>
+</div></div>
+
+<div class="links"><div class="section">
+	<h3>Archives</h3>
+	<ul>
+	
+		<li><a href="/hawaiirealestate/2012/1/">Jan 2012</a></li>
+	
+		<li><a href="/hawaiirealestate/2011/11/">Nov 2011</a></li>
+	
+		<li><a href="/hawaiirealestate/2011/10/">Oct 2011</a></li>
+	
+		<li><a href="/hawaiirealestate/2011/9/">Sep 2011</a></li>
+	
+		<li><a href="/hawaiirealestate/2011/8/">Aug 2011</a></li>
+	
+		<li><a href="/hawaiirealestate/2011/7/">Jul 2011</a></li>
+	
+		<li><a href="/hawaiirealestate/2011/6/">Jun 2011</a></li>
+	
+		<li><a href="/hawaiirealestate/2011/5/">May 2011</a></li>
+	
+		<li><a href="/hawaiirealestate/2011/4/">Apr 2011</a></li>
+	
+		<li><a href="/hawaiirealestate/2011/3/">Mar 2011</a></li>
+	
+		<li><a href="/hawaiirealestate/2011/2/">Feb 2011</a></li>
+	
+		<li><a href="/hawaiirealestate/2011/1/">Jan 2011</a></li>
+	
+		<li><a href="/hawaiirealestate/2010/12/">Dec 2010</a></li>
+	
+	</ul>
+</div></div>
+
+<div class="section">
+  
+    <h3>Area Condo Searches</h3>
+  
+  
+    <ul class="two_column list">
+    
+      
+        <li><a href="/oahu-real-estate/">Oaho Condos For Sale</a></li>
+      
+    
+      
+        <li><a href="/oahu-real-estate/honolulu/waikiki/">Waikiki Condos For Sale</a></li>
+      
+    
+      
+        <li><a href="/oahu-real-estate/ewa-plain/ko-olina/">Ko Olina Condos For Sale</a></li>
+      
+    
+    </ul>
+    <div class="spacer"><!--NOTHING HERE! --></div>
+  
+</div>
+
+		</div>
+	
+	<div class="spacer"><!--IE SUX--></div>
+
+			<div class="spacer"><!--IE SUX--></div>
+
+			<div class="spacer"><!--IE SUX--></div>
+		</div>
+	</div>
+	<div class="spacer"><!--IE SUX--></div>
+	<div id="footer_container">
+		<div id="footer">
+						<div id="primary_bottom_nav_container">
+				<div id="primary_bottom_nav">
+								<ul>
+				<li><a href="http://www.adrhi.com" ><span>Hawaii Real Estate</span></a></li>
+				<li><a href="/featured/oahu-real-estate/" ><span>Oahu Featured Properties</span></a></li>
+				<li><a href="/featured/maui-real-estate/" ><span>Maui Featured Properties</span></a></li>
+				<li><a href="/featured/kauai-real-estate/" ><span>Kauai Featured Properties</span></a></li>
+				<li><a href="/featured/big-island-hawaii-real-estate/" ><span>Big Island Featured Properties</span></a></li>
+			</ul>
+
+					<div class="spacer"><!-- NOTHING HERE --></div>
+				</div>
+			</div>
+			<div id="secondary_bottom_nav_container">
+				<div id="secondary_bottom_nav">
+								<ul>
+				<li><a href="http://realestateblog.adrhi.com" ><span>Blog</span></a></li>
+				<li><a href="/search/refine/" ><span>Search</span></a></li>
+				<li><a href="/about/" ><span>About</span></a></li>
+				<li><a href="/member/contact/" class="popup" rel="nofollow"><span>Contact</span></a></li>
+				<li><a href="/site-directory/" ><span>Site Directory</span></a></li>
+			</ul>
+
+				</div>
+				<div id="footer_credit">
+					<div id="footer_user">
+						<p><a href="/"><img src="/static/uploads/adrhi/adr_stamp.jpg" alt="ADR - Oahu real estate company"></a> &copy; 2010 American Dream Realty<span>&bull;</span>46 Hoolai St, Kailua, HI 96734</p>
+						<div class="spacer"><!-- NOTHING HERE --></div>
+					</div>
+					<div id="footer_misc">
+						<div style="font-size:10px;padding-bottom:10px;">IDX Real Estate Websites by <a href="http://www.realgeeks.com/"><img class="realgeeks-small" src="/static/uploads/adrhi/realgeeks_logo_small.png" alt="IDX Real Estate Web design" /></a> &bull; <a href="/privacy-policy/">Privacy Policy</a></div>
+						<div class="spacer"><!-- NOTHING HERE --></div>
+					</div>
+				</div>
+			</div>
+
+			<div class="spacer"><!--IE SUX--></div>
+		</div>
+	</div>
+	<div class="spacer"><!--IE SUX--></div>
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/30/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","013d95af4f",441280,"YgNWNUECWxUCVRYIXVtJchRdAEEPDFhNE1UHSFYNXAQbEApTFRIIQw9RFmwTWhUX",0,176,new Date().getTime()])</script></body>
+</html>

@@ -1,0 +1,185 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>The Asiatic Society of Japan</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
+
+  <base href="http://www.asjapan.org/web.php/" />
+
+  <link href="/newdesign/css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/newdesign/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <!--[if !IE 7]>
+  <link href="/newdesign/css/screen_ie.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link href="/newdesign/css/screen_ie7.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script type="text/javascript" src="/newdesign/inc/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.core.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.sortable.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/jquery.metadata.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/mbTabset.js"></script>
+
+  <script type="text/javascript">
+		$(function(){
+			$("#tabset1").buildMbTabset({sortable:false});
+		});
+  </script>
+
+    <script type="text/javascript">
+		$(function(){
+			$("#a").removeClass("sel");
+			$("#cont_1").hide();
+			$("#b").addClass("sel");
+			$("#cont_2").fadeIn("fast");
+			$("#linklectures").addClass("optselected");
+			$("#lecturesfor").show();
+		});
+  </script>
+
+
+
+</head>
+<body>
+
+<center><div id="main" align="left">
+
+  <div id="header" align="left">
+    <center>
+      <div><img src="/newdesign/tasoj.gif" alt="The Asiatic Society of Japan" title="The Asiatic Society of Japan"/></div>
+      <div style="height:16px; width:613px; background-color: black; margin-top:3px; padding-top:1px;"/>
+      <div style="height:15px; width:613px; background-color: white; font-family:times new roman,courier;font-size: 10px; padding-bottom:3px; padding-top:2px;">Established 1872. Registered with the <a href="http://www.scj.go.jp/en/index.html" class="dotted">Science Council of Japan</a>.</div>
+      </div>
+    </center>
+  </div>
+
+  <table id="menuasj" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr><td><p id="bigspacer">&nbsp;</p></td></tr>
+    <tr><td>
+      <div class="tabset" id="tabset1">
+        <a href="#" id="a" class="tab {container:'cont_1'}" onclick="return false;">About Us</a><a href="#" id="b" class="tab {container:'cont_2'}" onclick="return false;">ASJ Info Central</a><a href="#" id="c" class="tab {container:'cont_3'}" onclick="return false;">ASJ Merchandise</a><a href="#" id="d" class="tab {container:'cont_4'}" onclick="return false;">Search</a><!--<a href="#" id="e" class="tab {container:'cont_5'}" onclick="return false;">Members</a>-->
+      </div>
+      <div class="mbTabsetContainer" >
+        <span id="cont_1">
+          <a id="linkmain" href="main">Home</a> &middot; <a id="linkwelcome" href="about/welcome">Welcome</a> &middot; <a id="linkhistory" href="about/history">History</a> &middot; <a id="linkpatrons" href="about/patrons">Our Patron</a> &middot; <a id="linkcouncil" href="about/council">The Council</a> &middot; <a id="linkjoin" href="about/join">Join</a> &middot; <a id="linklinks" href="about/links">Other Asiatic Societies</a> &middot; <a id="linkcontact" href="about/contact">Contact</a> &middot; <a id="linksitemap" href="about/sitemap">Site Map</a>
+        </span>
+        <span id="cont_2">
+          <a id="linklectures" href="lectures/index">Lecture Archive</a> &middot; <a id="linkspeakers" href="speakers/index">Speaker Bios</a> &middot; <a id="linkcouncils" href="councils/index">Past Councils</a> &middot; <a id="linkreports" href="reports/index">Annual Reports</a> &middot; <a id="linkmemorial" href="memorial/index">Memorial Wall</a>
+        </span>
+        <span id="cont_3">
+          <a id="linktransactions" href="mercantile/transactions">Transactions and Offprints</a> &middot; <a id="linkpublications" href="mercantile/publications">Other ASJ Publications</a> &middot; <a id="linkgift" href="mercantile/gift">Gift Memberships</a>
+        </span>
+        <span id="cont_4">
+          <form action="/search.php" method="get" >Type your query <input type="text" name="q" size="16" style="height: 16px; font-size: 12px; padding: 1px;"/> <input type="submit" value="search!" style="font-size: 12px; padding: 1px;"/></form>
+        </span>
+<!--        <span id="cont_5">
+          <a id="linkbulletin" href="members/bulletin">Current bulletin</a> &middot; <a id="linkmemlect" href="members/lectures">2008 Lectures</a> &middot; All these options require to login
+        </span>-->
+      </div>
+    </td></tr>
+    <tr><td><p id="smallspacer">&nbsp;</p></td></tr>
+  </table>
+
+
+  <div id="content">
+
+    <div id="lecturesfor">
+
+<table width="750"  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+	<tr>
+		<td valign="bottom" align="center">
+			<table  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+				<tr>
+					<td align="center">
+						<!-- start horizontal menu -->
+						<table class="rootVoices" cellspacing='0' cellpadding='0' border='0'><tr>
+							<td class="rootVoice"><a id="linkarchive2007" href="lectures/2007/index">2007</a></td>
+							<td class="rootVoice"><a id="linkarchive2006" href="lectures/2006/index">2006</a></td>
+							<td class="rootVoice"><a id="linkarchive2005" href="lectures/2005/index">2005</a></td>
+							<td class="rootVoice"><a id="linkarchive2004" href="lectures/2004/index">2004</a></td>
+							<td class="rootVoice"><a id="linkarchive2003" href="lectures/2003/index">2003</a></td>
+							<td class="rootVoice"><a id="linkarchive2002" href="lectures/2002/index">2002</a></td>
+							<td class="rootVoice"><a id="linkarchive2001" href="lectures/2001/index">2001</a></td>
+							<td class="rootVoice"><a id="linkarchive2000" href="lectures/2000/index">2000</a></td>
+							<td class="rootVoice"><a id="linkarchive1999" href="lectures/1999/index">1999</a></td>
+							<td class="rootVoice"><a id="linkarchive1998" href="lectures/1998/index">1998</a></td>
+							<td class="rootVoice"><a id="linkarchive1997" href="lectures/1997/index">1997</a></td>
+							<td class="rootVoice"><a id="linkarchive1996" href="lectures/1996/index">1996</a></td>
+							<td class="rootVoice"><a id="linkarchive1995" href="lectures/1995/index">1995</a></td>
+							<td class="rootVoice"><a id="linkarchive1994" href="lectures/1994/index">1994</a></td>
+						</tr></table>
+						<!-- end horizontal menu -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+    </div>
+    <div id="text">
+
+<h3>The Rediscovery of the Japanese Sword</h3>
+
+<p><b>Mr. Kenji Mishina</b><br/>
+<b>ASJ 130th Anniversary Special Event</b></p>
+
+Lecture 2002-09-30<br/>
+
+<p>The first meeting of the new season opened on a drizzling evening, the prelude to a typhoon. However, the scene indoors presented a festive contrast. Wine and canapes (for which we are, as always, indebted to Mrs. Schreck) were served before the meeting in the auditorium of Seisen University. We had as our speaker the master sword polisher, Mr. Kenji Mishina, who had taken as his subject &quot;The Rediscovery of the Japanese Sword&quot; . Mr. Mishina illustrated his presentation with images projected from a laptop computer, and also put on show specimens of swords and koshirae (scabbards and accoutrements) together with tools and stones used in sword polishing.  He was accompanied by two other distinguished gentlemen, Mr. Tsuchiko and Mr. Takayama.</p>
+
+<p>Mr. Tamio Tsuchiko is a writer and editor of numerous publications on Japanese swords and Japanese craftsmanship in general, including traditional crafts as well as contemporary engineering. Mr. Tsuchiko has been involved in the sword world for more than thirty years, and is one of the executives of Nihon Bunka Niju-isseiki Iinkai, or the Japanese Culture Twenty-first Century Committee. He has carried out detailed research on the history of Japanese swords in modern times. His latest book, Kurihara Hikosaburo Zen Kiroku (&quot;The Complete Record of the Life and Times of Hikosaburo Kurihara&quot;), published in Japanese, was well received by sword  enthusiasts. His work Nihonto Niju-isseiki e no Chosen (&quot;A Challenge for the Japanese Sword in the Twenty-first Century&quot;), of which &quot;The New Generation of Japanese Swordsmiths&quot; is Mr. Mishina's translation, has won acclaim as the most extensive and illustrative study of gendai-tosho in sword literature. He lives in Tokyo, where he is active in the promotion of Japanese crafts and the Japanese sword.</p>
+
+<p>Also accompanying Mr. Mishina was Mr. Kazuyuki Takayama, Japan's best koshirae craftsman and widely believed to be designated as the next National Living Treasure in this field. He graciously displayed two koshirae masterpieces (tachi-goshirae and uchigatana-koshirae) crafted by him for the benefit of ASJ members and guests at the Mishina Event.</p>
+
+<p>Mr. Mishina began by introducing himself. He was born in a small town in Fukushima. His ancestors (as he discovered in a book his grandfather was reading to research into the family lineage) had been swordsmiths to the feudal lord Uesugi Kagekatsu, but the family business had to be suspended as the Uesugis were on the losing side at the Battle of Sekigahara in 1603 and were relocated to Yamagata. His own ancestor could not go with his lord, and started farming in Fukushima. Following his grandfather, Mr. Mishina trained as a sword polisher under Kokan Nagayama, now a National Living Treasure. After five years of training he became a chief instructor and was authorized by the Bunka-cho to polish swords designated as National Treasures. When he was 35  he moved to England, where he started a workshop for polishing swords belonging to British and also European collectors.Two years later he came to have a workshop in the British Museum, where he polished some of their collection. Since returning to Japan in 1992 he has concentrated on making information on Japanese swords available internationally in English. Two of the books he has translated, The Connoisseur's Book of Japanese Swords and A New Generation of Japanese Swordsmiths, have been published by Kodansha International.</p>
+
+<p>About 2,300,000 Japanese swords have been registered with the Bunka-cho, and an equal number may have been destroyed or gone overseas. (This figure does not include the mass-produced swords made for military use during the war.) The earliest form of sword was the chokuto (straight sword) of the 8th century, examples of which are kept in the Shosoin in Nara; it seems that they were imported from the continent, and no sword-making technique had yet developed in Japan. By the end of the 10th century, however, Chinese and Korean swordsmiths were at work in Japan. This was the period when power was passing from the aristocrats to the Bushi, the forerunners of whom were disaffected aristocrats who left Kyoto and seized power in the country areas, and the sword became not only the main weapon but also the status symbol of the Bushi. It was at this stage that the Japanese sword took on its characteristic shape and became known for the high quality of its materials and its forging, and such prized swords were so well cared for that many are still extant and in good condition today.</p>
+
+<p>The golden age of the sword was the Kamakura period from the 12th-13th century, when the Bushi first ruled the country. By this time every aspect of the Japanese sword had been fully developed,  and smiths since then have followed the same technique. It is a fact that 70% of the swords that are now National Treasures were made during this period, which also produced great master smiths and schools.</p>
+
+<p>The Kamakura shogunate collapsed during the 14th century, when the emperor Godaigo tried to restore imperial rule but was ousted from Kyoto by Ashikaga Takauji, who set up a rival dynasty and made himself shogun.  During this Nanbokucho period, enormous swords, over 90 cm. in length, were produced and were probably carried by warriors on their backs and wielded ostentatiously on the battlefield; they were eventually superseded by the katana described below. The time of the Ashikaga shogunate, known as the Muromachi period,  lasted for two centuries, and was marked by fighting between rival warlords. The Japanese sword now changed drastically, owing to the introduction of large-scale smelting and distribution systems, which resulted in the loss of individual and local characteristics.  The types of sword characteristic of the samurai, as seen in samurai films, now developed. First there was the katana, over 60 cm. in length, which is worn in the belt with the cutting edge upwards (in contrast to the tachi slung from the belt with the cutting edge pointing towards the ground).  Worn with this, and in the same style, was the wakizashi, 30-60 cm. in length. The emergence of the katana, and the way in which it was carried, were largely due to the change in fighting following the introduction of the musket. This pair of swords, traditionally worn by the samurai, as the Bushi came to be called in the Edo period, were felt to be the &quot;soul of the samurai&quot;.</p>
+
+<p>With the coming of the long peace of the Edo period, the samurai were no longer truly warriors and began to function more as bureaucrats. The sword, no longer a weapon, acquired a political value, as shoguns used to reward feudal lords with swords rather than land which was no longer available for offering to them.By the end of this period copies of tachi and wakizashi of the Nanbokucho period with large kissaki (edged points) and grandiose shape were coming into fashion. But with the end of the Tokugawa shogunate and the ban on the carrying of swords, many fine swords found their way overseas. Most of the sword craftsmen lost their jobs, but one of the polishers of the Hon'ami school perfected a finishing technique called the Kanahada or &quot;cosmetic&quot; polish which is used by many polishers today. The end of World War II saw the further loss of over a million swords, many of them taken to foreign countries where, ironically, they stimulated an interest in the Japanese sword. Today there are about 250 swordsmiths engaged in swordmaking in Japan, and they produce about 2,000 swords every year. The old methods of swordmaking have been lost, however, as the oral transmission of the techniques ceased with the end of the Edo period.</p>
+
+<p>There are four basic categories of Japanese sword: tachi, katana, wakizashi and tanto.  The first three have already been described, and the tanto is a short sword less than 30 cm. long. The superiority of the Japanese sword, which is expected to &quot;cut well&quot; &quot;not bend&quot; and &quot;not break&quot;, comes from the traditional method of forging not seen elsewhere. A block formed of many layers of steel called tamahagane is heated, hammered and folded criss-cross many times to eliminate impurities and produce a jihada or grain that is revealed in the polishing. In this multiple structure each part, the cutting edge, the skin steel and the core steel, has a different degree of hardness. Interestingly, this excellent weapon was hardly every used as a major weapon in battle, the principal offensive weapons being the bow, spear, halberd and musket.  The sword was, in fact, the final weapon used to protect the wearer at the last moment. It acquired its cultural significance hand in hand with the development of the code of Bushido. An oath sworn on a sword had to be carried out whatever the risk, as &quot;a samurai never goes back on his word.&quot; Many fine swords were donated to shrines and temples by samurai praying for victory and prosperity.</p>
+
+<p>Mr. Mishina belongs to the Hon'ami school, which has been practising for 500 years. Apart from the &quot;cosmetic polishing&quot; innovation, their techniques have not changed basically for 300 years. The polishing process goes through 13 stages, and eight different polishing stones are used. The whole process takes about two weeks, and a lot of patience is required. A polisher must nor miss a hair's difference in the lines of the blade, and must be able to correct the lines with the minimum loss of steel. This gives the Japanese sword its beauty, in creating which the main factors are the shape, the steel and the line of the temper (hamon).It is even possible to tell the age and provenance of a blade polished in the traditional way. The pattern of the jihada (grain) depends on the folding of the layers of steel which form the raw material,  and may be straight, wavy and so on according to the different schools and smiths.The hamon, line of temper,  is the border line between the edge and the rest of the blade. Before the blade is quenched after heating it is completely coated with clay, with a much thinner coating applied to the part that becomes the cutting edge.  Variations in the pattern used in this clay coating result in differences in the hamon. Needless to say, if the sword were merely a weapon little attention would be paid to the finish. As it is, the quality of the finishing work can affect the value of the sword, apart from indicating its provenance.</p>
+
+<p>To bring out the character of the jihada, the polishing is done with paper-thin Narutaki stone, and this is the most crucial stage in the work of finishing. Another process is that of polishing with nugui,  a combination of several powders mixed with clove oil, used to make the jihada dark. &quot;Cosmetic polishing&quot; is achieved by a painstaking process which consists of whitening the inner side of the hamon with a hadori line formed by elaborately moving a small round hazuya stone along the blade. This results in a beautiful contrast of black and white between  between the jihada and the hamon. The final processes are the burnishing, to prevent rusting, and the polishing of the kissaki.</p>
+
+<p>In conclusion, Mr. Mishina said that many accounts had been handed down of the effectiveness of the Japanese sword as a cutting weapon. Nevertheless, today it is rather the beauty of a sword that strikes us, and may even lead us toward spiritual enlightenment. Along with this, one can say that the modern development of Japan after the Meiji Restoration owed much to the spirit of Bushido. But as a traditional craftsman he was concerned with the modern trend  toward commercialism which has brought with it the neglect of tradition and culture. He pledged himself to spreading the Japanese sword culture, which had won him friends in many parts of the world, and hoped that the Japanese people would renew their understanding of Japanese tradition and culture.</p>
+
+<p>A question time followed, which gave Mr. Mishina an opportunity to describe the swords he had brought with him. The meeting was brought to a conclusion with a vote of thanks proposed by Dr. Mark Lee Ford, who expressed his appreciation of the fact that Mr. Mishina had followed the original intentions of the Society, which were to acquaint non-Japanese with the basic elements of Japanese culture.  (The only article on Japanese swords in the Transactions was published in the second year of the Society!  --Ed.)</p>
+
+<hr/>
+
+<p>Adapted from &quot;The Asiatic Society of Japan Bulletin No. 8&quot;, October 2002, compiled by Prof. Hugh E. Wilkinson and Mrs. Doreen Simmons.</p>
+
+
+      <div align="center">
+        <p id="copyright">Copyright &copy; 1994-2012 The Asiatic Society of Japan. All rights reserved. </p>
+      </div>
+
+    </div>
+
+  </div>
+  <br/>
+
+</div></center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4845051-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+

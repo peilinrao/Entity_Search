@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Teresat | TrekLens</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="content-language" content="nl" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="ROBOTS" content="INDEX, FOLLOW" />
+<link rel="stylesheet" media="screen" href="http://i1.treklens.com/misc/style.css" type="text/css" />
+<link rel="stylesheet" media="screen" href="http://i1.treklens.com/misc/style-scrpulous.css" type="text/css" />
+<link rel="stylesheet" media="screen" href="http://i1.treklens.com/misc/js/lightwindow/css/lightwindow.css" type="text/css" />
+<!--[if IE ]>
+<link rel="stylesheet" href="http://i1.treklens.com/misc/iestyle.css" type="text/css" />
+<![endif]-->
+<script src="http://i1.treklens.com/misc/js/prototype.js" type="text/javascript"></script>
+<script src="http://i1.treklens.com/misc/js/scriptaculous.js" type="text/javascript"></script>
+<script src="http://i1.treklens.com/misc/init.js" type="text/javascript"></script>
+<script src="http://i1.treklens.com/misc/js/lightwindow/javascript/lightwindow.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+if (self != top) { if (document.images) { top.location.replace(window.location.href); } else { top.location.href = window.location.href; } }
+// --></script></head>
+<body>
+<div id="mainwrap">
+<div id="mast">
+<a id="logo" href="/"><img src="http://i1.treklens.com/misc/logo.gif" alt="TrekLens" width="180" height="77" /></a>
+<div id="mast-content">
+<form name="lform" action="/members/Teresat/photos/Middle_East/Turkey/" method="post" class="clearfix">
+<ul id="nav"><li><a href="/gallery/">Galerij</a></li>
+	<li><a href="/forums.php">Forums</a></li>
+	<li><a href="/members/">Leden</a></li><li><a href="/signin.php">Mijn account</a></li><li><a href="/links.php">Links</a></li>
+	<li><a href="/about.php">OverTrekLens</a></li></ul><select name="lang" size="1" onChange="lform.submit()">
+<option value="zh">Chinees (S)</option>
+<option value="zhtw">Chinees (T)</option>
+<option value="en">Engels</option>
+<option value="fr">Frans</option>
+<option value="he">Hebreeuws</option>
+<option value="ja">Japans</option>
+<option value="ko">Koreaans</option>
+<option value="lt">Litouws</option>
+<option value="nl" selected>Nederlands</option>
+<option value="pl">Pools</option>
+<option value="pt">Portugees</option>
+<option value="ru">Russisch</option>
+<option value="es">Spaans</option>
+</select>
+<input type="hidden" name="filter" value="PE" /></form>
+<div id="mast-data" class="clearfix"><h2>Leden: <span class="highlighted-text">Teresat</span> >> <a href="/members/Teresat/photos/">Foto's</a> >> <a href="/members/Teresat/photos/Middle_East/">Midden-Oosten</a> >> <span class="highlighted-text">Turkije</span></h2><h3><a href="/register.php">Registreren</a></h3>
+</div> <!-- This closes #mast-data -->
+</div> <!-- This closes #mast-content -->
+</div> <!-- This closes #mast -->
+<div id="container">
+<div id="content">
+<div id="subnav" class="clearfix">
+<a href="/members/Teresat/" class="tab-off">Inleiding</a> <strong class="tab-on">Foto's</strong> <a href="/critiques.php?filter=Teresat" class="tab-off">Beoordelingen</a> <a href="/trip.php?filter=Teresat" class="tab-off">Reisverslagen</a> <a href="/themes.php?filter=Teresat" class="tab-off">Thema's</a> <a href="/threads.php?filter=Teresat" class="tab-off">Forum items</a>   
+</div><div id="pages"><span style="font-size: 120%">Pagina's: </span><strong>1</strong> </div><table align="center" border="0" cellspacing="7" width="100%">
+<tr align="center"><td width="32%"><a href="/gallery/Middle_East/Turkey/Central_Anatolia/Nevsehir/">Nevsehir</a><br /><a href="/viewphotos.php?l=5&p=619252"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/hattk_s_.jpg" width="100" height="150" border="1" alt="Title: portrait of a hat" title="Title: portrait of a hat" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Middle_East/Turkey/photo619252.htm">portrait of a hat</a> (84) <a href="/favorites.php?pid=619252" title="Added by 1 member" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Middle_East/Turkey/Central_Anatolia/Nevsehir/">Nevsehir</a><br /><a href="/viewphotos.php?l=5&p=618710"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/trektree_s_.jpg" width="100" height="150" border="1" alt="Title: roots" title="Title: roots" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Middle_East/Turkey/photo618710.htm">roots</a> (60) <a href="/favorites.php?pid=618710" title="Added by 1 member" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Middle_East/Turkey/Central_Anatolia/Nevsehir/">Nevsehir</a><br /><a href="/viewphotos.php?l=5&p=617698"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/girlsk_s_.jpg" width="150" height="100" border="1" alt="Title: girls in Goreme" title="Title: girls in Goreme" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Middle_East/Turkey/photo617698.htm">girls in Goreme</a> (74) <br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><tr align="center"><td width="32%"><a href="/gallery/Middle_East/Turkey/Central_Anatolia/Nevsehir/">Nevsehir</a><br /><a href="/viewphotos.php?l=5&p=616985"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/goremevalleyk_s_.jpg" width="150" height="100" border="1" alt="Title: hidden emotional lands" title="Title: hidden emotional lands" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Middle_East/Turkey/photo616985.htm">hidden emotional lands</a> (57) <br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><td width="32%"><a href="/gallery/Middle_East/Turkey/Central_Anatolia/Konya/">Konya</a><br /><a href="/viewphotos.php?l=5&p=616219"><img class="thumb-border" src="http://i1.treklens.com/photos/20682/praykonyat_s_.jpg" width="150" height="100" border="1" alt="Title: the perfect number" title="Title: the perfect number" /></a><br /><a style="text-decoration: none; color: black;" href="/gallery/Middle_East/Turkey/photo616219.htm">the perfect number</a> (56) <a href="/favorites.php?pid=616219" title="Added by 2 members" style="color: green; text-decoration: none">*</a><br /><span class="minor-text"><a href="/members/Teresat/" title="">Teresat</a> <a href="javascript:void(0)" onClick="popup('c_star',20682);">
+						<img src="http://i1.treklens.com/misc/g-g-g.gif" border="0" width="16" height="12" alt="Gold Star Critiquer/Gold Star Workshop Editor/Gold Note Writer [C: 2848 W: 95 N: 3391]" align="middle" /></a> (13776)</span></td><tr><td>&nbsp</td><td width="32%"><!-- begin ad tag --><script language="JavaScript" src="http://ad.doubleclick.net/adj/te_ros/;dcopt=ist;sz=300x250;ord=6?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/te_ros/;sz=300x250;ord=6?" target="_blank"><img src="http://ad.doubleclick.net/ad/te_ros/;sz=300x250;ord=6?" width="300" height="250" border="0" alt=""></a></noscript><!-- End ad tag --></td><td>&nbsp;</td></tr>
+</table>
+</div> <!-- This closes #content -->
+</div> <!-- This closes #container -->
+<div id="sidebar" class="clearfix">
+<h3 id="sidesearch">Zoeken</h3>
+<form name="sform" action="/search.php" method="get">
+&nbsp;&nbsp;<input type="text" name="phrase" value="" maxlength="20" size="13" />
+<input type="hidden" name="type" value="artists" />
+<input type="submit" name="search" value="Go" />
+</form>
+<div id="ad-sidebar"><script type="text/javascript">
+//<!--
+google_adtest = 'off';
+google_ad_client = "ca-ib-radlinks";
+google_ad_channel = 'TrekLens_LftRadLink_160x90,TrekLens_AFC_URL';
+google_hints = '';
+ad_dimensions = '160x90RL';
+ad_border = 'B0C4DE';
+ad_title = '3366FF';
+ad_bg = 'B0C4DE';
+ad_text = '000';
+ad_url = '008000';
+//--></script>
+<script type='text/javascript' src='http://static.internetbrands.com/partners/afc/afc_glue.js?'></script>
+<script type='text/javascript' src='http://pagead2.googlesyndication.com/pagead/show_ads.js'></script>
+</div><h3>Regio's</h3>
+<ul><li>Aegean</li>
+<li>Black Sea</li>
+<li><a href="/members/Teresat/photos/Middle_East/Turkey/Central_Anatolia/">Central Anatolia</a></li>
+<li>East Anatolia</li>
+<li>Marmara</li>
+<li>Mediterranean</li>
+<li>Southern East Anatolia</li>
+</ul><div id="ad-sidebar"><script type="text/javascript">
+//<!--
+google_adtest = 'off';
+google_ad_client = 'ca-ib_Travel_SE';
+google_ad_channel = 'TLens_ROS_Lft_160x600,TrekLens_AFC_URL';
+google_hints = '';
+ad_dimensions = '160x600';
+ad_border = 'B0C4DE';
+ad_title = '3366FF';
+ad_bg = 'B0C4DE';
+ad_text = '000';
+ad_url = '008000';
+//--></script>
+<script type='text/javascript' src='http://static.internetbrands.com/partners/afc/afc_glue.js?'></script>
+<script type='text/javascript' src='http://pagead2.googlesyndication.com/pagead/show_ads.js'></script>
+</div><h3>Snelkoppelingen</h3>
+<h4>Camera's</h4>
+<ul>
+<li><a href="/photos.php?cat=camera&id=1110">Canon Powershot Pro 1</a></li>
+<li><a href="/photos.php?cat=camera&id=901">Sony DSC F828 Cybershot</a></li>
+</ul>
+<h4>Beelden</h4>
+<ul>
+<li><a href="/photos.php?filter=panoramas">Panoramas</a></li>
+<li><a href="/photos.php?filter=welcome">Welkomsgallerij</a></li>
+<li><a href="/photos.php?filter=uc">Onbeoordeeld</a></li>
+</ul>
+</div> <!-- This closes #sidebar -->
+<div id="footer">
+<div id="bottom">
+<div id="pages"><span style="font-size: 120%">Pagina's: </span><strong>1</strong> </div><div id="copyright"><a href="/copyright.php">Copyright &#169; 2012 TrekLens</a> | <a href="http://www.internetbrands.com/ib/privacy/travel?site=treklens.com" rel="nofollow">Privacy Policy</a> | <a href="/tou.php">Terms of Use</a></div>
+</div> <!-- This closes #bottom -->
+</div> <!-- This closes #footer -->
+</div> <!-- This closes #mainwrap -->
+		<!-- IB Pixel Code-->
+		<script type="text/javascript"> 
+		var pxlSiteFile = "treklens.com.js";  
+		pxlScriptStart = '%3Cscr' + 'ipt type="text/javascript"';  
+		pxlScriptEnd = '%3C/scr' + 'ipt%3E'; 
+		if (location.protocol.indexOf("https") == -1) { 
+			document.write(unescape(pxlScriptStart + ' src="http://pxl.ibpxl.com/v2.js"%3E'+pxlScriptEnd)); } 
+		else { 
+			document.write(unescape(pxlScriptStart + ' src="https://pxl.ibpxl.com/v2.js"%3E'+pxlScriptEnd)); 
+		} 
+		</script>
+		<!-- End IB Pixel Code-->
+
+</body>
+</html>

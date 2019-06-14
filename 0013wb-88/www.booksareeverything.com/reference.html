@@ -1,0 +1,189 @@
+<html>
+<head>
+<title>Books Are Everything!</title>
+<script language="JavaScript">
+<!--
+
+function replaceAll(s, fromStr, toStr)
+{
+	var new_s = s;
+	for (i = 0; i < 100 && new_s.indexOf (fromStr) != -1; i++)
+	{
+		new_s = new_s.replace (fromStr, toStr);
+	}
+	return new_s;
+}
+
+function sqlSafe(s)
+{
+	var new_s = s;
+	new_s = replaceAll (new_s, "'", "|");
+	new_s = replaceAll (new_s, "|", "''");
+	new_s = replaceAll (new_s, "\"", "|");
+	new_s = replaceAll (new_s, "|", "''");
+	return new_s;
+}
+
+function makeSafe(i)
+{
+	i.value = sqlSafe (i.value);
+}
+
+function valForm()
+{
+	if (document.search.author.value == "" && document.search.title.value == "")
+	{
+		alert('Please enter either an Author or Title.');
+		document.search.author.focus();
+	}
+	else
+	{
+		makeSafe(document.search.author);
+		makeSafe(document.search.title);
+		makeSafe(document.search.other_keywords);
+
+		document.search.submit();
+	}
+}
+
+//-->
+</script>
+</head>
+<body background="images/back.jpg" text="#000000" link="slateblue" vlink="slateblue" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0">
+
+<!-- BEGIN MAIN LAYOUT TABLE //-->
+<table border="0" height="100%" cellspacing="0" cellpadding="0">
+<!-- BEGIN MENU //-->
+<tr><td background="images/back.gif" align="center" valign="top">
+<br><img src="images/menu.gif" width="106" height="41"><br><br>
+<table border="0" cellspacing="0" cellpadding="0">
+	<tr><td><a href="main.html"><img src="images/home.gif" border="0" width="129" height="25"></a></td></tr>
+	<tr><td><a href="publishers.html"><img src="images/books.gif" border="0" width="129" height="25"></a></td></tr>
+	<tr><td><a href="checkout.html"><img src="images/order.gif" border="0" width="129" height="25"></a></td></tr>
+	<tr><td><a href="terms.html"><img src="images/terms.gif" border="0" width="129" height="25"></a></td></tr>
+	<tr><td><a href="about_us.html">
+      <img src="images/company_old.gif" border="0" width="129" height="25"></a><br></td></tr>
+	<tr><td><a href="reference.html"><img src="images/reference.gif" border="0" width="129" height="25"></a></td></tr>
+	<tr><td><a href="opportunity.html"><img src="images/opp.gif" border="0" width="129" height="25"></a></td></tr>
+</table><br>
+<a href=mailto:gholroyd@rochester.rr.com>
+<img src="images/e-mail.gif" border="0" alt="Contact us!" width="42" height="48"></a href>
+<!-- END MENU //-->
+
+<!-- BEGIN QUICK SEARCH //-->
+
+<form name="search" method="get" action="/books/search_results.php">
+<table width="129" bgcolor="#999999" border="0" cellspacing="0" cellpadding="2">
+        <tr><td bgcolor="#000000" align="center"><font face="verdana,arial,helvetica,monaco" color="#FFFFFF" size="-2"><b>QUICK SEARCH</b></td></tr>
+        <tr><td valign="top"><font face="verdana,arial,helvetica,monaco" color="#FFFFFF" size="-2">
+                  <b>Author</b>
+                  </td>
+        </tr>
+        <tr><td align="center"><input TYPE="TEXT" NAME="author" SIZE="10"></td></tr>
+        <tr><td valign="top"><font face="verdana,arial,helvetica,monaco" color="#FFFFFF" size="-2">
+
+                  <b>Title</b>
+                  </td>
+        </tr>
+        <tr><td align="center"><input type="text" name="title" size="10"></td></tr>
+		        <tr><td valign="top"><font face="verdana,arial,helvetica,monaco" color="#FFFFFF" size="-2">
+
+                  <b>Keyword</b>
+                  </td>
+        </tr>
+        <tr><td align="center"><input type="text" name="keyword" size="10"></td></tr>
+        <tr><td valign="top" align="center"><input type="submit" value="Search" name="search"><br><input type="RESET" value="  Clear  "></td></tr>
+</table>
+</form>
+</td>
+<!-- END QUICK SEARCH //-->
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+
+<!-- BEGIN MAIN AREA //-->
+<td width="100%" align="center">
+
+<font face="verdana,arial,helvetica,monaco" size="3"><br><br>
+<u><b>REFERENCE BOOKS AND OTHER SPECIAL ITEMS</b></u><br><br>
+
+<table border="0" cellspacing="4" cellpadding="0">
+	<tr><td width="50%"><img src="images/Reference_D.jpg" width="170" height="255"></td>
+	    <td width="50%"><img src="images/Reference_B.jpg" width="172" height="262"></td>
+	</tr>
+	<tr><td valign="top"><font face="verdana,arial,helvetica,monaco" size="-2">
+	    <b>The Movie Tie-In Book</b> by Moe Wadle<br>
+	    First Edition 1994; Fine Condition (Unread Copy)<br><br>
+	    <p>A collector's guide to paperback movie editions containing listings for nearly 3000 titles along with hundreds of cover photos and (although much too low) price values. Now out of print.</p>
+	    <b>$<span lang="en-us">5.00</span></b> + $3.00 Postage
+	    </td>
+	    <td valign="top"><font face="verdana,arial,helvetica,monaco" size="-2">
+	    <b>Reginald Heade: England's Greatest Artist</b> by Steve Chibnall<br>
+	    First Edition 1991; Fine Condition (Unread Copy)<br><br>
+	    <p>Digest-sized booklet containing 56 pages. A biography of this prolific artist, plus a complete checklist of his work. It contains hundreds of color photos of his scarcest paintings. Long out of print and only a few copies remain.</p>
+	    <b>$25.00</b> + $3.00 Postage
+	    </td>
+	</tr>
+	<tr><td><br><br><img src="images/Reference_C.jpg" width="175" height="250"></td>
+	    <td><br><br><img src="images/empathy.jpg" width="168" height="245"></td>
+	</tr>
+	<tr><td valign="top"><font face="verdana,arial,helvetica,monaco" size="-2">
+	    <b>I was Looking for a Street</b> by Charles Willeford<br>
+	    First Appearance in paperback (Trade-size) 1991; Fine Condition (Unread Copy)<br><br>
+	    <p>Scarce autobiography by this bestselling author of the Hoke Mosely series.</p>
+	    <b>$15.00</b> + $3.00 Postage
+	    </td>
+		<td valign="top"><font face="verdana,arial,helvetica,monaco" size="-2">
+	    <b>Empathy and the Practice of Medicine</b><br>
+	    Edited by: Spiro, Curnen, Peschel & St. James<br>
+	    First Edition 1993; Trade Paperback Fine Condition (Unread Copy)<br><br>
+	    Yale University Press<br><br>
+	    <b>$1<span lang="en-us">2</span>.00</b> + $3.00 Postage
+	    </td>
+		<!--
+		<td valign="top"><font face="verdana,arial,helvetica,monaco" size="-2">
+	    <b>The Trials of Hank Janson</b> by Steve Holland<br>
+	    First Edition 1991<br><br>
+	    <p>Digest-sized booklet containing 56 pages. A biography of this prolific author, plus a complete checklist of his novels. It contains 56 color photos of his scarcest books, most of which were painted by Reginald Heade. Long out of print and only a few copies remain.</p>
+	    <b>$15.00</b> + $3.00 Postage
+	    </td>
+	    //-->
+	</tr>
+	<tr><td><br><br><img src="images/Reference_E.jpg" width="175" height="250"></td>
+	    <td><br><br><img src="images/Reference_F.jpg" width="163" height="250"></td>
+	</tr>
+	<tr><td valign="top"><font face="verdana,arial,helvetica,monaco" size="-2">
+	    <b>Putting Dell on the Map: A History of the Dell Paperbacks</b> by William H. Lyles<br>
+	    <br>First Edition 1983; Hardback, No Dust Jacket as Issued, Fine Condition (Unread Copy)<br>
+	    <p>A detailed history of Dell Books and Western Printing, beginning with their first book in 1942 through 1962. This edition lists 2,168 Dell paperbacks and 577 back cover maps, many of which are pictured. Long out of print and one of the rarest reference books.</p>
+	    <b>$</b><span lang="en-us">sold out</span>
+	    </td>
+	    <td valign="top"><font face="verdana,arial,helvetica,monaco" size="-2">
+	    <b>Dell Paperbacks: 1942 to Mid-1962; A Catalog-Index</b> by William H. Lyles<br>
+	    <br>First Edition 1983; Hardback, No Dust Jacket as Issued, Fine Condition (Unread Copy)<br><br>
+	    <p>469 pages detailing each of the Dell paperbacks during this period. Information includes number of copies printed, artists of both the front cover and the map on the back cover, and other information. Long out of print and one of the rarest and most sought-after reference books.</p>
+	    <b>$</b><span lang="en-us">50.00</span>
+	    </td>
+	</tr>
+</table>
+
+<table>
+	<tr><td><img src="images/universe.jpg" alt="Universe by Robert Heinlein" width="150" height="227"></td>
+	    <td><font face="verdana,arial,helvetica,monaco" color="slateblue" size="2"><center><b>BOOKS ARE EVERYTHING!</b><br>
+		<font face="verdana,arial,helvetica,monaco" size="-2" color="#000000">Graham Holroyd<br>
+		31 Lancer Place<br>
+		Webster, NY 14580<br>
+		<b>Phone:</b> <span lang="en-us">585</span>-670-9438<br>
+		<b>Fax:</b> <span lang="en-us">585</span>-670-9704<br><br>
+		<font size="1">© 1997,2002 Graham Holroyd<br>All Rights Reserved<br><br>
+		<img src="images/credit_cards.gif" width="132" height="88"></td>
+	    <td><img src="images/madball.jpg" alt="Madball by Fredric Brown" width="150" height="219"></td>
+	</tr>
+</table>
+
+</td></tr>
+<!-- END MAIN AREA //-->
+</table>
+<!-- END MAIN LAYOUT TABLE //-->
+
+</body>
+</html>

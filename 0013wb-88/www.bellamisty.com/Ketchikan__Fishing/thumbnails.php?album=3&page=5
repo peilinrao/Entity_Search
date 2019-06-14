@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Pragma" content="no-cache" />
+<title>Ketchikan Alsaka Fishing Gallery - Alaskan Wildlife &amp; Sightseeing</title>
+
+<link rel="stylesheet" href="themes/water_drop/style.css" type="text/css" />
+<script type="text/javascript" src="scripts.js"></script>
+<!-- $Id: template.html 2688 2005-12-04 03:22:35Z donnoman $ -->
+</head>
+<body>
+  
+  
+<table width="100%" border="0" cellpadding="2" cellspacing="4">
+  <tr> 
+    <td valign="top" > <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="100%" align="center"><h3><strong></strong></h3>
+            <strong><br />
+                        <!-- BEGIN home -->
+        <a href="index.php" title="Go to the home page">Home</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END home -->                  <!-- BEGIN login -->
+        <a href="login.php?referer=thumbnails.php%3Falbum%3D3%26page%3D5" title="Log me in">Login</a> 
+  <!-- END login -->  <br />
+                          <!-- BEGIN album_list -->
+        <a href="index.php?cat=0" title="Go to the album list">Album list</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END album_list -->  <!-- BEGIN lastup -->
+        <a href="thumbnails.php?album=lastup&amp;cat=-3" title="Show most recent uploads">Last uploads</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END lastup -->  <!-- BEGIN lastcom -->
+        <a href="thumbnails.php?album=lastcom&amp;cat=-3" title="Show most recent comments">Last comments</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END lastcom -->  <!-- BEGIN topn -->
+        <a href="thumbnails.php?album=topn&amp;cat=-3" title="Show most viewed items">Most viewed</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END topn -->  <!-- BEGIN toprated -->
+        <a href="thumbnails.php?album=toprated&amp;cat=-3" title="Show top rated items">Top rated</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END toprated -->  <!-- BEGIN favpics -->
+        <a href="thumbnails.php?album=favpics" title="Go to my favorites">My Favorites</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END favpics -->  <!-- BEGIN search -->
+        <a href="search.php" title="Search the gallery">Search</a> 
+  <!-- END search --> </strong></td>
+        </tr>
+      </table>
+      <strong><img src="images/spacer.gif" width="1" height="15" alt="" /> </strong> 
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td valign="top"><strong>  
+<!-- Start standard table -->
+<table align="center" width="100%" cellspacing="1" cellpadding="0" class="maintable">
+
+        <tr>
+                <td colspan="3" align="left" class="tableh1"><span class="statlink"><b><a href="index.php">Home</a> > <a href="thumbnails.php?album=3">Alaskan Wildlife &amp; Sightseeing</a></b></span></td>
+        </tr>
+</table>
+<!-- End standard table -->
+
+        <img src="images/spacer.gif" width="1" height="7" border="" alt="" /><br />
+
+<!-- Start standard table -->
+<table align="center" width="100%" cellspacing="1" cellpadding="0" class="maintable">
+        <tr>
+                <td class="tableh1" colspan="4">
+                        <table width="100%" cellpadding="0" cellspacing="0">
+                        <tr>
+                                <td width="100%" class="statlink"><h2>Alaskan Wildlife &amp; Sightseeing</h2></td>
+                                <td><img src="images/spacer.gif" width="1" alt="" /></td>
+                                <td class="sortorder_cell">
+                                        <table cellpadding="0" cellspacing="0">
+                                        <tr>
+                                                <td class="sortorder_options">TITLE</td>
+                                                <td class="sortorder_options"><span class="statlink"><a href="thumbnails.php?album=3&amp;page=5&amp;sort=ta" title="Sort by title ascending">&nbsp;+&nbsp;</a></span></td>
+                                                <td class="sortorder_options"><span class="statlink"><a href="thumbnails.php?album=3&amp;page=5&amp;sort=td" title="Sort by title descending">&nbsp;-&nbsp;</a></span></td>
+                                        </tr>
+                                        <tr>
+                                                <td class="sortorder_options">FILE NAME</td>
+                                                <td class="sortorder_options"><span class="statlink"><a href="thumbnails.php?album=3&amp;page=5&amp;sort=na" title="Sort by name ascending">&nbsp;+&nbsp;</a></span></td>
+                                                <td class="sortorder_options"><span class="statlink"><a href="thumbnails.php?album=3&amp;page=5&amp;sort=nd" title="Sort by name descending">&nbsp;-&nbsp;</a></span></td>
+                                        </tr>
+                                        <tr>
+                                                <td class="sortorder_options">DATE</td>
+                                                <td class="sortorder_options"><span class="statlink"><a href="thumbnails.php?album=3&amp;page=5&amp;sort=da" title="Sort by date ascending">&nbsp;+&nbsp;</a></span></td>
+                                                <td class="sortorder_options"><span class="statlink"><a href="thumbnails.php?album=3&amp;page=5&amp;sort=dd" title="Sort by date descending">&nbsp;-&nbsp;</a></span></td>
+                                        </tr>
+                                        <tr>
+                                                <td class="sortorder_options">POSITION</td>
+                                                <td class="sortorder_options"><span class="statlink"><a href="thumbnails.php?album=3&amp;page=5&amp;sort=pa" title="Sort by position ascending">&nbsp;+&nbsp;</a></span></td>
+                                                <td class="sortorder_options"><span class="statlink"><a href="thumbnails.php?album=3&amp;page=5&amp;sort=pd" title="Sort by position descending">&nbsp;-&nbsp;</a></span></td>
+                                        </tr>
+                                        </table>
+                                </td>
+                        </tr>
+                        </table>
+</td>
+        </tr>
+
+        <tr>
+
+        <td valign="top" class="thumbnails" width ="25%" align="center">
+                <table width="100%" cellpadding="0" cellspacing="0">
+                        <tr>
+                                <td align="center">
+                                        <a href="displayimage.php?album=3&amp;pos=16"><img src="albums/userpics/10001/thumb_SCN_0111.jpg" class="image" width="100" height="67" border="0" alt="SCN_0111.jpg" title="Filename=SCN_0111.jpg
+Filesize=497KB
+Dimensions=800x533
+Date added=May 06, 2010"/><br /></a>
+                                        <span class="thumb_title">Pod of Killer Whales on the hunt for Kings.</span>
+                                        
+                                </td>
+                        </tr>
+                </table>
+        </td>
+
+        <td valign="top" class="thumbnails" width ="25%" align="center">
+                <table width="100%" cellpadding="0" cellspacing="0">
+                        <tr>
+                                <td align="center">
+                                        <a href="displayimage.php?album=3&amp;pos=17"><img src="albums/userpics/10001/thumb_soaring_eagle.jpg" class="image" width="100" height="75" border="0" alt="soaring_eagle.jpg" title="Filename=soaring_eagle.jpg
+Filesize=161KB
+Dimensions=800x600
+Date added=May 06, 2010"/><br /></a>
+                                        <span class="thumb_title">American Bald Eagle</span>
+                                        
+                                </td>
+                        </tr>
+                </table>
+        </td>
+
+                <td valign="top" class="thumbnails" align="center">&nbsp;</td>
+
+                <td valign="top" class="thumbnails" align="center">&nbsp;</td>
+
+        </tr>
+
+        <tr>
+                <td colspan="4" style="padding: 0px;">
+                        <table width="100%" cellspacing="0" cellpadding="0">
+                                <tr>
+                                       <td width="100%" align="left" valign="middle" class="tableh1_compact" style="white-space: nowrap"><b>18 files on 5 page(s)</b></td>
+<td><img src="images/spacer.gif" width="1" height="1" alt="" /></td>
+<td align="center" valign="middle" class="navmenu"><a href="thumbnails.php?album=3&amp;page=1"><b>1</b></a></td>
+<td><img src="images/spacer.gif" width="1" height="1" alt="" /></td>
+<td align="center" valign="middle" class="navmenu"><a href="thumbnails.php?album=3&amp;page=2"><b>2</b></a></td>
+<td><img src="images/spacer.gif" width="1" height="1" alt="" /></td>
+<td align="center" valign="middle" class="navmenu"><a href="thumbnails.php?album=3&amp;page=3"><b>3</b></a></td>
+<td><img src="images/spacer.gif" width="1" height="1" alt="" /></td>
+<td align="center" valign="middle" class="navmenu"><a href="thumbnails.php?album=3&amp;page=4"><b>4</b></a></td>
+<td><img src="images/spacer.gif" width="1" height="1" alt="" /></td>
+<td align="center" valign="middle" class="tableb_compact"><b>5</b></td>
+                                </tr>
+                        </table>
+                </td>
+        </tr>
+</table>
+<!-- End standard table -->
+
+        <img src="images/spacer.gif" width="1" height="7" border="" alt="" /><br />
+<div class="footer" align="center" style="padding-top: 10px;">Powered by <a href="http://coppermine-gallery.net/" title="Coppermine Photo Gallery" rel="external">Coppermine Photo Gallery</a></div> </strong> <div style="text-align:center;"> 
+              <div><strong> <br />
+                 </strong></div>
+            </div></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+<!--Coppermine Photo Gallery 1.4.12 (stable)-->
+</body>
+</html>

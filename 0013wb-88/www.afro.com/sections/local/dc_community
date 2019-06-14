@@ -1,0 +1,867 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="google-site-verification" content="eG9I1wg8qLmF6wyogblRaViq_Lwv6YHTdFZwVdixveA" />
+<script src="/js/flowplayer-3.2.6.min.js" type="text/javascript"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>D.C. Community | The Afro-American Newspapers | Your Community. Your History. Your News.</title>
+
+
+<!-- begin ZEDO for channel:  Afro American Newspapers , publisher: Afro American Newspapers , Ad Dimension: Pixel/Popup - 1 x 1 -->
+
+<script language="JavaScript">
+  var zflag_nid="305";
+  var zflag_cid="8779/1";
+  var zflag_sid="1937";
+  var zflag_width="1";
+  var zflag_height="1";
+  var zflag_sz="15"; 
+</script>
+<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
+
+<!-- end ZEDO for channel:  Afro American Newspapers , publisher: Afro American Newspapers , Ad Dimension: Pixel/Popup - 1 x 1 -->
+
+
+<link href="/styles.css" rel="stylesheet" type="text/css" title="small">
+<link href="/styles_med.css" rel="alternate stylesheet" type="text/css" title="med">
+<link href="/styles_large.css" rel="alternate stylesheet" type="text/css" title="large">
+<script language="JavaScript" type="text/JavaScript" src="/_includes/textsize.js"></script>
+
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/styleIE7.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="/styleIE8.css" /><![endif]-->
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5147783-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head><body>
+	<div id="wrapper">
+		<div id="container">
+			<div id="header">
+            	<a href="/"  title="The Afro-American Newspapers | Your Community. Your History. Your News." id="AfroLogo"></a>
+            	<div id="headerlinks">
+                	<form action="/sections/archives/" method="post"><a href="https://www.afro.com/subscriptions.htm">Subscriptions</a><span class="pipes">|</span><a href="/advertise.htm">Advertise</a><span class="pipes">|</span><a href="/login.htm">Login</a><span class="pipes">|</span>
+                    <a href="/Register-page.htm">Register</a><input type="text" name="search" id="inputArea" value="| search" onfocus="if (this.value==this.defaultValue) this.value='';"/><input type="image" name="action" value="search" src="/images/search-tool.png" alt="Submit Form" align="top" class="searchBtn" /></form><br />
+            	</div>
+				<div id="navigation">
+                    <ul id="nav">
+                        <li>
+                        <a href="/">NEWS</a>
+                        <ul>
+				<a href="/sections/news/national/">National News</a><br />
+				<a href="/sections/news/afro_briefs/">Afro Briefs</a><br />
+				<a href="/sections/news/washington/">Washington D.C. News</a><br />
+				<a href="/sections/news/baltimore/">Baltimore News</a><br />
+				<a href="/sections/news/prince-georges-county-news/">P.G. County News</a><br />
+				<a href="/sections/news/health/">Health</a><br />
+
+                        </ul>    
+                        </li>
+			<li>
+			<a href="/sections/sports/">SPORTS</a>
+			<ul>
+				<a href="/sections/sports/college/">College</a><br />
+				<a href="/sections/sports/high_school/">High School</a><br />
+				<a href="/sections/sports/columnists/">Columnists</a><br />
+			</ul>
+			</li>
+			<li>
+			<a href="/sections/arts_entertainment/">ARTS & ENTERTAINMENT</a>
+			<ul>
+				<a href="/sections/arts_entertainment/books/">Books</a><br />
+				<a href="/sections/arts_entertainment/movies/">Movies</a><br />
+				<a href="/sections/arts_entertainment/music/">Music</a><br />
+				<a href="http://afro.mycapture.com/mycapture/index.asp" target="_blank">Photography</a><br />
+			</ul>
+			</li>
+			<li>
+			<a href="/sections/opinion/">OPINION</a>
+			<ul>
+				<a href="/sections/opinion/editorial/">Editorial</a><br />
+				<a href="/sections/opinion/commentary/">Commentary</a><br />
+				<a href="/sections/opinion/cartoons/">Cartoons</a><br />
+			</ul>
+			</li>
+			<li>
+			<a href="/sections/local/">LOCAL</a>
+			<ul>
+				<a href="/sections/local/afro-clean-green-block/">AFRO Clean Green Block</a><br />
+				<a href="/sections/local/dc_community/">D.C. Community</a><br />
+				<a href="/sections/local/dc_events/">D.C. Events</a><br />
+				<a href="/sections/local/baltimore_community/">Baltimore Community</a><br />
+				<a href="/sections/local/baltimore_events/">Baltimore Events</a><br />
+				<a href="/sections/local/character_education/">Character Education</a><br />
+				<a href="/sections/local/weekend/">Living for the Weekend</a><br />
+				<a href="/sections/local/rambling_rose/">Rambling Rose</a><br />
+				<a href="/sections/local/social_scene/">Social Scene</a><br />
+				<a href="/sections/local/bge-announcements/">BGE Announcements</a><br />
+				<a href="/sections/local/md_government/">Maryland Government</a><br />
+				<a href="/sections/local/obituaries/baltimore/">Obituaries - Baltimore</a><br />
+				<a href="/sections/local/obituaries/washington/">Obituaries - Washington D.C.</a><br />
+			</ul>
+			</li>
+			<li>
+			<a href="/sections/business/">BUSINESS</a>
+			<ul>
+				<a href="/sections/business/real-estate/">Real Estate</a><br />
+			</ul>
+			</li>
+			<li>
+			<a href="/multimedia/">MULTIMEDIA</a>
+			<ul>
+				<a href="/sections/arts_entertainment/have_you_seen_this_yet/">Have You Seen This Yet</a><br />
+			</ul>
+			</li>
+			<li>
+			<a href="/sections/archives/">SEARCH</a>
+			<ul>
+				<a href="/afroblackhistoryarchives/">AFRO Black History Archives</a><br />
+				<a href="/contact-us.htm">Contact Us</a><br />
+			</ul>
+			</li>
+			<li>
+			<a href="http://jobs.afro.com">JOBS</a>
+			</li>
+			<li>
+			<a href="/sections/content/index.htm?id=68">Charities</a>
+			</li>
+                    </ul>
+                    
+				</div>
+            </div>
+
+
+
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-0222211316346045");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0222211316346045", "arts_entertainment_120x90");
+GA_googleAddSlot("ca-pub-0222211316346045", "arts_entertainment_160x600");
+GA_googleAddSlot("ca-pub-0222211316346045", "arts_entertainment_180x150");
+GA_googleAddSlot("ca-pub-0222211316346045", "arts_entertainment_468x60");
+GA_googleAddSlot("ca-pub-0222211316346045", "arts_entertainment_728x90");
+GA_googleAddSlot("ca-pub-0222211316346045", "ros_468x90");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>                                                                    
+	<div id="right" class="column">
+				<span class="advertisement">Advertisements</span>
+                <!-- arts_entertainment_180x150 -->
+<script type='text/javascript'>
+GA_googleFillSlot("arts_entertainment_180x150");
+</script><br /><br />
+                <!-- arts_entertainment_160x600 -->
+<script type='text/javascript'>
+GA_googleFillSlot("arts_entertainment_160x600");
+</script><br /><br />
+                <!-- arts_entertainment_120x90 -->
+<script type='text/javascript'>
+GA_googleFillSlot("arts_entertainment_120x90");
+</script><br /><br />
+
+
+        	
+
+
+			
+					
+					
+
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+										
+
+
+
+
+
+
+
+
+
+					
+
+	
+
+
+
+	
+
+
+					
+
+	
+
+
+					
+
+	
+
+
+					
+
+	
+
+
+					
+
+	
+
+
+					
+
+	
+
+
+					
+
+	
+
+
+					
+
+	
+
+
+					
+
+	
+
+
+					
+
+	
+
+
+<div class="rightBox">
+			
+			<h4>AFRO Poll Question</h4><br />
+                <div class="descriptionLeft"><div class="NewsTeaser">Given the recent controversy between Roland Martin and  the gay rights group, Gay and Lesbian Alliance Against Defamation (GLAAD), surrounding some statements and Tweet postings of Roland Martin during the recent Super Bowl game; in your opinion the response of GLAAD to Martins' statements is:</div>
+                    <form action="/poll/poll_post.htm" method="post">
+	                    <input type="hidden" name="id" value="1" class="space">
+						<input type="hidden" name="answer1" value="18" class="space">
+						<input type="hidden" name="answer2" value="5" class="space">
+						<input type="hidden" name="answer3" value="1" class="space">	
+						<input type="hidden" name="phase2" value="vote" class="space">
+						<div class="polltext"><input type="radio" name="poll2" value="1"  class="space">A: an unjustified over-reaction by GLAAD and represents the equivalent of an organizational media bullying;</div>
+						<div class="polltext"><input type="radio" name="poll2" value="2" class="space">B: a justifiable, vigorous and vocal objection to a national media person whose immaturity does not justify his continued national presence.</div>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						<br /><br />
+						<input type="submit" name="action" value="Vote"> <input type="submit" name="action" value="Results">
+                    </form>
+                </div>
+			
+		</div>
+
+
+
+		
+        <div class="rightBoxProfile">
+        	<a href="http://www.facebook.com/pages/Afro-American-Newspapers/36517112634?v=app_7146470109" target="_blank"><img src="/images/facebook-logo.png" width="52" height="12" class="facebookLogo" alt="Facebook" /></a>
+            <div class="socialMediaLeft"><a href="http://www.facebook.com/pages/Afro-American-Newspapers/36517112634?v=app_7146470109" target="_blank">Become a fan on </a></div>
+		</div>
+    	<div class="rightBoxProfile">
+        	<a href="http://twitter.com/afronews/" target="_blank"><img src="/images/twitter-logo.png" width="50" height="10" class="twitterLogo"  alt="Twitter"/></a>
+            <div class="socialMediaLeft"><a href="http://twitter.com/afronews/" target="_blank">Follow us on </a></div>
+		</div>
+		
+	</div>
+
+
+
+        <div id="leaderboard">
+            <div class="advertisementRotate">Advertisement</div>
+            <div id="leaderboardBanner">
+                <!-- arts_entertainment_728x90 -->
+<script type='text/javascript'>
+GA_googleFillSlot("arts_entertainment_728x90");
+</script>
+            </div>
+        </div>
+    
+
+ 					
+		<div id="subcontainer">
+     
+
+
+		<div class="sectionFrntFtreBox">
+				<span class="textEnlarge"><script LANGUAGE="JavaScript" type='text/JavaScript' src="/_includes/increase.js"></script><script LANGUAGE="JavaScript" type='text/JavaScript' src="/_includes/decrease.js"></script></span>
+				<span class="breadcrumbs"><a href="/">Home </a> <img src="/images/sm-arrow.png" /> <a href="../index.htm">Local</a> <img src="/images/sm-arrow.png" /> D.C. Community</span>
+				<div class="pageTitle"><a href="index.htm">D.C. Community</a></div>
+				  
+					
+                
+		  <div class="sectionFrntFtreCnt">
+                    
+                        
+                            
+                            	
+                                
+                        <div class="sectionFrontImg"><img src="/multimedia/photos/73649/2011 333.JPG" alt="AKA chapter members with their pom poms at the pep rally." border="0" /><br />
+                        <div class="photoCaptionWide">AKA chapter members with their pom poms at the pep rally. (Courtesy Photo)</div>
+                        
+                        </div>
+                        
+                        <div class="sectionFrntFtreRightTxt"><h5><a href="story.htm?storyID=73649">Girls Rock Empowers Tweens</a></h5>
+
+                        <span class="dateStamp">Originally published January 04, 2012</span><br/><br />
+                        
+	Three hundred 6-8th grade girls from the District, Maryland and Virginia spent a sunny Saturday inside Girls Rock, a free conference designed for emerging young leaders.<span class="more"><a href="story.htm?storyID=73649">more&nbsp;<img src="/images/sm-arrow.png" alt="More Arrow" /></a></span></div>
+                    
+          <div style="clear:left;"></div>
+          </div>
+		</div>
+
+
+
+
+
+
+
+            
+                  
+            <div class="sectionBox">
+                  <h4>More D.C. Community</h4>
+                    
+	
+    
+	
+    
+	
+
+	
+
+	
+
+	
+
+	
+    
+
+
+	
+    
+	
+    
+	
+    
+
+
+	
+    
+    
+
+        
+		
+                  	
+                        
+                    
+                        <div class="bottom">
+                        	
+                            <a href="story.htm?storyid=73585"><img src="/multimedia/photos/73585/T_Lucy Speller107.jpg" alt="Lucy B. Stewart Speller " border="0" class="sectionFrntImgSml" /></a>
+                             
+                            <div class="sectionTitle"><a href="story.htm?storyid=73585">Centenarian Saluted</a></div>
+                            <div class="sectionFrntbyline"><a href="story.htm?storyid=73585">by Marian Tyrance</a></div>
+                            <div class="sectionFrntDescriptions"><span class="dateline">December 28, 2011</span> - 
+	Family and Friends gathered in the home of Lucy B. Stewart Speller recently to celebrate her 107th birthday.<span class="more"><a href="story.htm?storyid=73585">more&nbsp;<img src="/images/sm-arrow.png" alt="More Arrow" /></a></span></div>
+                            
+                        </div>
+                    	
+                            <hr class="hr2" /> 
+                        
+                    
+                        
+                    
+                        <div class="bottom">
+                        	
+                            <a href="story.htm?storyid=73587"><img src="/multimedia/photos/73587/T_Adrian Bowie Photo.JPG" alt="Posse Scholarship winner, Adrian Bowie" border="0" class="sectionFrntImgSml" /></a>
+                             
+                            <div class="sectionTitle"><a href="story.htm?storyid=73587">Friendship Public Charter School Students Earn Posse Scholarships</a></div>
+                            <div class="sectionFrntbyline"><a href="story.htm?storyid=73587">by AFRO Staff</a></div>
+                            <div class="sectionFrntDescriptions"><span class="dateline">December 28, 2011</span> - 
+	Friendship Public Charter School is proud to announce two students have won Posse Scholarships. <span class="more"><a href="story.htm?storyid=73587">more&nbsp;<img src="/images/sm-arrow.png" alt="More Arrow" /></a></span></div>
+                            
+                        </div>
+                    	
+                            <hr class="hr2" /> 
+                        
+                    
+                        
+                    
+                        <div class="bottom">
+                        	
+                            <a href="story.htm?storyid=73509"><img src="/multimedia/photos/73509/T_Kwanzaa_table.JPG" alt=" " border="0" class="sectionFrntImgSml" /></a>
+                             
+                            <div class="sectionTitle"><a href="story.htm?storyid=73509">Local Artists Continue Kwanzaa Through Song</a></div>
+                            <div class="sectionFrntbyline"><a href="story.htm?storyid=73509">by Alexis Taylor</a></div>
+                            <div class="sectionFrntDescriptions"><span class="dateline">December 21, 2011</span> - 
+	Created to give African Americans a holiday that promotes culture and inspires greatness in the family and community, Kwanzaa emerged in 1966 when first introduced by scholar and distinguished author, Dr. Maulana Karenga.<span class="more"><a href="story.htm?storyid=73509">more&nbsp;<img src="/images/sm-arrow.png" alt="More Arrow" /></a></span></div>
+                            
+                        </div>
+                    	
+                            <hr class="hr2" /> 
+                        
+                    
+                        
+                    
+                        <div class="bottom">
+                        	
+                            <a href="story.htm?storyid=73314"><img src="/multimedia/photos/73314/T_Lezla Gooden.jpg" alt="Lezla Alease Gooden " border="0" class="sectionFrntImgSml" /></a>
+                             
+                            <div class="sectionTitle"><a href="story.htm?storyid=73314">Lezla Alease Gooden Wins Prestigious Media Scholarship</a></div>
+                            <div class="sectionFrntbyline"><a href="story.htm?storyid=73314">by AFRO Staff</a></div>
+                            <div class="sectionFrntDescriptions"><span class="dateline">December 07, 2011</span> - 
+	Lezla Alease Gooden, of Mitchellville, Md., is one of several 2011 recipients of the prestigious, highly competitive Emma L. Bowen Foundation Scholarship for Minority Interests in the Media.<br />
+	&nbsp;<span class="more"><a href="story.htm?storyid=73314">more&nbsp;<img src="/images/sm-arrow.png" alt="More Arrow" /></a></span></div>
+                            
+                        </div>
+                    	
+                            <hr class="hr2" /> 
+                        
+                    
+                        
+                    
+                        <div class="bottom">
+                        	
+                            <a href="story.htm?storyid=73318"><img src="/multimedia/photos/73318/T_WIN.JPG" alt="Members of St. Mary’s Ethiopian Orthodox Church performed a ritual chant before more than 2,000 community leaders and activists gathered at the historic Metropolitan AME Church on Dec. 5 to discuss upcoming plans to fight for jobs and affordable housing in the nation’s capitol. " border="0" class="sectionFrntImgSml" /></a>
+                             
+                            <div class="sectionTitle"><a href="story.htm?storyid=73318">Two Thousand Leaders Rally for Jobs and Affordable Housing</a></div>
+                            <div class="sectionFrntbyline"><a href="story.htm?storyid=73318">by Valencia Mohammed</a></div>
+                            <div class="sectionFrntDescriptions"><span class="dateline">December 07, 2011</span> - 
+	It was an impressive gathering of spiritual leaders from denominations that rarely mingle together or remain separated by ideology. <span class="more"><a href="story.htm?storyid=73318">more&nbsp;<img src="/images/sm-arrow.png" alt="More Arrow" /></a></span></div>
+                            
+                        </div>
+                    	
+                            <hr class="hr2" /> 
+                        
+                    
+                        
+                    
+                        <div class="bottom">
+                        	
+                            <a href="story.htm?storyid=73310"><img src="/multimedia/photos/73310/T_PIC_1.jpg" alt="The ladies of Prince George's County TLOD’s 2nd annual Empowerment in P.I.N.K. Fundraiser with chapter president, Jacqueline Wilcher (4TH from the right)." border="0" class="sectionFrntImgSml" /></a>
+                             
+                            <div class="sectionTitle"><a href="story.htm?storyid=73310">TLOD Making a Difference in the Community</a></div>
+                            <div class="sectionFrntbyline"><a href="story.htm?storyid=73310">by AFRO Staff</a></div>
+                            <div class="sectionFrntDescriptions"><span class="dateline">December 07, 2011</span> - 
+	The Top Ladies of Distinction (TLOD) is a national, nonprofit, educational and humanitarian organization. <span class="more"><a href="story.htm?storyid=73310">more&nbsp;<img src="/images/sm-arrow.png" alt="More Arrow" /></a></span></div>
+                            
+                        </div>
+                    	
+                            <hr class="hr2" /> 
+                        
+                    
+                        
+                    
+                        <div class="bottom">
+                        	
+                            <a href="story.htm?storyid=73183"><img src="/multimedia/photos/73183/T_DePizan_Awards.jpg" alt=" " border="0" class="sectionFrntImgSml" /></a>
+                             
+                            <div class="sectionTitle"><a href="story.htm?storyid=73183">National Women’s History Museum Salutes Women of Distinction</a></div>
+                            <div class="sectionFrntbyline"><a href="story.htm?storyid=73183">by AFRO Staff</a></div>
+                            <div class="sectionFrntDescriptions"><span class="dateline">November 23, 2011</span> - 
+	The National Women&rsquo;s History Museum recently inaugurated a unique awards evening &ndash; the Christine de Pizan Honors Gala &ndash; to celebrate the legend of pioneering women of the past by showcasing their achievements alongside the contributions of their modern inheritors.<span class="more"><a href="story.htm?storyid=73183">more&nbsp;<img src="/images/sm-arrow.png" alt="More Arrow" /></a></span></div>
+                            
+                        </div>
+                    	
+                            <hr class="hr2" /> 
+                        
+                    
+                        
+                    
+                        <div class="bottom">
+                        	
+                            <a href="story.htm?storyid=73047"><img src="/multimedia/photos/73047/T_Colonel_and_Mrs_Bill_Roberts_with_hIs_Aunts.jpg" alt="Colonel and Mrs. Bill Roberts with his aunts." border="0" class="sectionFrntImgSml" /></a>
+                             
+                            <div class="sectionTitle"><a href="story.htm?storyid=73047">William L. Roberts III, Promoted to Army Colonel</a></div>
+                            <div class="sectionFrntbyline"><a href="story.htm?storyid=73047">by Gina A. Roberts</a></div>
+                            <div class="sectionFrntDescriptions"><span class="dateline">November 10, 2011</span> - 
+	William L. Roberts, III, was promoted to the rank of colonel in the United States Army in an Aug. 3 in a ceremony at Fort Meade in Jessup.<span class="more"><a href="story.htm?storyid=73047">more&nbsp;<img src="/images/sm-arrow.png" alt="More Arrow" /></a></span></div>
+                            
+                        </div>
+                    	
+                            <hr class="hr2" /> 
+                        
+                    
+                        
+                    
+                        <div class="bottom">
+                        	
+                            <a href="story.htm?storyid=72896"><img src="/multimedia/photos/72896/T_Georgia_ave_Griffith_Stadium.jpg" alt="Griffith Stadium" border="0" class="sectionFrntImgSml" /></a>
+                             
+                            <div class="sectionTitle"><a href="story.htm?storyid=72896">District Celebrates Georgia Avenue’s Legacy</a></div>
+                            <div class="sectionFrntbyline"><a href="story.htm?storyid=72896">by AFRO Staff</a></div>
+                            <div class="sectionFrntDescriptions"><span class="dateline">October 27, 2011</span> - 
+    WASHINGTON -- Few Washington streets are as rich in history as Georgia Avenue -- home of the first African-American liberal arts university, President Abraham Lincoln&rsquo;s commuter route, Zora Neale Hurston&rsquo;s boarding house, the first hospital for African Americans and site of historic Griffith Stadium, where the Negro baseball league&rsquo;s Homestead Grays, Washington Redskins and Washington Senators once played.<span class="more"><a href="story.htm?storyid=72896">more&nbsp;<img src="/images/sm-arrow.png" alt="More Arrow" /></a></span></div>
+                            
+                        </div>
+                    	
+                    
+          
+          
+          </div>
+
+                
+
+          </div>
+                      
+          
+
+        <div class="clear"></div>
+            
+
+            <div class="horizontalBanners"><!-- arts_entertainment_468x60 -->
+<script type='text/javascript'>
+GA_googleFillSlot("arts_entertainment_468x60");
+</script></div>
+            <div class="horizontalBanners"><!-- ros_468x90 -->
+<script type='text/javascript'>
+GA_googleFillSlot("ros_468x90");
+</script></div>
+
+   
+            <div id="footer"><a name="footer">&nbsp;</a>
+            	<div id="footerSitemap">
+                    
+                    
+                        
+                        
+                            <div class="footerColumn">
+                                <ul>
+                                    <li class="footerNav"><a href="/index.htm">NEWS</a></li><br/>
+                        
+                        
+                        
+                            
+                            <li><a href="/sections/news/afro_briefs/index.htm">AFRO Briefs</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/news/baltimore/index.htm">Baltimore News</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/news/health/index.htm">Health</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/news/national/index.htm">National News</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/NEWS/News-from-Around-the-Web/index.htm">News from Around the Web</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/news/prince-georges-county-news/index.htm">Prince George's County News</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/news/special_coverage/index.htm">SpecialCoverage</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/news/washington/index.htm">Washington D.C. News</a></li><br/>
+                        
+                        
+                    
+                        
+                        
+                            <li class="footerNavSpecial"><a href="/sections/sports/index.htm">SPORTS</a></li><br/>
+                        
+                        
+                        
+                            
+                            <li><a href="/sections/sports/college/index.htm">College</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/sports/columnists/index.htm">Columnists</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/sports/high_school/index.htm">High School</a></li><br/>
+                        
+                        
+                                </ul>
+                            </div>
+                        
+                    
+                        
+                        
+                            <div class="footerColumn">
+                                <ul>
+                                    <li class="footerNav"><a href="/sections/arts_entertainment/index.htm">ARTS & ENTERTAINMENT</a></li><br/>
+                        
+                        
+                        
+                            
+                            <li><a href="/sections/arts_entertainment/ae_around_the_web/index.htm">A&E Around the Web</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/arts_entertainment/books/index.htm">Books</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/arts_entertainment/movies/index.htm">Movie Reviews</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/arts_entertainment/music/index.htm">Music Reviews</a></li><br/>
+                        
+                            
+                            <li><a href="http://afro.mycapture.com/mycapture/index.asp">Photography</a></li><br/>
+                        
+                        
+                    
+                        
+                        
+                            <li class="footerNavSpecial"><a href="/sections/opinion/index.htm">OPINION</a></li><br/>
+                        
+                        
+                        
+                            
+                            <li><a href="/sections/opinion/cartoons/index.htm">Cartoons</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/opinion/commentary/index.htm">Commentary</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/opinion/editorial/index.htm">Editorial</a></li><br/>
+                        
+                        
+                                </ul>
+                            </div>
+                        
+                    
+                        
+                        
+                            <div class="footerColumn">
+                                <ul>
+                                    <li class="footerNav"><a href="/sections/local/index.htm">LOCAL</a></li><br/>
+                        
+                        
+                        
+                            
+                            <li><a href="/sections/LOCAL/AFRO-Clean-Green-Block/index.htm">AFRO Clean Green Block</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/local/baltimore_community/index.htm">Baltimore Community</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/local/baltimore_events/index.htm">Baltimore Events</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/local/bge-announcements/index.htm">BGE Announcements</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/local/character_education/index.htm">Character Education</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/local/dc_community/index.htm">D.C. Community</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/local/dc_events/index.htm">D.C. Events</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/local/dc_fab_exposed/index.htm">D.C. Fab! Exposed</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/local/weekend/story.htm">Living for the Weekend</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/local/md_government/index.htm">Maryland Government</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/local/obituaries/baltimore/index.htm">Obituaries - Baltimore</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/local/obituaries/washington/index.htm">Obituaries - Washington D.C.</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/local/rambling_rose/index.htm">Rambling Rose</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/local/social_scene/index.htm">Social Scene</a></li><br/>
+                        
+                        
+                    
+                        
+                        
+                            <li class="footerNavSpecial"><a href="/sections/business/story.htm">BUSINESS</a></li><br/>
+                        
+                        
+                        
+                            
+                            <li><a href="/sections/business/real-estate/index.htm">Real Estate</a></li><br/>
+                        
+                        
+                                </ul>
+                            </div>
+                        
+                    
+                        
+                        
+                            <div class="footerColumn">
+                                <ul>
+                                    <li class="footerNav"><a href="/multimedia/index.htm">VIDEO/MULTIMEDIA</a></li><br/>
+                        
+                        
+                        
+                        
+                    
+                        
+                        
+                            <li class="footerNavSpecial"><a href="/sections/archives/index.htm">SEARCH</a></li><br/>
+                        
+                        
+                        
+                        
+                                </ul>
+                            </div>
+                        
+                    
+                        
+                        
+                            <div class="footerColumn">
+                                <ul>
+                                    <li class="footerNav"><a href="">SPECIAL CONTENT</a></li><br/>
+                        
+                        
+                        
+                            
+                            <li><a href="/sections/arts_entertainment/have_you_seen_this_yet/index.htm">BUT HAVE YOU SEEN THIS YET?</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/NEWS/MLK-Memorial-Special-Coverage/index.htm">MLK Memorial Special Coverage</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/news/the-march-for-jobs-and-justice-rally/index.htm">The March for Jobs & Justice Rally</a></li><br/>
+                        
+                            
+                            <li><a href="/sections/news/mlk-dedication/index.htm">The October 16, 2011 Dedication Ceremony of the MLK Monument</a></li><br/>
+                        
+                        
+                                </ul>
+                            </div>
+                        
+                    
+                </div>
+
+            
+                <div id="footerContact">
+                	
+                        <p>
+	<img align="center" src="/images/AFRO-footer-logo.png" /><br />
+	<br />
+	Toll-Free Voice: 800-AFRO-892 (800-237-6892)<br />
+	Toll-Free Fax: 877-570-9297<br />
+	<br />
+	<strong>Baltimore, MD Office</strong><br />
+	2519 North Charles Street<br />
+	Baltimore, MD 21218<br />
+	Voice: 410-554-8200<br />
+	<br />
+	<strong>Washington, DC Office</strong><br />
+	1917 Benning Road<br />
+	Washington, DC 20002<br />
+	Voice: 202-332-0080<br />
+	&nbsp;</p>
+<hr />
+<p>
+	<br />
+	<img src="/hosted/AANIC.jpg" /><br />
+	<br />
+	<a class="urlLink" href="http://www.afro.com" target="_blank">AFRO-American Newspapers</a><br />
+	<a class="urlLink" href="http://theatlantavoice.com/" target="_blank">The Atlanta Voice</a><br />
+	<a class="urlLink" href="http://www.thechicagocitizen.com/" target="_blank">The Chicago Citizen</a><br />
+	<a class="urlLink" href="http://dallasweekly.com/" target="_blank">The Dallas Weekly</a><br />
+	<a class="urlLink" href="http://www.defendernetwork.com/" target="_blank">Defender (Houston)</a><br />
+	<a class="urlLink" href="http://www.indianapolisrecorder.com/" target="_blank">Indianapolis Recorder</a><br />
+	<a class="urlLink" href="http://www.phillytrib.com/tribune/" target="_blank">Philadelphia Tribune</a><br />
+	<a class="urlLink" href="http://www.stlamerican.com/" target="_blank">St. Louis American</a><br />
+	<a class="urlLink" href="http://www.amsterdamnews.com/" target="_blank">New York Amsterdam News</a></p>
+                    
+                </div>        
+
+            <div class="clear"></div>
+
+            </div>
+  
+		</div>
+	</div>
+
+
+
+
+</body>
+</html>
+

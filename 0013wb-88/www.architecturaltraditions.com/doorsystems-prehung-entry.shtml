@@ -1,0 +1,681 @@
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<!-- begin: top.shtml -->
+<title>Entry Door System | Architectural Traditions | Crafted Doors Windows and Hardware</title>
+<base href="http://www.architecturaltraditions.com/" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="Content-Language" content="en-us"/>
+<meta name="language" content="english"/>
+<meta name="robots" content="index,follow"/>
+<meta name="revisit-after" content="1 days"/>
+<meta name="distribution" content="Global"/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<meta name="MSSmartTagsPreventParsing" content="true"/>
+<meta name="copyright" content="(c) 2009 Architectural Traditions"/>
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="expires" content="0"/>
+<meta name="google-site-verification" content="bcfZHaXEGl4itsdzXEaErCLnYAaizWgld63zDI43oAM" />
+
+
+
+
+<link href="/styles/reset.css" rel="stylesheet" type="text/css"/>
+<link href="/styles/main.css" rel="stylesheet" type="text/css"/>
+<link href="/styles/nav.css" rel="stylesheet" type="text/css"/>
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="/styles/ie8.css" type="text/css" media="screen, projection"/>
+<![endif]-->
+
+<!--[if IE 7]>
+<link rel="stylesheet" href="/styles/ie7.css" type="text/css" media="screen, projection"/>
+<![endif]-->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/jslib/jquery.maskedinput-1.1.2.js"></script>
+
+<script type="text/javascript" src="/js/jquery.lightbox-0.5.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/jquery.lightbox-0.5.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/jslib/css/ui-lightness/jquery-ui-1.8.7.custom.css" media="screen" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/util.js"></script>
+<script type="text/javascript" src="/js/switchmenu.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5285008-12']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- end: top.shtml -->
+
+
+<!-- add this to pages with jQuery lightbox function -->
+<script type="text/javascript">
+$(document).ready( function() {
+    $('a[rel*=lightbox]').lightBox();
+});
+</script>
+<!-- /add this to pages with jQuery lightbox function -->
+
+</head>
+
+<body>
+
+<div id="wrap">
+
+	<div id="header">
+		<a href="/"><h1>Architectural Traditions</h1></a>
+		<div class="tagline"><h2>crafted doors, windows and hardware</h2></div>
+        
+       <!-- <div class="search">
+        <form method="get" action="/search_results.shtml"><input type=hidden name=config value="htdig">
+        <table height="22" cellspacing="0" cellpadding="0" border="0">
+        <tr>
+        <td valign="middle" align="right"><input name="words" class="field-ss" value="search this site"  onFocus=" if (this.value == 'search this site') {this.value='';}; return true;" maxlength="50"></td>
+        <td valign="middle" align="right">&nbsp;<input type=image name="submit" src="/img/bt-go.gif"></td>
+        </tr>
+        </table>
+        </form>
+        </div>-->
+        
+		<div class="tel">
+        <p><span>(520) 574-7374</span></p>
+        </div>
+
+		<div class="links">
+        <p><a href="/warranty.shtml">Warranty</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="/maintenance.shtml">Maintenance</a>&nbsp;&nbsp;/&nbsp;&nbsp;<!-- <a href="/installation.shtml">Installation</a>&nbsp;&nbsp;/&nbsp;&nbsp; --><a href="/faq.shtml">FAQ</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="/sitemap.shtml">Sitemap</a></p>
+        </div>
+	</div>
+
+
+<div id="navcontainer">
+	<ul id="navlist">
+		<li><a href="/">Home</a></li>
+		<li><a href="/about.shtml">About Us</a></li>
+		<li><a href="/products.shtml">Products</a></li>
+		<li><a href="/news-media.shtml">News & Media</a></li>
+		<li><a href="/gallery.shtml">Photo Gallery</a></li>
+		<li><a href="/mobile-showroom.shtml">Mobile Design Center</a></li>
+		<!-- li><a href="/green.shtml">Green/Sustainability</a></li -->
+		<li><a href="/technicalinfo.shtml">Technical Info</a></li>
+		<li><a href="/contact.shtml">Contact Us</a></li>
+	</ul>
+</div>
+<div class="undernav"></div>
+
+
+	<div id="sidebar">
+	<div id="sidebar-in">
+		
+		<ul id="sidebar-login">
+		<li><a href="/find-dealer.shtml">Find a Dealer</a></li>
+		<li><a href="/architect/index.shtml">Architect Log-In</a></li>
+		<li><a href="/dealers/">Authorized Dealer Log-In</a></li>
+		</ul>        
+
+	
+		<h2 class="itemtitle sidebar-title">news &amp; media</h2>		<p class="home-news-date">November 2011</p>		<p class="home-news-txt"><span class="newsmedia-img"><a href="/newsmedia/media/pdf/Luxe-Ziebell-Fall11.pdf"><img src="/newsmedia/media/thumbnail/luxeCoverFall2011_thmb.jpg" alt="News &amp; Media" /></a></span>Wire brushed Windows and Doors with Rubbed-Oil Finishes used in creating authentic Mediterranean, that looks like it has been standing for centuries..<br /><a href="/newsmedia/media/pdf/Luxe-Ziebell-Fall11.pdf">Learn more</a></p>        <p>&nbsp;</p>        <p>&nbsp;</p>        		<p class="home-news-date">November 20, 2009</p>		<p class="home-news-txt">Sikkens Cetol 1 & Cetol 23 Plus, Premium Alkyd System - Translucent Satin Finish: features and benefits.<br /><a href="/newsmedia/news/pdf/Sikkens_features_benefits.pdf">Learn more</a></p>        <p>&nbsp;</p>
+
+        <p>&nbsp;</p>
+        <p><a href="/whychoosewood.shtml"><img src="/img/banner-woodchoice.gif" alt="Wood, the right choice!" /></a></p>
+
+	
+	</div><!-- /sidebar-in -->
+	</div><!-- /sidebar -->
+	
+	<div id="main">
+    <img src="img/header/system2.jpg" alt="Architectural Traditions" title="Architectural Traditions" />
+	<div id="main-in">
+<!-- START content -->	
+		<h2 class="pagetitle">Door Systems &mdash; Entry Door System</h2>
+
+        <p>Exterior door systems are precision crafted to insure ease of operation. Offered completely prehung and assembled*, our entry systems have solid rabbetted jambs for durability and strength, compression weather-stripping to keep the elements out, square-corner, ball-bearing hinges for a lifetime of reliability, are machined to your specification for lock hardware, and are available with several sill and trim options to fit all architectural applications and designs. All entry systems are available with matching transoms. Choose from square top, arch top and multiple glass options.</p>
+        <p>&nbsp;</p>
+        <p>Interior prehung door systems also available.</p>
+ 		<p>&nbsp;</p>
+		<p>* <i>Some prehung units may have to ship disassembled due to shipping size constraints; check with your dealer.</i></p>
+		<p>&nbsp;</p>
+        
+
+<!-- START 2502 -->
+<div class="prodLeft">
+<p>Model shown displays the following design elements:</p>
+<p>&nbsp;</p>
+    <div class="dd">Door Style:</div>
+    <div class="dt"><a href="/door.pl/136">2502</a><br />SL4011 (sidelite)<br />French Moulding with Plank Panel</div>
+    <div class="clearfix"></div>
+    
+    <div class="dd">Wood Species:</div>
+    <div class="dt"><a href="/woodspecie_finish.pl/2">Rustic Oak</a></div>
+    <div class="clearfix"></div>
+    
+    <div class="dd">Finish:</div>
+    <div class="dt"><a href="/woodspecie_finish.pl/2">Burnt Caramel</a></div>
+    <div class="clearfix"></div>
+    
+    <div class="dd">Texture:</div>
+    <div class="dt"><a href="/texture.pl/Hewn">Light Antique Distress</a></div>
+    <div class="clearfix"></div>
+    
+    <div class="dd">Options:</div>
+    <div class="dt">Flat-Arch Speakeasy, Random kerf-cut plant panel</div>
+    <div class="clearfix"></div>
+</div>
+<div class="prodRight">
+<a class="demo" href="img/doorsystem/2502-sidelites-zm.jpg"><img src="img/doorsystem/2502-sidelites.jpg" alt="Entry door system 2502 with sidelites" title="Entry door system 2502 with sidelites" /></a><br />
+<a href="#" id="popupZoomTrigger" onfocus="this.blur()" title="Entry door system 2502 with sidelites"><img src="/img/buttons/button-zoom.gif" /></a><br />
+</div>
+<div class="clearfix"></div><p>&nbsp;</p>
+<!-- END 2502 -->
+
+<!-- START 1018 -->
+<div class="prodLeft">
+<p>Model shown displays the following design elements:</p>
+<p>&nbsp;</p>
+    <div class="dd">Door Style:</div>
+    <div class="dt">1018<br />SL3006 (sidelite)<br />Rocky Mountain Sr.</div>
+    <div class="clearfix"></div>
+    
+    <div class="dd">Wood Species:</div>
+    <div class="dt"><a href="/woodspecie_finish.pl/11">Mahogany</a></div>
+    <div class="clearfix"></div>
+    
+    <div class="dd">Finish:</div>
+    <div class="dt"><a href="/woodspecie_finish.pl/11">Cherry "Glaze"</a></div>
+    <div class="clearfix"></div>
+    
+    <div class="dd">Texture:</div>
+    <div class="dt"><a href="/texture.pl/Character Marks">Regular Distress</a></div>
+    <div class="clearfix"></div>
+    
+    <div class="dd">Options:</div>
+    <div class="dt">Speakeasy, Speakeasy grille, Clavos (#4540)</div>
+    <div class="clearfix"></div>
+</div>
+<div class="prodRight">
+<a class="demo" href="img/doorsystem/1018-sidelites-zm.jpg"><img src="img/doorsystem/1018-sidelites.jpg" alt="Entry door system 1018 with sidelites" title="Entry door system 1018 with sidelites" /></a><br />
+<a href="#" id="popupZoomTrigger2" onfocus="this.blur()" title="Entry door system 1018 with sidelites"><img src="/img/buttons/button-zoom.gif" /></a><br />
+</div>
+<div class="clearfix"></div><p>&nbsp;</p>
+<!-- END 1018 -->
+
+
+<!-- START prehung options -->
+        <p>&nbsp;</p>
+        <h2 class="itemtitle2">Prehung Options</h2>
+<div id="list" style="width:11px; margin-right:1px; padding:0;">
+    <p>&nbsp;</p>
+</div>
+<div id="list" style="width:100px; margin-bottom:5px;">
+    <p><center><b>Single Door</b></center></p>
+</div>
+<div id="list" style="width:100px; margin-bottom:5px;">
+    <p><center><b>Paired Doors</b></center></p>
+</div>
+<div id="list" style="width:100px; margin-bottom:5px;">
+    <p><center><b>Single Door /<br />Single Sidelite</b></center></p>
+</div>
+<div id="list" style="width:100px; margin-bottom:5px;">
+    <p><center><b>Single Door /<br />Single Sidelite</b></center></p>
+</div>
+<div id="list" style="width:100px; margin-bottom:5px;">
+    <p><center><b>Single Door /<br />Two Sidelites</b></center></p>
+</div>
+<div id="list" style="width:100px; margin-bottom:5px;">
+    <p><center><b>Paired Doors /<br />Two Sidelites</b></center></p>
+</div>
+<div class="clearfix"></div>
+
+
+<div id="list" style="width:11px; margin-right:1px; padding:0;">
+    <p><img src="img/buttons/label-doorsystem-prehung-sq.gif" alt="Square" /></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX1-SQ-big.gif" rel="lightbox" title="EX1 SQ"><img src="img/doorsystem/prehung/prehung-EX1-SQ.gif" style="padding:5px;" title="EX1 SQ" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX1-SQ-big.gif" rel="lightbox" title="EX1 SQ">EX1 SQ</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX2-SQ-big.gif" rel="lightbox" title="EX2 SQ"><img src="img/doorsystem/prehung/prehung-EX2-SQ.gif" style="padding:5px;" title="EX2 SQ" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX2-SQ-big.gif" rel="lightbox" title="EX2 SQ">EX2 SQ</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX3-SQ-big.gif" rel="lightbox" title="EX3 SQ"><img src="img/doorsystem/prehung/prehung-EX3-SQ.gif" style="padding:5px;" title="EX3 SQ" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX3-SQ-big.gif" rel="lightbox" title="EX3 SQ">EX3 SQ</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX4-SQ-big.gif" rel="lightbox" title="EX4 SQ"><img src="img/doorsystem/prehung/prehung-EX4-SQ.gif" style="padding:5px;" title="EX4 SQ" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX4-SQ-big.gif" rel="lightbox" title="EX4 SQ">EX4 SQ</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX5-SQ-big.gif" rel="lightbox" title="EX5 SQ"><img src="img/doorsystem/prehung/prehung-EX5-SQ.gif" style="padding:5px;" title="EX5 SQ" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX5-SQ-big.gif" rel="lightbox" title="EX5 SQ">EX5 SQ</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX6-SQ-big.gif" rel="lightbox" title="EX6 SQ"><img src="img/doorsystem/prehung/prehung-EX6-SQ.gif" style="padding:5px;" title="EX6 SQ" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX6-SQ-big.gif" rel="lightbox" title="EX6 SQ">EX6 SQ</a></p>
+</div>
+<div class="clearfix"></div>
+
+
+<div id="list" style="width:11px; margin-right:1px; padding:0;">
+    <p><img src="img/buttons/label-doorsystem-prehung-fa.gif" alt="Flat Arch" /></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX1-FA-big.gif" rel="lightbox" title="EX1 FA"><img src="img/doorsystem/prehung/prehung-EX1-FA.gif" style="padding:5px;" title="EX1 FA" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX1-FA-big.gif" rel="lightbox" title="EX1 FA">EX1 FA</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX2-FA-big.gif" rel="lightbox" title="EX2 FA"><img src="img/doorsystem/prehung/prehung-EX2-FA.gif" style="padding:5px;" title="EX2 FA" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX2-FA-big.gif" rel="lightbox" title="EX2 FA">EX2 FA</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX3-FA-big.gif" rel="lightbox" title="EX3 FA"><img src="img/doorsystem/prehung/prehung-EX3-FA.gif" style="padding:5px;" title="EX3 FA" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX3-FA-big.gif" rel="lightbox" title="EX3 FA">EX3 FA</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX4-FA-big.gif" rel="lightbox" title="EX4 FA"><img src="img/doorsystem/prehung/prehung-EX4-FA.gif" style="padding:5px;" title="EX4 FA" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX4-FA-big.gif" rel="lightbox" title="EX4 FA">EX4 FA</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX5-FA-big.gif" rel="lightbox" title="EX5 FA"><img src="img/doorsystem/prehung/prehung-EX5-FA.gif" style="padding:5px;" title="EX5 FA" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX5-FA-big.gif" rel="lightbox" title="EX5 FA">EX5 FA</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX6-FA-big.gif" rel="lightbox" title="EX6 FA"><img src="img/doorsystem/prehung/prehung-EX6-FA.gif" style="padding:5px;" title="EX6 FA" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX6-FA-big.gif" rel="lightbox" title="EX6 FA">EX6 FA</a></p>
+</div>
+<div class="clearfix"></div>
+
+<div id="list" style="width:11px; margin-right:1px; padding:0;">
+    <p><img src="img/buttons/label-doorsystem-prehung-ta.gif" alt="True Arch" /></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX1-TA-big.gif" rel="lightbox" title="EX1 TA"><img src="img/doorsystem/prehung/prehung-EX1-TA.gif" style="padding:5px;" title="EX1 TA" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX1-TA-big.gif" rel="lightbox" title="EX1 TA">EX1 TA</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX2-TA-big.gif" rel="lightbox" title="EX2 TA"><img src="img/doorsystem/prehung/prehung-EX2-TA.gif" style="padding:5px;" title="EX2 TA" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX2-TA-big.gif" rel="lightbox" title="EX2 TA">EX2 TA</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX3-TA-big.gif" rel="lightbox" title="EX3 TA"><img src="img/doorsystem/prehung/prehung-EX3-TA.gif" style="padding:5px;" title="EX3 TA" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX3-TA-big.gif" rel="lightbox" title="EX3 TA">EX3 TA</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX4-TA-big.gif" rel="lightbox" title="EX4 TA"><img src="img/doorsystem/prehung/prehung-EX4-TA.gif" style="padding:5px;" title="EX4 TA" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX4-TA-big.gif" rel="lightbox" title="EX4 TA">EX4 TA</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX5-TA-big.gif" rel="lightbox" title="EX5 TA"><img src="img/doorsystem/prehung/prehung-EX5-TA.gif" style="padding:5px;" title="EX5 TA" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX5-TA-big.gif" rel="lightbox" title="EX5 TA">EX5 TA</a></p>
+</div>
+<div id="list" style="width:100px;">
+    <div class="thumb" style="width:100px;">
+    <center><a href="img/doorsystem/prehung/prehung-EX6-TA-big.gif" rel="lightbox" title="EX6 TA"><img src="img/doorsystem/prehung/prehung-EX6-TA.gif" style="padding:5px;" title="EX6 TA" /></a></center>
+    </div>
+    <p><a href="img/doorsystem/prehung/prehung-EX6-TA-big.gif" rel="lightbox" title="EX6 TA">EX6 TA</a></p>
+</div>
+<div class="clearfix"></div>
+
+<!-- END prehung options -->
+
+<!-- START jamb -->
+        <p>&nbsp;</p>
+        <h2 class="itemtitle2">Exterior Rabbetted Jamb</h2>
+        <p>Thicker jambs are available.</p>
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><a href="img/doorsystem/prehung/ext-jambHead1-big.gif" rel="lightbox" title="Jamb Head"><img src="img/doorsystem/prehung/ext-jambHead1.gif" alt="Jamb Head" title="Jamb Head" /></a></center>
+            </div>
+            <p><a href="img/doorsystem/prehung/ext-jambHead1-big.gif" rel="lightbox" title="Jamb Head">Jamb Head</a><br />1&#188;" Standard</p>
+        </div>
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><a href="img/doorsystem/prehung/ext-jambHead2-big.gif" rel="lightbox" title="Jamb Head"><img src="img/doorsystem/prehung/ext-jambHead2.gif" alt="Jamb Head" title="Jamb Head" /></a></center>
+            </div>
+            <p><a href="img/doorsystem/prehung/ext-jambHead2-big.gif" rel="lightbox" title="Jamb Head">Jamb Head</a><br />1&#189;" Option</p>
+        </div>
+       <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><a href="img/doorsystem/prehung/ext-jambLeg1-big.gif" rel="lightbox" title="Jamb Leg"><img src="img/doorsystem/prehung/ext-jambLeg1.gif" alt="Jamb Leg" title="Jamb Leg" /></a></center>
+            </div>
+            <p><a href="img/doorsystem/prehung/ext-jambLeg1-big.gif" rel="lightbox" title="Jamb Leg">Jamb Leg</a><br />1&#188;" Standard</p>
+        </div>
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><a href="img/doorsystem/prehung/ext-jambLeg2-big.gif" rel="lightbox" title="Jamb Leg"><img src="img/doorsystem/prehung/ext-jambLeg2.gif" alt="Jamb Leg" title="Jamb Leg" /></a></center>
+            </div>
+            <p><a href="img/doorsystem/prehung/ext-jambLeg2-big.gif" rel="lightbox" title="Jamb Leg">Jamb Leg</a><br />1&#189;" Option</p>
+        </div>
+        <div class="clearfix"></div>
+
+<!-- END jamb -->
+
+<!-- START mullpost -->
+        <p>&nbsp;</p>
+        <h2 class="itemtitle2">Mullpost</h2>
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><a href="img/doorsystem/prehung/mullpost-standard-big.gif" rel="lightbox" title="Standard Solid Mullpost"><img src="img/doorsystem/prehung/mullpost-standard.gif" alt="Standard Solid Mullpost" title="Standard Solid Mullpost" /></a></center>
+            </div>
+            <p><a href="img/doorsystem/prehung/mullpost-standard-big.gif" rel="lightbox" title="Standard Solid Mullpost">Standard Solid Mullpost</a></p>
+        </div>
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><a href="img/doorsystem/prehung/mullpost-spread-big.gif" rel="lightbox" title="Spread Mullpost"><img src="img/doorsystem/prehung/mullpost-spread.gif" alt="Spread Mullpost" title="Spread Mullpost" /></a></center>
+            </div>
+            <p><a href="img/doorsystem/prehung/mullpost-spread-big.gif" rel="lightbox" title="Spread Mullpost">Spread Mullpost (Optional)</a></p>
+        </div>
+        <div class="clearfix"></div>
+
+<!-- END mullpost -->
+
+<!-- START sills -->
+        <p>&nbsp;</p>
+        <h2 class="itemtitle2">Sills</h2>
+        <div id="list" style="width:650px;">
+            <div class="thumb" style="width:650px;">
+            <center><img src="img/doorsystem/prehung/ds-sill-aluminum-inswing.gif" alt="Aluminum Adjustable Inswing Sill" title="Aluminum Adjustable Inswing Sill" /></center>
+            </div>
+        <p style="text-align:left;">Aluminum Adjustable Inswing Sill</p>
+        </div>
+        <div class="clearfix"></div>
+
+        <div id="list" style="width:650px;">
+            <div class="thumb" style="width:650px;">
+            <center><img src="img/doorsystem/prehung/ds-sill-aluminum-outswing.gif" alt="Aluminum Outswing Sill" title="Aluminum Outswing Sill" /></center>
+            </div>
+        <p style="text-align:left;">Aluminum Outswing Sill</p>
+        </div>
+        <div class="clearfix"></div>
+
+        <div id="list" style="width:650px;">
+            <div class="thumb" style="width:650px;">
+            <center><img src="img/doorsystem/prehung/ds-sill-mahogany-inswing.gif" alt="Solid Mahogany Inswing" title="Solid Mahogany Inswing" /></center>
+            </div>
+        <p style="text-align:left;">Solid Mahogany Inswing</p>
+        </div>
+        <div class="clearfix"></div>
+
+        <div id="list" style="width:650px;">
+            <div class="thumb" style="width:650px;">
+            <center><img src="img/doorsystem/prehung/ds-sill-mahogany-outswing.gif" alt="Solid Mahogany Outswing" title="Solid Mahogany Outswing" /></center>
+            </div>
+        <p style="text-align:left;">Solid Mahogany Outswing</p>
+        </div>
+        <div class="clearfix"></div>
+
+        <div id="list" style="width:650px;">
+            <div class="thumb" style="width:650px;">
+            <center><img src="img/doorsystem/prehung/ds-sill-hydrosill.gif" alt="Hydrosill" title="Hydrosill" /></center>
+            </div>
+        <p style="text-align:left;">Hydrosill</p>
+        </div>
+        <div class="clearfix"></div>
+
+        <div id="list" style="width:650px;">
+            <div class="thumb" style="width:650px;">
+            <center><img src="img/doorsystem/prehung/ds-sill-ada.gif" alt="Commercial ADA Sill" title="Commercial ADA Sill" /></center>
+            </div>
+        <p style="text-align:left;">Commercial ADA Sill</p>
+        </div>
+        <div class="clearfix"></div>
+
+<!-- END sills -->
+
+<!-- START door bottom -->
+        <p>&nbsp;</p>
+        <h2 class="itemtitle2">Door Bottoms / Drip Caps</h2>
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><img src="img/doorsystem/prehung/dripcap-aluminum.jpg" alt="Aluminum Door Bottom / Drip Cap" title="Aluminum Door Bottom / Drip Cap" /></center>
+            </div>
+            <p>Aluminum Door Bottom / Drip Cap</p>
+        </div>
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><img src="img/doorsystem/prehung/dripcap-wood.jpg" alt="Wood Drip Cap" title="Wood Drip Cap" /></center>
+            </div>
+            <p>Wood Drip Cap</p>
+        </div>
+        <div class="clearfix"></div>
+
+<!-- END door bottom -->
+
+<!-- START trim -->
+        <p>&nbsp;</p>
+        <h2 class="itemtitle2">Trim</h2>
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><img src="/img/doorsystem/prehung/ext-trim-2andquarterflat.gif" alt="Two and a quarter inch flat style trim" title="Two and a quarter inch flat style trim" /></center>
+            </div>
+            <p>Exterior<br />Style: 2&#188;" Flat</p>
+        </div>
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><img src="/img/doorsystem/prehung/ext-trim-brickmould.gif" alt="Brick Mould style trim" title="Brick Mould style trim" /></center>
+            </div>
+            <p>Exterior<br />Style: Brick Mould</p>
+        </div>
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><img src="/img/doorsystem/prehung/ext-trim-stuccomould.gif" alt="Stucco Mould style trim" title="Stucco Mould style trim" /></center>
+            </div>
+            <p>Exterior<br />Style: Stucco Mould</p>
+        </div>
+       <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><img src="/img/doorsystem/prehung/ext-trim-fiveandquarterflat.gif" alt="Five and one quarter inch flat style trim" title="Five and one quarter inch flat style trim" /></center>
+            </div>
+            <p>Exterior<br />Style: 5&#188;" Flat</p>
+        </div>
+        <div class="clearfix"></div>
+
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><img src="/img/doorsystem/prehung/int-trim-alpine.gif" alt="Alpine style trim" title="Alpine style trim" /></center>
+            </div>
+            <p>Interior<br />Style: Alpine</p>
+        </div>
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><img src="/img/doorsystem/prehung/int-trim-santafe.gif" alt="Santa Fe style trim" title="Santa Fe style trim" /></center>
+            </div>
+            <p>Interior<br />Style: Santa Fe</p>
+        </div>
+       <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><img src="/img/doorsystem/prehung/int-trim-metropolitan.gif" alt="Metropolitan style trim" title="Metropolitan style trim" /></center>
+            </div>
+            <p>Interior<br />Style: Metropolitan</p>
+        </div>
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><img src="/img/doorsystem/prehung/int-trim-sancarlos.gif" alt="San Carlos style trim" title="San Carlos style trim" /></center>
+            </div>
+            <p>Interior<br />Style: San Carlols</p>
+        </div>
+        <div class="clearfix"></div>
+
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><img src="/img/doorsystem/prehung/int-trim-streamline.gif" alt="Streamline style trim" title="Streamline style trim" /></center>
+            </div>
+            <p>Interior<br />Style: Streamline</p>
+        </div>
+       <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><img src="/img/doorsystem/prehung/int-trim-colonial.gif" alt="Colonial style trim" title="Colonial style trim" /></center>
+            </div>
+            <p>Interior<br />Style: Colonial</p>
+        </div>
+        <div id="list" style="width:155px;">
+            <div class="thumb" style="width:155px;">
+            <center><img src="/img/doorsystem/prehung/int-trim-traditional.gif" alt="Traditional style trim" title="Traditional style trim" /></center>
+            </div>
+            <p>Interior<br />Style: Traditional</p>
+        </div>
+        <div class="clearfix"></div>
+<!-- END trim -->
+
+<!-- START door hinges-->
+        <p>&nbsp;</p>
+        <h2 class="itemtitle2">Door Hinges</h2>
+        <img src="/img/doorsystem/doorhinges.jpg" alt="Door Hinges" title="Door Hinges" style="float:left; margin:4px 20px 5px 0;" />
+        <p>Finishes for door hinges are oil-rubbed bronze (US10B) or antique Nickel (US15A).<br />American-made, commercial grade, square-cornered, ball bearing hinges.</p>
+        <p>&nbsp;</p>
+
+        <table style="width:450px; padding:10px; border:1px solid #dbdbdb;">
+        <tr><td>&nbsp;</td><td><b>Door Thickness</b></td><td><b>Hinge Size</b></td></tr>
+        <tr><td>Exterior</td><td>1&#190;"</td><td>4&#189;" x 4&#189;"</td></tr>
+        <tr><td>Exterior</td><td>2&#188;"</td><td>5" x 5"</td></tr>
+        </table>
+        <div class="clearfix"></div>
+<!-- END door hinges-->
+
+<!-- START extension flsh bolts-->
+        <p>&nbsp;</p>
+        <h2 class="itemtitle2">Extention Flush Bolts</h2>
+        <img src="/img/doorsystem/flush-bolts.jpg" alt="Extention Flush Bolts" title="Extention Flush Bolts" style="float:left; margin:4px 20px 5px 0;" />
+        <p>Finishes for extension flush bolts are brushed stainless or<br />oil-rubbed bronze.</p>
+        <div class="clearfix"></div>
+
+<!-- END extension flsh bolts-->
+
+<!-- END content -->	
+		<div id="footer"><p style="float:left;">&copy; 2010 Architectural Traditions | All Rights Reserved | <a href="http://www.architecturaltraditions.com/rep/index.php" title="Architectural Traditions Sales Representative Form Repository">Representative Forms</a></p><!-- p style="float:left;"><a href="#"><img src="/img/digital-media-facebook.gif" alt="Find us on Facebook" /></a><a href="#"><img src="/img/digital-media-twitter.gif" alt="Follow us on Twitter" /></a></p --></div>
+		
+	</div><!-- /main -->
+	</div><!-- /main-in -->
+	
+	<div class="clearfix"></div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<!-- "popup" divs  Use Jquery Dialog instead of popup -->
+
+<div id="popupZoom" title="Zoom">
+<img src="img/doorsystem/2502-sidelites-zm.jpg" />
+</div>
+
+<div id="popupZoom2" title="Zoom">
+<img src="img/doorsystem/1018-sidelites-zm.jpg" />
+</div>
+
+<!-- img magnifying stuff -->
+<script type="text/javascript" src="/js/jquery.loupe.js"></script>
+<script type="text/javascript">$('.demo').loupe()</script>
+<style type="text/css" media="screen">
+		a img { border:none; }
+		img.demo { float:right; }
+		.demo { position:relative; }
+		.loupe { background-color:#999; background:rgba(0, 0, 0, 0.25); border:5px solid rgba(0, 0, 0, 0); cursor:url(demo/blank.gif), url(demo/blank.cur), none; }
+
+</style>
+<!-- /img magnifying stuff -->
+
+<script type="text/javascript">
+$(document).ready( function() {
+	$('a[rel*=lightbox]').lightBox(); 
+
+	$("#popupZoom").dialog({
+		autoOpen:false,
+		width:'auto',
+		height:'auto',
+		modal:true
+	});
+	$('#popupZoomTrigger').click( function() {
+		$('#popupZoom').dialog('open');
+	});
+	$("#popupLine").dialog({
+		autoOpen:false,
+		width:'auto',
+		height:'auto',
+		modal:true
+	});
+	$("#popupZoom2").dialog({
+		autoOpen:false,
+		width:'auto',
+		height:'auto',
+		modal:true
+	});
+	$('#popupZoomTrigger2').click( function() {
+		$('#popupZoom2').dialog('open');
+	});
+	$("#popupLine").dialog({
+		autoOpen:false,
+		width:'auto',
+		height:'auto',
+		modal:true
+	});
+});
+</script>
+
+
+
+
+
+</body>
+</html>

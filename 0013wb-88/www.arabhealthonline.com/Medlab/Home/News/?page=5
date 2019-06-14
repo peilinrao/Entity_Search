@@ -1,0 +1,1029 @@
+﻿
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- { User Controls -->
+
+<!-- User Controls } -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_HTMLHead"><title>
+	MEDLAB - News
+</title>
+    <!-- { Meta Tags -->
+    
+
+<!-- { Meta -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="description" content="The largest medical laboratory and technology in the Middle East" /><meta name="robots" /><meta name="keywords" content="MEDLAB, Arab Health, medical laboratory, medical technology, laboratory management, microbiology, immunology, haemotology, hematology, clinical chemistry, molecular diagnosis, laboratory technicians, accreditation, healthcare, Dubai International Exhibition Centre, Middle East, accreditation, conferences, Cleveland Clinic" /><meta name="rating" content="General" /><meta name="revisit-after" content="4 weeks" /><meta name="generator" content="EPiServer" /><meta name="creation_date" content="Sun, 18 Oct 2009 08:30:00 GMT" /><meta name="last-modified" content="Sun, 18 Oct 2009 08:51:59 GMT" /><meta name="revised" content="Sun, 18 Oct 2009 08:51:59 GMT" /><meta http-equiv="Content-Language" content="en" />
+<!--  Meta } -->
+
+
+    <!-- Meta Tags } -->
+    <!-- { Javascript -->
+    <link rel="stylesheet" href="http://inc.iirme.com/Sites/globalToolbar/style2/css/style.css" type="text/css" /><script src="http://inc.iirme.com/JSFramework/V1.0/Compiled/Global.js" type="text/javascript"></script>
+    <!-- Javascript }-->
+    <!-- { Default Styles -->
+    <link href='http://inc.iirme.com/CSSFramework/V1.0/Compiled/Print/Print.css' rel='stylesheet' type='text/css' media='print' />
+    <!-- Default Styles } -->
+    <!-- Site-Specific Styles : Override with Custom-->
+    <link href='http://inc.iirme.com/CSSFramework/V1.0/Compiled/base.css' rel='stylesheet' type='text/css' /><link href='http://inc.iirme.com/Sites/MEDLAB/v2/CSS/medlab.css' rel='stylesheet' type='text/css' id='css_layout' /><style type="text/css">#leftSideBar { display: block; left: -125px; position: absolute; top: 1px; float: left; width: 120px; }.RegSticker {visibility: hidden;}</style>
+    <!--  Site-Specific Styles } -->
+    <!-- { Miscellaneious Head Scripts -->
+    <link id="favicon" rel="shortcut icon" href="http://inc.iirme.com/Favicons/MedLab.ico" /> <!--  ryansicad --><!-- 4823  ryansicad NOT NULL -->
+    <!-- Miscellaneious Head Scripts } -->
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="/Medlab/Home/News/?page=5" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYwODU2MjExOA9kFgJmD2QWBmYQZGQWDGYPZBYCZg8WAh4EVGV4dAUNTUVETEFCIC0gTmV3c2QCBQ8WAh8ABWc8c2NyaXB0IHNyYz0iaHR0cDovL2luYy5paXJtZS5jb20vSlNGcmFtZXdvcmsvVjEuMC9Db21waWxlZC9HbG9iYWwuanMiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+ZAIHDxYCHwAFfjxsaW5rIGhyZWY9J2h0dHA6Ly9pbmMuaWlybWUuY29tL0NTU0ZyYW1ld29yay9WMS4wL0NvbXBpbGVkL1ByaW50L1ByaW50LmNzcycgcmVsPSdzdHlsZXNoZWV0JyB0eXBlPSd0ZXh0L2NzcycgbWVkaWE9J3ByaW50JyAvPmQCCQ8WAh8ABd4BPGxpbmsgaHJlZj0naHR0cDovL2luYy5paXJtZS5jb20vQ1NTRnJhbWV3b3JrL1YxLjAvQ29tcGlsZWQvYmFzZS5jc3MnIHJlbD0nc3R5bGVzaGVldCcgdHlwZT0ndGV4dC9jc3MnIC8+PGxpbmsgaHJlZj0naHR0cDovL2luYy5paXJtZS5jb20vU2l0ZXMvTUVETEFCL3YyL0NTUy9tZWRsYWIuY3NzJyByZWw9J3N0eWxlc2hlZXQnIHR5cGU9J3RleHQvY3NzJyAgaWQ9J2Nzc19sYXlvdXQnIC8+ZAIKDxYCHwAFpwE8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiNsZWZ0U2lkZUJhciB7IGRpc3BsYXk6IGJsb2NrOyBsZWZ0OiAtMTI1cHg7IHBvc2l0aW9uOiBhYnNvbHV0ZTsgdG9wOiAxcHg7IGZsb2F0OiBsZWZ0OyB3aWR0aDogMTIwcHg7IH0uUmVnU3RpY2tlciB7dmlzaWJpbGl0eTogaGlkZGVuO308L3N0eWxlPmQCCw8VAY4BPGxpbmsgaWQ9ImZhdmljb24iIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iaHR0cDovL2luYy5paXJtZS5jb20vRmF2aWNvbnMvTWVkTGFiLmljbyIgLz4gPCEtLSAgcnlhbnNpY2FkIC0tPjwhLS0gNDgyMyAgcnlhbnNpY2FkIE5PVCBOVUxMIC0tPmQCARBkZBYKAg0PZBYCZg9kFgJmDxYCHglfUGFnZUxpbmsoKW5FUGlTZXJ2ZXIuQ29yZS5QYWdlUmVmZXJlbmNlLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4xMzMsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwQ0ODIzFgxmD2QWBGYPFQEESG9tZWQCAQ8PFgYeC19pc0VkaXRhYmxlaB4OX2JvdW5kUGFnZUxpbmsC42keCV9sYXN0VHlwZQUHRGVmYXVsdGRkAgEPZBYEZg8VAQROZXdzZAIBDw8WBh8CaB8DAtglHwQFB0RlZmF1bHRkZAICD2QWBGYPFQEXVmVudWUtYW5kLUFjY29tbW9kYXRpb25kAgEPDxYGHwJoHwMC4SUfBAUHRGVmYXVsdGRkAgMPZBYEZg8VAQpDb250YWN0LXVzZAIBDw8WBh8CaB8DAtn/Ah8EBQdEZWZhdWx0ZGQCBA9kFgRmDxUBDVJlbGF0ZWRFdmVudHNkAgEPDxYGHwJoHwMC4iUfBAUHRGVmYXVsdGRkAgUPZBYEZg8VAQxQdWJsaWNhdGlvbnNkAgEPDxYGHwJoHwMC7SUfBAUHRGVmYXVsdGRkAg8PZBYCZg9kFgICAQ8WAh8BKCsEBDkzNzcWPGYPZBYCZg8VARI8dWwgY2xhc3M9J2hNZW51Jz5kAgIPZBYCZg8VBD0vUmVzb3VyY2VzL1BhZ2VUeXBlcy9FdmVudENvbmZpZy5hc3B4P2lkPTM4NTcwJmVwc2xhbmd1YWdlPWVuAA5NRURMQUJDb25ncmVzcw9NRURMQUIgQ29uZ3Jlc3NkAgUPZBYCZg8VBAEjABRFeGhpYml0b3Jab25lLU1lZGxhYg5FeGhpYml0b3IgWm9uZWQCBg9kFgJmDxUBBDx1bD5kAggPZBYCZg8VBD8vUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVGb3JtLmFzcHg/aWQ9NDg4NjkmZXBzbGFuZ3VhZ2U9ZW4ADEJvb2stYS1TdGFuZAxCb29rIGEgU3RhbmRkAgsPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTQxNTcyJmVwc2xhbmd1YWdlPWVuABVWaXNpdG9yUHJvZmlsZS1NZWRsYWIPVmlzaXRvciBQcm9maWxlZAIOD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD00MTU3MSZlcHNsYW5ndWFnZT1lbgAXRXhoaWJpdG9yUHJvZmlsZS1NZWRsYWIRRXhoaWJpdG9yIFByb2ZpbGVkAhEPZBYCZg8VBD8vUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTQ4NTYmZXBzbGFuZ3VhZ2U9ZW4AC1doeS1FeGhpYml0DFdoeSBFeGhpYml0P2QCFA9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9NDE1NzMmZXBzbGFuZ3VhZ2U9ZW4AF01hcmtldGluZ3N1cHBvcnQtTWVkbGFiEU1hcmtldGluZyBzdXBwb3J0ZAIXD2QWAmYPFQQBIwAWU3BvbnNvcnRoZWV2ZW50LU1lZGxhYhFTcG9uc29yIHRoZSBldmVudGQCGA9kFgJmDxUBBDx1bD5kAhoPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTQxNTc1JmVwc2xhbmd1YWdlPWVuAB9TcG9uc29yc2hpcE9wcG9ydHVuaXRpZXMtTWVkbGFiGVNwb25zb3JzaGlwIE9wcG9ydHVuaXRpZXNkAh0PZBYCZg8VBD8vUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVGb3JtLmFzcHg/aWQ9NDg4NTQmZXBzbGFuZ3VhZ2U9ZW4AGVNwbm9zb3JzaGlwZW5xdWlyeS1NZWRsYWITU3Bub3NvcnNoaXAgZW5xdWlyeWQCIg9kFgJmDxUEPy9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9NDg2MyZlcHNsYW5ndWFnZT1lbgAXUmVjb21tZW5kZWQtQ29udHJhY3RvcnMdUmVjb21tZW5kZWQgU3RhbmQgQ29udHJhY3RvcnNkAiUPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTQxNTc3JmVwc2xhbmd1YWdlPWVuAA5WZW51ZWV4LU1lZGxhYgVWZW51ZWQCKg9kFgJmDxUEASMAElZpc2l0b3Jab25lLU1lZGxhYgxWaXNpdG9yIFpvbmVkAisPZBYCZg8VAQQ8dWw+ZAItD2QWAmYPFQQ/L1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlRm9ybS5hc3B4P2lkPTQ4ODU1JmVwc2xhbmd1YWdlPWVuABVSZWdpc3Rlci1hcy1hLVZpc2l0b3IVUmVnaXN0ZXIgYXMgYSBWaXNpdG9yZAIwD2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD00MTU3OSZlcHNsYW5ndWFnZT1lbgAWVmlzaXRvclByb2ZpbGV2LU1lZGxhYg9WaXNpdG9yIFByb2ZpbGVkAjMPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTQxNTgwJmVwc2xhbmd1YWdlPWVuABhFeGhpYml0b3JlUHJvZmlsZS1NZWRsYWIRRXhoaWJpdG9yIFByb2ZpbGVkAjYPZBYCZg8VBD8vUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTQ4NzEmZXBzbGFuZ3VhZ2U9ZW4ACVdoeS1WaXNpdApXaHkgVmlzaXQ/ZAI7D2QWAmYPFQQBIwARVHJhdmVsWm9uZS1NZWRsYWILVHJhdmVsIFpvbmVkAjwPZBYCZg8VAQQ8dWw+ZAI+D2QWAmYPFQRAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD00MTU2NyZlcHNsYW5ndWFnZT1lbgARQWJvdXREdWJhaS1NZWRsYWILQWJvdXQgRHViYWlkAkEPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTQxNTY4JmVwc2xhbmd1YWdlPWVuABdWaXNhUmVxdWlyZW1lbnRzLU1lZGxhYhFWaXNhIFJlcXVpcmVtZW50c2QCRA9kFgJmDxUEQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9NDE1NjkmZXBzbGFuZ3VhZ2U9ZW4AGlRyYXZlbEFjY29tbW9kYXRpb24tTWVkbGFiFlRyYXZlbCAmIEFjY29tbW9kYXRpb25kAkcPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTQxNTcwJmVwc2xhbmd1YWdlPWVuAAxWZW51ZS1NZWRsYWIFVmVudWVkAkoPZBYCZg8VBD8vUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVGb3JtLmFzcHg/aWQ9NDg4NTMmZXBzbGFuZ3VhZ2U9ZW4AFU1FRC1UcmF2ZWxFbnF1aXJ5Rm9ybRNUcmF2ZWwgRW5xdWlyeSBGb3JtZAJPD2QWAmYPFQQ+aHR0cDovL3d3dy5kb3RoZWFsdGguY29tL2V4aGliaXRpb25zL2FyYWJoZWFsdGgvZGlyZWN0b3J5LmFzcHgBMRNFeGhpYml0b3ItRGlyZWN0b3J5E0V4aGliaXRvciBEaXJlY3RvcnlkAlIPZBYCZg8VBEAvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTgzNjgxJmVwc2xhbmd1YWdlPWVuABZBcmFiLUhlYWx0aC1FeGhpYml0aW9uFkFyYWIgSGVhbHRoIEV4aGliaXRpb25kAhcPZBYCZg9kFgICAQ8WAh8ABYcBPGEgaHJlZj1odHRwOi8vd3d3LmFyYWJoZWFsdGhvbmxpbmUuY29tL01lZGxhYi8+SG9tZTwvYT4gfCA8YSBocmVmPWh0dHA6Ly93d3cuYXJhYmhlYWx0aG9ubGluZS5jb20vTWVkbGFiL0hvbWUvPkdlbmVyYWwgSW5mbzwvYT4gfCBOZXdzZAIbDw8WAh4HVmlzaWJsZWhkZAIdD2QWBgIBD2QWAgIBD2QWAgIBDxYCHwVnZAICD2QWAgIBD2QWBAIBDxYCHgtfIUl0ZW1Db3VudAIKFhQCAQ9kFgJmD2QWAmYPFQNAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD03MTYwNiZlcHNsYW5ndWFnZT1lbmNJbnN1cmFuY2UgYWZmaWxpYXRpb25zIGNyZWF0ZSBhY2Nlc3MgZm9yIHBhdGllbnRzIGluIHRoZSByZWdpb24gdG8gd29ybGQgY2xhc3MgZXllIGNhcmUgaW4gRHViYWkgICC2AkhlYWx0aCBpbnN1cmFuY2UgYWZmaWxpYXRpb25zIGFyZSBoZWxwaW5nIHRvIGNyZWF0ZSBhY2Nlc3MgdG8gc29tZSBvZiB0aGUgYmVzdCBleWUgY2FyZSBpbiB0aGUgd29ybGQgZm9yIHBhdGllbnRzIGluIER1YmFpLCB0aGUgVUFFIGFuZCBhY3Jvc3MgdGhlIHJlZ2lvbiwgYWNjb3JkaW5nIHRvIE1vb3JmaWVsZHMgRXllIEhvc3BpdGFsIER1YmFpIChNb29yZmllbGRzKS4gVGhleSBhcmUgYWxzbyBoZWxwaW5nIER1YmFpIHRvIGFjaGlldmUgaXRzIGFtYml0aW9uIG9mIGJlY29taW5nIHRoZSByZWdpb25hbCBodWIgZm9yIGhlYWx0aGNhcmUuLi5kAgIPZBYCZg9kFgJmDxUDQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9NzE2MDcmZXBzbGFuZ3VhZ2U9ZW4+TGl2ZXIgdHJhbnNwbGFudCBzdXJnZXJ5IGlzIHRvIHNvb24gYmVjb21lIGEgcmVhbGl0eSBpbiBRYXRhciCOAUxpdmVyIHRyYW5zcGxhbnQgc3VyZ2VyeSBpcyB0byBzb29uIGJlY29tZSBhIHJlYWxpdHkgaW4gUWF0YXIsIHdpdGggdGhlIEhhbWFkIE1lZGljYWwgQ29ycG9yYXRpb24gKEhNQykgaW4gdGhlIGZpbmFsIHN0YWdlcyBvZiBwcmVwYXJhdGlvbnMuLi5kAgMPZBYCZg9kFgJmDxUDQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9NzE2MDgmZXBzbGFuZ3VhZ2U9ZW4yTmV3IFVTJDE2IG1pbGxpb24gQmFocmFpbmkgaG9zcGl0YWwgdG8gb3BlbiBpbiBOb3ZVQSBuZXcgQkQ2bSAoVVMkMTZtKSBwcml2YXRlIGhvc3BpdGFsIGluIEJhaHJhaW4gaXMgb24gc2NoZWR1bGUgdG8gb3BlbiBpbiBOb3ZlbWJlci4uLmQCBA9kFgJmD2QWAmYPFQNAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD03MTYwOSZlcHNsYW5ndWFnZT1lbh5SZWR1Y2luZyBtYXRlcm5hbCBtb3J0YWxpdHkgICCAAkpvcmRhbiBqb2luZWQgdGhlIHdvcmxkIGluIGFkb3B0aW5nIHRoZSBNaWxsZW5uaXVtIERldmVsb3BtZW50IEdvYWxzIGF0IHRoZSBVbml0ZWQgTmF0aW9ucyBNaWxsZW5uaXVtIFN1bW1pdCBoZWxkIGluIDIwMDAsIGR1cmluZyB3aGljaCB0aGUgaW50ZXJuYXRpb25hbCBjb21tdW5pdHkgY29tbWl0dGVkIGl0c2VsZiB0byByZWR1Y2luZyBtb3J0YWxpdHkgcmF0ZXMgYnkgdGhyZWUgZm91cnRocyBkdXJpbmcgdGhlIHBlcmlvZCAxOTkwLTIwMTUuLi5kAgUPZBYCZg9kFgJmDxUDQC9SZXNvdXJjZXMvUGFnZVR5cGVzL01pY3JvU2l0ZUJhc2ljLmFzcHg/aWQ9NzE2MTAmZXBzbGFuZ3VhZ2U9ZW5KVUFFIEhlYWx0aCBNaW5pc3RlciBIRSBEciBIYW5pZiBIYXNzYW4gYW5ub3VuY2VzIERpYWJldGVzIFRyYWluaW5nIFByb2dyYW32AkguRS4gRHIgSGFuaWYgSGFzc2FuLCBVQUUgTWluaXN0ZXIgb2YgSGVhbHRoIGFubm91bmNlZCBhIERpYWJldGVzIHNraWxscyBhbmQgdHJhaW5pbmcgcHJvZ3JhbSB0byBhZGRyZXNzIHRoZSBncm93aW5nIHByb2JsZW0gb2YgVHlwZSAyIERpYWJldGVzIGluIHRoZSBVbml0ZWQgQXJhYiBFbWlyYXRlcy4gVGhlIGluaXRpYXRpdmUgd2FzIGFubm91bmNlZCBhdCBhIGNlcmVtb255IGluYXVndXJhdGluZyBhIGNvb3BlcmF0aW9uIGFncmVlbWVudCBiZXR3ZWVuIHRoZSBVQUUgTWluaXN0cnkgb2YgSGVhbHRoIGFuZCBNZWR1a25vd2xlZGdlIFNlcnZpY2VzIGluIHRoZSBwcmVzZW5jZSBvZiBzb2xlIHNwb25zb3IgTWVyY2sgU2Vyb25vIE1pZGRsZSBFYXN0Li4uZAIGD2QWAmYPZBYCZg8VA0AvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTcxNjExJmVwc2xhbmd1YWdlPWVuU1dlbGxwaGFybWEgTWVkaWNhbCBTb2x1dGlvbnMgcGFydG5lcnMgd2l0aCBhbiBpbnRlcm5hdGlvbmFsIHRlY2hub2xvZ3kgcHJvdmlkZXIgICAgmwFBYnUgRGhhYmkgSW52ZXN0bWVudCBIb3VzZSAoQURJSCksIHRoZSBJbnZlc3RtZW50IE1hbmFnZXIgZm9yIFdlbGxwaGFybWEgTWVkaWNhbCBTb2x1dGlvbnMsIGFubm91bmNlZCByZWNlbnRseSB0aGUgc2lnbmluZyBvZiBhbiBhZ3JlZW1lbnQgd2l0aCBCcmFtIFNwYS4uLmQCBw9kFgJmD2QWAmYPFQNAL1Jlc291cmNlcy9QYWdlVHlwZXMvTWljcm9TaXRlQmFzaWMuYXNweD9pZD03MTYxMyZlcHNsYW5ndWFnZT1lbn1BcmFiIEhlYWx0aCAyMDExIGV4aGliaXRvciwgTUogTWVkaWNhbCwgbGVhZHMgdGhlIHdheSBpbiBCdWlsZGluZyBJbmZvcm1hdGlvbiBNb2RlbGxpbmcgKEJJTSkgZm9yIGhlYWx0aGNhcmUgZmFjaWxpdHkgZGVzaWduIKACV29ybGQgbGVhZGluZyBIZWFsdGhjYXJlIENvbnN1bHRhbnRzLCBNSiBNZWRpY2FsLCBhbm5vdW5jZSB0aGV5IGhhdmUgZnVsbHkgaW50ZWdyYXRlZCB0aGVpciBlcXVpcG1lbnQgcGxhbm5pbmcgc2VydmljZXMgaW50byBhIEJ1aWxkaW5nIEluZm9ybWF0aW9uIE1vZGVsbGluZyAoQklNKSBlbnZpcm9ubWVudCBhbmQgd2lsbCBiZSBkZW1vbnN0cmF0aW5nIGhvdyB0aGlzIGNhbiBpbm5vdmF0ZSB0aGUgaGVhbHRoY2FyZSBkZXNpZ24gcHJvY2VzcyBvbiBzdGFuZCAxQTYwIGF0IEFyYWIgSGVhbHRoIDIwMTEuZAIID2QWAmYPZBYCZg8VA0AvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTc2NDYyJmVwc2xhbmd1YWdlPWVuPkJyZWFrdGhyb3VnaDogVHJpYWxzIGZvciBibG9vZCBtYWRlIG9mIGh1bWFuIHNraW4gaW4gdHdvIHllYXJzrAFSZXNlYXJjaGVycyBhdCBNY01hc3RlciBVbml2ZXJzaXR5IGluIEhhbWlsdG9uLCBDYW5hZGEgaGF2ZSBkaXNjb3ZlcmVkIGEgd2F5IHRvIHR1cm4gaHVtYW4gc2tpbiBpbnRvIGJsb29kIGFuZCBhZnRlciB0d28geWVhcnMgb2Ygd29ya2luZyBvbiB0aGUgcHJvY2VkdXJlIHRoZXkgc2F5IGxhYi1tYWRlZAIJD2QWAmYPZBYCZg8VA0AvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTc2NDYzJmVwc2xhbmd1YWdlPWVuIUR1YmFpIG11c3QgJ2VtYnJhY2UgZS1oZWFsdGhjYXJlJ58BRHViYWkgSGVhbHRoIEF1dGhvcml0eSAoREhBKSBpcyBlbmNvdXJhZ2luZyBsb2NhbCBob3NwaXRhbHMgdG8gdHVybiBwYXBlcmxlc3MgYW5kIGFkb3B0IGEgcmF0aW5nIHN5c3RlbSB0byBldmFsdWF0ZSB0aGVpciBwcm9ncmVzcyBzdWNoIGFzIGEgY3VzdG9taXNlZCB2ZXJzaW9uZAIKD2QWAmYPZBYCZg8VA0AvUmVzb3VyY2VzL1BhZ2VUeXBlcy9NaWNyb1NpdGVCYXNpYy5hc3B4P2lkPTc2NDY0JmVwc2xhbmd1YWdlPWVuJER1YmFpIHNldCB0byByZXZhbXAgaGVhbHRoIGluc3VyYW5jZYsBVGhyZWUgaGVhbHRoIGluc3VyYW5jZSBtb2RlbHMgaGF2ZSBiZWVuIHJlYWRpZWQgZm9yIER1YmFpIGFuZCBvbmUgaXMgZXhwZWN0ZWQgdG8gYmUgYXBwcm92ZWQgYnkgdGhlIER1YmFpIEV4ZWN1dGl2ZSBDb3VuY2lsIGJ5IHRoZSB5ZWFyIGVuZGQCAw9kFgICAQ9kFgJmD2QWAgIBDxYCHwYCBRYOZg9kFgZmDxYCHgVjbGFzcwULcGFnZURpc3BsYXkWAmYPFQIBNQIxN2QCAQ8PFgoeC05hdmlnYXRlVXJsBThodHRwOi8vd3d3LmFyYWJoZWFsdGhvbmxpbmUuY29tL01lZGxhYi9Ib21lL05ld3MvP3BhZ2U9MR4HVG9vbFRpcAUKRmlyc3QgUGFnZR4GVGFyZ2V0BQVfc2VsZh4IQ3NzQ2xhc3MFFXBhZ2luZ0xpbmtzIGZpcnN0TGluax4EXyFTQgICZBYCZg8VAQVGaXJzdGQCAg8PFgofCAU4aHR0cDovL3d3dy5hcmFiaGVhbHRob25saW5lLmNvbS9NZWRsYWIvSG9tZS9OZXdzLz9wYWdlPTEfCQUNUHJldmlvdXMgUGFnZR8KBQVfc2VsZh8LBRdwYWdlQnV0dG9ucyBwYWdpbmdMaW5rcx8MAgJkFgJmDxUBAjw8ZAIBD2QWBGYPFQF4PGEgaHJlZj0naHR0cDovL3d3dy5hcmFiaGVhbHRob25saW5lLmNvbS9NZWRsYWIvSG9tZS9OZXdzLz9wYWdlPTEnIHRvb2x0aXA9JzEnIHRhcmdldD0nX3NlbGYnIGNsYXNzPSdwYWdpbmdMaW5rcyc+MSA8L2E+ZAIBDxUBGHBhZ2luZ0xpbmtzIHBhZ2VTZWxlY3RlZGQCAg9kFgRmDxUBeDxhIGhyZWY9J2h0dHA6Ly93d3cuYXJhYmhlYWx0aG9ubGluZS5jb20vTWVkbGFiL0hvbWUvTmV3cy8/cGFnZT0yJyB0b29sdGlwPScyJyB0YXJnZXQ9J19zZWxmJyBjbGFzcz0ncGFnaW5nTGlua3MnPjIgPC9hPmQCAQ8VARhwYWdpbmdMaW5rcyBwYWdlU2VsZWN0ZWRkAgMPZBYEZg8VAXg8YSBocmVmPSdodHRwOi8vd3d3LmFyYWJoZWFsdGhvbmxpbmUuY29tL01lZGxhYi9Ib21lL05ld3MvP3BhZ2U9MycgdG9vbHRpcD0nMycgdGFyZ2V0PSdfc2VsZicgY2xhc3M9J3BhZ2luZ0xpbmtzJz4zIDwvYT5kAgEPFQEYcGFnaW5nTGlua3MgcGFnZVNlbGVjdGVkZAIED2QWBGYPFQF4PGEgaHJlZj0naHR0cDovL3d3dy5hcmFiaGVhbHRob25saW5lLmNvbS9NZWRsYWIvSG9tZS9OZXdzLz9wYWdlPTQnIHRvb2x0aXA9JzQnIHRhcmdldD0nX3NlbGYnIGNsYXNzPSdwYWdpbmdMaW5rcyc+NCA8L2E+ZAIBDxUBGHBhZ2luZ0xpbmtzIHBhZ2VTZWxlY3RlZGQCBQ9kFgRmDxUBLzxzcGFuIGNsYXNzPSdwYWdpbmdMaW5rcyBwYWdlU2VsZWN0ZWQnPjU8L3NwYW4+ZAIBDxUBGHBhZ2luZ0xpbmtzIHBhZ2VTZWxlY3RlZGQCBg9kFgRmDw8WCh8IBThodHRwOi8vd3d3LmFyYWJoZWFsdGhvbmxpbmUuY29tL01lZGxhYi9Ib21lL05ld3MvP3BhZ2U9Nh8JBQlOZXh0IFBhZ2UfCgUFX3NlbGYfCwUXcGFnZUJ1dHRvbnMgcGFnaW5nTGlua3MfDAICZBYCZg8VAQI+PmQCAQ8PFgofCAU5aHR0cDovL3d3dy5hcmFiaGVhbHRob25saW5lLmNvbS9NZWRsYWIvSG9tZS9OZXdzLz9wYWdlPTE3HwkFCUxhc3QgUGFnZR8KBQVfc2VsZh8LBRVwYWdpbmdMaW5rcyBsYXN0dExpbmsfDAICZBYCZg8VAQRMYXN0ZAIDDw8WBB8CaB8EBQdEZWZhdWx0ZGQCAg9kFgJmDxYCHwAFzgc8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQoNCiAgdmFyIF9nYXEgPSBfZ2FxIHx8IFtdOw0KICBfZ2FxLnB1c2goWydfc2V0QWNjb3VudCcsICdVQS0xNjA5ODI2LTMnXSk7DQogIF9nYXEucHVzaChbJ190cmFja1BhZ2V2aWV3J10pOw0KDQogIChmdW5jdGlvbigpIHsNCiAgICB2YXIgZ2EgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsgZ2EudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOyBnYS5hc3luYyA9IHRydWU7DQogICAgZ2Euc3JjID0gKCdodHRwczonID09IGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sID8gJ2h0dHBzOi8vc3NsJyA6ICdodHRwOi8vd3d3JykgKyAnLmdvb2dsZS1hbmFseXRpY3MuY29tL2dhLmpzJzsNCiAgICB2YXIgcyA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnYSwgcyk7DQogIH0pKCk7DQoNCjwvc2NyaXB0Pg0KDQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQoNCiAgdmFyIF9nYXEgPSBfZ2FxIHx8IFtdOw0KICBfZ2FxLnB1c2goWydfc2V0QWNjb3VudCcsICdVQS0xNjA5ODI2LTEnXSk7DQogIF9nYXEucHVzaChbJ190cmFja1BhZ2V2aWV3J10pOw0KDQogIChmdW5jdGlvbigpIHsNCiAgICB2YXIgZ2EgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsgZ2EudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOyBnYS5hc3luYyA9IHRydWU7DQogICAgZ2Euc3JjID0gKCdodHRwczonID09IGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sID8gJ2h0dHBzOi8vc3NsJyA6ICdodHRwOi8vd3d3JykgKyAnLmdvb2dsZS1hbmFseXRpY3MuY29tL2dhLmpzJzsNCiAgICB2YXIgcyA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnYSwgcyk7DQogIH0pKCk7DQoNCjwvc2NyaXB0PmRk4xPib0FByy6EgogvemZBUxt3sw4=" />
+</div>
+
+
+<script src="/ScriptResource.axd?d=Ax0OeVBzWzGtya7m_H_I7Vrs1nVRr-MNf0kVUJZEaxEPe577LIQNS6gyM2ex2GLQcqSZ7zJY-SGDHC2AEdkUjIXOksBqH7UYzJ74U8Lp7qI1&amp;t=32239612" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+
+    <script type="text/javascript" charset="utf-8">
+        //<![CDATA[
+        $(document).ready(function() {
+
+            function addMega() {
+                $(this).addClass("hovering");
+            }
+
+            function removeMega() {
+                $(this).removeClass("hovering");
+            }
+
+            var megaConfig = {
+                interval: 50,
+                sensitivity: 7,
+                over: addMega,
+                timeout: 50,
+                out: removeMega
+            };
+
+            $("li.mega").hoverIntent(megaConfig)
+
+
+        });
+
+
+        //]]>
+    </script>
+
+    
+    <!-- { Logo For Print -->
+    <div id="logoForPrint">
+    </div>
+    <!-- Logo For Print } -->
+    <!-- { Global Header -->
+    
+    
+    
+    <!-- Global Header } -->
+    <!--  { mainContainer  -->
+    <div id="mainContainer">
+        <div id="leftSideBar">
+            
+            
+
+        </div>
+        <div id="rightSideBar">
+            
+            
+        
+        <div class="callOut">
+            <div>
+	<div id="googleAds"><span style="line-height:1px">&nbsp;</span></div>
+</div>
+        </div>
+    
+        
+
+        </div>
+        <!--   { container -->
+        <div id="container">
+            <!-- { Page Header -->
+            <div id="header" style="text-align: center;">
+                
+<div id="headerVector">
+    
+    <div id="EventLogo">
+        <a href="http://www.arabhealthonline.com/Medlab/">
+            <img src="http://inc.iirme.com/Sites/Medlab/v2/Images/logo.png" alt="MEDLAB Logo" style="vertical-align: middle;" /></a></div>
+    
+    <div id="EventName">
+        MEDLAB
+    </div>
+    <div id="EventTagline">
+        <div class="RegSticker"><a href="http://www.dothealth.com/exhibitions/arabhealthonline/" target="_blank"><img style="BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px" alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/medlabbutton.png" /></a> <a href="http://arabhealthonline.com/Medlab/Forms/MED-Pre-RegistrationForm/" target="_blank"><img style="BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px" alt="" src="http://inc.iirme.com/Sites/MEDLAB/v2/Images/medlabreg.png" /></a></div></div>
+    <div id="EventDetails">
+        <div id="EventDate">
+            28 - 31 January 2013
+        </div>
+        <div id="EventVenue">
+            Dubai International Convention & Exhibition Centre<br />A Part of Arabhealth
+        </div>
+    </div>
+    <!-- ryansicadpogi -->
+    <div id="HeaderLinks">
+    
+        
+                
+                <div id="Home">
+                    <a href="/Medlab/Home1/">MEDLAB Home</a>
+                </div>
+            
+                
+                <div id="News">
+                    <a href="/Medlab/Home/News/">News</a>
+                </div>
+            
+                
+                <div id="Venue-and-Accommodation">
+                    <a href="/Medlab/Home/Venue-and-Accommodation/">Venue and Travel</a>
+                </div>
+            
+                
+                <div id="Contact-us">
+                    <a href="/Medlab/Home/Contact-us/">Contact us</a>
+                </div>
+            
+                
+                <div id="RelatedEvents">
+                    <a href="/Medlab/Home/RelatedEvents/">Related events</a>
+                </div>
+            
+                
+                <div id="Publications">
+                    <a href="http://www.lifesciencesmagazines.com?id=4845">Publications</a>
+                </div>
+            
+    </div>
+</div>
+
+            </div>
+            <!-- Page Header } -->
+            <!-- TODO: Hide/Show Menu base on the NavigationType(IntellectServicesTemplatePage.CurrentEventPage.NavigationType) -->
+            <div id="horizontalNavigation">
+                <div id="HmenuContainer" style="padding-top: 0">
+                    
+                    
+        <script type="text/javascript">
+        // initialise plugins
+        jQuery(function() {
+        jQuery('ul.hMenu').supersubs({
+                minWidth: 15,
+                maxWidth: 35,
+                extraWidth: 1
+            })
+            jQuery('ul.hMenu').superfish({
+            delay: 1000,
+            animation: { opacity: 'show', height: 'show' },
+            speed: 'fast',
+            autoArrows: false,
+            dropShadows: false
+        });
+    });
+
+    </script>
+
+       <ul class='hMenu'>
+    
+        <li>
+            
+        <a href="/AHCongress/Conferences1/Conf7/" target="" id="MEDLABCongress">MEDLAB Congress</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="#" target="" id="ExhibitorZone-Medlab">Exhibitor Zone</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/Medlab/Forms/MED-BookAStand/" target="" id="Book-a-Stand">Book a Stand</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/ExhibitorZone-Medlab/VisitorProfile-Medlab/" target="" id="VisitorProfile-Medlab">Visitor Profile</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/ExhibitorZone-Medlab/ExhibitorProfile-Medlab/" target="" id="ExhibitorProfile-Medlab">Exhibitor Profile</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/ExhibitorZone-Medlab/Why-Exhibit/" target="" id="Why-Exhibit">Why Exhibit?</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/ExhibitorZone-Medlab/Marketingsupport-Medlab/" target="" id="Marketingsupport-Medlab">Marketing support</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="#" target="" id="Sponsortheevent-Medlab">Sponsor the event</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/Medlab/ExhibitorZone-Medlab/Sponsortheevent-Medlab/SponsorshipOpportunities-Medlab/" target="" id="SponsorshipOpportunities-Medlab">Sponsorship Opportunities</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/Forms/MED-SponsorshipEnquiry/" target="" id="Spnosorshipenquiry-Medlab">Spnosorship enquiry</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/ExhibitorZone-Medlab/Recommended-Contractors/" target="" id="Recommended-Contractors">Recommended Stand Contractors</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/ExhibitorZone-Medlab/Venueex-Medlab/" target="" id="Venueex-Medlab">Venue</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="#" target="" id="VisitorZone-Medlab">Visitor Zone</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/Medlab/Forms/MED-Pre-RegistrationForm/" target="" id="Register-as-a-Visitor">Register as a Visitor</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/VisitorZone-Medlab/VisitorProfilev-Medlab/" target="" id="VisitorProfilev-Medlab">Visitor Profile</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/VisitorZone-Medlab/ExhibitoreProfile-Medlab/" target="" id="ExhibitoreProfile-Medlab">Exhibitor Profile</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/VisitorZone-Medlab/Why-Visit/" target="" id="Why-Visit">Why Visit?</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="#" target="" id="TravelZone-Medlab">Travel Zone</a>
+    
+       <ul>
+    
+        <li>
+            
+        <a href="/Medlab/TravelZone-Medlab/AboutDubai-Medlab/" target="" id="AboutDubai-Medlab">About Dubai</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/TravelZone-Medlab/VisaRequirements-Medlab/" target="" id="VisaRequirements-Medlab">Visa Requirements</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/TravelZone-Medlab/TravelAccommodation-Medlab/" target="" id="TravelAccommodation-Medlab">Travel & Accommodation</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/TravelZone-Medlab/Venue-Medlab/" target="" id="Venue-Medlab">Venue</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Medlab/Forms/MED-TravelEnquiry/" target="" id="MED-TravelEnquiryForm">Travel Enquiry Form</a>
+    
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li>
+            
+        <a href="http://www.dothealth.com/exhibitions/arabhealth/directory.aspx" target="1" id="Exhibitor-Directory">Exhibitor Directory</a>
+    
+        </li>
+    
+        <li>
+            
+        <a href="/Home/" target="" id="Arab-Health-Exhibition">Arab Health Exhibition</a>
+    
+        </li>
+    
+        </ul>
+    
+
+                </div>
+            </div>
+            
+            
+            
+            
+
+            <!-- { Right Callout Bins Buttons -->
+            
+        
+            <div id="rightPanel" class="rightPanel">
+        
+        <div class="callOut">
+            <div>
+	<table class="banner" style="WIDTH: 100%" cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td><a href="http://www.arabhealthonline.com/Forms/DownloadPostShowreport/"><img alt="" src="http://inc.iirme.com/Sites/MEDLAB/v2/Images/NewQuickLinks/btn2.gif" /></a></td></tr>
+<tr>
+<td><a href="http://www.arabhealthonline.com/Home/"><img alt="" src="http://inc.iirme.com/Sites/MEDLAB/v2/Images/NewQuickLinks/btn3.gif" /></a></td></tr>
+<tr>
+<td><a href="http://arabhealthonline.com/Medlab/Forms/MED-E-NewsletterSubscription/"><img alt="" src="http://inc.iirme.com/Sites/MEDLAB/v2/Images/NewQuickLinks/btn4.gif" /></a></td></tr>
+<tr>
+<td><a href="http://arabhealthonline.com/Medlab/Forms/MED-E-BookSubscription/"><img alt="" src="http://inc.iirme.com/Sites/MEDLAB/v2/Images/NewQuickLinks/btn5.gif" /></a></td></tr>
+<tr>
+<td><a href="http://arabhealthonline.com/Medlab/TravelZone-Medlab/VisaRequirements-Medlab/"><img alt="" src="http://inc.iirme.com/Sites/MEDLAB/v2/Images/NewQuickLinks/btn6.gif" /></a></td></tr>
+<tr>
+<td><a href="http://arabhealthonline.com/Medlab/MediaRegistrationClosed/"><img alt="" src="http://inc.iirme.com/Sites/MEDLAB/v2/Images/NewQuickLinks/btn7.gif" /></a></td></tr>
+<tr>
+<td><a href="http://arabhealthonline.com/Medlab/Home/Contact-us/"><img style="MARGIN-BOTTOM: 0px" alt="" src="http://inc.iirme.com/Sites/MEDLAB/v2/Images/NewQuickLinks/btn8.gif" /></a></td></tr></tbody></table><!--<TR>
+<TD><A href="http://arabhealthonline.com/Medlab/Forms/MED-Pre-RegistrationForm/"><IMG alt="" src="http://inc.iirme.com/Sites/MEDLAB/v2/Images/NewQuickLinks/btn1.gif"></A></TD></TR>-->
+</div>
+        </div>
+    
+        <div class="callOut">
+            <div>
+	<h2>Upcoming Events</h2>
+<div>
+<marquee onmouseover="this.stop();" onmouseout="this.start();" scrollamount="2" direction="up" height="440">
+<table style="MARGIN: 0px auto" cellspacing="0" cellpadding="0" width="95%" align="center" border="0">
+<tbody>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.abudhabimed.com/" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/ADMClogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>23rd – 25th October 2011</strong><br /><a href="http://www.abudhabimed.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.dentistryme.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/Dentistrylogo1.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>1st – 3rd November 2011</strong><br /><a href="http://www.dentistryme.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.antiagingme.com/" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/icaam.gif" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>25th – 26th November 2011</strong><br /><a href="http://www.antiagingme.com/" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.icjr-me.com/" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/icjr.gif" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>1st – 3rd March 2012</strong><br /><a href="http://www.icjr-me.com/" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.mediconex.net/" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/mediconex.gif" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>18th – 20th April 2012</strong><br /><a href="http://www.mediconex.net/" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.me-oto.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/OTOlogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>22nd – 24th April 2012</strong><br /><a href="http://www.me-oto.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.obs-gyne.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/OBSGynelogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>1st – 3rd April 2012</strong><br /><a href="http://www.obs-gyne.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.hospitalbuildchina.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/HB-ChinaLogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>19th – 21st May 2012</strong><br /><a href="http://www.hospitalbuildchina.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.hospitalbuildeurope.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/HB-EuropeLogon.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>24th – 26th April 2012</strong><br /><a href="http://www.hospitalbuildeurope.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.africahealthexhibition.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/AfricaHealthlogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>9th – 11th May 2012</strong><br /><a href="http://www.africahealthexhibition.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.hospitalbuild-me.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/HBMElogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>4th – 6th June 2012</strong><br /><a href="http://www.hospitalbuild-me.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.hospitalbuildasia.com" target="_blank"><img alt="" src="http://inc.iirme.com/Sites/ArabHealth/v2/Images/UpcomingEvtlogos/HBasialogo.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle">
+<div style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px" align="center"><strong>18th – 20th July 2012</strong><br /><a href="http://www.hospitalbuildasia.com" target="_blank"><strong>More Details</strong></a></div></td></tr>
+<tr>
+<td align="middle" height="10"></td></tr></tbody></table></marquee></div>
+</div>
+        </div>
+    
+        <div class="callOut">
+            <div>
+	<div class="iframTop"></div>
+<script src="http://inc.iirme.com/JSFramework/V1.0/Raw Files/Components/twit-widget.js"></script>
+<script>
+new TWTR.Widget({
+version: 2,
+type: 'profile',
+rpp: 2,
+interval: 30000,
+width: 245,
+height: 300,
+theme: {
+shell: {
+background: '#117eb0',
+color: '#ffffff'
+},
+tweets: {
+background: '#ffffff',
+color: '#000000',
+links: '#117dab'
+}
+},
+features: {
+scrollbar: false,
+loop: false,
+live: false,
+hashtags: true,
+timestamp: true,
+avatars: false,
+behavior: 'all'
+}
+}).render().setUser('arab_health').start();
+</script>
+
+</div>
+        </div>
+    
+        
+          <div class="clrLeft"></div>    
+        </div>
+        
+
+            <!-- Right Callout Bins Buttons } -->
+            <!-- { ContentPanel -->
+            <div id="contentPanel">
+                <!-- { BreadCrumbs -->
+                
+                <!-- BreadCrumbs } -->
+                <!-- { Featured Content Callout -->
+                
+
+                <!-- Featured Content Callout } -->
+                <!-- { MainContent -->
+                <div id="mainContents">
+                    
+                    
+    
+    <h1>
+        <span>News</span>
+    </h1>
+    <p>News introduction Content</p>
+    <div id="ctl00_Content_FilterSearchBox">
+        <div class="listFilterBox">
+            <div id="ctl00_Content_divFilterPanel">
+                <div id="ctl00_Content_divSearchControl">
+                    Keyword Search:
+                    <input name="ctl00$Content$txtSearText" type="text" id="ctl00_Content_txtSearText" class="inputBox" />
+                    <input type="submit" name="ctl00$Content$btnSearch" value="" id="ctl00_Content_btnSearch" class="searchButton" />
+                </div>
+                <div id="ctl00_Content_divCategory">
+                </div>
+                <br />
+                
+            </div>
+        </div>
+    </div>
+    
+    <br class="clearFloat" />
+    <div id="ctl00_Content_divRepeater">
+        <div id="ctl00_Content_divTemplates">
+            
+                    <ul id='ListContainer' class='micrositenewsItemTemplate listingPage'>
+                
+                    <li class="listItemTitle"><a href="/IndustryNews/IndNews41/">
+                        Insurance affiliations create access for patients in the region to world class eye care in Dubai   
+                    </a></li>
+                    <li class="listItemContent">
+                        Health insurance affiliations are helping to create access to some of the best eye care in the world for patients in Dubai, the UAE and across the region, according to Moorfields Eye Hospital Dubai (Moorfields). They are also helping Dubai to achieve its ambition of becoming the regional hub for healthcare...
+                    </li>
+                
+                    <li class="listItemTitle"><a href="/IndustryNews/IndNews42/">
+                        Liver transplant surgery is to soon become a reality in Qatar 
+                    </a></li>
+                    <li class="listItemContent">
+                        Liver transplant surgery is to soon become a reality in Qatar, with the Hamad Medical Corporation (HMC) in the final stages of preparations...
+                    </li>
+                
+                    <li class="listItemTitle"><a href="/IndustryNews/IndNews43/">
+                        New US$16 million Bahraini hospital to open in Nov
+                    </a></li>
+                    <li class="listItemContent">
+                        A new BD6m (US$16m) private hospital in Bahrain is on schedule to open in November...
+                    </li>
+                
+                    <li class="listItemTitle"><a href="/IndustryNews/IndNews44/">
+                        Reducing maternal mortality   
+                    </a></li>
+                    <li class="listItemContent">
+                        Jordan joined the world in adopting the Millennium Development Goals at the United Nations Millennium Summit held in 2000, during which the international community committed itself to reducing mortality rates by three fourths during the period 1990-2015...
+                    </li>
+                
+                    <li class="listItemTitle"><a href="/IndustryNews/IndNews45/">
+                        UAE Health Minister HE Dr Hanif Hassan announces Diabetes Training Program
+                    </a></li>
+                    <li class="listItemContent">
+                        H.E. Dr Hanif Hassan, UAE Minister of Health announced a Diabetes skills and training program to address the growing problem of Type 2 Diabetes in the United Arab Emirates. The initiative was announced at a ceremony inaugurating a cooperation agreement between the UAE Ministry of Health and Meduknowledge Services in the presence of sole sponsor Merck Serono Middle East...
+                    </li>
+                
+                    <li class="listItemTitle"><a href="/IndustryNews/IndNews46/">
+                        Wellpharma Medical Solutions partners with an international technology provider    
+                    </a></li>
+                    <li class="listItemContent">
+                        Abu Dhabi Investment House (ADIH), the Investment Manager for Wellpharma Medical Solutions, announced recently the signing of an agreement with Bram Spa...
+                    </li>
+                
+                    <li class="listItemTitle"><a href="/IndustryNews/IndNews47/">
+                        Arab Health 2011 exhibitor, MJ Medical, leads the way in Building Information Modelling (BIM) for healthcare facility design 
+                    </a></li>
+                    <li class="listItemContent">
+                        World leading Healthcare Consultants, MJ Medical, announce they have fully integrated their equipment planning services into a Building Information Modelling (BIM) environment and will be demonstrating how this can innovate the healthcare design process on stand 1A60 at Arab Health 2011.
+                    </li>
+                
+                    <li class="listItemTitle"><a href="/IndustryNews/IndNews48/">
+                        Breakthrough: Trials for blood made of human skin in two years
+                    </a></li>
+                    <li class="listItemContent">
+                        Researchers at McMaster University in Hamilton, Canada have discovered a way to turn human skin into blood and after two years of working on the procedure they say lab-made
+                    </li>
+                
+                    <li class="listItemTitle"><a href="/IndustryNews/IndNews49/">
+                        Dubai must 'embrace e-healthcare'
+                    </a></li>
+                    <li class="listItemContent">
+                        Dubai Health Authority (DHA) is encouraging local hospitals to turn paperless and adopt a rating system to evaluate their progress such as a customised version
+                    </li>
+                
+                    <li class="listItemTitle"><a href="/IndustryNews/IndNews50/">
+                        Dubai set to revamp health insurance
+                    </a></li>
+                    <li class="listItemContent">
+                        Three health insurance models have been readied for Dubai and one is expected to be approved by the Dubai Executive Council by the year end
+                    </li>
+                
+                    </ul>
+            <br class="clearFloat" />
+            
+            <div id="ctl00_Content_bottomPaging">
+                <div id="ctl00_Content_listPaging_pagingNavigation" class="pageContainer">
+    
+            <div id="ctl00_Content_listPaging_searchPages_ctl00_currentPage" class="pageDisplay">Page 5 of 17</div>
+            <a id="ctl00_Content_listPaging_searchPages_ctl00_HyperLink1" title="First Page" class="pagingLinks firstLink" href="http://www.arabhealthonline.com/Medlab/Home/News/?page=1" target="_self">First</a>
+                    <span>&nbsp;&nbsp;</span>
+                
+                
+            <a href='http://www.arabhealthonline.com/Medlab/Home/News/?page=1' tooltip='1' target='_self' class='pagingLinks'>1 </a>
+             
+            <a href='http://www.arabhealthonline.com/Medlab/Home/News/?page=2' tooltip='2' target='_self' class='pagingLinks'>2 </a>
+             
+            <a href='http://www.arabhealthonline.com/Medlab/Home/News/?page=3' tooltip='3' target='_self' class='pagingLinks'>3 </a>
+             
+            <a href='http://www.arabhealthonline.com/Medlab/Home/News/?page=4' tooltip='4' target='_self' class='pagingLinks'>4 </a>
+             
+            <span class='pagingLinks pageSelected'>5</span>
+             
+            <a title="Next Page" class="pageButtons pagingLinks" href="http://www.arabhealthonline.com/Medlab/Home/News/?page=6" target="_self">>></a>
+                
+                
+                
+                    <span>&nbsp;&nbsp;</span>
+                    <a id="ctl00_Content_listPaging_searchPages_ctl06_HyperLink2" title="Last Page" class="pagingLinks lasttLink" href="http://www.arabhealthonline.com/Medlab/Home/News/?page=17" target="_self">Last</a>
+               
+            
+</div>
+
+
+            </div>
+        </div>
+    </div>
+    <div>
+
+</div>
+
+
+                    
+                    <div class="clrLeft">
+                    </div>
+                    <!-- end #mainContent -->
+                </div>
+                <!-- MainContent } -->
+                <!-- { Extended Content Callout } -->
+                
+
+                <!--  Extended Content Callout } -->
+            </div>
+            <!-- ContentPanel } -->
+            <div class="clearfloat">
+            </div>
+            <!-- { Sponsors Content Callout -->
+            
+        
+            <div id="sponsorsPanel" class="sponsorsPanel">
+        
+        <div class="callOut">
+            <div>
+	<div align="center">
+<div style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-TOP: 10px">
+<table style="WIDTH: 98%" cellspacing="0" cellpadding="5" border="0">
+<tbody>
+<tr bgcolor="#efefef">
+<td align="middle">
+<div style="BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 5px" align="center"><strong>Platinum Sponsor</strong></div></td>
+<td align="middle" bgcolor="#efefef">
+<div style="BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 5px" align="center"><strong>Gold Sponsors</strong></div></td>
+<td align="middle">
+<div style="BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 5px" align="center"><strong>IIR Middle East Life Sciences Publication</strong></div></td></tr>
+<tr>
+<td align="middle">&nbsp;</td>
+<td align="middle">&nbsp;</td>
+<td align="middle">&nbsp;</td></tr>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.roche.com/" target="_blank"><img alt="Roche Diagnostics" src="/Global/ArabHealth/P_Rochelogon.gif" /></a></div></td>
+<td align="middle">
+<div align="center">
+<table style="WIDTH: 99%" cellspacing="0" cellpadding="5" border="0">
+<tbody>
+<tr>
+<td align="middle">
+<div align="center"><a href="http://www.beckmancoulter.com/Default.asp?bhfv=7" target="_blank"><img alt="Beckman Coulter" src="/Global/ArabHealth/AHCongress/BC_WBT_A_RB_300dpi.jpg" /></a></div></td>
+<td align="middle">
+<div align="center"><a href="http://www.nrl.ae/" target="_blank"><img alt="NRL" src="http://inc.iirme.com/Sites/AHCongress/v2/Images/Conf_Logos/NRL_Logo.gif" /></a></div></td>
+<td align="middle">
+<div align="center"><a href="http://www.siemens.com/arabhealth/" target="_blank"><img alt="Siemens Healthcare" src="/Global/ArabHealth/AHCongress/Siemens-logo_Print.jpg" /></a></div></td></tr></tbody></table></div></td>
+<td align="middle">
+<div align="center">
+<div align="center"><a href="http://www.lifesciencemagazines.com/Medlab-Magazine/Index.html" target="_blank"><img alt="MedLab magzine" src="/Global/ArabHealth/images/MedLab-Magazine.jpg" /></a></div></div></td></tr>
+<tr>
+<td align="middle" colspan="3" height="20">&nbsp;</td></tr></tbody></table>
+<table style="WIDTH: 98%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr bgcolor="#efefef">
+<td align="middle" colspan="3">
+<div style="BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 5px" align="center"><strong>Supporting Bodies</strong></div></td>
+<td align="middle">
+<div style="BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 5px" align="center"><strong>Organised by</strong></div></td>
+<td align="middle">
+<div style="BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 5px" align="center"><strong>Member of</strong></div></td></tr>
+<tr>
+<td align="middle" colspan="3">&nbsp;</td>
+<td align="middle">&nbsp;</td>
+<td align="middle">&nbsp;</td></tr>
+<tr>
+<td align="middle" width="15%">
+<div align="center"><a href="http://www.moh.gov.ae/ar/Default.aspx" target="_blank"><img alt="UAE Ministry of Health" src="/Global/ArabHealth/MINISTRY_of_HEALTHlogo-small.jpg" border="0" /></a></div></td>
+<td align="middle" width="20%">
+<div align="center"><a href="http://www.dha.gov.ae/EN/Pages/default.aspx" target="_blank"><img alt="Dubai Health Authority" src="/Global/ArabHealth/final-DHA-logo-small4.jpg" border="0" /></a></div></td>
+<td align="middle" width="20%">
+<div align="center"><a href="http://www.haad.ae/haad/" target="_blank"><img alt="Health Authority - Abu Dhabi" src="/Global/ArabHealth/images/haad-logo-hor.jpg" border="0" /></a></div></td>
+<td align="middle">
+<div align="center"><a href="http://www.informaexhibitions.com/" target="_blank"><img alt="" src="/Global/ArabHealth/images/Inf_Exhibitions.jpg" border="0" /></a></div></td>
+<td align="middle">
+<div align="center"><a href="http://www.aeo.org.uk/" target="_blank"><img alt="" src="/Global/ArabHealth/AEORGBlogont.jpg" border="0" /></a></div></td></tr>
+<tr>
+<td align="middle" colspan="5">&nbsp;</td></tr></tbody></table></div></div>
+</div>
+        </div>
+    
+        
+          <div class="clrLeft"></div>    
+        </div>
+        
+
+            <!-- Sponsors  Content Callout } -->
+            
+        
+            <div id="footer" class="footer">
+        
+        <div class="callOut">
+            <div>
+	<p class="footerCopyrightNotice">IIR Middle East is part of the Informa Group Plc.<br />By submitting any information to us via this website you are agreeing to allow Informa Plc to use that information <br />for marketing purposes. Please contact us here if you would like to opt-out from this service</p>
+<p class="footerStandardLinks"><a href="#">Privacy Policy</a> | <a href="#">Terms &amp; Conditions</a> | <a href="#">CAREERS @ IIRME</a> </p>
+<p class="footerAllLinks"><a href="#">Healthcare Travel</a> - <a href="#">International Conference for Anti-Aging Medicine &amp; Medical Spa</a> - <a href="#">Rheumatology</a> - <a href="#">VETme</a> - <a href="#">Obs-Gyne</a> <br /><a href="#">Middle East Update on Otolaryngology</a> - <a href="#">Hospital Build Asia</a> - <a href="#">Womens Healthcare</a> - <a href="#">Pharma</a> - <a href="#">PABME</a> - <a href="#">Healthcare Travel Asia</a> <br /><a href="#">Hospital Build Middle East</a> - <a href="#">Aesthetics Asia</a> - <a href="#">Abu Dhabi Medical Congress</a> - <a href="#">Middle East Ophthalmology Conference</a> - <a href="#">Dentistry</a> <br /></p>
+</div>
+        </div>
+    
+        
+          <div class="clrLeft"></div>    
+        </div>
+        
+
+        </div>
+    </div>
+    <!--   container } -->
+    <div class="clearfloat">
+    </div>
+    <!--   mainContainer } -->
+    <div id="globalFooter">
+        
+<!-- Quick LINKS AT BOTTOM IN GREY -->
+<style>
+
+#globalFooter  ul, ol, li, dd, blockquote{
+margin-left:0px;
+}
+#globalFooter div{
+border:0;
+}
+#globalFooter {
+	height: 308px;
+	background:url(http://inc.iirme.com/Images/Global/InformaEx/pattern.jpg) repeat-x left top;
+	padding:0px;
+}
+#globalFooterContent {
+	height:307px;
+	width:1003px;
+	margin:0 auto;
+	background:url(http://inc.iirme.com/Images/Global/InformaEx/background.jpg) no-repeat top left;
+}
+#Table_01 {
+	left:0px;
+	top:0px;
+	width:1003px;
+	height:308px;
+	color:#d8e9f7;
+	font-family:Tahoma, Arial, Verdana;
+	font-size:12px;
+}
+#Table_01 a {
+	font-weight:bold;
+	color:#FFFFFF;
+	text-decoration:none;
+	line-height:1.25em;
+	font-family:Tahoma, Arial, Verdana !important;
+	font-size:12px !important;
+}
+#Table_01 a:hover
+{
+  color:#c4d52a;
+text-decoration:underline;
+}
+#Table_01 hr {
+	height:2px;
+	color:#ffffff;
+background-color: #FFFFFF;
+margin-bottom:5px;
+}
+#logoContainer {
+	float:left;
+	width:256px;
+	height:248px;
+	padding-top:60px;
+	font-size:11px;
+}
+#contents {
+	float:right;
+	width:730px;
+	height:280px;
+	padding-top:25px;
+}
+#regions {
+	width:30em;
+	list-style:none;
+	margin:0;
+	text-indent:0;
+	padding:0;
+}
+#regions li {
+	float:left;
+	width:10em;
+}
+#sectors {
+	width:60em;
+	list-style:none;
+	margin:0;	
+	text-indent:0;	
+	padding:0;	
+}
+#sectors li {
+	float:left;
+	width:30em;
+}
+#informaLinks {
+	list-style:none;
+	margin:0;	
+	text-indent:0;	
+	padding:0;	
+}
+#informaLinks li {
+	float:left;
+	padding:0 15px;
+	border-right:#ffffff solid 1px;
+}
+#informaLinks li.last {
+	border:none;
+}
+#informaLinks li.first {
+	padding-left:0;
+}
+</style>
+<div id="globalFooterContent">
+    <div id="Table_01">
+      <div id="logoContainer"> <img src="http://inc.iirme.com/Images/Global/InformaEx/informaex.png" alt="Informa Exhibitions Logo" /> <br />
+        <br />
+        Copyright © 2011. All rights reserved.<br />
+        Informa Exhibitions. </div>
+      <div id="contents"> <p>Informa exhibitions have events in almost all regions around the globe.</p>
+        <div>
+          <ul id="regions">
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/All-Sectors/Region0-africa/All-Months/" target="_blank">Africa</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/All-Sectors/Region1-americas/All-Months/" target="_blank">Americas</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/All-Sectors/Region2-asia/All-Months/" target="_blank">Asia</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/All-Sectors/Region3-australasia/All-Months/" target="_blank">Australasia</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/All-Sectors/Region4-europe/All-Months/" target="_blank">Europe</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/All-Sectors/Region1-americas/All-Months/" target="_blank">Middle East</a><br style="line-height:3em;" />
+            </li>
+          </ul>
+          <div style="clear:left;">&nbsp;</div>
+        </div>
+        <p>We have events in a wide range of different business sectors and industries.</p>
+        <div>
+          <ul id="sectors">
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector0-Commodities, Energy and Utilities/All-Regions/All-Months/" target="_blank">Commodities, Energy & Utilities</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector1-Construction, Infrastructure and Real Estate/All-Regions/All-Months/" target="_blank">Construction, Infrastructure and Real Estate</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector2-Consumer, Retail and Leisure/All-Regions/All-Months/" target="_blank">Consumer, Retail and Leisure</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector3-Education and Public Sector/All-Regions/All-Months/" target="_blank">Education and Public Sector</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector4-Finance and Financial Services/All-Regions/All-Months/" target="_blank">Finance and Financial Services</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector5-General Management/All-Regions/All-Months/" target="_blank">General Management</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector6-Healthcare and Life Sciences/All-Regions/All-Months/" target="_blank">Healthcare and Life Sciences</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector7-IT, Telecoms and Media/All-Regions/All-Months/" target="_blank">IT, Telecoms and Media</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector8-Professional Services - Legal, Tax and Accounting/All-Regions/All-Months/" target="_blank">Professional Services - Legal, Tax and Accounting</a></li>
+            <li><a href="http://www.informaexhibitions.com/OUR-Events/#/Sector9-Transport and Logistics/All-Regions/All-Months/" target="_blank">Transport and Logisitics</a></li>
+          </ul>
+          <div style="clear:left;">&nbsp;</div>
+        </div>
+        <hr />
+        <div>
+          <ul id="informaLinks">
+            <li class="first"><a href="http://www.informaexhibitions.com/home/" target="_blank">Home</a></li>
+            <li><a href="http://www.informaexhibitions.com/Who-We-Are/" target="_blank">About Informa Exhibitions</a></li>
+            <li><a href="http://www.informaexhibitions.com/Careers/" target="_blank">Careers</a></li>
+            <li><a href="http://www.informaexhibitions.com/Contact-us/" target="_blank">Contact Us</a></li>
+			<li class="last"><a href="http://www.iirme.com/Content-Pages1/Privacy-Policy/" target="_blank">Privacy Policy</a></li>
+          </ul>
+          <div style="clear:left;">&nbsp;</div>
+        </div>
+      </div>
+    </div>
+  </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <!-- { Miscellaneous Code Snippets(javascript,css,etc) -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1609826-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1609826-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    <!-- Miscellaneous Code Snippets(javascript,css,etc) } -->
+    <!-- { GenerateCodeSnippets -->
+    
+    <!-- GenerateCodeSnippets } -->
+    <!-- { PNG Fix -->
+    
+    <!-- PNG Fix } -->
+    </body><style type="text/css">
+        #globalHeader
+        {
+            display: block;
+            padding: 0;
+        }
+    </style>
+
+    <script type="text/javascript">
+        // initialise plugins
+        jQuery(function() {
+            jQuery('ul.hMenu').supersubs({
+                minWidth: 15,
+                maxWidth: 30,
+                extraWidth: 1
+            });
+            jQuery('ul.hMenu').superfish();
+        });
+    </script>
+
+
+</html>

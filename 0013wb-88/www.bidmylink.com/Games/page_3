@@ -1,0 +1,1361 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+ "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>Games - Page 3</title>
+    <meta name="description" content="Bid My Link is a bidding web directory.Bid to take a top position, and not only will your link list higher in the directory, but you could join Link Leaders on the homepage.">
+    <meta name="keywords" content="bid for position,link bidding, bidding directory,links, text ads, text links, backlinks, bid links, link bid, bid ads, ads bid, buy ads, buy links, buy backlinks">
+    <link rel="stylesheet" type="text/css" href="/tpl/phplbBizBlue/style.css" />
+    
+    <link rel="stylesheet" type="text/css" href="/tpl/phplbBizBlue/style_als.css" />
+    <!-- BLOCK: head_styles -->
+    <script type="text/javascript" src="/tpl/phplbBizBlue/functions.js"></script>
+    <script language="JavaScript" type="text/javascript">
+    <!--
+    function myWindowOpen(url, title)
+    {
+        var myScrollbars = 'yes';
+        var myMenubar = 'yes';
+        var myHeight = 380;
+        var myWidth = 540;
+        var myResizable = 'no';
+        var myToolbar = 'no';
+        var myLocation = 'no';
+        var myStatus = 'no';
+               
+        var myWindow = window.open(url,title,'scrollbars='+myScrollbars+',menubar='+myMenubar+',height='+myHeight+',width='+myWidth+',resizable='+myResizable+',toolbar='+myToolbar+',location='+myLocation+',status='+myStatus);
+    }   
+    //-->
+    </script>
+</head>
+<body>
+<div class="body-container">
+<div class="body-outer" id="body-outer">
+<div class="body-header">
+<table width="100%" cellpadding="0px" cellspacing="0px" border="0px">
+<tr>
+<td nowrap valign="bottom"><a class="logo" href="/">Bid for Link & Link Bid Directory</a><br /><small>Bid For Link Position Directory - SEO Friendly Link Bid Web Directory</small></td>
+<td width="100%" align="right" valign="bottom" nowrap>
+    
+</td>
+</tr>
+</table>
+</div>
+<div class="tsmenu">
+    <div class="tmenu">
+    <table width="100%" cellpadding="0px" cellspacing="0px" border="0px">
+    <tr>
+    <td><img src="/tpl/phplbBizBlue/images/tmenu-left.gif" alt=""></td>
+    <td nowrap align="left" width="100%">
+        <a href="/">Home</a>&nbsp;
+        <b><a href="/submit.html">Add a Link</a></b>&nbsp;
+        <a href="/latest.html">Latest Links</a>&nbsp;
+        <a href="/contact.html">Contact</a>&nbsp;
+               
+    </td>
+    <td><img src="/tpl/phplbBizBlue/images/tmenu-right.gif" alt=""></td>
+    </tr>
+    </table>
+    </div>
+</div>
+<div class="bnav">
+<table width="100%" cellpadding="0px" cellspacing="0px" border="0px">
+<tr>
+<td width="10px"><img src="/tpl/phplbBizBlue/images/bnav-left.gif" /></td>
+<td width="100%" valign="middle">
+
+  <a href="http://www.bidmylink.com/">Home</a>
+<!-- BLOCK: nav_link -->
+  <b>&#187;</b>  <span class="nav-current">Games</span>
+</td>
+<td width="10px"><img src="/tpl/phplbBizBlue/images/bnav-right.gif" /></td>
+</tr>
+</table>
+</div>
+<table width="100%" cellpadding="0px" cellspacing="0px" border="0px">
+<tr>
+<td width="150px" valign="top">
+<div class="body-left">
+
+<h1>Categories</h1>
+
+
+<div class="cat-link2"><a href="/Advertisement/">Advertisement</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/arts/">Arts</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Blogs/">Blogs</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Business/">Business</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Computers/">Computers</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Education/">Education</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Entertainment/">Entertainment</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Finance/">Finance</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Forums/">Forums</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Games/">Games</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Health-Beauty/">Health Beauty</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Home_Garden/">Home Garden</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Internet/">Internet</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Media/">Media</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Real_Estate/">Real Estate</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Recreations/">Recreations</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/SEO/">SEO</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Shopping/">Shopping</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Sports/">Sports</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Technology/">Technology</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Travel/">Travel</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Videos/">Videos</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Web_Directories/">Web Directories</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Web_Hosting_Company/">Web Hosting Company</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/web_hosting_coupon/">Web Hosting Coupon</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/web_hosting_review/">Web Hosting Review</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+
+
+<div class="cat-link2"><a href="/Webmaster/">Webmaster</a> <span class="cat-link2-count"></span>
+<!-- BLOCK: cat_subcats -->
+</div>
+<!-- BLOCK: cat_col -->
+<!-- BLOCK: cat_row -->
+
+<br />
+
+<h1>Search</h1>
+    <form action="/search.html" method="post" style="display:inline;">
+    <table cellpadding="2px" cellspacing="0px" border="0px" align="center">
+    <td nowrap align="right" valign="middle"><input type="text" name="q" class="input-search" /></td>
+    <td nowrap align="right" valign="middle"><input type="image" src="/tpl/phplbBizBlue/images/btnsearch.gif" /></td>
+    </tr></table>
+    </form>
+</div>
+</td>
+<td valign="top">
+<div class="body-content">
+
+<h1>Games</h1><div class="link-rs"><table width="100%" cellpadding="0px" cellspacing="0px" border="0px"><tr><td width="100%" align="left" nowrap">Browsing <b>41-60</b> of <b>65</b> links on <b>Page 3</b></td><td><a href="/rss.php?cat=17"><img align="right" src="/tpl/phplbBizBlue/images/rss.gif" alt="RSS Feed" border="0px" /></a></td></tr></table></div><table width="100%" cellpadding="0px" cellspacing="0px" border="0px">
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="online kalooki" src="http://open.thumbshots.org/image.pxf?url=http://www.rummyroyal.com" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.rummyroyal.com" title="online kalooki">online kalooki</a><br /><div class="link-desc">Play multiplayer rummy games with friends. Master Gin Rummy and other rummy games.</div>
+<div class="link-field">
+http://www.rummyroyal.com<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/online-kalooki-116.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google116');" onMouseOut="switchVis('als-tooltip-links-google116');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google116">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo116');" onMouseOut="switchVis('als-tooltip-links-yahoo116');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo116">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati116');" onMouseOut="switchVis('als-tooltip-links-technorati116');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati116">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google116');" onMouseOut="switchVis('als-tooltip-pages-google116');">325</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google116">This site has <b>325</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo116');" onMouseOut="switchVis('als-tooltip-pages-yahoo116');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo116">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn116');" onMouseOut="switchVis('als-tooltip-pages-msn116');">1,010</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn116">This site has <b>1,010</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>5</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu116">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu116');" onMouseOut="switchVis('als-tooltip-edu116');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov116">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov116');" onMouseOut="switchVis('als-tooltip-gov116');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz116">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz116');" onMouseOut="switchVis('als-tooltip-dmoz116');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="Internet Poker" src="http://open.thumbshots.org/image.pxf?url=http://www.playonlineinternetpoker.com" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.playonlineinternetpoker.com" title="Internet Poker">Internet Poker</a><br /><div class="link-desc">Play internet poker against real people.Also features video poker. </div>
+<div class="link-field">
+http://www.playonlineinternetpoker.com<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/Internet-Poker-161.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google161');" onMouseOut="switchVis('als-tooltip-links-google161');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google161">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo161');" onMouseOut="switchVis('als-tooltip-links-yahoo161');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo161">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati161');" onMouseOut="switchVis('als-tooltip-links-technorati161');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati161">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google161');" onMouseOut="switchVis('als-tooltip-pages-google161');">19</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google161">This site has <b>19</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo161');" onMouseOut="switchVis('als-tooltip-pages-yahoo161');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo161">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn161');" onMouseOut="switchVis('als-tooltip-pages-msn161');">2</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn161">This site has <b>2</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>2</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu161">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu161');" onMouseOut="switchVis('als-tooltip-edu161');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov161">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov161');" onMouseOut="switchVis('als-tooltip-gov161');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz161">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz161');" onMouseOut="switchVis('als-tooltip-dmoz161');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="Casino Games" src="http://open.thumbshots.org/image.pxf?url=http://www.premiercasinogames.com" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.premiercasinogames.com" title="Casino Games">Casino Games</a><br /><div class="link-desc">Recommends casinos that offer authentic casino games.</div>
+<div class="link-field">
+http://www.premiercasinogames.com<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/Casino-Games-375.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google375');" onMouseOut="switchVis('als-tooltip-links-google375');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google375">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo375');" onMouseOut="switchVis('als-tooltip-links-yahoo375');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo375">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati375');" onMouseOut="switchVis('als-tooltip-links-technorati375');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati375">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google375');" onMouseOut="switchVis('als-tooltip-pages-google375');">112</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google375">This site has <b>112</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo375');" onMouseOut="switchVis('als-tooltip-pages-yahoo375');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo375">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn375');" onMouseOut="switchVis('als-tooltip-pages-msn375');">8</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn375">This site has <b>8</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>1</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu375">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu375');" onMouseOut="switchVis('als-tooltip-edu375');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov375">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov375');" onMouseOut="switchVis('als-tooltip-gov375');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz375">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz375');" onMouseOut="switchVis('als-tooltip-dmoz375');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="online poker" src="http://open.thumbshots.org/image.pxf?url=http://www.mansionpoker.com" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.mansionpoker.com" title="online poker">online poker</a><br /><div class="link-desc">Mansion Poker Is A Leading Online Poker Room                
+Get $500 Bonus,Play Texas Holdem,Omaha Poker</div>
+<div class="link-field">
+http://www.mansionpoker.com<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/online-poker-376.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google376');" onMouseOut="switchVis('als-tooltip-links-google376');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google376">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo376');" onMouseOut="switchVis('als-tooltip-links-yahoo376');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo376">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati376');" onMouseOut="switchVis('als-tooltip-links-technorati376');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati376">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google376');" onMouseOut="switchVis('als-tooltip-pages-google376');">281</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google376">This site has <b>281</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo376');" onMouseOut="switchVis('als-tooltip-pages-yahoo376');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo376">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn376');" onMouseOut="switchVis('als-tooltip-pages-msn376');">133</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn376">This site has <b>133</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>5</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu376">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu376');" onMouseOut="switchVis('als-tooltip-edu376');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov376">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov376');" onMouseOut="switchVis('als-tooltip-gov376');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz376">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz376');" onMouseOut="switchVis('als-tooltip-dmoz376');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="9-Ball Pool" src="http://open.thumbshots.org/image.pxf?url=http://www.billiardmagic.com" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.billiardmagic.com" title="9-Ball Pool">9-Ball Pool</a><br /><div class="link-desc">Play multi language online pool, billiard and online snooker at BilliardMagic.com. Also enjoy our personalized customer service - 24h support.
+Play online snooker and online pool on the multi language game platform of Billiard Magic. Including...</div>
+<div class="link-field">
+http://www.billiardmagic.com<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/9-Ball-Pool-396.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google396');" onMouseOut="switchVis('als-tooltip-links-google396');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google396">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo396');" onMouseOut="switchVis('als-tooltip-links-yahoo396');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo396">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati396');" onMouseOut="switchVis('als-tooltip-links-technorati396');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati396">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google396');" onMouseOut="switchVis('als-tooltip-pages-google396');">53</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google396">This site has <b>53</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo396');" onMouseOut="switchVis('als-tooltip-pages-yahoo396');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo396">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn396');" onMouseOut="switchVis('als-tooltip-pages-msn396');">11</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn396">This site has <b>11</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>3</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu396">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu396');" onMouseOut="switchVis('als-tooltip-edu396');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov396">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov396');" onMouseOut="switchVis('als-tooltip-gov396');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz396">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz396');" onMouseOut="switchVis('als-tooltip-dmoz396');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="casinos " src="http://open.thumbshots.org/image.pxf?url=http://www.blogdecasinos.com" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.blogdecasinos.com" title="casinos ">casinos </a><br /><div class="link-desc">Report on casinos games and online casinos. Special Promotions in online casinos, with the best bonuses for casinos gaming. Spanish site.</div>
+<div class="link-field">
+http://www.blogdecasinos.com<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/casinos--454.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google454');" onMouseOut="switchVis('als-tooltip-links-google454');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google454">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo454');" onMouseOut="switchVis('als-tooltip-links-yahoo454');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo454">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati454');" onMouseOut="switchVis('als-tooltip-links-technorati454');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati454">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google454');" onMouseOut="switchVis('als-tooltip-pages-google454');">12,900</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google454">This site has <b>12,900</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo454');" onMouseOut="switchVis('als-tooltip-pages-yahoo454');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo454">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn454');" onMouseOut="switchVis('als-tooltip-pages-msn454');">2,300</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn454">This site has <b>2,300</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>3</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu454">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu454');" onMouseOut="switchVis('als-tooltip-edu454');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov454">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov454');" onMouseOut="switchVis('als-tooltip-gov454');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz454">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz454');" onMouseOut="switchVis('als-tooltip-dmoz454');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="Online Poker" src="http://open.thumbshots.org/image.pxf?url=http://www.onlinepokeruk.co.uk" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.onlinepokeruk.co.uk" title="Online Poker">Online Poker</a><br /><div class="link-desc">A poker directory that caters to the UK.</div>
+<div class="link-field">
+http://www.onlinepokeruk.co.uk<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/Online-Poker-476.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google476');" onMouseOut="switchVis('als-tooltip-links-google476');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google476">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo476');" onMouseOut="switchVis('als-tooltip-links-yahoo476');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo476">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati476');" onMouseOut="switchVis('als-tooltip-links-technorati476');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati476">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google476');" onMouseOut="switchVis('als-tooltip-pages-google476');">65</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google476">This site has <b>65</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo476');" onMouseOut="switchVis('als-tooltip-pages-yahoo476');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo476">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn476');" onMouseOut="switchVis('als-tooltip-pages-msn476');">5</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn476">This site has <b>5</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>2</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu476">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu476');" onMouseOut="switchVis('als-tooltip-edu476');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov476">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov476');" onMouseOut="switchVis('als-tooltip-gov476');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz476">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz476');" onMouseOut="switchVis('als-tooltip-dmoz476');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="Slots" src="http://open.thumbshots.org/image.pxf?url=http://www.onlineslotsuk.co.uk" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.onlineslotsuk.co.uk" title="Slots">Slots</a><br /><div class="link-desc">A slots directory that caters to the UK gambler.</div>
+<div class="link-field">
+http://www.onlineslotsuk.co.uk<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/Slots-477.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google477');" onMouseOut="switchVis('als-tooltip-links-google477');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google477">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo477');" onMouseOut="switchVis('als-tooltip-links-yahoo477');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo477">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati477');" onMouseOut="switchVis('als-tooltip-links-technorati477');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati477">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google477');" onMouseOut="switchVis('als-tooltip-pages-google477');">96</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google477">This site has <b>96</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo477');" onMouseOut="switchVis('als-tooltip-pages-yahoo477');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo477">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn477');" onMouseOut="switchVis('als-tooltip-pages-msn477');">7</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn477">This site has <b>7</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>2</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu477">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu477');" onMouseOut="switchVis('als-tooltip-edu477');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov477">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov477');" onMouseOut="switchVis('als-tooltip-gov477');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz477">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz477');" onMouseOut="switchVis('als-tooltip-dmoz477');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="Online Casinos" src="http://open.thumbshots.org/image.pxf?url=http://www.onlinecasinosuk.co.uk" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.onlinecasinosuk.co.uk" title="Online Casinos">Online Casinos</a><br /><div class="link-desc">A casino directory that caters to the UK gambler.</div>
+<div class="link-field">
+http://www.onlinecasinosuk.co.uk<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/Online-Casinos-478.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google478');" onMouseOut="switchVis('als-tooltip-links-google478');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google478">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo478');" onMouseOut="switchVis('als-tooltip-links-yahoo478');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo478">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati478');" onMouseOut="switchVis('als-tooltip-links-technorati478');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati478">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google478');" onMouseOut="switchVis('als-tooltip-pages-google478');">95</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google478">This site has <b>95</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo478');" onMouseOut="switchVis('als-tooltip-pages-yahoo478');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo478">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn478');" onMouseOut="switchVis('als-tooltip-pages-msn478');">9</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn478">This site has <b>9</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>2</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu478">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu478');" onMouseOut="switchVis('als-tooltip-edu478');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov478">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov478');" onMouseOut="switchVis('als-tooltip-gov478');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz478">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz478');" onMouseOut="switchVis('als-tooltip-dmoz478');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="European Toxic Clan - Wolfenstein Enemy Territory" src="http://open.thumbshots.org/image.pxf?url=http://wolfet.co.uk" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://wolfet.co.uk" title="European Toxic Clan - Wolfenstein Enemy Territory">European Toxic Clan - Wolfenstein Enemy Territory</a><br /><div class="link-desc">Welcome to the home of the infamous european toxic clan, psycho urban fraggers that pawn the virtual return to castle wolfenstein enemy territory battlefields.</div>
+<div class="link-field">
+http://wolfet.co.uk<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/European-Toxic-Clan-Wolfenstein-Enemy-Territory-508.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google508');" onMouseOut="switchVis('als-tooltip-links-google508');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google508">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo508');" onMouseOut="switchVis('als-tooltip-links-yahoo508');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo508">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati508');" onMouseOut="switchVis('als-tooltip-links-technorati508');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati508">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google508');" onMouseOut="switchVis('als-tooltip-pages-google508');">570</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google508">This site has <b>570</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo508');" onMouseOut="switchVis('als-tooltip-pages-yahoo508');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo508">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn508');" onMouseOut="switchVis('als-tooltip-pages-msn508');">819</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn508">This site has <b>819</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>4</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu508">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu508');" onMouseOut="switchVis('als-tooltip-edu508');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov508">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov508');" onMouseOut="switchVis('als-tooltip-gov508');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz508">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz508');" onMouseOut="switchVis('als-tooltip-dmoz508');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="Safe Video  Poker" src="http://open.thumbshots.org/image.pxf?url=http://www.safevideopoker.com" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.safevideopoker.com" title="Safe Video  Poker">Safe Video  Poker</a><br /><div class="link-desc">Offers the most authentic video poker with the most game variations</div>
+<div class="link-field">
+http://www.safevideopoker.com<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/Safe-Video-Poker-521.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google521');" onMouseOut="switchVis('als-tooltip-links-google521');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google521">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo521');" onMouseOut="switchVis('als-tooltip-links-yahoo521');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo521">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati521');" onMouseOut="switchVis('als-tooltip-links-technorati521');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati521">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google521');" onMouseOut="switchVis('als-tooltip-pages-google521');">7</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google521">This site has <b>7</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo521');" onMouseOut="switchVis('als-tooltip-pages-yahoo521');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo521">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn521');" onMouseOut="switchVis('als-tooltip-pages-msn521');">5</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn521">This site has <b>5</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>1</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu521">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu521');" onMouseOut="switchVis('als-tooltip-edu521');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov521">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov521');" onMouseOut="switchVis('als-tooltip-gov521');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz521">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz521');" onMouseOut="switchVis('als-tooltip-dmoz521');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="Online Craps" src="http://open.thumbshots.org/image.pxf?url=http://www.playonlinecraps.net" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.playonlinecraps.net" title="Online Craps">Online Craps</a><br /><div class="link-desc"> Offering casinos with fast payouts, superior customer service, and generous VIP program's.</div>
+<div class="link-field">
+http://www.playonlinecraps.net<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/Online-Craps-522.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google522');" onMouseOut="switchVis('als-tooltip-links-google522');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google522">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo522');" onMouseOut="switchVis('als-tooltip-links-yahoo522');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo522">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati522');" onMouseOut="switchVis('als-tooltip-links-technorati522');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati522">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google522');" onMouseOut="switchVis('als-tooltip-pages-google522');">80</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google522">This site has <b>80</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo522');" onMouseOut="switchVis('als-tooltip-pages-yahoo522');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo522">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn522');" onMouseOut="switchVis('als-tooltip-pages-msn522');">2</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn522">This site has <b>2</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>2</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu522">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu522');" onMouseOut="switchVis('als-tooltip-edu522');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov522">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov522');" onMouseOut="switchVis('als-tooltip-gov522');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz522">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz522');" onMouseOut="switchVis('als-tooltip-dmoz522');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="Online Baccarat" src="http://open.thumbshots.org/image.pxf?url=http://www.playonlinebaccarat.net" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.playonlinebaccarat.net" title="Online Baccarat">Online Baccarat</a><br /><div class="link-desc"> Offering the best sites that offer online Baccarat</div>
+<div class="link-field">
+http://www.playonlinebaccarat.net<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/Online-Baccarat-525.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google525');" onMouseOut="switchVis('als-tooltip-links-google525');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google525">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo525');" onMouseOut="switchVis('als-tooltip-links-yahoo525');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo525">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati525');" onMouseOut="switchVis('als-tooltip-links-technorati525');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati525">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google525');" onMouseOut="switchVis('als-tooltip-pages-google525');">89</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google525">This site has <b>89</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo525');" onMouseOut="switchVis('als-tooltip-pages-yahoo525');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo525">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn525');" onMouseOut="switchVis('als-tooltip-pages-msn525');">3</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn525">This site has <b>3</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>3</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu525">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu525');" onMouseOut="switchVis('als-tooltip-edu525');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov525">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov525');" onMouseOut="switchVis('als-tooltip-gov525');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz525">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz525');" onMouseOut="switchVis('als-tooltip-dmoz525');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="Internet Casinos" src="http://open.thumbshots.org/image.pxf?url=http://www.internetcasinosonline.net" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.internetcasinosonline.net" title="Internet Casinos">Internet Casinos</a><br /><div class="link-desc">Features the best and most trusted internet casinos.</div>
+<div class="link-field">
+http://www.internetcasinosonline.net<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/Internet-Casinos-526.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google526');" onMouseOut="switchVis('als-tooltip-links-google526');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google526">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo526');" onMouseOut="switchVis('als-tooltip-links-yahoo526');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo526">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati526');" onMouseOut="switchVis('als-tooltip-links-technorati526');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati526">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google526');" onMouseOut="switchVis('als-tooltip-pages-google526');">80</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google526">This site has <b>80</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo526');" onMouseOut="switchVis('als-tooltip-pages-yahoo526');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo526">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn526');" onMouseOut="switchVis('als-tooltip-pages-msn526');">8</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn526">This site has <b>8</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>1</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu526">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu526');" onMouseOut="switchVis('als-tooltip-edu526');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov526">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov526');" onMouseOut="switchVis('als-tooltip-gov526');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz526">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz526');" onMouseOut="switchVis('als-tooltip-dmoz526');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="casino" src="http://open.thumbshots.org/image.pxf?url=http://www.gamblingtour.com/" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.gamblingtour.com/" title="casino">casino</a><br /><div class="link-desc">gamblingtour is the leading online casino portal with a list of the leading 
+online casinos and poker portal.
+</div>
+<div class="link-field">
+http://www.gamblingtour.com/<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/casino-533.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google533');" onMouseOut="switchVis('als-tooltip-links-google533');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google533">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo533');" onMouseOut="switchVis('als-tooltip-links-yahoo533');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo533">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati533');" onMouseOut="switchVis('als-tooltip-links-technorati533');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati533">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google533');" onMouseOut="switchVis('als-tooltip-pages-google533');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google533">This site has <b>0</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo533');" onMouseOut="switchVis('als-tooltip-pages-yahoo533');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo533">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn533');" onMouseOut="switchVis('als-tooltip-pages-msn533');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn533">This site has <b>0</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>0</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu533">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu533');" onMouseOut="switchVis('als-tooltip-edu533');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov533">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov533');" onMouseOut="switchVis('als-tooltip-gov533');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz533">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz533');" onMouseOut="switchVis('als-tooltip-dmoz533');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="Online Casino Directory" src="http://open.thumbshots.org/image.pxf?url=http://www.realcazinoz.com" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.realcazinoz.com" title="Online Casino Directory">Online Casino Directory</a><br /><div class="link-desc">realcazinoz.com is the largest online casino direcotry with best online casinos bonus sites.</div>
+<div class="link-field">
+http://www.realcazinoz.com<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/Online-Casino-Directory-542.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google542');" onMouseOut="switchVis('als-tooltip-links-google542');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google542">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo542');" onMouseOut="switchVis('als-tooltip-links-yahoo542');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo542">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati542');" onMouseOut="switchVis('als-tooltip-links-technorati542');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati542">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google542');" onMouseOut="switchVis('als-tooltip-pages-google542');">1,440</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google542">This site has <b>1,440</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo542');" onMouseOut="switchVis('als-tooltip-pages-yahoo542');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo542">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn542');" onMouseOut="switchVis('als-tooltip-pages-msn542');">33</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn542">This site has <b>33</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>3</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu542">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu542');" onMouseOut="switchVis('als-tooltip-edu542');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov542">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov542');" onMouseOut="switchVis('als-tooltip-gov542');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz542">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz542');" onMouseOut="switchVis('als-tooltip-dmoz542');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="Uk Slots" src="http://open.thumbshots.org/image.pxf?url=http://www.ukslots.org.uk" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.ukslots.org.uk" title="Uk Slots">Uk Slots</a><br /><div class="link-desc">Play the best online slots at these recommended casinos.</div>
+<div class="link-field">
+http://www.ukslots.org.uk<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/Uk-Slots-648.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google648');" onMouseOut="switchVis('als-tooltip-links-google648');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google648">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo648');" onMouseOut="switchVis('als-tooltip-links-yahoo648');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo648">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati648');" onMouseOut="switchVis('als-tooltip-links-technorati648');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati648">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google648');" onMouseOut="switchVis('als-tooltip-pages-google648');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google648">This site has <b>0</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo648');" onMouseOut="switchVis('als-tooltip-pages-yahoo648');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo648">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn648');" onMouseOut="switchVis('als-tooltip-pages-msn648');">4</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn648">This site has <b>4</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>1</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu648">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu648');" onMouseOut="switchVis('als-tooltip-edu648');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov648">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov648');" onMouseOut="switchVis('als-tooltip-gov648');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz648">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz648');" onMouseOut="switchVis('als-tooltip-dmoz648');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="Online Pokies" src="http://open.thumbshots.org/image.pxf?url=http://www.onlinepokies.com.au/" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.onlinepokies.com.au/" title="Online Pokies">Online Pokies</a><br /><div class="link-desc">Top online casinos for your pokies and slots needs at Online pokies.com.au.</div>
+<div class="link-field">
+http://www.onlinepokies.com.au/<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/Online-Pokies-697.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google697');" onMouseOut="switchVis('als-tooltip-links-google697');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google697">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo697');" onMouseOut="switchVis('als-tooltip-links-yahoo697');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo697">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati697');" onMouseOut="switchVis('als-tooltip-links-technorati697');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati697">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google697');" onMouseOut="switchVis('als-tooltip-pages-google697');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google697">This site has <b>0</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo697');" onMouseOut="switchVis('als-tooltip-pages-yahoo697');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo697">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn697');" onMouseOut="switchVis('als-tooltip-pages-msn697');">238</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn697">This site has <b>238</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>3</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu697">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu697');" onMouseOut="switchVis('als-tooltip-edu697');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov697">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov697');" onMouseOut="switchVis('als-tooltip-gov697');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz697">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz697');" onMouseOut="switchVis('als-tooltip-dmoz697');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="PokerTime Online poker" src="http://open.thumbshots.org/image.pxf?url=http://www.pokertime.eu" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.pokertime.eu" title="PokerTime Online poker">PokerTime Online poker</a><br /><div class="link-desc">PokerTime online poker room invites you to play fast paced, secure poker games such as Texas-Holdem, Omaha, Stud and many more. Claim your free poker bonus for new poker players. Join the best Poker Room found anywhere online.</div>
+<div class="link-field">
+http://www.pokertime.eu<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/PokerTime-Online-poker-706.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google706');" onMouseOut="switchVis('als-tooltip-links-google706');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google706">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo706');" onMouseOut="switchVis('als-tooltip-links-yahoo706');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo706">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati706');" onMouseOut="switchVis('als-tooltip-links-technorati706');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati706">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google706');" onMouseOut="switchVis('als-tooltip-pages-google706');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google706">This site has <b>0</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo706');" onMouseOut="switchVis('als-tooltip-pages-yahoo706');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo706">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn706');" onMouseOut="switchVis('als-tooltip-pages-msn706');">786</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn706">This site has <b>786</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>4</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu706">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu706');" onMouseOut="switchVis('als-tooltip-edu706');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov706">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov706');" onMouseOut="switchVis('als-tooltip-gov706');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz706">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz706');" onMouseOut="switchVis('als-tooltip-dmoz706');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="80px" valign="top" nowrap><img style="border:solid 1px #ccc;" width="120" height="90" alt="Best Deal Online Casinos" src="http://open.thumbshots.org/image.pxf?url=http://www.usa-online-casino.net" border="0px" />
+<td width="100%" class="link-cell">
+<a class="link-title" href="http://www.usa-online-casino.net" title="Best Deal Online Casinos">Best Deal Online Casinos</a><br /><div class="link-desc">Best online casinos with top free bonuses welcome all players from the United States of America.</div>
+<div class="link-field">
+http://www.usa-online-casino.net<br>
+Current Contribution: <b>$2</b> - <a href="http://www.bidmylink.com/link/Best-Deal-Online-Casinos-792.html">Increase Bid</a>
+</div>
+
+
+<div class="als-outer">
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-backlinks.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-links-google792');" onMouseOut="switchVis('als-tooltip-links-google792');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-google792">This site has <b>0</b> links in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-links-yahoo792');" onMouseOut="switchVis('als-tooltip-links-yahoo792');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-yahoo792">This site has <b>0</b> links in Yahoo.</div>
+    <div class="als-cell-technorati" onMouseOver="switchVis('als-tooltip-links-technorati792');" onMouseOut="switchVis('als-tooltip-links-technorati792');">0</div>
+    <div class="als-tooltip" id="als-tooltip-links-technorati792">This site has <b>0</b> links in Technorati.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pages.gif" alt="" /><br />
+    <div class="als-cell-google" onMouseOver="switchVis('als-tooltip-pages-google792');" onMouseOut="switchVis('als-tooltip-pages-google792');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-google792">This site has <b>0</b> pages indexed in Google.</div>
+    <div class="als-cell-yahoo" onMouseOver="switchVis('als-tooltip-pages-yahoo792');" onMouseOut="switchVis('als-tooltip-pages-yahoo792');">0</div>
+    <div class="als-tooltip" id="als-tooltip-pages-yahoo792">This site has <b>0</b> pages indexed in Yahoo.</div>
+    <div class="als-cell-msn" onMouseOver="switchVis('als-tooltip-pages-msn792');" onMouseOut="switchVis('als-tooltip-pages-msn792');">831</div>
+    <div class="als-tooltip" id="als-tooltip-pages-msn792">This site has <b>831</b> pages indexed in MSN.</div>
+</div>
+<div class="als-box"><img src="/tpl/phplbBizBlue/images/als-pagerank.gif" alt="" /><br /><div class="als-cell-pagerank"><b>3</b></div>
+    <div class="als-icobg">
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-edu792">This site has <b>0</b> backlinks from .edu domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-edu792');" onMouseOut="switchVis('als-tooltip-edu792');"><img src="/tpl/phplbBizBlue/images/als-ico-edu.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-gov792">This site has <b>0</b> backlinks from .gov domains.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-gov792');" onMouseOut="switchVis('als-tooltip-gov792');"><img src="/tpl/phplbBizBlue/images/als-ico-gov.gif" alt="" /></div>
+    <div class="als-tipbox"><div class="als-tooltip" id="als-tooltip-dmoz792">This site has <b>0</b> backlinks in DMOZ Open Directory.</div></div>
+    <div class="als-icobox" onMouseOver="switchVis('als-tooltip-dmoz792');" onMouseOut="switchVis('als-tooltip-dmoz792');"><img src="/tpl/phplbBizBlue/images/als-ico-dmoz.gif" alt="" /></div>
+    </div>
+</div>
+<br clear="all" />
+</div>
+
+
+</td>
+</tr>
+
+
+
+<tr><td colspan="2"><br /></td></tr>
+<!-- BLOCK: link_row -->
+<!-- BLOCK: nolink_row -->
+</table>
+<br clear="all" />
+<table align="right" cellpadding="0px" cellspacing="1px" border="0px" class="pager-table"><tr><td class="pager-page">Page 3 of 4</td><td class="pager-link"><a href="/Games/"><b>&laquo;</b></a></td><td class="pager-link"><a href="/Games/page_2/">&lt;</a></td><td class="pager-link"><a href="/Games/">1</a></td><td class="pager-link"><a href="/Games/page_2/">2</a></td><td class="pager-current"><b>3</b></td><td class="pager-link"><a href="/Games/page_4/">4</a></td><td class="pager-link"><a href="/Games/page_4/">&gt;</a></td><td class="pager-link"><a href="/Games/page_4/"><b>&raquo;</b></a></td></tr></table>
+
+</div>
+</div>
+</td>
+<td width="150px" valign="top">
+<div class="body-right">
+<div align="center"><img src="http://pr.prchecker.info/getpr.php?codex=aHR0cDovL3d3dy5iaWRteWxpbmsuY29tLw==&tag=2" alt="PageRank Checking Icon" border="0" />
+  <br>
+  
+</div>
+<h1 align="left">Link Leader</h1>
+<div align="center"><a href="http://www.mansion.com" target="_BLANK"><img width="105" height="85" alt="online casino" src="http://open.thumbshots.org/image.pxf?url=http://www.mansion.com"></a><br>
+</div>
+<div class="leader" style="text-align:center;"><a href="http://www.mansion.com">online casino</a></div><br />
+<h1>Bid Directory</h1>
+<div class="linkroll">
+
+<div class="linkroll-title"><a href="http://www.linkanchor.com/">Bid for Link</a></div>
+<div class="linkroll-desc">Linkanchor.com is a bid for link directory. Place bid for your link in this directory.</div>
+
+<div class="linkroll-title"><a href="http://www.nvrenshow.net/">Bidding Web Directory</a></div>
+<div class="linkroll-desc">Nvrenshow.net is a high pagerank and quality bidding web directory site.</div>
+
+<div class="linkroll-title"><a href="http://www.direcbid.com/">Bid directory</a></div>
+<div class="linkroll-desc">Direcbid.com is a good bid directory that you must submit your site.</div>
+
+<div class="linkroll-title"><a href="http://www.bidmylink.com/">Bid Link</a></div>
+<div class="linkroll-desc">Bidmylink.com is a high quality bid link directory. Only the best link gets into this bid link directory</div>
+
+<div class="linkroll-title"><a href="http://www.positionstrength.com/">Bid for Position</a></div>
+<div class="linkroll-desc">Positionstrength.com is a bid for position directory. Famous and human edited.</div>
+
+<div class="linkroll-title"><a href="http://www.bid-index.com/">Bid Web Directory</a></div>
+<div class="linkroll-desc">Bid-index.com is a bid web directory. Place your bid in this web directory today.</div>
+
+<div class="linkroll-title"><a href="http://www.bidding-directory.org/">Bidding directory</a></div>
+<div class="linkroll-desc">Bidding-directory.org is strongly promoted bidding directory.</div>
+
+<div class="linkroll-title"><a href="http://www.toprankingurl.com/">Bid for Ranking</a></div>
+<div class="linkroll-desc">Toprankingurl.com is now ranked top in search engine for term bid for ranking.</div>
+
+<div class="linkroll-title"><a href="http://www.ses-its.com/">Bid Rank</a></div>
+<div class="linkroll-desc">Ses-its.com is a strongly promoted bid rank directory.</div>
+
+<div class="linkroll-title"><a href="http://www.linkprague.com/">Bid Link Directory</a></div>
+<div class="linkroll-desc">Linkgrague.com is a famous bid link directory.</div>
+
+<div class="linkroll-title"><a href="http://www.bid-link.org/">Bidding Link</a></div>
+<div class="linkroll-desc">Bid-link.org is a new bidding link web directory.</div>
+
+<div class="linkroll-title"><a href="http://www.westgei.com/">Bidding web directory</a></div>
+<div class="linkroll-desc">Westgei.com is a new bidding web directory site.</div>
+
+<div class="linkroll-title"><a href="http://www.powernetworkingseries.com/">Bid for position directory</a></div>
+<div class="linkroll-desc">Powernetworkingseries.com is a premium bid for position directory</div>
+
+<div class="linkroll-title"><a href="http://www.tomscreekint.com/">Premium bid web directory</a></div>
+<div class="linkroll-desc">Tomscreekint.com is a premium bid web directory</div>
+
+<div class="linkroll-title"><a href="http://www.bigbangworkshops.com/">Best bid directory</a></div>
+<div class="linkroll-desc">Bigbangworkshops.com is best bid directory site.</div>
+
+<div class="linkroll-title"><a href="http://www.woodkerne.com/">Bid link directory</a></div>
+<div class="linkroll-desc">woodkerne.com is human edited bid link directory</div>
+
+<div class="linkroll-title"><a href="http://www.podsim.org/">Bid directory</a></div>
+<div class="linkroll-desc">podsim.org is a good bid directory</div>
+
+<div class="linkroll-title"><a href="http://www.propylaean.org/">PR4 Bidding Directory</a></div>
+<div class="linkroll-desc">propylaean.org is pr4 bidding directory</div>
+
+<div class="linkroll-title"><a href="http://www.brigandu.com/">Quality Bid Directory</a></div>
+<div class="linkroll-desc">brigandu.com is a strong and quality bid directory</div>
+
+<div class="linkroll-title"><a href="http://www.predocs.org/">Link Bid Directory</a></div>
+<div class="linkroll-desc">predocs.org is link bid directory</div>
+
+<div class="linkroll-title"><a href="http://www.asaconcordia.com/">Link Bidding Directory</a></div>
+<div class="linkroll-desc">Premanent link at link bidding directory</div>
+
+<div class="linkroll-title"><a href="http://www.videotapestry.org/">Link Directory</a></div>
+<div class="linkroll-desc">Quality link directory from videotapestry.org</div>
+
+<div class="linkroll-title"><a href="http://www.ibaud.org/">Best web directory</a></div>
+<div class="linkroll-desc">www.Ibaud.org - the best web directory site.</div>
+
+<div class="linkroll-title"><a href="http://www.spmdb.com/">Buy link directory</a></div>
+<div class="linkroll-desc">Spmdb.com database for buy link directory</div>
+
+<div class="linkroll-title"><a href="http://www.patentdefenceunion.org/">One way link</a></div>
+<div class="linkroll-desc">Buy one way link from patentdefenceunion.org</div>
+
+<div class="linkroll-title"><a href="http://www.davidcrouse.com/">Buy link directory</a></div>
+<div class="linkroll-desc">David crouse buy link directory, davidcrouse.com</div>
+
+<div class="linkroll-title"><a href="http://www.afwnf.com/">Bid rank</a></div>
+<div class="linkroll-desc">Afwnf.com the high ranked bid rank directory</div>
+
+<div class="linkroll-title"><a href="http://www.connectingschools.net/">Bid position</a></div>
+<div class="linkroll-desc">Set your site for bid position at connectingschools.net</div>
+
+<div class="linkroll-title"><a href="http://www.coinaf.org/">Quality bid directory</a></div>
+<div class="linkroll-desc">Coinaf.org - the Strong and quality bid directory</div>
+
+<div class="linkroll-title"><a href="http://www.buylink.org/">Buy Link</a></div>
+<div class="linkroll-desc">Buy link from this buy link site at BuyLink.org</div>
+
+<div class="linkroll-title"><a href="http://www.swisspeaks.org/">Uk Bid Directory</a></div>
+<div class="linkroll-desc">UK bid directory with swisspeaks.org</div>
+
+<div class="linkroll-title"><a href="http://www.freedirectorysubmitter.org/">Free Directory Submitter</a></div>
+<div class="linkroll-desc">Freedirectorysubmitter.org is about free directory submitter</div>
+<!-- BLOCK: linkroll_row -->
+</div>
+</div>
+</td>
+</tr>
+</table>
+<br clear="all" /><br />
+
+<table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="body-footer">
+  <tr> 
+    <td align="center"><br><br>
+	&copy;2007 <a href="/">Bid for Link & Link Bid Directory</a> &amp; <a href="/">Bid Link</a>, All rights reserved.<br />
+	Powered by <b>phpLinkBid <a href="http://www.phplinkbid.com/" title="Link Auction Software & Link Directory Script">Directory Script</a></b><br /><br />
+	</td>
+  </tr>
+</table>
+
+</div>
+<br /><br clear="all" />
+</body>
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Aurora.ph Guestbook</title>
+<meta http-equiv="Content-Type" content="text/html;charset=windows-1250" />
+<link href="http://www.aurora.ph/css/styles.css" rel="stylesheet" type="text/css" />
+<link href="style.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://www.aurora.ph/scripts/swfobject.js"></script>
+<script type="text/javascript"><!--
+function openSmiley() {
+w=window.open("smileys.htm", "smileys", "fullscreen=no,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=yes,directories=no,location=no,width=300,height=300");
+  if(!w.opener)
+  {
+  w.opener=self;
+  }
+}
+//-->
+</script>
+</head>
+<body>
+<!--<table width="770" border="0" align="center" cellspacing="0" cellpadding="0">
+<tr><td>-->
+<div id="container">
+<div class="wrapper">
+<div id="header"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width="546"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="546" height="150"><param name="movie" value="http://www.aurora.ph/images/flash/TopTemplate.swf" /><param name="quality" value="high" /><param name="menu" value="false" /><embed src="http://www.aurora.ph/images/flash/TopTemplate.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="546" height="150"></embed></object><script type="text/javascript" src="http://www.aurora.ph/scripts/ieupdate.js"></script>
+</td>
+<td><img src="http://www.aurora.ph/images/aurora_01.gif" width="119" height="73"><img src="http://www.aurora.ph/images/aurora_02.gif" width="105" height="73"><br /><img src="http://www.aurora.ph/images/aurora_03.gif" width="119" height="77"><img src="http://www.aurora.ph/images/aurora_04.gif" width="105" height="77"></td></tr><tr><td id="aurora"><img src="http://www.aurora.ph/images/aurora_08.gif" width="401" height="20" /></td><td><img src="http://www.aurora.ph/images/aurora_05.gif" width="224" height="10" /><br /><img src="http://www.aurora.ph/images/aurora_guestbook_01.gif" width="224" height="30"><br /><img src="http://www.aurora.ph/images/aurora_guestbook_02.gif" width="224" height="20"></td></tr></table></div><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr valign="top"><td id="menu">
+<ul class="navigation">
+  <li><a href="http://www.aurora.ph/fast-facts.html">Fast Facts</a><img src="http://www.aurora.ph/images/dots-fast-facts.gif" /></li>
+  <li><a href="http://www.aurora.ph/geninfo.html">General Info</a><img src="http://www.aurora.ph/images/dots-general-info.gif" /></li>
+  <li><a href="http://www.aurora.ph/tourist-info.html">Tourism</a><img src="http://www.aurora.ph/images/dots-tourism.gif" /></li>
+  <li><a href="http://www.aurora.ph/investment.html">Investment</a><img src="http://www.aurora.ph/images/dots-investment.gif" /></li>
+  <li><a href="http://www.aurora.ph/government.html">Government</a><img src="http://www.aurora.ph/images/dots-government.gif" /></li>
+  <li><a href="http://www.aurora.ph/tourism-directory.html">Directory</a><img src="http://www.aurora.ph/images/dots-directory.gif" /></li>
+  <li><a href="http://www.aurora.ph/news/">News / Articles</a><img src="http://www.aurora.ph/images/dots-news-articles.gif" /></li>
+  <li><a href="http://www.aurora.ph/events-calendar/">Events Calendar</a><img src="http://www.aurora.ph/images/dots-calendar.gif" /></li>
+  <li><a href="http://www.aurora.ph/photo-gallery/">Photo Gallery</a><img src="http://www.aurora.ph/images/dots-photo-gallery.gif" /></li>
+  <li><a href="http://www.aurora.ph/video-gallery/">Video Gallery</a><img src="http://www.aurora.ph/images/dots-video-gallery.gif" /></li>
+  <li><a href="http://www.aurora.ph/posting-forum/">Posting Forum</a><img src="http://www.aurora.ph/images/dots-posting-forum.gif" /></li>
+  <li><a href="http://www.aurora.ph/guestbook/">Guestbook</a><img src="http://www.aurora.ph/images/dots-guestbook.gif" /></li>
+  <li><a href="http://www.aurora.ph/travel-links/">Travel Links</a><img src="http://www.aurora.ph/images/dots-links.gif" /></li>
+  <li class="last"><a href="http://www.aurora.ph/">Home</a><img src="http://www.aurora.ph/images/dots.gif" /></li>
+</ul>
+</td><td id="contents"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td id="links">&nbsp;</td><td width="214"><img src="http://www.aurora.ph/images/aurora_guestbook_03.gif" width="214" height="60"></td>
+</tr></table><br /><br />
+<div align="center"><h1>Aurora.ph Guestbook</h1>
+<p>Thank you for visiting Aurora.ph where we share the abundant beauty of Aurora Province, Philippines. Record your comments of this website in the guestbook below.</p>
+<p>Discussions with your friends about Aurora and personal messages should be posted in the <a class="txt" href="http://www.aurora.ph/cgi-bin/ultimatebb.cgi">posting forum</a>.</p>
+<hr>
+<p><b>Aurora.ph is a project spearheaded by Governor Bellaflor Angara-Castillo to introduce this beautiful province across the globe and to provide a communication venue for Aurorans all over the world. The site was created and is maintained by volunteers who are NOT getting paid. This website does not take sides on political issues. We encourage freedom of expression but we do not promote use of any form of profanity and verbal abuse. We have also provided the proper forum for discussions on politics, local neighbors, surfing, tourism, etc. in the <a class="txt" href="http://www.aurora.ph/cgi-bin/ultimatebb.cgi">Posting Forums</a> section so you can 'chat' on the same topic continuously in an organized fashion. The guestbook, on the other hand, is STRICTLY for COMMENTS on the Aurora.ph website and Aurora Province in general. Please refrain from entering other types of messages.</b></p>
+<div align="left" style="margin:15px;padding:15px;background:#eef5f9;border:1px solid #0076b1"><span style="text-decoration:blink"><b>ANNOUNCEMENT</b></span><br>&bull; Let us congratulate our beloved Governor Bellaflor A. Castillo for being chosen<br>&nbsp;&nbsp;&nbsp;as the Gawad Parangal Hall of Fame Awardee as Outstanding Governor.<br>&bull; Ruperto Zubia Sr. Elementary School Grand Alumni Homecoming <a class="txt" href="http://www.aurora.ph/news/2009/ruperto-zubia-elementary-school-grand-homecoming.html">read more</a></div>
+</div><hr><h3 style="text-align:center">Aurora.ph Guestbook</h3>
+<p style="text-align:center"><a href="gbook.php?a=sign">Sign guestbook</a> | <a href="gbook.php">View guestbook</a></p>
+<div class="centered">
+<h3 style="text-align:center">View IP address</h3>
+<form action="gbook.php" method="post">
+<table class="entries" cellspacing="0" cellpadding="4" border="0" width="450">
+<tr>
+<td>
+
+<p>&nbsp;<br />
+Only guestbook owner may view IP addresses of people who posted into this guestbook. To view IP for the selected post please enter your administration password and click the &quot;View IP&quot; button.</p>
+
+<table border="0">
+<tr>
+<td><p><b>Administration password:</b></p></td>
+<td><p><input type="password" name="pass" size="20" /></p></td>
+</tr>
+<tr>
+<td><p><b>Additional options:</b></p></td>
+<td><p><label><input type="checkbox" name="addban" value="YES" style="vertical-align: middle" /> Ban this IP address</label></p></td>
+</tr>
+</table>
+
+<p>&nbsp;</p>
+<p style="text-align:center"><input type="submit" value="View IP" /> | <a href="gbook.php">Cancel / Go back</a>
+<input type="hidden" name="num" value="92" /><input type="hidden" name="a" value="seeIP" /> </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</td>
+</tr>
+</table>
+</form>
+<!--
+Changing the "Powered by" credit sentence without purchasing a licence is illegal!
+Please visit http://www.phpjunkyard.com/copyright-removal.php for more information.
+-->
+<p style="text-align:center" class="smaller">Powered by <a href="http://www.phpjunkyard.com/php-guestbook-script.php" class="smaller" target="_blank">PHP guestbook</a> 1.6 from <a href="http://www.phpjunkyard.com/" class="smaller" target="_blank">PHPJunkyard - Free PHP scripts</a></p></div><p>Archive: <a class="txt" href="archive/2005.html">2005</a> | <a class="txt" href="archive/2004.html">2004</a> | <a class="txt" href="archive/2003.html">2003</a> | <a class="txt" href="archive/2002.html">2002</a> | <a class="txt" href="archive/2001.html">2001</a> | <a class="txt" href="archive/2000.html">2000</a></p>
+<p>&nbsp;</p>
+</table></div><div class="amazon">
+<div style="background:#24120e;padding:0 0 10px 0;font:normal 11px Arial;text-align:center"><a style="color:#f9fb38;text-decoration:none" href="http://www.zemis.com/category/45805059681/1/50-Off-Mother-Earth-Day-Promo.htm" target="_blank"><img src="http://www.aurora.ph/images/mother-earth-day-promo.jpg" border="0" style="padding:0 0 10px 0;display:block" />Get 50% off on our Fall/Winter &amp; Spring/Summer collection with a minimum $50 purchase only at ZeMis.com.</a></div>
+<div id="balerAd" style="padding:0 0 15px 0"></div>
+<script type="text/javascript">
+var so = new SWFObject("http://www.aurora.ph/images/flash/baler-ad.swf", "movie", "190", "220", "6");
+so.write("balerAd");
+</script>
+<script charset="utf-8" type="text/javascript" src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822/US/csba0b-20/8002/fe0576ef-b0f0-48f7-857f-24f06cced271"> </script> <NOSCRIPT><a href="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fcsba0b-20%2F8002%2Ffe0576ef-b0f0-48f7-857f-24f06cced271&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<div style="padding:15px 0 0 0;text-align:center"><iframe src="http://rcm.amazon.com/e/cm?t=wul-20&o=1&p=21&l=ur1&category=videogames&banner=0Q2WJJ0MSEXZ94KBEZR2&f=ifr" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><!--//iframe--></div>
+</div><div class="clear"><img src="../images/spacer.gif" /></div><!--</td></tr></table>-->
+<div id="footer"></div>
+</body></html></body></html>

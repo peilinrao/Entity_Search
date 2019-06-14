@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>The Asiatic Society of Japan</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
+
+  <base href="http://www.asjapan.org/web.php/" />
+
+  <link href="/newdesign/css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/newdesign/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <!--[if !IE 7]>
+  <link href="/newdesign/css/screen_ie.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link href="/newdesign/css/screen_ie7.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script type="text/javascript" src="/newdesign/inc/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.core.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.sortable.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/jquery.metadata.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/mbTabset.js"></script>
+
+  <script type="text/javascript">
+		$(function(){
+			$("#tabset1").buildMbTabset({sortable:false});
+		});
+  </script>
+
+    <script type="text/javascript">
+		$(function(){
+			$("#a").removeClass("sel");
+			$("#cont_1").hide();
+			$("#b").addClass("sel");
+			$("#cont_2").fadeIn("fast");
+			$("#linkmemorial").addClass("optselected");
+		});
+  </script>
+
+
+
+</head>
+<body>
+
+<center><div id="main" align="left">
+
+  <div id="header" align="left">
+    <center>
+      <div><img src="/newdesign/tasoj.gif" alt="The Asiatic Society of Japan" title="The Asiatic Society of Japan"/></div>
+      <div style="height:16px; width:613px; background-color: black; margin-top:3px; padding-top:1px;"/>
+      <div style="height:15px; width:613px; background-color: white; font-family:times new roman,courier;font-size: 10px; padding-bottom:3px; padding-top:2px;">Established 1872. Registered with the <a href="http://www.scj.go.jp/en/index.html" class="dotted">Science Council of Japan</a>.</div>
+      </div>
+    </center>
+  </div>
+
+  <table id="menuasj" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr><td><p id="bigspacer">&nbsp;</p></td></tr>
+    <tr><td>
+      <div class="tabset" id="tabset1">
+        <a href="#" id="a" class="tab {container:'cont_1'}" onclick="return false;">About Us</a><a href="#" id="b" class="tab {container:'cont_2'}" onclick="return false;">ASJ Info Central</a><a href="#" id="c" class="tab {container:'cont_3'}" onclick="return false;">ASJ Merchandise</a><a href="#" id="d" class="tab {container:'cont_4'}" onclick="return false;">Search</a><!--<a href="#" id="e" class="tab {container:'cont_5'}" onclick="return false;">Members</a>-->
+      </div>
+      <div class="mbTabsetContainer" >
+        <span id="cont_1">
+          <a id="linkmain" href="main">Home</a> &middot; <a id="linkwelcome" href="about/welcome">Welcome</a> &middot; <a id="linkhistory" href="about/history">History</a> &middot; <a id="linkpatrons" href="about/patrons">Our Patron</a> &middot; <a id="linkcouncil" href="about/council">The Council</a> &middot; <a id="linkjoin" href="about/join">Join</a> &middot; <a id="linklinks" href="about/links">Other Asiatic Societies</a> &middot; <a id="linkcontact" href="about/contact">Contact</a> &middot; <a id="linksitemap" href="about/sitemap">Site Map</a>
+        </span>
+        <span id="cont_2">
+          <a id="linklectures" href="lectures/index">Lecture Archive</a> &middot; <a id="linkspeakers" href="speakers/index">Speaker Bios</a> &middot; <a id="linkcouncils" href="councils/index">Past Councils</a> &middot; <a id="linkreports" href="reports/index">Annual Reports</a> &middot; <a id="linkmemorial" href="memorial/index">Memorial Wall</a>
+        </span>
+        <span id="cont_3">
+          <a id="linktransactions" href="mercantile/transactions">Transactions and Offprints</a> &middot; <a id="linkpublications" href="mercantile/publications">Other ASJ Publications</a> &middot; <a id="linkgift" href="mercantile/gift">Gift Memberships</a>
+        </span>
+        <span id="cont_4">
+          <form action="/search.php" method="get" >Type your query <input type="text" name="q" size="16" style="height: 16px; font-size: 12px; padding: 1px;"/> <input type="submit" value="search!" style="font-size: 12px; padding: 1px;"/></form>
+        </span>
+<!--        <span id="cont_5">
+          <a id="linkbulletin" href="members/bulletin">Current bulletin</a> &middot; <a id="linkmemlect" href="members/lectures">2008 Lectures</a> &middot; All these options require to login
+        </span>-->
+      </div>
+    </td></tr>
+    <tr><td><p id="smallspacer">&nbsp;</p></td></tr>
+  </table>
+
+
+  <div id="content">
+
+    <div id="lecturesfor">
+
+<table width="750"  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+	<tr>
+		<td valign="bottom" align="center">
+			<table  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+				<tr>
+					<td align="center">
+						<!-- start horizontal menu -->
+						<table class="rootVoices" cellspacing='0' cellpadding='0' border='0'><tr>
+							<td class="rootVoice"><a id="linkarchive2007" href="lectures/2007/index">2007</a></td>
+							<td class="rootVoice"><a id="linkarchive2006" href="lectures/2006/index">2006</a></td>
+							<td class="rootVoice"><a id="linkarchive2005" href="lectures/2005/index">2005</a></td>
+							<td class="rootVoice"><a id="linkarchive2004" href="lectures/2004/index">2004</a></td>
+							<td class="rootVoice"><a id="linkarchive2003" href="lectures/2003/index">2003</a></td>
+							<td class="rootVoice"><a id="linkarchive2002" href="lectures/2002/index">2002</a></td>
+							<td class="rootVoice"><a id="linkarchive2001" href="lectures/2001/index">2001</a></td>
+							<td class="rootVoice"><a id="linkarchive2000" href="lectures/2000/index">2000</a></td>
+							<td class="rootVoice"><a id="linkarchive1999" href="lectures/1999/index">1999</a></td>
+							<td class="rootVoice"><a id="linkarchive1998" href="lectures/1998/index">1998</a></td>
+							<td class="rootVoice"><a id="linkarchive1997" href="lectures/1997/index">1997</a></td>
+							<td class="rootVoice"><a id="linkarchive1996" href="lectures/1996/index">1996</a></td>
+							<td class="rootVoice"><a id="linkarchive1995" href="lectures/1995/index">1995</a></td>
+							<td class="rootVoice"><a id="linkarchive1994" href="lectures/1994/index">1994</a></td>
+						</tr></table>
+						<!-- end horizontal menu -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+    </div>
+    <div id="text">
+
+<h3>In Memoriam - HIH Prince Takamado</h3>
+
+<p>It was with profound distress that we received the shocking news of the sudden death of our Patron, H.I.H. Prince Takamado, on November 21st. We wish to offer our deepest sympathy to H.I.H. Princess Takamado and their daughters, as also to his parents and brothers. His Highness was an enthusiastic supporter of the Society. He attended many of our meetings, including three special events in this our anniversary year, and had also planned to attend the December meeting and the AGM in January. In addition, he made his own unique contribution when he addressed us on the subject of his distinctive collection of netsuke. We are greatly saddened to think that his charm, his disarming humour, his infectious enthusiasm, and his invaluable suggestions, will be missing from our meetings.</p>
+
+
+      <div align="center">
+        <p id="copyright">Copyright &copy; 1994-2012 The Asiatic Society of Japan. All rights reserved. </p>
+      </div>
+
+    </div>
+
+  </div>
+  <br/>
+
+</div></center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4845051-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+

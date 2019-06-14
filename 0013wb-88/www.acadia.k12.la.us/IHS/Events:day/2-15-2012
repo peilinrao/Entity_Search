@@ -1,0 +1,1817 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+  <head>
+
+    <!-- acadiaparish on 375342-web5 [2/11/12 1:18:34 AM] -->
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    
+      <link rel="shortcut icon" href="/custom/images/design/header/1/favicon.png" />
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="IESAres404 v2.1" />
+    <title>View Events &bull; Events Day - Iota High</title>
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" /> 
+
+   
+     <link rel="alternate" type="application/rss+xml" title="Iota High RSS Feed" href="/rss.cfm?a=Events:day&s=IHS&t=2-15-2012" />
+   
+     <meta name="google-site-verification" content="jCiKEsSpIhwL0TOpbNzOyx_XUJMfhsCcp3YTvicvySM" />
+     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7;chrome=1">
+    <script type="text/javascript">
+      var moduleList = {
+        userLogin: { name: 'User Login', wait: false, func: 'userLogin', reported: false, loaded: false },
+        userLoginIES: { name: 'IES Special Login', wait: false, func: 'userLoginAs', reported: false, loaded: false },
+        userLoginAs: { name: 'Login As...', wait: false, func: 'userLoginAs', reported: false, loaded: false },
+        userSwitch: { name: 'Switch Users', wait: false, func: 'userSwitch', reported: false, loaded: false },
+        userLogout: { name: 'User Logout', wait: false, func: 'userLogout', reported: false, loaded: false },
+        manageGalleries: { name: 'Gallery Manager', wait: false, func: 'manageGalleries', reported: false, loaded: false, needsLoader: true },
+        userGroups: { name: 'Groups & Users', wait: false, func: 'windowUserGroups', reported: false, loaded: false, needsLoader: true },
+        userGCDMembers: { name: 'Members', wait: false, func: 'windowUserGroups', reported: false, loaded: false, needsLoader: true },
+        siteConfig: { name: 'Site Config', wait: false, func: 'windowSiteConfig', reported: false, loaded: false, needsLoader: true, requires: ['generalTab', 'navTab', 'schoolTab', 'gcdTab', 'gcdUserAssignDlg', 'forumTab', 'catTab'] }
+      };
+      
+      function checkModuleLoaded(moduleName){
+        if (!moduleList[moduleName])
+          return false;
+        if (moduleList[moduleName].requires && moduleList[moduleName].requires.length > 0){
+          var mods = moduleList[moduleName].requires;
+          var modLen = mods.length;
+          loaded = moduleList[moduleName].reported;
+          var nn=0;
+          for(var n=0; n<modLen; n++){
+            if (!moduleList[mods[n]] || !moduleList[mods[n]].loaded){
+              loaded = false;
+            }else{
+              nn++;
+            }
+          }
+          moduleList[moduleName].loadedCt = nn;
+          moduleList[moduleName].loaded = loaded;
+        }else{
+          if (moduleList[moduleName].reported)
+            moduleList[moduleName].loaded = true;
+        }
+      }
+      function launchModule(moduleName, aargs){
+        if (!moduleList[moduleName] || !moduleList[moduleName].func)
+          return false;
+                
+        //alert(moduleName);
+        //alert(moduleList[moduleName].toSource());
+                
+        if (moduleList[moduleName].loaded){
+          if (moduleList[moduleName].wait && !moduleList[moduleName].needsLoader){
+            Ext.onReady(function(){ 
+              Ext.Msg.updateText('Launching '+moduleList[moduleName].name+'...');
+            });
+          }
+          if (moduleList[moduleName].needsLoader){
+            Ext.onReady(function(){ 
+              if (moduleList[moduleName].wait)
+                Ext.Msg.hide();
+              moduleList[moduleName].wait=false;
+              Ext.Msg.wait('Launching '+moduleList[moduleName].name+'...', moduleList[moduleName].name);
+            });
+          }
+          clearTimeout(moduleList[moduleName].timer);
+            
+          setTimeout(function(){ 
+            var myModule = moduleList[moduleName];
+            Ext.onReady(function(){ 
+              if (myModule.wait)
+                Ext.Msg.hide();
+            });
+            myModule.wait=false;
+            if (myModule.func && window[myModule.func])
+              window[myModule.func].createDelegate(this, aargs)();
+              //window[myModule.func].apply(this, aargs);
+          }, 500);
+        }else{
+          clearTimeout(moduleList[moduleName].timer);
+          if (maxLoadTimePassed){
+            Ext.onReady(function(){ 
+              Ext.Msg.hide();
+            });
+            moduleList[moduleName].wait=false;
+            if (moduleList[moduleName].requires && moduleList[moduleName].requires.length > 0){
+              var curLoad = moduleList[moduleName].loadedCt || 0;
+              var modLen = moduleList[moduleName].requires.length;
+              Ext.onReady(function(){ 
+                Ext.Msg.alert('Error Loading '+moduleList[moduleName].name+' ['+curLoad+'/'+modLen+']', moduleList[moduleName].name+' failed to load due to a connection problem. Please try again in a few seconds.');
+              });
+            }else{
+              Ext.onReady(function(){ 
+                Ext.Msg.alert('Error Loading '+moduleList[moduleName].name, moduleList[moduleName].name+' failed to load due to a connection problem. Please try again in a few seconds.');
+              });
+            }
+            return false;
+          }
+          if (!moduleList[moduleName].wait){
+            Ext.onReady(function(){ 
+              Ext.Msg.wait('Please wait...', 'Loading '+moduleList[moduleName].name);
+            });
+            moduleList[moduleName].wait=true;
+          }
+          if (moduleList[moduleName].requires && moduleList[moduleName].requires.length > 0){
+            var curLoad = moduleList[moduleName].loadedCt || 0;
+            var modLen = moduleList[moduleName].requires.length;
+            Ext.onReady(function(){ 
+              Ext.Msg.updateText('Loaded ['+curLoad+' of '+modLen+'] helpers. Please wait...');
+            });
+          }
+          moduleList[moduleName].timer = setTimeout(function(){ launchModule(moduleName, aargs); }, 100);
+        }
+      }
+      var normalLoadTimePassed = false;
+      var maxLoadTimePassed = false;
+      setTimeout(function(){ normalLoadTimePassed=true }, 10000);
+      setTimeout(function(){ maxLoadTimePassed=true }, 30000);
+      function reportingIn(moduleName){
+
+        if(!moduleList[moduleName])
+          moduleList[moduleName] = {slave: true};
+          
+        var thisModule = moduleList[moduleName];
+        
+        thisModule.reported = true;
+        
+          var found = false;
+          var foundReq = "";
+          for(var mod in moduleList){
+            checkModuleLoaded(mod);
+            var eMod = moduleList[mod];
+            if (eMod.requires && eMod.requires.length > 0){
+              var mods = eMod.requires;
+              var modLen = mods.length;
+              for(var n=0; n<modLen; n++){
+                if (mods[n] == moduleName){
+                  foundReq = mods[n];
+                  found = true;
+                  break;
+                }
+              }
+            }
+          }
+        
+        Ext.onReady(function(){
+          if (found && foundReq && moduleList[foundReq] && moduleList[foundReq].loaded){
+            var nodes = Ext.query('.loadingIcon_'+foundReq);
+            for (var c=0;c<nodes.length;c++)
+              Ext.fly(nodes[c]).removeClass('loadingIcon');
+          }
+          for(var mod in moduleList){
+            if (moduleList[mod].loaded == true){
+              var nodes = Ext.query('.loadingIcon_'+mod);
+              for (var c=0;c<nodes.length;c++)
+                Ext.fly(nodes[c]).removeClass('loadingIcon');
+            }
+          }
+          if (thisModule.loaded){
+            var nodes = Ext.query('.loadingIcon_'+moduleName);
+            for (var c=0;c<nodes.length;c++)
+              Ext.fly(nodes[c]).removeClass('loadingIcon');
+          }
+        });
+
+      }
+</script> 
+     <script type="text/javascript">
+     if ((typeof Range !== "undefined") && !Range.prototype.createContextualFragment)
+    {
+        Range.prototype.createContextualFragment = function(html)
+        {
+            var frag = document.createDocumentFragment(),
+            div = document.createElement("div");
+            frag.appendChild(div);
+            div.outerHTML = html;
+            return frag;
+        };
+    }
+      var refreshTool = {
+                          id:'refresh',
+                          qtip: 'Refresh',
+                          handler: function(e, target, panel){
+                              panel.storeFN(panel);
+                          }
+                        },
+      pinTool = {
+                        id:'pin',
+                        qtip: 'Widget Style',
+                        handler: function(e, target, panel){
+                            windowModuleLayout(panel);
+                        }
+                      },
+                      
+      gearTool = {
+                        id:'gear',
+                        qtip: 'Configure Widget',
+                        handler: function(e, target, panel){
+                          if(panel.storeParams.keyword=='page'){
+                            var dID = panel.storeParams.dataID
+                            callEditor({winName : 'page_win_'+dID, editorType: 'page', editorGCDID: '0', editorDataID: dID, titleMaxLen: 40, myPortlet: panel});
+                          }else{
+                            windowModuleConfig(panel);
+                          }
+                        }
+                      },
+      closeTool = {
+                        id:'close',
+                        qtip: 'Close',
+                        handler: function(e, target, panel){
+                            Ext.Msg.show({
+                               title:'Delete Widget?',
+                               msg: 'You are about to delete a portal widget. Are you sure you want to do this?',
+                               buttons: Ext.Msg.YESNO,
+                               fn: function(r){
+                                 if (r=='yes'){
+                                  Ext.Msg.wait('Please Wait...', 'Deleting Portal');                          
+                                  Ext.Ajax.request({
+                                     url: '/ajax/portals/deletePortal.cfm',
+                                     method: 'GET',
+                                     'params': { pID: panel.storeParams.portletID},
+                                     reader : new Ext.data.JsonReader({
+                                      success : '@success'
+                                     }),
+                                     success: function(response, opts) {
+                                        var obj = Ext.decode(response.responseText);
+                                        if (obj.success){
+                                          Ext.Msg.hide();
+                                          panel.ownerCt.remove(panel, true);
+                                        }else{
+                                          Ext.Msg.alert('Error Creating Portal', 'There was an error creating the specified portal. Please try again.');
+                                        }
+                                     },
+                                     failure: function(response, opts) {
+                                      Ext.Msg.alert('Error Creating Portal', 'There was a problem communicating with the server. Please check your internet connection and try again.');
+                                     }
+                                  });   
+                                 }else{
+                                 }
+                               
+                               },
+                               animEl: 'elId',
+                               icon: Ext.MessageBox.QUESTION
+                            });
+                        }
+                      },
+      permsTool = {
+                        id:'perms',
+                        qtip: 'User Permissions',
+                        handler: function(e, target, panel){
+                            new windowPermissionUsers(panel);
+                        }
+                      },
+      maximizeTool = {
+                            id:'maximize',
+                            qtip: 'Maximize',
+                            handler: function(e, target, panel){
+                                var win = new Ext.Window({
+                                    height: 500,
+                                    minHeight: 500,
+                                    width: 600,
+                                    minWidth: 600,
+                                    modal: true,
+                                    ownerPanel: panel,
+                                    layout: 'fit',
+                                    maximizable: true,
+                                    maximized: false,
+                                    title: panel.title,
+                                    items: new Ext.Panel({
+                                        border: false,
+                                        autoScroll: true,
+                                        padding: 10,
+                                        html: panel.body.dom.innerHTML
+                                      }),
+                                    buttons: [{text: 'Close', handler: function(p, e){win.close();}}]
+                                  });
+                                win.show();
+                                
+                              }
+                          };
+      
+      var tools = [refreshTool,gearTool,pinTool,closeTool];
+      var toolsError = [gearTool,closeTool];
+      var toolsMaxAdmin = [refreshTool,gearTool,pinTool,maximizeTool,closeTool];
+      var toolsMax = [refreshTool,maximizeTool];
+
+      var currentUser = {};
+      var currentSchool = {};
+      var currentPage = {};
+      var portalLoader = function(){};
+      var isMobileBrowser = false;
+      var isEbusiness = function(){return currentSchool.Type == "eBusiness 2.0"};
+      var isCyberSchool = function(){return currentSchool.Type == "CyberSchool 2.0"};
+      var isCyberDesk = function(){return currentSchool.Type == "CyberDesk"};
+      
+      
+      currentSchool.id = 17;
+      currentSchool.Name = 'Iota High';
+      currentSchool.Type = 'CyberSchool 2.0';
+      currentSchool.isEbusiness = false;
+      currentSchool.ShortName = 'IHS';
+      currentSchool.Alias = 'IHS';
+      currentSchool.WebMailURL = 'https://webmail.acadia.k12.la.us/gw/webacc';
+      currentSchool.SwearFilter = true;
+      currentSchool.Local={};
+      
+      currentSchool.GoogleEnabled = true;
+      currentSchool.GoogleLogin = true;
+      currentSchool.LoginMode = 'cyberschool';
+      currentSchool.LDAPChangeDomain = false;
+      currentSchool.LDAPDefaultDomain = '';
+      currentSchool.EnableClassThemes = true;
+      currentSchool.TimeBlocks = false;
+
+    
+      currentUser.canUseLoginAs = false;      
+    
+      currentUser.canUseSlideShow = false;      
+    
+      currentUser.isAdminGroup = false;      
+    
+      currentUser.canUseManageUsers = false;      
+    
+        currentPage.gcdID = 0;
+      
+      currentUser.maxTimeoutTime = 0;
+    
+      var showNewUpdates = false;
+    
+      currentUser.schoolID = 0;
+    
+      currentUser.id = 0;
+      currentUser.lastHit = 0;
+      var canEdit = false;
+      var loggedIn = false;
+    
+      var RefreshID;
+      var printView = false;
+      var isSpecial = false;
+      var autoShowTipOnce = true;
+      var autoShowTip = false;
+      
+
+      var sFCKeditorToolbar = 'Default';
+      var sFCKeditorBasePath = '/fckeditor/';
+      var sFCKeditorBaseHref = '/fckeditor/';
+      var sFCKeditorSkinPath = '/fckeditor/editor/skins/office2003/';
+
+      var podVideoShowing;
+      var editMode;
+      var ddElements = [];
+      var ddElementSections = [];
+      var currentSchoolAlias;
+    
+      var navigationVersion=2.0;
+      var lastUpper=6000;
+      var navHasChanged = false;
+      var openMenus=[];
+      var openHovers=[];
+      var openHoversJS=[];
+      var allDDElements = [];
+      var allDDElementIDS = [];
+      var allQueuedActions = [];
+      var allQueuedActionsUndo = [];
+      var allMenuItems = [];
+      var allMenuHolders = [];
+      var allMenuHolderLists = [];
+      var allMenuContainers = [];
+      var currentHoverMenuItem = {};
+      var menuStack = [];
+      var editMode = false;
+
+      
+      
+      var currentPageURL      = 'a=Events:day&s=IHS&t=2-15-2012';
+      var currentPageAction   = 'Events';
+      var currentPageKeyword  = 'event';
+      var currentPageMode     = 'day';
+      var currentPageNumber   = '0';
+      var currentPageDataID   = '0';
+      var currentPageModuleID = '27';
+      var currentPageGCDID    = '0';
+      var currentPageCCID     = '';
+      var currentPageDate     = '02-15-2012';
+      var currentPageTitle    = '2-15-2012';
+      var currentGCDTheme   = "";
+      var currentsectionID    = '';
+      var currentZipCode    = '70543';
+      var currentURLBase    = 'http://www.acadia.k12.la.us/';
+      var currentURLBaseSchool    = currentURLBase + currentSchool.Alias + '/';
+      var currentURLBaseGCD    = '';
+      var currentURLBaseGCD_NS    = '';
+      var currentURLBaseModule    = currentURLBaseSchool + (currentPageKeyword == 'page' ? '' : currentPageAction + '/');
+      var currentURLBaseModule2    = (currentPageKeyword == 'page' ? '' : currentPageAction + '/');
+        //console.info(currentPageAction);
+        //console.info(currentURLBaseModule2);
+      if (currentURLBaseModule2 == "profile" && currentPageTitle != ''){
+				var run = 1;
+        var currentURLCGIURL    = currentURLBase + currentSchool.Alias + '/' + currentURLBaseModule2 + currentPageTitle;
+        var currentURLCGIURLRel = '/' + currentSchool.Alias + '/' + currentURLBaseModule2 + currentPageTitle;
+      }else if(currentURLBaseGCD !== '' && currentPageTitle){
+				var run = 2;
+        var currentURLCGIURL    = currentURLBase + currentSchool.Alias + '/' + currentURLBaseGCD + currentURLBaseModule2 + '0-'+currentPageTitle+'.html';
+        var currentURLCGIURLRel = '/' + currentSchool.Alias + '/' + currentURLBaseGCD + currentURLBaseModule2 + '0-'+currentPageTitle+'.html';
+      }else if(currentURLBaseModule2 !== false && currentPageTitle){
+				var run = 3;
+        var currentURLCGIURL    = currentURLBase + currentSchool.Alias + '/' + currentURLBaseModule2 + '0-'+currentPageTitle+'.html';
+        var currentURLCGIURLRel = '/' + currentSchool.Alias + '/' + currentURLBaseModule2 + '0-'+currentPageTitle+'.html';
+      }else if(currentURLBaseGCD !== '' && !currentPageTitle){
+				var run = 4;
+				if (currentURLBaseModule2 == 'classes/' || currentURLBaseModule2 == 'departments/') {
+					var currentURLCGIURL    = currentURLBase + currentSchool.Alias + '/' + currentURLBaseGCD_NS;
+					var currentURLCGIURLRel = '/' + currentSchool.Alias + '/' + currentURLBaseGCD_NS;
+				} else {
+					var currentURLCGIURL    = currentURLBase + currentSchool.Alias + '/' + currentURLBaseGCD + currentURLBaseModule2;
+					var currentURLCGIURLRel = '/' + currentSchool.Alias + '/' + currentURLBaseGCD + currentURLBaseModule2;
+				}
+      }else if(currentURLBaseModule2 !== false  && !currentPageTitle){
+				var run = 5;
+        var currentURLCGIURL    = currentURLBase + currentSchool.Alias + '/' + currentURLBaseModule2;
+        var currentURLCGIURLRel = '/' + currentSchool.Alias + '/' + currentURLBaseModule2;
+      }else{
+				var run = 6;
+        var currentURLCGIURL    = currentURLBase + currentSchool.Alias + '/';
+        var currentURLCGIURLRel = '/' + currentSchool.Alias + '/';
+      }
+      if (!lastLoadedURLRel)
+        var lastLoadedURLRel = currentURLCGIURLRel;
+
+
+      var podVideoShowing     = false;
+      var profileTabsOn       = false;
+      
+      function init(){
+        window.name = "cs_main";
+      }
+      function showSiteMap(){
+        my_window= window.open ("/sitemap.cfm?s="+currentSchool.Alias, "sitemap", "status=0,scrollbars=1,width=300,height=450");
+      }
+      function showChatWindow(){
+        my_window= window.open ("/ajax/chat/index.cfm", "sitemap", "status=0,scrollbars=1,width=600,height=450");
+      }
+      function sendEmail(addy){
+        my_window = window.open ("/action/mail/sendMail.cfm?e="+addy, "sendmail", "status=0,scrollbars=1,width=450,height=420");
+        return false;
+      }
+      function checkSearchForm(){
+        var tmpSearch = $('lilQ').value.trim();
+        if (tmpSearch == 'Search Site')
+          $('lilQ').value = '';
+      }
+      function textPrompter(el, focused){
+        if (focused && el.value == 'Search Site'){
+          el.value = '';
+          el.removeClassName('dimSearch');
+        }else{
+          if (!focused && el.value == ''){
+            el.value = 'Search Site';
+            el.addClassName('dimSearch');
+          }
+        }
+      }
+    </script>
+  <link href="http://extjs.cachefly.net/ext-3.4.0/resources/css/ext-all.css" rel="stylesheet" type="text/css" /><link href="http://cybercore.cachefly.net/common/css/dyn/catColors.css" rel="stylesheet" type="text/css" /><link href="http://cybercore.cachefly.net/common/css-min/1.0.3/quickCSS-min.css" rel="stylesheet" type="text/css" /> <link href="http://cybercore.cachefly.net/common/css/global_screenv1.1.css" rel="stylesheet" type="text/css" media="screen" /> <link href="http://cybercore.cachefly.net/common/css/global_print.css" rel="stylesheet" type="text/css" media="print" /> <script type="text/javascript" src="http://extjs.cachefly.net/ext-3.4.0/adapter/ext/ext-base.js"></script><script type="text/javascript" src="http://extjs.cachefly.net/ext-3.4.0/ext-all.js"></script> <script type="text/javascript" src="http://cybercore.cachefly.net/common/js/cyberschool/compact/jsLoadBaseForAll.js"></script>     <script type="text/javascript">
+      
+        var finishOpenID = false;
+      
+      
+      
+    Ext.onReady(function(){
+
+       if(finishOpenID) userLogin(); else portalLoader();
+        
+        //enable toggle-menus for mobile users
+        if (isMobileBrowser){
+          var menus = Ext.select('.pagerBarTools li.pagerBarTools_tool', true);
+          menus.on('click', function(){
+            this.toggleClass('hover');
+            this.toggleClass('pagerBarTools_tool_hover');
+          });
+          var menus2 = Ext.select('li.horizontalChild a', true);
+          menus2.on('click', function(e){
+              this.parent().toggleClass('hover');
+              this.parent().toggleClass('hoverToggle');
+            }, null, {stopPropagation: true}); 
+           
+        }
+      });
+    </script>
+<link href="http://cybercore.cachefly.net/t/005/_005_A/layout_main.css" rel="stylesheet" type="text/css" /><link href="/t/005/_005_A/layout_header.css" rel="stylesheet" type="text/css" /><link href="http://cybercore.cachefly.net/t/005/_005_A/red-902_gld-B92_bge-E4DBBE_mrn-600/css/layout_school.css" rel="stylesheet" type="text/css" />
+		 
+    <style type="text/css">
+      .x-tree-root-ct,
+      .x-tree-node-ct {margin-left: 0 !important; padding-left: 0 !important}
+      .x-tab-strip {margin-left: 0 !important; padding-left: 0 !important}
+      a.selectLink {color: black; font-weight: bold;}
+      .dragDropHolder {min-height: 10px;}
+      li .dragger {display: block; position: absolute; top: 0; z-index: 1000; right: 0; width: 16px; height: 16px; margin: 3px 3px 0;}
+      li .dragger {background: #f90 url(/common/images/nav/move.png) center center no-repeat; -moz-border-radius: 3px}
+      .leftModuleHolder li .dragger {right: 14px;}
+    </style>
+    
+    <!-- Overrides defined by SiteConfig -->
+    <style type="text/css">
+      
+      .iconAdd {background: url(/common/images/famfam/add.gif) no-repeat 0 0 !important;}
+      .iconRemove {background: url(/common/images/famfam/delete.gif) no-repeat 0 0 !important;}
+
+    </style>
+    <script type="text/javascript">
+      
+      journeyHelper = [];
+      journeyHelper.isRunning = false;
+    </script>
+    <!-- End of SiteConfig overrides-->
+
+  </head>
+  <body onload="init(); " id="top" class="isNotMobile bg_school_17 customBg_school_17  pagerBarTop"
+>
+      
+  
+  
+  
+    <script type="text/javascript">
+    
+    function toggleCat(el, cID){
+      //var name = el.identify();
+      var catItem = Ext.get(el);
+      var curVal = true;
+      if (catItem.checked != undefined)
+        curVal = catItem.checked;
+        
+      setTimeout(function(){
+        catItem.checked = !curVal;
+        catItem.dom.checked = !curVal;
+      }, 5);
+      if (curVal){
+        Ext.select('.cat_'+cID).addClass('hidden');
+      }else{
+        Ext.select('.cat_'+cID).removeClass('hidden');
+      }
+    }
+    //Ext.onReady(fixLinks);
+    var loadLastPage = function(){
+      return true;
+    };
+  </script>
+
+
+  <style type="text/css">
+    .isNotMobile #pagerBar{
+      -webkit-transition: opacity 0.5s ease-in;
+      -moz-transition: opacity 0.5s ease-in;
+      -o-transition: opacity 0.5s ease-in;
+      transition: opacity 0.5s ease-in;
+      -webkit-transition: margin 0.5s ease-in;
+      -moz-transition: margin 0.5s ease-in;
+      -o-transition: margin 0.5s ease-in;
+      transition: margin 0.5s ease-in;
+    
+      opacity: 0.4;
+      -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); 
+      -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    
+     }
+    .isNotMobile #pagerBar:hover{	
+      opacity:1.0;
+     }
+
+
+    
+    
+    .bigPrint1 .x-btn-text {font-weight: bold; font-size: 14px; height: 26px !important;}
+    .bigPrint2 .x-btn-text {font-size: 13px; height: 20px !important;}
+  </style>
+   
+   <script type="text/javascript">
+    var lastLoggedInUserID = 0;
+    var lastLoggedInUserName = '';
+    var lastLoggedInDisplayName = '';
+    var lastLoggedInUserCN = '';
+    var lastLoggedInUserDomain = '';
+    
+      currentUser.username = '';
+      currentUser.displayname = '';
+      currentUser.email = '';
+    
+    var currentPageTitle = 'View Events &bull; Events Day - Iota High';
+    var currentSchoolAlias = 'IHS';
+    
+      /*Ext.onReady(function(){
+        //setTimeout(checkMenus, 500);
+        var c = {};
+        var hideLoad = true;
+        var modData = Ext.data.Record.create([
+              {name: 'id', mapping: 'id'},
+              {name: 'title', mapping: 'title'},
+              {name: 'browser_title', mapping: 'browser_title'},
+              {name: 'data', mapping: 'data'}
+            ]);
+        var modReader = new Ext.data.XmlReader({
+              record: "content",
+              success: "success",
+              id: "id"
+            }, modData);
+
+        var myStore = new Ext.data.Store({
+              autoLoad: true,
+              reader: modReader,
+              url: '/ajax/proxy/module.cfm',
+              baseParams: {}, //c.storeParams
+              listeners: {
+                loadexception: function(m){
+                  //var errorButton = new Element('input', { 'type': 'button', style: 'float: right;', value: 'Send Error' });
+                  //errorButton.observe('click', function(){ sendError(c); });
+                  var errorText = new Element('span').update('Well, this is embarrassing.. this module is misbehaving!');
+                  var errorDiv = new Element('div', { });
+                  //errorDiv.appendChild(errorButton);
+                  errorDiv.appendChild(errorText);
+                  c.setTitle('Widget Error');
+                  c.body.dom.innerHTML = '';
+                  c.body.dom.appendChild(errorDiv);
+                },
+                load: function(s,r,o){
+                  if (c){
+                    if (hideLoad && r.length > 0){
+                      c.setTitle(r[0].data.title);
+                      c.body.dom.innerHTML = r[0].data.data;
+                    }else{
+                      if (c.body){
+                        c.setTitle("Loading...");
+                        c.body.dom.innerHTML = c.loadingText;
+                      }
+                      if (r.length > 0){
+                        setTimeout(function(){
+                          c.setTitle(r[0].data.title);
+                          c.body.dom.innerHTML = r[0].data.data;
+                        }, 500);
+                      }
+                    }
+                  }
+                }
+              }            
+            });
+      });
+    */
+      
+    var printBox;
+    var doPrint;
+    Ext.onReady(function(){
+      doPrint = function(link){
+        printBox = new Ext.Window({
+          title: 'Print',
+          modal: true,
+          resizable: false,
+          buttonAlign: 'center',
+          layout: 'border',
+          height: 170,
+          width: 400,
+          items: [
+                    {
+                      bodyStyle: 'padding: 10px; text-align: center; font-weight: bold',
+                      region: 'north',
+                      border: false,
+                      height: 30,
+                      html: 'What portion of the page would you like to print?'
+                    },{
+                      region: 'center',                    
+                      border: false,
+                      layout: {
+                                type:'vbox',
+                                padding:'5',
+                                align:'stretch'
+                              },
+                      items:[{
+                                  xtype:'button',
+                                  cls: 'bigPrint1',
+                                  text: 'Print Entire Page',
+                                  handler: function(){
+                                    printBox.close();
+                                    Ext.Msg.hide();
+                                    window.print();
+                                  }
+                              },{
+                                  xtype:'spacer',
+                                  flex: 1
+                              },{
+                                  xtype:'button',
+                                  cls: 'bigPrint2',
+                                  text: 'Print Content Only',
+                                  handler: function(){
+                                    printBox.close();
+                                    Ext.Msg.hide();
+                                    Ext.Msg.wait('Getting ready to print..','Please Wait...');
+                                    //newLocation = link.href.replace('#','') + '&printview=1';
+                                    newLocation = '/print'+lastLoadedURLRel;
+                                    //console.info(newLocation);
+                                    setTimeout(function(){
+                                      var newWindow = window.open(newLocation, '_blank');
+                                      newWindow.focus();
+                                      Ext.Msg.hide();
+                                    }, 300);
+                                    
+                                  }
+                              }]
+                    }
+                ],
+
+          buttons: [
+                  {
+                    text: 'Cancel',
+                    handler: function(){ 
+                      printBox.close();
+                    }
+                  }
+                ]
+        
+        });
+        printBox.show(this);
+      }
+    });
+    
+
+    currentPage.storeParams = {
+      dataID: currentPageDataID, 
+      alias: currentPageAction, 
+      keyword: currentPageKeyword, 
+      curPage: currentPageNumber, 
+      id: currentPageModuleID, 
+      portletID: 0, 
+      portalID: 0
+    }; 
+    currentPage.values = {dateoffset: '', layout: '', maxcalendarlistdays: '', maxcalendarlistitems: '', __alias: 'undefined'};
+  </script>
+  
+  
+  
+  <div class="pagerBarHolder pagerBarTop">
+    <script type="text/javascript">
+  var siteNotice = false;
+  function dropSiteNotice(){
+    new Ajax.Request('/supressMessages.cfm?supress=false');
+    Effect.BlindDown('siteNoticeBoxHolder', { duration: 0.5 })
+    $('pagerBarToolAlertButton').addClassName('buttonOn');
+  }
+  function liftSiteNotice(){
+    new Ajax.Request('/supressMessages.cfm?supress=true');
+    Effect.BlindUp('siteNoticeBoxHolder', { duration: 0.25 })
+    $('pagerBarToolAlertButton').removeClassName('buttonOn');
+  }
+  function toggleSiteNotice(){ 
+    
+    if ($('pagerBarToolAlertButton').hasClassName('buttonOn')){
+      liftSiteNotice();
+    }else{
+      dropSiteNotice();
+    }
+  
+  }
+</script>
+
+    <div id="pagerBar" class="pagerBar">
+      <div id="pagerBarToolLogo" class="pagerBarToolLogo">
+        
+        <a href="http://acadia.k12.la.us"><img src="/custom/images/design/header/1/logo.gif"  title="Back To District" alt="Back To District"/></a>
+          <ul class="hidden">
+            <li class="hidden"><a href="#header">Jump to Page Navigation</a></li>
+            <li class="hidden"><a href="#pageHeader">Jump to Page Content</a></li>
+            <li class="hidden"><a href="#footer">Jump to Page Footer</a></li>
+          </ul>
+      </div>
+      <div id="searchHolder" class="x-hidden">
+        <form id="searchForm" method="get" action="/action/doSearch.cfm" onclick="checkSearchForm()">
+          <input name="redirTo" type="hidden" value="/IHS/Search" />
+          <div class="pagerBarToolBox">
+            <ul class="pagerBarTools">
+              <li class="pagerBarTools_tool attachToRight">
+                <input id="lilQ" name="q" type="text"  />
+                <input type="submit" style="display: none" value="Search" />
+              </li>
+              
+      <li class="pagerBarTools_tool noLeftRound attachToRight" id="searchButtonMain">
+        <a class="toolbarButton skipWarning initSiteSearch hasIcon" href="#" target="" title="Search the site" onclick="submitSearch(); return false;">
+          <span class="iconHolder searchIcon"></span>
+          <span class="iconText"><span class="iconTextString">Search</span></span>
+          <br class="clear"/>
+        </a>
+      </li>
+      
+      <li class="pagerBarTools_tool noLeftRound" id="searchButtonCancel">
+        <a class="toolbarButton toolbarButtonDark skipWarning initCancelSiteSearch noText hasIcon" href="#" target="" title="Cancel Searching" onclick="hideSearchBar(); return false;">
+          <span class="iconHolder searchCancelIcon"></span>
+          <span class="iconText"><span class="iconTextString">Cancel</span></span>
+          <br class="clear"/>
+        </a>
+      </li>
+      
+            </ul>
+          </div>
+        </form>
+      </div>
+      <div id="toolsHolder" >
+        <div class="pagerBarToolBox">
+          <ul class="pagerBarTools">
+            
+      <li class="pagerBarTools_tool attachToRight" >
+        <a class="toolbarButton skipWarning noText hasIcon" href="javascript:decreaseFontSize();" target="" title="Decrease Font Size" onclick="">
+          <span class="iconHolder fontSmaller"></span>
+          <span class="iconText"><span class="iconTextString">A-</span></span>
+          <br class="clear"/>
+        </a>
+      </li>
+      
+      <li class="pagerBarTools_tool noLeftRound" >
+        <a class="toolbarButton skipWarning noText hasIcon" href="javascript:increaseFontSize();" target="" title="Increase Font Size" onclick="">
+          <span class="iconHolder fontBigger"></span>
+          <span class="iconText"><span class="iconTextString">A+</span></span>
+          <br class="clear"/>
+        </a>
+      </li>
+      
+      <li class="pagerBarTools_tool pagerBarTools_menu">
+        <a class="toolbarMenuButton hasIcon" target="" title="" href="#" onclick="">
+          <span class="iconHolder iconShareMenu"></span>
+          <span class="iconText"><span class="iconTextString">Sharing</span>
+            <br class="clear" />
+          </span>
+        </a>
+        <div class="pagerBarTools_menuContainer hasIcon">
+          
+          <div class="pagerBarTools_menuPadder" style="position: relative; z-index: 5000">
+            <ul class="pagerBarTools_menuHolder" style="width: 200px;">
+              
+      <li class="pagerBarTools_menuItem">
+        <a class="toolbarMenuItem hasIcon" href="#" target="" title="Need a hard copy? Click here to print!" onclick="doPrint(this); return false;">
+          <span class="iconHolder iconPrint"></span>
+          <span class="iconText"><span class="iconTextString">Print Page</span></span>
+          <br class="clear" />
+        </a>
+      </li>
+      
+            </ul>
+          </div>
+        </div>
+      </li>
+      
+      <li class="pagerBarTools_tool " id="searchButtonMain">
+        <a class="toolbarButton skipWarning initSiteSearch hasIcon" href="#" target="" title="Search the site" onclick="showSearchBar(); return false;">
+          <span class="iconHolder searchIcon"></span>
+          <span class="iconText"><span class="iconTextString">Search</span></span>
+          <br class="clear"/>
+        </a>
+      </li>
+      
+          </ul>
+        </div>
+        
+        <div class="pagerBarToolBox pagerBarTooluserLinks">
+          <ul class="pagerBarTools">
+            
+      <li class="pagerBarTools_tool " >
+        <a class="toolbarButton hasIcon" href="https://webmail.acadia.k12.la.us/gw/webacc" target="_blank" title="Click to access your WebMail" onclick="">
+          <span class="iconHolder iconEmail "></span>
+          <span class="iconText"><span class="iconTextString">WebMail</span></span>
+          <br class="clear"/>
+        </a>
+      </li>
+      
+      <li class="pagerBarTools_tool " >
+        <a class="toolbarButton hasIcon" href="/IHS/Login" target="" title="Login to access your account!" onclick="launchModule('userLogin'); return false;">
+          <span class="iconHolder iconLogin loadingIcon loadingIcon_userLogin"></span>
+          <span class="iconText"><span class="iconTextString">Login</span></span>
+          <br class="clear"/>
+        </a>
+      </li>
+      
+          </ul>
+        </div>
+        
+      </div>
+      <br class="clear" />
+    </div>
+  </div>
+  <script type="text/javascript">
+    
+    var searchBar;
+    function submitSearch(){
+      document.forms["searchForm"].submit();
+    }
+    function showSearchBar(){
+      Ext.get('searchHolder').removeClass('x-hidden');
+      Ext.get('toolsHolder').addClass('x-hidden');
+      resizePagerBar();
+      if (searchBar)
+        searchBar.focus();
+    }
+    function hideSearchBar(){
+      Ext.get('searchHolder').addClass('x-hidden');
+      Ext.get('toolsHolder').removeClass('x-hidden');
+      resizePagerBar();
+    }
+    function resizePagerBar(){
+      var srchBtn = Ext.get('searchButtonMain');
+      var srchCnclBtn = Ext.get('searchButtonCancel');
+      var logo = Ext.get('pagerBarToolLogo');
+      var item = Ext.get('pagerBar');
+      //Ext.get('lilQ').setWidth(item.getWidth() - logo.getWidth() - srchBtn.getWidth() - srchCnclBtn.getWidth() - 20);
+      if (searchBar)
+        searchBar.setWidth(item.getWidth() - logo.getWidth() - srchBtn.getWidth() - srchCnclBtn.getWidth() - 20);
+    }
+    Ext.onReady(function(){
+      window.onresize = resizePagerBar;
+      /*
+      var el = Ext.get('lilQ');
+      el.on('keydown', function(e){
+        window.location.href = "#!/"+ currentSchool.Alias + "/Search/" + this.dom.value;
+      }, el, {buffer: 300});
+      */
+        
+      var ds = new Ext.data.Store({
+          url: '/ajax/search/searchSuggestion.cfm',
+          reader: new Ext.data.JsonReader({
+              root: 'results'
+          }, [
+              {name: 'title', mapping: 'title'}
+          ])
+      });
+
+      // Custom rendering Template
+      var resultTpl = new Ext.XTemplate(
+          '<tpl for="."><div class="search-item">',
+              '{title}',
+          '</div></tpl>'
+      );
+
+      searchBar = new Ext.form.ComboBox({
+        applyTo: 'lilQ',
+        autoShow: false,
+        store: ds,
+        mode: 'remote',
+        displayField:'title',
+        typeAhead: false,
+        loadingText: 'Getting Suggestions...',
+        hideTrigger:true,
+        tpl: resultTpl,
+        itemSelector: 'div.search-item',
+        onSelect: function(record){
+            window.location.href = "#!/"+ currentSchool.Alias + "/Search/" + record.get('title');
+        },
+        listeners: {
+          show: function(){
+            resizePagerBar();
+          }
+        }
+      });
+      searchBar.show();
+      var el = Ext.get('lilQ');
+      el.on('keydown', function(e){
+        window.location.href = "#!/"+ currentSchool.Alias + "/Search/" + this.dom.value;
+      }, el, {buffer: 300});
+    });
+  </script>
+
+    <div id="mainContainer" >
+      <div id="header" class="header_school_17">
+        <h1 class="hidden">Iota High</h1>
+        <div id="logoBox">
+            <a href="/IHS/"><img src="/custom/images/design/header/17/logo.gif" border="0" id="logo" alt="" /></a>
+          </div>
+          <p class="date">Sunday, February 12, 2012</p>
+      </div>
+      
+      <div id="menuContainer" class="navContainer">
+               
+          <ul class="horiznav horizontalMenu " id="navBar_996">
+            
+                  <li class="horizontalChild " style="z-index:4999; position: relative;">
+                    
+                    <a href="/ihs/" target="" id="itemA_997" class="main title ">Home </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4998; position: relative;">
+                    
+                    <a href="/IHS/page&mode=view&ID=2973" target="" id="itemA_3366" class="main title convertToAJAXURL ">Student Handbook </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4997; position: relative;">
+                    
+                    <a href="/IHS/page&mode=view&ID=2974" target="" id="itemA_3367" class="main title convertToAJAXURL ">School Info </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild hasSubChild" style="z-index:4996; position: relative;">
+                    
+                    <a href="/district/" target="" id="itemA_1130" class="main title hasSubChild">APSB </a>
+                    
+                      <div class="horizMenu smallLeft">
+                        <ul class="horiznav horizontalMenu ">
+                          
+                <li id="item_2091" class="horizontalChild " style="z-index:5994; position: relative;">
+                  
+                  <a href="/District/1115-Parents-Web-Page.html" target="_blank" class="main title "
+                    >Parents Web Page</a>
+                  
+                </li>
+              
+                <li id="item_2145" class="horizontalChild " style="z-index:5993; position: relative;">
+                  
+                  <a href="/District/1117-APSB-School-Supply-Lists.html" target="_blank" class="main title "
+                    >School Supply Lists</a>
+                  
+                </li>
+              
+                <li id="item_2146" class="horizontalChild " style="z-index:5992; position: relative;">
+                  
+                  <a href="/District/2112-Uniform-Policy.html" target="_blank" class="main title "
+                    >Uniform Policy</a>
+                  
+                </li>
+              
+                <li id="item_8625" class="horizontalChild " style="z-index:5991; position: relative;">
+                  
+                  <a href="http://www.acadia.k12.la.us/District/Department/119-CAPS" target="_blank" class="main title "
+                    >CAPS</a>
+                  
+                </li>
+              
+                        </ul>
+                      </div>
+                    
+                  </li>
+                
+                  <li class="horizontalChild hasSubChild" style="z-index:4990; position: relative;">
+                    
+                    <a href="/IHS/Schools/" target="" id="itemA_2503" class="main title convertToAJAXURL hasSubChild">APSB Schools </a>
+                    
+                      <div class="horizMenu smallLeft">
+                        <ul class="horiznav horizontalMenu ">
+                          
+                <li id="item_2053" class="horizontalChild " style="z-index:5988; position: relative;">
+                  
+                  <a href="http://acadiaparishheadstart.cyberschool.com/" target="_blank" class="main title "
+                    >Headstart</a>
+                  
+                </li>
+              
+                <li id="item_2" class="horizontalChild hasSubChild" style="z-index:5987; position: relative;">
+                  
+                  <a href="/IHS/Schools" target="" class="main title convertToAJAXURL hasSubChild"
+                    >District</a>
+                  
+                    <div class="horizMenu smallLeft">
+                      <ul class="horizontalChildMenu dragDropMenu">
+                        
+                <li id="item_1" class="horizontalChild " style="z-index:6985; position: relative;">
+                  
+                  <a href="/District/" target="" class="main title convertToAJAXURL "
+                    >Acadia Parish School Board</a>
+                  
+                </li>
+              
+                      </ul>
+                    </div>
+                  
+                </li>
+              
+                <li id="item_3" class="horizontalChild hasSubChild" style="z-index:5984; position: relative;">
+                  
+                  <a href="/IHS/Schools" target="" class="main title convertToAJAXURL hasSubChild"
+                    >Preschool</a>
+                  
+                    <div class="horizMenu smallLeft">
+                      <ul class="horizontalChildMenu dragDropMenu">
+                        
+                <li id="item_6" class="horizontalChild " style="z-index:6982; position: relative;">
+                  
+                  <a href="/CR/" target="" class="main title convertToAJAXURL "
+                    >Central Rayne Kindergarten</a>
+                  
+                </li>
+              
+                <li id="item_11" class="horizontalChild " style="z-index:6981; position: relative;">
+                  
+                  <a href="/CK/" target="" class="main title convertToAJAXURL "
+                    >Crowley Kindergarten</a>
+                  
+                </li>
+              
+                      </ul>
+                    </div>
+                  
+                </li>
+              
+                <li id="item_4" class="horizontalChild hasSubChild" style="z-index:5980; position: relative;">
+                  
+                  <a href="/IHS/Schools" target="" class="main title convertToAJAXURL hasSubChild"
+                    >Elementary School</a>
+                  
+                    <div class="horizMenu smallLeft">
+                      <ul class="horizontalChildMenu dragDropMenu">
+                        
+                <li id="item_5" class="horizontalChild " style="z-index:6978; position: relative;">
+                  
+                  <a href="/BES/" target="" class="main title convertToAJAXURL "
+                    >Branch Elementary</a>
+                  
+                </li>
+              
+                <li id="item_7" class="horizontalChild " style="z-index:6977; position: relative;">
+                  
+                  <a href="/CPES/" target="" class="main title convertToAJAXURL "
+                    >Church Point Elementary</a>
+                  
+                </li>
+              
+                <li id="item_13" class="horizontalChild " style="z-index:6976; position: relative;">
+                  
+                  <a href="/EES/" target="" class="main title convertToAJAXURL "
+                    >Egan Elementary</a>
+                  
+                </li>
+              
+                <li id="item_14" class="horizontalChild " style="z-index:6975; position: relative;">
+                  
+                  <a href="/EWES/" target="" class="main title convertToAJAXURL "
+                    >Estherwood Elementary</a>
+                  
+                </li>
+              
+                <li id="item_15" class="horizontalChild " style="z-index:6974; position: relative;">
+                  
+                  <a href="/EvES/" target="" class="main title convertToAJAXURL "
+                    >Evangeline Elementary</a>
+                  
+                </li>
+              
+                <li id="item_16" class="horizontalChild " style="z-index:6973; position: relative;">
+                  
+                  <a href="/IES/" target="" class="main title convertToAJAXURL "
+                    >Iota Elementary</a>
+                  
+                </li>
+              
+                <li id="item_19" class="horizontalChild " style="z-index:6972; position: relative;">
+                  
+                  <a href="/MPES/" target="" class="main title convertToAJAXURL "
+                    >Martin Petitjean Elementary</a>
+                  
+                </li>
+              
+                <li id="item_20" class="horizontalChild " style="z-index:6971; position: relative;">
+                  
+                  <a href="/MES/" target="" class="main title convertToAJAXURL "
+                    >Mermentau Elementary</a>
+                  
+                </li>
+              
+                <li id="item_22" class="horizontalChild " style="z-index:6970; position: relative;">
+                  
+                  <a href="/MiES/" target="" class="main title convertToAJAXURL "
+                    >Mire Elementary</a>
+                  
+                </li>
+              
+                <li id="item_23" class="horizontalChild " style="z-index:6969; position: relative;">
+                  
+                  <a href="/MoES/" target="" class="main title convertToAJAXURL "
+                    >Morse Elementary</a>
+                  
+                </li>
+              
+                <li id="item_24" class="horizontalChild " style="z-index:6968; position: relative;">
+                  
+                  <a href="/NCES/" target="" class="main title convertToAJAXURL "
+                    >North Crowley Elementary</a>
+                  
+                </li>
+              
+                <li id="item_26" class="horizontalChild " style="z-index:6967; position: relative;">
+                  
+                  <a href="/RES/" target="" class="main title convertToAJAXURL "
+                    >Richard Elementary</a>
+                  
+                </li>
+              
+                <li id="item_27" class="horizontalChild " style="z-index:6966; position: relative;">
+                  
+                  <a href="/RoES/" target="" class="main title convertToAJAXURL "
+                    >Ross Elementary</a>
+                  
+                </li>
+              
+                <li id="item_28" class="horizontalChild " style="z-index:6965; position: relative;">
+                  
+                  <a href="/SCES/" target="" class="main title convertToAJAXURL "
+                    >South Crowley Elementary</a>
+                  
+                </li>
+              
+                <li id="item_29" class="horizontalChild " style="z-index:6964; position: relative;">
+                  
+                  <a href="/SRES/" target="" class="main title convertToAJAXURL "
+                    >South Rayne Elementary</a>
+                  
+                </li>
+              
+                      </ul>
+                    </div>
+                  
+                </li>
+              
+                <li id="item_9" class="horizontalChild hasSubChild" style="z-index:5963; position: relative;">
+                  
+                  <a href="/IHS/Schools" target="" class="main title convertToAJAXURL hasSubChild"
+                    >Middle School</a>
+                  
+                    <div class="horizMenu smallLeft">
+                      <ul class="horizontalChildMenu dragDropMenu">
+                        
+                <li id="item_4" class="horizontalChild " style="z-index:6961; position: relative;">
+                  
+                  <a href="/AMS/" target="" class="main title convertToAJAXURL "
+                    >Armstrong Middle</a>
+                  
+                </li>
+              
+                <li id="item_9" class="horizontalChild " style="z-index:6960; position: relative;">
+                  
+                  <a href="/CPMS/" target="" class="main title convertToAJAXURL "
+                    >Church Point Middle</a>
+                  
+                </li>
+              
+                <li id="item_12" class="horizontalChild " style="z-index:6959; position: relative;">
+                  
+                  <a href="/CMS/" target="" class="main title convertToAJAXURL "
+                    >Crowley Middle</a>
+                  
+                </li>
+              
+                <li id="item_18" class="horizontalChild " style="z-index:6958; position: relative;">
+                  
+                  <a href="/IMS/" target="" class="main title convertToAJAXURL "
+                    >Iota Middle</a>
+                  
+                </li>
+              
+                      </ul>
+                    </div>
+                  
+                </li>
+              
+                <li id="item_6" class="horizontalChild hasSubChild" style="z-index:5957; position: relative;">
+                  
+                  <a href="/IHS/Schools" target="" class="main title convertToAJAXURL hasSubChild"
+                    >High School</a>
+                  
+                    <div class="horizMenu smallLeft">
+                      <ul class="horizontalChildMenu dragDropMenu">
+                        
+                <li id="item_8" class="horizontalChild " style="z-index:6955; position: relative;">
+                  
+                  <a href="/CPHS/" target="" class="main title convertToAJAXURL "
+                    >Church Point High</a>
+                  
+                </li>
+              
+                <li id="item_10" class="horizontalChild " style="z-index:6954; position: relative;">
+                  
+                  <a href="/CHS/" target="" class="main title convertToAJAXURL "
+                    >Crowley High</a>
+                  
+                </li>
+              
+                <li id="item_17" class="horizontalChild " style="z-index:6953; position: relative;">
+                  
+                  <a href="/IHS/" target="" class="main title convertToAJAXURL "
+                    >Iota High</a>
+                  
+                </li>
+              
+                <li id="item_21" class="horizontalChild " style="z-index:6952; position: relative;">
+                  
+                  <a href="/MHS/" target="" class="main title convertToAJAXURL "
+                    >Midland High</a>
+                  
+                </li>
+              
+                <li id="item_25" class="horizontalChild " style="z-index:6951; position: relative;">
+                  
+                  <a href="/RHS/" target="" class="main title convertToAJAXURL "
+                    >Rayne High</a>
+                  
+                </li>
+              
+                      </ul>
+                    </div>
+                  
+                </li>
+              
+                <li id="item_10" class="horizontalChild hasSubChild" style="z-index:5950; position: relative;">
+                  
+                  <a href="/IHS/Schools" target="" class="main title convertToAJAXURL hasSubChild"
+                    >Alternative Education</a>
+                  
+                    <div class="horizMenu smallLeft">
+                      <ul class="horizontalChildMenu dragDropMenu">
+                        
+                <li id="item_3" class="horizontalChild " style="z-index:6948; position: relative;">
+                  
+                  <a href="/Alternative/" target="" class="main title convertToAJAXURL "
+                    >Alternative</a>
+                  
+                </li>
+              
+                      </ul>
+                    </div>
+                  
+                </li>
+              
+                        </ul>
+                      </div>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4947; position: relative;">
+                    
+                    <a href="/IHS/Contact/" target="" id="itemA_1135" class="main title convertToAJAXURL ">Contact Us </a>
+                    
+                  </li>
+                
+            
+          </ul>
+         <br clear="all" />
+      </div>
+      <div class="extraDiv01"></div>
+      <div id="mainData">
+                     <div id="leftCol" class="navContainer">
+                    
+      <div id="navSectionHolder" class="navHolders">
+        
+                <div class="leftModuleHolder " id="navSection_995" style="position: relative;">
+                  <div class="leftModuleHolderInside ">
+                    <h2 class="leftModuleHeader" id="itemNav_995">Students</h2>
+                    
+          <ul class="leftNav horizontalMenu " id="navBar_995">
+            
+                  <li class="horizontalChild hasSubChild" style="z-index:4945; position: relative;">
+                    
+                    <a href="/IHS/page&mode=view&ID=2969" target="" id="itemA_3363" class="main title convertToAJAXURL hasSubChild">Spirit Groups </a>
+                    
+                      <div class="horizMenu smallLeft">
+                        <ul class="leftNav horizontalMenu ">
+                          
+                <li id="item_8702" class="horizontalChild " style="z-index:5943; position: relative;">
+                  
+                  <a href="/IHS/6354-Untitled.html" target="" class="main title convertToAJAXURL "
+                    >Cheerleaders</a>
+                  
+                </li>
+              
+                <li id="item_8705" class="horizontalChild " style="z-index:5942; position: relative;">
+                  
+                  <a href="/IHS/6359-Untitled.html" target="" class="main title convertToAJAXURL "
+                    >Golden Girls</a>
+                  
+                </li>
+              
+                        </ul>
+                      </div>
+                    
+                  </li>
+                
+                  <li class="horizontalChild hasSubChild" style="z-index:4941; position: relative;">
+                    
+                    <a href="/IHS/page&mode=view&ID=2967" target="" id="itemA_3362" class="main title convertToAJAXURL hasSubChild">Sports </a>
+                    
+                      <div class="horizMenu smallLeft">
+                        <ul class="leftNav horizontalMenu ">
+                          
+                <li id="item_8918" class="horizontalChild " style="z-index:5939; position: relative;">
+                  
+                  <a href="/IHS/6734-Untitled.html" target="" class="main title convertToAJAXURL "
+                    >Softball</a>
+                  
+                </li>
+              
+                <li id="item_8927" class="horizontalChild " style="z-index:5938; position: relative;">
+                  
+                  <a href="/IHS/6850-Untitled.html" target="" class="main title convertToAJAXURL "
+                    >Track &amp; Field</a>
+                  
+                </li>
+              
+                <li id="item_8925" class="horizontalChild " style="z-index:5937; position: relative;">
+                  
+                  <a href="/IHS/6831-Untitled.html" target="" class="main title convertToAJAXURL "
+                    >Baseball</a>
+                  
+                </li>
+              
+                        </ul>
+                      </div>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4936; position: relative;">
+                    
+                    <a href="/IHS/page&mode=view&ID=2970" target="" id="itemA_3364" class="main title convertToAJAXURL ">Clubs </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4935; position: relative;">
+                    
+                    <a href="/IHS/Department/90-Counselor-s-Corner" target="" id="itemA_7198" class="main title ">Counselor's Corner </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4934; position: relative;">
+                    
+                    <a href="http://www.acadia.k12.la.us/District/Department/3-Child-Nutrition/2487-School-Menus.html" target="" id="itemA_5512" class="main title ">Lunch </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4933; position: relative;">
+                    
+                    <a href="/IHS/6832-Untitled.html" target="" id="itemA_8926" class="main title convertToAJAXURL ">Writer's Block </a>
+                    
+                  </li>
+                
+            
+          </ul>
+        
+                  </div>
+                </div>
+              
+                <div class="leftModuleHolder " id="navSection_1137" style="position: relative;">
+                  <div class="leftModuleHolderInside ">
+                    <h2 class="leftModuleHeader" id="itemNav_1137">Parents</h2>
+                    
+          <ul class="leftNav horizontalMenu " id="navBar_1137">
+            
+                  <li class="horizontalChild " style="z-index:4932; position: relative;">
+                    
+                    <a href="/IHS/Staff/" target="" id="itemA_2791" class="main title convertToAJAXURL ">Staff </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4931; position: relative;">
+                    
+                    <a href="https://parents.acadia.k12.la.us/jpweb/" target="_blank" id="itemA_1140" class="main title ">Parent Command Center (Jpams) </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4930; position: relative;">
+                    
+                    <a href="http://www.alertnowmessage.com/" target="" id="itemA_3365" class="main title ">Web Replay (Messaging System) </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4929; position: relative;">
+                    
+                    <a href="/files/user/8/file/SupplyLists/Iota_High_2011-12.pdf" target="_blank" id="itemA_1143" class="main title ">School Supply List </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4928; position: relative;">
+                    
+                    <a href="http://acadia.oncoursesystems.com/" target="_blank" id="itemA_2149" class="main title ">Homework Portal </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4927; position: relative;">
+                    
+                    <a href="http://www.oncoursesystems.com/school/menu.aspx?id=9675" target="_blank" id="itemA_2150" class="main title ">OnCourse </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild hasSubChild" style="z-index:4926; position: relative;">
+                    
+                    <a href="/IHS/7689-Untitled.html" target="" id="itemA_11900" class="main title convertToAJAXURL hasSubChild">Tutoring </a>
+                    
+                      <div class="horizMenu smallLeft">
+                        <ul class="leftNav horizontalMenu ">
+                          
+                <li id="item_11901" class="horizontalChild " style="z-index:5924; position: relative;">
+                  
+                  <a href="/IHS/7691-Untitled.html" target="" class="main title convertToAJAXURL "
+                    >Schedule</a>
+                  
+                </li>
+              
+                <li id="item_11902" class="horizontalChild " style="z-index:5923; position: relative;">
+                  
+                  <a href="/IHS/7690-Untitled.html" target="" class="main title convertToAJAXURL "
+                    >Guidelines</a>
+                  
+                </li>
+              
+                        </ul>
+                      </div>
+                    
+                  </li>
+                
+            
+          </ul>
+        
+                  </div>
+                </div>
+              
+                <div class="leftModuleHolder " id="navSection_1146" style="position: relative;">
+                  <div class="leftModuleHolderInside ">
+                    <h2 class="leftModuleHeader" id="itemNav_1146">Teachers</h2>
+                    
+          <ul class="leftNav horizontalMenu " id="navBar_1146">
+            
+                  <li class="horizontalChild " style="z-index:4922; position: relative;">
+                    
+                    <a href="https://gradebook.acadia.k12.la.us/gbook/WebGradebook.GradesRegistrationForm" target="_blank" id="itemA_2596" class="main title ">Jpams </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4921; position: relative;">
+                    
+                    <a href="http://www.oncoursesystems.com/" target="_blank" id="itemA_2152" class="main title ">OnCourse </a>
+                    
+                  </li>
+                
+                  <li class="horizontalChild " style="z-index:4920; position: relative;">
+                    
+                    <a href="/IHS/page&mode=view&ID=1280" target="" id="itemA_1147" class="main title convertToAJAXURL ">Resources </a>
+                    
+                  </li>
+                
+            
+          </ul>
+        
+                  </div>
+                </div>
+              
+                <div class="leftModuleHolder " id="navSection_1151" style="position: relative;">
+                  <div class="leftModuleHolderInside ">
+                    <h2 class="leftModuleHeader" id="itemNav_1151">News</h2>
+                    
+          <ul class="leftNav horizontalMenu " id="navBar_1151">
+            
+                  <li class="horizontalChild hasSubChild" style="z-index:4919; position: relative;">
+                    
+                    <a href="/IHS/News-Section/" target="" id="itemA_1152" class="main title convertToAJAXURL hasSubChild">News Events </a>
+                    
+                      <div class="horizMenu smallLeft">
+                        <ul class="leftNav horizontalMenu ">
+                          
+                <li id="item_1153" class="horizontalChild " style="z-index:5917; position: relative;">
+                  
+                  <a href="/IHS/News-Section/" target="" class="main title convertToAJAXURL "
+                    >Current News</a>
+                  
+                </li>
+              
+                <li id="item_1154" class="horizontalChild " style="z-index:5916; position: relative;">
+                  
+                  <a href="/IHS/News-Section:Archive/" target="" class="main title convertToAJAXURL "
+                    >Archived News</a>
+                  
+                </li>
+              
+                        </ul>
+                      </div>
+                    
+                  </li>
+                
+            
+          </ul>
+        
+                  </div>
+                </div>
+              
+      </div>
+    
+                      <div id="leftColTranslator" class="leftModuleHolder">
+                           <h2>Site Translator</h2>
+                           <div class="miniModuleHolder">
+                                <div class="actualWidgetContainer">
+                                     
+
+
+
+
+<div class="leftBottomBox">
+	
+
+<form action="http://www.acadia.k12.la.us/index.cfm?a=Events:day&s=IHS&t=2-15-2012" method="post">
+<b>Translate this web page to</b>
+<select name="langpair">
+<option value="en|ar">Arabic</option>
+<option value="en|bg">Bulgarian</option>
+<option value="en|ca">Catalan</option>
+<option value="en|cs">Czech</option>
+<option value="en|da">Danish</option>
+<option value="en|de">German</option>
+<option value="en|el">Greek</option>
+<option value="en|en" selected="selected">English</option>
+<option value="en|es">Spanish</option>
+<option value="en|fi">Finnish</option>
+<option value="en|fr">French</option>
+<option value="en|hi">Hindi</option>
+<option value="en|hr">Croatian</option>
+<option value="en|id">Indonesian</option>
+<option value="en|it">Italian</option>
+<option value="en|iw">Hebrew</option>
+<option value="en|ja">Japanese</option>
+<option value="en|ko">Korean</option>
+<option value="en|lt">Lithuanian</option>
+<option value="en|lv">Latvian</option>
+<option value="en|nl">Dutch</option>
+<option value="en|no">Norwegian</option>
+<option value="en|pl">Polish</option>
+<option value="en|pt">Portuguese</option>
+<option value="en|ro">Romanian</option>
+<option value="en|ru">Russian</option>
+<option value="en|sk">Slovak</option>
+<option value="en|sl">Slovenian</option>
+<option value="en|sr">Serbian</option>
+<option value="en|sv">Swedish</option>
+<option value="en|tl">Filipino</option>
+<option value="en|uk">Ukrainian</option>
+<option value="en|vi">Vietnamese</option>
+<option value="en|zh-CN">Chinese</option>
+<option value="en|zh-TW">Chinese Trad.</option>
+</select>
+<input type="Submit" name="translateButton" value="Translate">
+</form>
+<form action="http://www.acadia.k12.la.us/index.cfm?a=Events:day&s=IHS&t=2-15-2012" method="post">
+<input type="Submit" name="originalFormat" value="English" style="width:100px;">
+</form>
+<script language="javascript" type="text/javascript">
+if (top.location != self.location) {
+top.location.replace(self.location); // pop to top
+}
+</script>
+</div>
+
+
+                                </div>
+                           </div>
+                      </div>
+                    
+                      <div id="leftColReader" class="leftModuleHolder">
+                        <div class="miniModuleHolder">
+                          <div class="leftBottomBox">
+	                          Some files on this web site may require Adobe Acrobat Reader - download free<br />
+	                          <a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">
+	                          <img src="/common/images/get_adobe_reader.png" alt="Get Adobe Reader" width="111" height="32" border="0" />
+	                          </a>
+                          </div>
+                        </div>
+                      </div>
+                    
+          
+        </div>
+        <div id="col2">
+    		  <script type="text/javascript">
+  var siteNotice = false;
+  function dropSiteNotice(){
+    new Ajax.Request('/supressMessages.cfm?supress=false');
+    Effect.BlindDown('siteNoticeBoxHolder', { duration: 0.5 })
+    $('pagerBarToolAlertButton').addClassName('buttonOn');
+  }
+  function liftSiteNotice(){
+    new Ajax.Request('/supressMessages.cfm?supress=true');
+    Effect.BlindUp('siteNoticeBoxHolder', { duration: 0.25 })
+    $('pagerBarToolAlertButton').removeClassName('buttonOn');
+  }
+  function toggleSiteNotice(){ 
+    
+    if ($('pagerBarToolAlertButton').hasClassName('buttonOn')){
+      liftSiteNotice();
+    }else{
+      dropSiteNotice();
+    }
+  
+  }
+</script>
+
+          <div id="pageHeader">
+            <span class="mainTitleTools"><ul class="titleToolList"><li class="titleToolList_tool"><a href="/rss.cfm?a=Events:day&s=IHS&t=2-15-2012" title="Subscribe via RSS"><span class="iconHolder iconRss"></span></a></li><li class="titleToolList_tool"><a href="/rss.cfm?a=Events:day&s=IHS&t=2-15-2012&format=ical" title="Export iCal"><span class="iconHolder iconCal"></span></a></li><li class="titleToolList_tool"><a class="toolbarMenuButton" href="#"><span class="iconHolder iconSettings"></span><span class="iconText"><span class="iconTextString">Views</span></span></a><div class="titleToolList_menuContainer hasIcon"><div class="titleToolList_menuPadder" style="position:relative; z-index: 7999;"><ul class="titleToolList_menuHolder" style="width: 120px;"><li class="titleToolList_menuItem"><a href="/IHS/Events:Month/02-15-2012" class=""><span class="iconTextString tabIconMonthView iconIsWide">Month View</span><br clear="all"/></a></li><li class="titleToolList_menuItem"><a href="/IHS/Events:Week/02-15-2012" class=""><span class="iconTextString tabIconWeekView iconIsWide">Week View</span><br clear="all"/></a></li><li class="titleToolList_menuItem"><a href="/IHS/Events:Day/02-15-2012" class=""><span class="iconTextString tabIconDayView iconIsWide">Day View</span><br clear="all"/></a></li><li class="titleToolList_menuItem"><a href="/IHS/Events:Year/02-15-2012" class=""><span class="iconTextString tabIconYearView iconIsWide">Year View</span><br clear="all"/></a></li></ul></div></div></li></ul><br clear="both"></span> 
+              <h2 class="mainTitle" id="item_title_top"><span class="">
+        <span class="crumbText"><a href="/IHS/Events" class="convertToAJAXURL" onclick="">Events</a></span>
+        <span class="crumbSeperator"> &raquo; </span>
+        <span class="crumbText">Day View</span>
+        </span><br class="clear" /></h2>
+            
+          </div>
+          <div id="content">
+              <div class="pageData"> 
+
+<style>
+.DayPart table td.calendarDay {padding:5px; border:none;  border-bottom:1px solid #ccc}
+.DayPart .calendarMonth {border:none}
+</style>
+<div class="calendarMonthHolder">
+  
+      <h3 class="calendarTitle">
+      
+        <a href="/IHS/Events:day/02-14-2012" class="convertToAJAXURL"><img src="/common/images/cal/control_start.png" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;Wednesday, Feb 15, 2012&nbsp;&nbsp;&nbsp;&nbsp;<a href="/IHS/Events:day/02-16-2012" class="convertToAJAXURL"><img src="/common/images/cal/control_end.png" border="0"></a></h3>
+  
+<div class="calendarMonthHolder DayPart">
+  <table width="100%" cellspacing="0" cellpadding="0" class="calendarMonth">
+    <tbody>
+    
+    </tbody>
+  </table>
+</div>
+</div>
+</div> 
+          </div>
+          <br clear="all" />
+          <a href="#top" class="backToTopMain">Back to Top</a>
+         
+        </div>
+        
+      <p class="webmaster">For technical questions and comments regarding this website, please contact the <a title="Send Email" target="_blank" href="/action/mail/sendmail.cfm?e=aHNhbUBhY2FkaWEuazEyLmxhLnVz" class="" onclick="return sendEmail('aHNhbUBhY2FkaWEuazEyLmxhLnVz')">Webmaster</a>.</p>
+
+      </div>	
+    </div>
+    
+    <div id="footer">
+      
+<div class="vcardBox">
+<span class="vcard">
+  <span class="adr">
+    
+    <a href="http://maps.google.com/maps?hl=en&q=456%20South%20Fifth%20St%2C%20Iota%20LA%2C%2070543&um=1&ie=UTF-8" target="_blank" class="skipWarning">
+      <span class="street-address">456 South Fifth St</span>
+    </a>
+      &bull; 
+    <a href="http://maps.google.com/maps?hl=en&q=456%20South%20Fifth%20St%2C%20Iota%20LA%2C%2070543&um=1&ie=UTF-8" target="_blank" class="skipWarning">
+      <span class="locality">Iota</span>, 
+      <span class="region">LA</span> 
+      <span class="postal-code">70543</span>
+    </a>
+    
+  </span>
+  &bull; 
+  <span class="tel">
+    Phone: <span class="work">337-779-2534</span>
+    &bull; 
+    Fax: <span class="fax">337-779-2872</span>
+  </span>
+</span>
+</div>
+
+    </div>
+  
+    <div id="copyright">
+      <div class="copyrightCustomText">
+          
+       </div>
+      <div class="copyrightNav">
+      	<a href="/IHS/legal&amp;mode=terms" >Legal Information</a> | 
+      	<a href="/IHS/legal&amp;mode=privacy">Privacy Policy</a> | 
+      	<a href="sitemap.cfm" onclick="showSiteMap(); return false">Site Map</a><br /><br />
+       </div>
+      
+      
+      <div class="copyrightHolder">
+      	Copyright &copy; 2001-2012. All Rights Reserved. 
+      	<a href="http://www.cyberschool.com" target="_blank" class="devBy">Web Development by IES, Inc.</a> 
+    	</div>
+    </div>
+    <!-- Current IP Address: 128.2.207.79 -->
+
+      
+<div id="timeoutCountdown" style="display: none; position: fixed; bottom: 0; right: 0; padding: 5px 10px; background: #000; color: white;">Please wait...</div>
+<div id="loadingBar" style="display: none; position: fixed; bottom: 0; right: 0; padding: 5px 10px; background: #060; color: white;">Loading...</div>
+<div id="loadingFail" style="display: none; position: fixed; bottom: 0; right: 0; padding: 5px 10px; background: #600; color: white;">Loading Failed</div>
+    
+<script type="text/javascript">
+  /*Ext.onReady(function(){
+    fixLinks();
+  });*/
+  
+  if (printView)
+    window.print();
+
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+<script type="text/javascript">
+  try {
+    var pageTracker = _gat._getTracker("");
+    pageTracker._trackPageview();
+  } catch(err) {}
+</script>
+
+  </body>
+
+</html>
+<!-- Core Version: 2.1. Served from 375342-web5 in 0.16 secs. --> 

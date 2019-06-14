@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Pragma" content="no-cache" />
+<title>Ketchikan Alsaka Fishing Gallery - Error</title>
+
+<link rel="stylesheet" href="themes/water_drop/style.css" type="text/css" />
+<script type="text/javascript" src="scripts.js"></script>
+<!-- $Id: template.html 2688 2005-12-04 03:22:35Z donnoman $ -->
+</head>
+<body>
+  
+  
+<table width="100%" border="0" cellpadding="2" cellspacing="4">
+  <tr> 
+    <td valign="top" > <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="100%" align="center"><h3><strong></strong></h3>
+            <strong><br />
+                        <!-- BEGIN home -->
+        <a href="index.php" title="Go to the home page">Home</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END home -->                  <!-- BEGIN login -->
+        <a href="login.php?referer=ratepic.php%3Fpic%3D46%26rate%3D1" title="Log me in">Login</a> 
+  <!-- END login -->  <br />
+                          <!-- BEGIN album_list -->
+        <a href="index.php" title="Go to the album list">Album list</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END album_list -->  <!-- BEGIN lastup -->
+        <a href="thumbnails.php?album=lastup" title="Show most recent uploads">Last uploads</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END lastup -->  <!-- BEGIN lastcom -->
+        <a href="thumbnails.php?album=lastcom" title="Show most recent comments">Last comments</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END lastcom -->  <!-- BEGIN topn -->
+        <a href="thumbnails.php?album=topn" title="Show most viewed items">Most viewed</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END topn -->  <!-- BEGIN toprated -->
+        <a href="thumbnails.php?album=toprated" title="Show top rated items">Top rated</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END toprated -->  <!-- BEGIN favpics -->
+        <a href="thumbnails.php?album=favpics" title="Go to my favorites">My Favorites</a> <img src="themes/water_drop/images/orange_carret.gif" width="8" height="8" border="0" alt="" />
+  <!-- END favpics -->  <!-- BEGIN search -->
+        <a href="search.php" title="Search the gallery">Search</a> 
+  <!-- END search --> </strong></td>
+        </tr>
+      </table>
+      <strong><img src="images/spacer.gif" width="1" height="15" alt="" /> </strong> 
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td valign="top"><strong>  
+<!-- Start standard table -->
+<table align="center" width="600" cellspacing="1" cellpadding="0" class="maintable">
+        <tr>
+                <td class="tableh1" colspan="1">Error</td>
+        </tr>
+<!-- cpg_die -->
+        <tr>
+                <td class="tableb" align="center">
+                        <font size="3"><b>Sorry but you have already rated this file</b></font>
+
+
+                        <br /><br />
+                </td>
+        </tr>
+
+</table>
+<!-- End standard table -->
+<div class="footer" align="center" style="padding-top: 10px;">Powered by <a href="http://coppermine-gallery.net/" title="Coppermine Photo Gallery" rel="external">Coppermine Photo Gallery</a></div> </strong> <div style="text-align:center;"> 
+              <div><strong> <br />
+                 </strong></div>
+            </div></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+<!--Coppermine Photo Gallery 1.4.12 (stable)-->
+</body>
+</html>

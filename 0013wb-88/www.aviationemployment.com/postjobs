@@ -1,0 +1,269 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Aviation Recruitment - List A Company at Aviation Employment.com</title>
+	<link rel="shortcut icon" href="/img/favicon.ico" />        
+	<link rel="alternate" type="application/atom+xml" title="RSS" href="/rss" />
+	<meta name="ib_meta" lang="en-us" content="" />
+    <meta name="google-site-verification" content="I7_XiBalpxV0Nb8_CUtHazm42MfePhPOJgOMhb5Zm0Y" />
+	<meta name="verify-v1" content="WvEStgbV0+DiR1hcpBfdfBM9W69VRpa0XzuJnv1lXOA=" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css" />
+    <link href="/css/custom-theme/jquery-ui-1.8.7.custom.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript">
+    ord=Math.random()*10000000000000000;
+    </script>
+
+</head>
+<body>  
+	
+		<div id="header"><a href="/" class="headerlink"></a>
+    <div class="logged_opts">Job Seekers: <a href="/user/signup">Register</a> | <a href="/auth/login">Log In</a></div>
+    </div>
+		<div class="dashmenu">
+    <ul>
+    	    	<li><a href="/">Home</a></li>
+        
+              <li class="sp"><a  href="/school">Schools</a></li>
+<li class="sp"><a  href="/news">News</a></li>
+<li id="browsebymenu"><a>Browse Jobs</a>
+        <ul id="browsejobbysulid" class="browsejobbysul browsenohover">
+            <li>
+            <a href="/browse/employers">Companies</a>
+            </li>
+            <li>
+            <a href="/browse/locations">Locations</a>
+            </li>
+        </ul>
+</li>        
+               <li class="sp"><a  href="/user/signup"><strong>New Job Seekers</strong></a></li>
+
+
+            <li class="sp rightlink nobrd"><a  href="/auth/login"><strong>Log In</strong></a></li>
+
+        
+
+                    <li class="sp rightlink"><a class="active"  href="/postjobs/">Employers - Post jobs</a></li>
+            </ul>
+
+    <div style="clear:both"></div>
+    <div class="bar_suboptions">
+        </div>
+</div>		
+		<script type="text/javascript">
+
+function clearSearchFields(id){
+    element = document.getElementById(id);
+        
+		if(element.value == 'Type keywords (e.g. Pilot, Technician)'){
+                    element.value = '';
+                }
+
+                if(element.value == 'Type Location (City, State or Zip Code)'){
+                    element.value = '';
+                }
+}
+
+function checkSearchFields(id){
+    element = document.getElementById(id);
+
+		if(element.value == '' && id == 'searchkw'){
+                    element.value = 'Type keywords (e.g. Pilot, Technician)';
+                }
+
+                if(element.value == '' && id == 'location'){
+                    element.value = 'Type Location (City, State or Zip Code)';
+                }
+}
+
+</script>
+<div class="jobSearchContainer">
+    <div class="jobSearch">
+         
+        
+        <div class="title">Job Search</div>
+        
+        <div style="height:45px;display:block">
+            <form method="post" action="" autocomplete="off" onsubmit="cleanBlanks()" id="searchform">
+                <div class="kw">
+                	<input id="searchkw" type="text" maxlength="200" name="searchKw" autocomplete="off" value="Type keywords (e.g. Pilot, Technician)" onclick="clearSearchFields('searchkw')" onblur="checkSearchFields('searchkw')"/><br/>
+                    <div style="float:left;height:15px;"><input class="noborder" name="titleOnly" type="checkbox" value="1" /></div> <div style="height:15px">Search Job Title only</div>
+                </div>
+                
+                <div class="location">
+                	<div class="searchlabel">Location:</div> <input id="location" maxlength="200" type="text" name="location" value="Type Location (City, State or Zip Code)" onclick="clearSearchFields('location')" onblur="checkSearchFields('location')"/>
+
+                        <span id="selectedCountry">Country: US</span> <a id="countryChanger">Change</a>
+                        <input type="hidden" name="Country" id="hiddenCountry" value="US" />
+                        <div id="countrydlg"></div>
+
+                </div>
+
+                <div class="searchlabel">Radius</div> <select name="RadiusDistance" id="RadiusDistance" style="margin:1px;">
+
+                                    <option value="10" >10 Miles</option>
+                                    <option value="20" >20 Miles</option>
+                                    <option value="30" >30 Miles</option>
+                                    <option value="40" >40 Miles</option>
+                                    <option value="50" >50 Miles</option>
+                                    <option value="60" >60 Miles</option>
+                                    <option value="70" selected>70 Miles</option>
+                                </select>
+
+                <a class="btn1" onclick="$('#searchform').submit()"><em></em><span>Search</span><b></b></a>
+                <div style="float:right;width:200px;text-align:right;"><a id="advancedjoblink" href="/search/job_advanced">Advanced Search</a></div>
+        	</form>
+    	</div>
+        
+    </div>
+</div>		
+		<div id="content">
+                    
+		 <script type="text/javascript">
+  var RecaptchaPlubKey = "6Lec9bkSAAAAACuyXtWqo9NfHPSTWQW6eU1BEGcp";
+</script>
+<div class="bigdlgbox">
+<div class="companies_list">
+<div class="companies_list">
+    <div id="time">
+			<div id="timeest">
+				Sun Feb 12 2012 03:23 EDT			</div>
+			<div id="timeutc">
+				Sun Feb 12 2012 8:23 Zulu			</div>
+	</div>
+
+<h4>Featured Companies</h4>
+<ul id="featured_companies"></ul>
+</div></div>
+<div class="dlgcontent">
+    <h1>Post Your Jobs on AviationEmployment.com</h1>
+    <hr></hr>
+    <div class="homeleft">
+Since 1996, AviationEmployment.com has helped millions of aviation and
+aerospace professionals find career opportunities. We specialize in the
+areas of Aviation Maintenance, Engineering, A&P Mechanic and Avionics
+jobs.<br/><br/>
+
+AviationEmployment.com is the #1 search result on Google for the
+keyword "aviation jobs" and many others. Our top rankings plus our
+policy of not charging job seekers to view or apply to jobs helps us receive
+1.1 million page views from over 45,000 unique visitors per month.
+
+<br/><br/>
+<b>For more information please fill out the inquiry form below or call one of
+our customer service agents to help you set up your account.</b>
+<br />
+<div id="boxData">
+
+    
+    <form id="captchaForm" name="advertForm" method="post" action="/services/sendEmailCompanyInfo"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset>    <div class="titleText uplabel">Name:</div>
+
+    <div>
+        <div class="input text"><label for="EmailCompanyInfoContacName"></label><input name="contac_name" type="text"  maxlength="255" class="inputText" value="" id="EmailCompanyInfoContacName" /></div>    </div>
+    <div class="titleText uplabel">Company:</div>
+    <div>
+       <div class="input text"><label for="EmailCompanyInfoCompany"></label><input name="company" type="text" class="inputText" maxlength="255" value="" id="EmailCompanyInfoCompany" /></div>    </div>
+    <div class="titleText uplabel">Email</div>
+    <div>
+
+       <div class="input text"><label for="EmailCompanyInfoContactEmail"></label><input name="contact_email" type="text" maxlength="320" class="inputText" value="" id="EmailCompanyInfoContactEmail" /></div>    </div>
+    <div class="titleText uplabel">Telephone:</div>
+    <div>
+       <div class="input text"><label for="EmailCompanyInfoCompanyPhone"></label><input name="company_phone" type="text" maxlength="20" class="inputText" value="" id="EmailCompanyInfoCompanyPhone" /></div>    </div>
+    <div class="titleText uplabel">Area of Interest:</div>
+    <div>
+       <select name="interest_area" label="" class="inputText" id="EmailCompanyInfoInterestArea">
+
+<option value="">Choose one</option>
+<option value="Job Placement" >Job Placement</option>
+<option value="Advertising" >Advertising</option>
+<option value="Resume Database" >Resume Database</option>
+<option value="General Inquiry" >General Inquiry</option>
+<option value="Customer Service" >Customer Service</option>
+</select>    </div>
+    <div class="titleText uplabel">Comment:</div>
+
+    <div>
+       <div class="input textarea"><label for="EmailCompanyInfoComments"></label><textarea name="comments" cols="30" rows="6" class="textArea" id="EmailCompanyInfoComments" style="width:380px"></textarea></div>
+    </div>
+    
+    <div id="recaptcha_div" class="recaptcha_div"></div>
+    
+    <div id="submit"><input type="button" value="Send Request" onclick="submitFormWithRecaptcha()" /></div></form>
+</div>
+</div>
+    
+    <div class="homerightcontent">
+        <div class="signupbox">Already Registered?<br/><a href="/auth/login">Click Here to Login</a></div>
+    <div>
+        <b>Our friendly sales and customer service staff are standing by:</b><br/>
+        New Sales: (800) 573-1848<br/>
+        Customer Service: (877) 482-1975
+    </div>
+    <div>
+    <b>Job Post Packages and Ad Positions</b><br/><br/>
+
+ <b>All Job Packages include a full company
+ profile and access to the +10,000 active
+ resumes in our database:</b><br/>
+<ul>
+<li>Individual Job Listings, starting at $95/mo</li>
+<li>Small Business Package: up to 6 jobs, starting at $238/mo</li>
+<li>Multiple Listings Package: up to 15 jobs,starting at $315/mo</li>
+<li>Corporate Listings Package: up to 50 jobs, starting at $480/mo</li>
+</ul>
+<b>Featured Logo and Banner Ad Positions available, call for rates and inventory.<br/><br/>
+Custom packages available, please call for more information! (800) 573-1848<br/><br/> Agencies: we honor 15% discount</b>
+    </div>
+       
+
+            <img src="/img/Weddle-Aviation.jpg"/>
+       
+    </div>
+</div>
+</div>		</div>
+		<div id="footer">Providing worldwide employment opportunities for aviation exclusively.<br/>
+© Copyright 1996-2009 Internet Brands, Inc. and/or its clients or suppliers. <a href="http://www.internetbrands.com/ib/terms/employment-database?site=www.aviationemployment.com">Legal Terms</a> apply. <a href="http://www.internetbrands.com/ib/privacy/employment-database?site=www.aviationemployment.com">Privacy Policy</a><br/>
+<a href="/about_us">Contact Us</a> | AviationEmployment.com.</div>
+
+                                <div id="helpdlg" style="display:none"></div>
+    <script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>    
+    <script type="text/javascript" src="/js/jquery.tooltip.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui-1.8.7.custom.min.js"></script>
+    <script type="text/javascript" src="/js/common.js"></script>
+        <script type="text/javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>
+        <script type="text/javascript" src="/js/recaptcha.js"></script>
+    
+        <script type="text/javascript">
+        var uservoiceOptions = {
+          /* required */
+          key: 'ibcareers',
+          host: 'ibcareers.uservoice.com',
+          forum: '101461',
+          showTab: true,
+          /* optional */
+          alignment: 'right',
+          background_color:'#E77908',
+          text_color: 'white',
+          hover_color: '#0060B0',
+          lang: 'en'
+        };
+
+        function _loadUserVoice() {
+          var s = document.createElement('script');
+          s.setAttribute('type', 'text/javascript');
+          s.setAttribute('src', ("https:" == document.location.protocol ? "https://" : "http://") + "cdn.uservoice.com/javascripts/widgets/tab.js");
+          document.getElementsByTagName('head')[0].appendChild(s);
+        }
+        _loadSuper = window.onload;
+        window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function() { _loadSuper(); _loadUserVoice(); };
+        </script>
+
+        <div id="IB_PIXEL"><!-- start ibpxl -->
+        <script type="text/javascript"> pxlSiteFile = "aviationemployment.com.js"; pxlScriptStart = '%3Cscr' + 'ipt type="text/javascript"'; pxlScriptEnd = '%3C/scr' + 'ipt%3E'; if (location.protocol.indexOf("https") == -1) { document.write(unescape(pxlScriptStart + ' src="http://pxl.ibpxl.com/'+pxlSiteFile+'"%3E'+pxlScriptEnd)); } else { document.write(unescape(pxlScriptStart + ' src="https://pxlssl.ibpxl.com/'+pxlSiteFile+'"%3E'+pxlScriptEnd)); } </script>
+        <!-- end ibpxl --></div>
+
+</body>
+</html>

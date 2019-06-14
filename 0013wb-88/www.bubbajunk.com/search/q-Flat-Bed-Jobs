@@ -1,0 +1,1212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Flatbed Trucking Companies Hiring - Flatbed Jobs - BubbaJunk</title>
+	<link rel="shortcut icon" href="/img/favicon.ico" />        
+	<link rel="alternate" type="application/atom+xml" title="RSS" href="/rss" />
+	<meta name="ib_meta" lang="en-us" content="" />
+        <meta name="google-site-verification" content="FIpyXdAZ9t5paGfRdnE5cDrGBweBSWOB8j29hCN0s2Q" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="/css/footer.css" />
+    <link href="/css/custom-theme/jquery-ui-1.8.14.custom.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript">
+    ord=Math.random()*10000000000000000;
+    </script>
+
+</head>
+<body>  
+
+		<div id="header"><div class="sessioninfo">
+
+    Employers - <a href="/postjobs/">Post jobs</a>
+
+</div>
+
+<a class="headerlink" href="/"></a>
+
+<script type="text/javascript">
+
+function clearSearchFields(id){
+    element = document.getElementById(id);
+        
+		if(element.value == 'Type keywords (Dry Van, Teams, etc)'){
+                    element.value = '';
+                }
+
+                if(element.value == 'Type Location (City, State or Zip Code)'){
+                    element.value = '';
+                }
+}
+
+function checkSearchFields(id){
+    element = document.getElementById(id);
+
+		if(element.value == '' && id == 'searchkw'){
+                    element.value = 'Type keywords (Dry Van, Teams, etc)';
+                }
+
+                if(element.value == '' && id == 'location'){
+                    element.value = 'Type Location (City, State or Zip Code)';
+                }
+}
+
+</script>
+
+<div class="searchbox">
+
+    <form method="post" action="" autocomplete="off" onsubmit="cleanBlanks()" id="searchform">
+                <div class="kw">
+                	<input id="searchkw" type="text" maxlength="200" name="searchKw" autocomplete="off" value="Flat Bed Jobs" onclick="clearSearchFields('searchkw')" onblur="checkSearchFields('searchkw')"/><br/>
+                    
+                </div>
+
+                <div class="location">
+                	<input id="location" maxlength="200" type="text" name="location" value="Type Location (City, State or Zip Code)" onclick="clearSearchFields('location')" onblur="checkSearchFields('location')"/>
+                                <input type="hidden" name="Country" id="hiddenCountry" value="US"/>
+                </div>
+                
+                
+                <a class="searchbutn" onclick="$('#searchform').submit()">Search</a>
+
+                <div style="float:right;width:64px;"><a id="advancedjoblink" href="/find_trucking_jobs">Advanced Search</a></div>
+        	</form>
+
+</div></div>
+		<div class="dashmenu">
+    <ul>
+    	        <li class="noleftbrd"><a  href="/">Home</a></li>
+    	<li><a  href="/find_trucking_jobs">Find Trucking Jobs</a></li>
+        <li><a  href="/browse/employers">Trucking Companies</a></li>
+        <li><a  href="/truck_driving_schools">Truck Driver Training</a></li>
+        <li id="browsebymenu"><a>Browse Jobs</a>
+        <ul id="browsejobbysulid" class="browsejobbysul browsenohover">
+            <li>
+            <a href="/browse/employers">Companies</a>
+            </li>
+            <li>
+            <a href="/browse/locations">Locations</a>
+            </li>
+        </ul>
+        </li>
+               <li><a  href="/user/signup">Drivers: Start Application</a></li>
+        <li class="norightbrd"></li>
+        <li class="rightlink out"><div id="loginbuttonbr" ><a  href="/auth/login">Login</a></div></li>
+        
+
+        
+    </ul>
+
+    <div style="clear:both"></div>
+    
+</div>		
+ 
+<div style="clear:both"></div>                
+
+		<div id="content">
+
+                    
+                                <div id="leftImgAds"><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1574" onclick="imageAdRedirect(1574)">
+                                                <img src="/img/ads/1574.gif?105381" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1583" onclick="imageAdRedirect(1583)">
+                                                <img src="/img/ads/1583.gif?374309" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1584" onclick="imageAdRedirect(1584)">
+                                                <img src="/img/ads/1584.gif?976488" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1617" onclick="imageAdRedirect(1617)">
+                                                <img src="/img/ads/1617.gif?223846" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1613" onclick="imageAdRedirect(1613)">
+                                                <img src="/img/ads/1613.gif?655480" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1588" onclick="imageAdRedirect(1588)">
+                                                <img src="/img/ads/1588.gif?197475" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1601" onclick="imageAdRedirect(1601)">
+                                                <img src="/img/ads/1601.gif?548940" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1609" onclick="imageAdRedirect(1609)">
+                                                <img src="/img/ads/1609.gif?139894" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1569" onclick="imageAdRedirect(1569)">
+                                                <img src="/img/ads/1569.gif?434596" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1608" onclick="imageAdRedirect(1608)">
+                                                <img src="/img/ads/1608.gif?713394" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1614" onclick="imageAdRedirect(1614)">
+                                                <img src="/img/ads/1614.gif?894272" />
+                                            </a>
+                                        </div></div>
+                <div class="midContent">
+                
+                
+		
+<script type="text/javascript">
+var strSearchSort = "desc";
+var urlSearchSave = '';
+                         
+var currentUrl = '/search/q-Flat-Bed-Jobs';
+var strHiddenQueryString = 'searchKw=Flat-Bed-Jobs';
+function setMaxResults(maxresults){
+	document.location.href = currentUrl + '?' + urlSearchSave + 'page=1&limit=' + maxresults;
+}	
+
+function viewType(type){
+            document.location.href = currentUrl + '?' + urlSearchSave + 'viewtype='+type;
+}
+</script>
+
+<div style="clear:both"></div>
+
+<div class="bigdlgbox">
+
+    <strong>Trucking Jobs Search Results Sponsored By:</strong>
+    <div class="top_search_ad">
+<div style="clear:both">
+    <script type="text/javascript">
+        if(typeof(cachebuster) == "undefined"){var cachebuster = Math.floor(Math.random()*10000000000)}
+        if(typeof(dcopt) == "undefined"){var dcopt = "dcopt=ist;"} else {var dcopt = ""}
+        if(typeof(tile) == "undefined"){var tile = 1} else {tile++}
+        document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/Bubbajunk/;category=Flat-Bed;' + dcopt + ';tile=' + tile + ';sz=468x60;ord=' + cachebuster + '?"></scr'+'ipt>');
+    </script>
+    <noscript><a href="http://ad.doubleclick.net/jump/Bubbajunk/;category=Flat-Bed;sz=468x60;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/Bubbajunk/;category=Flat-Bed;sz=468x60;ord=123456789?" border="0" alt="" /></a></noscript>
+</div></div>
+
+<div class="leftbox">
+<form method="get" action="/search/q-Flat-Bed-Jobs">
+        	<input type="hidden" name="RadiusDistance" value="" />
+	<input type="hidden" name="JobTitle" value="" />
+	<input type="hidden" name="CompanyName" value="" />
+	<input type="hidden" name="PostedDate" value="" />
+            <input type="hidden" name="CompanyId" value="" />
+
+          <div style="clear:both"></div>
+    <h2>Narrow Results</h2>
+
+        <div class="jobNarrow" id="freighttypes">Freight Type</div>
+    <div style="display:none;" id="hidden-freighttypes">
+            <div class="narrowRow"><input type="checkbox" id="check_all" onclick="checkAll('hidden-freighttypes');"><div class="narrowChk">All</div></div>
+                        <div class="narrowRow" id="chkrow">
+                    <input name="JobCategory[0]" type="checkbox" value="58" /><div class="narrowChk">Car Hauler</div>
+            </div>
+                        <div class="narrowRow" id="chkrow">
+                    <input name="JobCategory[1]" type="checkbox" value="38" /><div class="narrowChk">Dry Van</div>
+            </div>
+                        <div class="narrowRow" id="chkrow">
+                    <input name="JobCategory[2]" type="checkbox" value="37" /><div class="narrowChk">Flat Bed</div>
+            </div>
+                        <div class="narrowRow" id="chkrow">
+                    <input name="JobCategory[3]" type="checkbox" value="60" /><div class="narrowChk">Heavy Haul</div>
+            </div>
+                        <div class="narrowRow" id="chkrow">
+                    <input name="JobCategory[4]" type="checkbox" value="59" /><div class="narrowChk">Household Goods</div>
+            </div>
+                        <div class="narrowRow" id="chkrow">
+                    <input name="JobCategory[5]" type="checkbox" value="71" /><div class="narrowChk">Intermodal</div>
+            </div>
+                        <div class="narrowRow" id="chkrow">
+                    <input name="JobCategory[6]" type="checkbox" value="52" /><div class="narrowChk">Refrigerated</div>
+            </div>
+                        <div class="narrowRow" id="chkrow">
+                    <input name="JobCategory[7]" type="checkbox" value="61" /><div class="narrowChk">Specialized/Other</div>
+            </div>
+                        <div class="narrowRow" id="chkrow">
+                    <input name="JobCategory[8]" type="checkbox" value="50" /><div class="narrowChk">Tanker</div>
+            </div>
+                </div>
+    
+        <div class="jobNarrow" id="jobtypes">Job Type</div>
+    	<div style="display:none;" id="hidden-jobtypes">
+    		<div class="narrowRow"><input type="checkbox" id="check_all" onclick="checkAll('hidden-jobtypes')"><div class="narrowChk">All</div></div>
+    	        	<div class="narrowRow" id="chkrow">
+        		<input name="JobType[0]" type="checkbox" value="9" /><div class="narrowChk">Company Driver</div>
+        	</div>
+    	        	<div class="narrowRow" id="chkrow">
+        		<input name="JobType[1]" type="checkbox" value="10" /><div class="narrowChk">Owner Operator</div>
+        	</div>
+    	        	<div class="narrowRow" id="chkrow">
+        		<input name="JobType[2]" type="checkbox" value="11" /><div class="narrowChk">Student</div>
+        	</div>
+    	    	</div>
+    
+    
+    
+        
+    
+        
+    <div class="jobNarrow" onclick="$('#dialog-states').dialog('open')">States</div>
+   		<div id="jobstates" style="display:none">
+   			<div class="narrowRow" id="chkrow">
+    	        		<input id="checkthis" name="State[0]" type="checkbox" value="AL" />
+    	        		<input id="checkthis" name="State[1]" type="checkbox" value="AK" />
+    	        		<input id="checkthis" name="State[2]" type="checkbox" value="AZ" />
+    	        		<input id="checkthis" name="State[3]" type="checkbox" value="AR" />
+    	        		<input id="checkthis" name="State[4]" type="checkbox" value="CA" />
+    	        		<input id="checkthis" name="State[5]" type="checkbox" value="CO" />
+    	        		<input id="checkthis" name="State[6]" type="checkbox" value="CT" />
+    	        		<input id="checkthis" name="State[7]" type="checkbox" value="DE" />
+    	        		<input id="checkthis" name="State[8]" type="checkbox" value="FL" />
+    	        		<input id="checkthis" name="State[9]" type="checkbox" value="GA" />
+    	        		<input id="checkthis" name="State[10]" type="checkbox" value="HI" />
+    	        		<input id="checkthis" name="State[11]" type="checkbox" value="ID" />
+    	        		<input id="checkthis" name="State[12]" type="checkbox" value="IL" />
+    	        		<input id="checkthis" name="State[13]" type="checkbox" value="IN" />
+    	        		<input id="checkthis" name="State[14]" type="checkbox" value="IA" />
+    	        		<input id="checkthis" name="State[15]" type="checkbox" value="KS" />
+    	        		<input id="checkthis" name="State[16]" type="checkbox" value="KY" />
+    	        		<input id="checkthis" name="State[17]" type="checkbox" value="LA" />
+    	        		<input id="checkthis" name="State[18]" type="checkbox" value="ME" />
+    	        		<input id="checkthis" name="State[19]" type="checkbox" value="MD" />
+    	        		<input id="checkthis" name="State[20]" type="checkbox" value="MA" />
+    	        		<input id="checkthis" name="State[21]" type="checkbox" value="MI" />
+    	        		<input id="checkthis" name="State[22]" type="checkbox" value="MN" />
+    	        		<input id="checkthis" name="State[23]" type="checkbox" value="MS" />
+    	        		<input id="checkthis" name="State[24]" type="checkbox" value="MO" />
+    	        		<input id="checkthis" name="State[25]" type="checkbox" value="MT" />
+    	        		<input id="checkthis" name="State[26]" type="checkbox" value="NE" />
+    	        		<input id="checkthis" name="State[27]" type="checkbox" value="NV" />
+    	        		<input id="checkthis" name="State[28]" type="checkbox" value="NH" />
+    	        		<input id="checkthis" name="State[29]" type="checkbox" value="NJ" />
+    	        		<input id="checkthis" name="State[30]" type="checkbox" value="NM" />
+    	        		<input id="checkthis" name="State[31]" type="checkbox" value="NY" />
+    	        		<input id="checkthis" name="State[32]" type="checkbox" value="NC" />
+    	        		<input id="checkthis" name="State[33]" type="checkbox" value="ND" />
+    	        		<input id="checkthis" name="State[34]" type="checkbox" value="OH" />
+    	        		<input id="checkthis" name="State[35]" type="checkbox" value="OK" />
+    	        		<input id="checkthis" name="State[36]" type="checkbox" value="OR" />
+    	        		<input id="checkthis" name="State[37]" type="checkbox" value="PA" />
+    	        		<input id="checkthis" name="State[38]" type="checkbox" value="RI" />
+    	        		<input id="checkthis" name="State[39]" type="checkbox" value="SC" />
+    	        		<input id="checkthis" name="State[40]" type="checkbox" value="SD" />
+    	        		<input id="checkthis" name="State[41]" type="checkbox" value="TN" />
+    	        		<input id="checkthis" name="State[42]" type="checkbox" value="TX" />
+    	        		<input id="checkthis" name="State[43]" type="checkbox" value="UT" />
+    	        		<input id="checkthis" name="State[44]" type="checkbox" value="VT" />
+    	        		<input id="checkthis" name="State[45]" type="checkbox" value="VA" />
+    	        		<input id="checkthis" name="State[46]" type="checkbox" value="WA" />
+    	        		<input id="checkthis" name="State[47]" type="checkbox" value="WV" />
+    	        		<input id="checkthis" name="State[48]" type="checkbox" value="WI" />
+    	        		<input id="checkthis" name="State[49]" type="checkbox" value="WY" />
+    	    		</div>
+    	</div>
+
+    	<div id="dialog-states" title="Choose States" style="display:none">
+    		<div class="narrowRow"><input type="checkbox" id="check_all" onclick="checkAll('dialog-states');"><div class="narrowChk">All</div></div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[0]" type="checkbox" value="AL" /><div class="narrowChk">Alabama</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[1]" type="checkbox" value="AK" /><div class="narrowChk">Alaska</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[2]" type="checkbox" value="AZ" /><div class="narrowChk">Arizona</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[3]" type="checkbox" value="AR" /><div class="narrowChk">Arkansas</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[4]" type="checkbox" value="CA" /><div class="narrowChk">California</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[5]" type="checkbox" value="CO" /><div class="narrowChk">Colorado</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[6]" type="checkbox" value="CT" /><div class="narrowChk">Connecticut</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[7]" type="checkbox" value="DE" /><div class="narrowChk">Delaware</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[8]" type="checkbox" value="FL" /><div class="narrowChk">Florida</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[9]" type="checkbox" value="GA" /><div class="narrowChk">Georgia</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[10]" type="checkbox" value="HI" /><div class="narrowChk">Hawaii</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[11]" type="checkbox" value="ID" /><div class="narrowChk">Idaho</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[12]" type="checkbox" value="IL" /><div class="narrowChk">Illinois</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[13]" type="checkbox" value="IN" /><div class="narrowChk">Indiana</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[14]" type="checkbox" value="IA" /><div class="narrowChk">Iowa</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[15]" type="checkbox" value="KS" /><div class="narrowChk">Kansas</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[16]" type="checkbox" value="KY" /><div class="narrowChk">Kentucky</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[17]" type="checkbox" value="LA" /><div class="narrowChk">Louisiana</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[18]" type="checkbox" value="ME" /><div class="narrowChk">Maine</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[19]" type="checkbox" value="MD" /><div class="narrowChk">Maryland</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[20]" type="checkbox" value="MA" /><div class="narrowChk">Massachusetts</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[21]" type="checkbox" value="MI" /><div class="narrowChk">Michigan</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[22]" type="checkbox" value="MN" /><div class="narrowChk">Minnesota</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[23]" type="checkbox" value="MS" /><div class="narrowChk">Mississippi</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[24]" type="checkbox" value="MO" /><div class="narrowChk">Missouri</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[25]" type="checkbox" value="MT" /><div class="narrowChk">Montana</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[26]" type="checkbox" value="NE" /><div class="narrowChk">Nebraska</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[27]" type="checkbox" value="NV" /><div class="narrowChk">Nevada</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[28]" type="checkbox" value="NH" /><div class="narrowChk">New Hampshire</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[29]" type="checkbox" value="NJ" /><div class="narrowChk">New Jersey</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[30]" type="checkbox" value="NM" /><div class="narrowChk">New Mexico</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[31]" type="checkbox" value="NY" /><div class="narrowChk">New York</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[32]" type="checkbox" value="NC" /><div class="narrowChk">North Carolina</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[33]" type="checkbox" value="ND" /><div class="narrowChk">North Dakota</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[34]" type="checkbox" value="OH" /><div class="narrowChk">Ohio</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[35]" type="checkbox" value="OK" /><div class="narrowChk">Oklahoma</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[36]" type="checkbox" value="OR" /><div class="narrowChk">Oregon</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[37]" type="checkbox" value="PA" /><div class="narrowChk">Pennsylvania</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[38]" type="checkbox" value="RI" /><div class="narrowChk">Rhode Island</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[39]" type="checkbox" value="SC" /><div class="narrowChk">South Carolina</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[40]" type="checkbox" value="SD" /><div class="narrowChk">South Dakota</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[41]" type="checkbox" value="TN" /><div class="narrowChk">Tennessee</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[42]" type="checkbox" value="TX" /><div class="narrowChk">Texas</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[43]" type="checkbox" value="UT" /><div class="narrowChk">Utah</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[44]" type="checkbox" value="VT" /><div class="narrowChk">Vermont</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[45]" type="checkbox" value="VA" /><div class="narrowChk">Virginia</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[46]" type="checkbox" value="WA" /><div class="narrowChk">Washington</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[47]" type="checkbox" value="WV" /><div class="narrowChk">West Virginia</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[48]" type="checkbox" value="WI" /><div class="narrowChk">Wisconsin</div>
+        	</div>
+    	
+        	<div class="narrowRow" id="chkrow">
+        		<input name="State[49]" type="checkbox" value="WY" /><div class="narrowChk">Wyoming</div>
+        	</div>
+    	    	</div>
+    
+    <div class="jobNarrowOpen alt" id="team">Hire Teams</div>
+    	<div id="hidden-team">
+    		<div class="narrowRow"><input type="checkbox" name="HireTeams" id="check_all" value="1" /><div class="narrowChk">Yes</div></div>
+                <div class="narrowRow"><input type="checkbox" name="NoHireTeams" id="check_all" value="1" /><div class="narrowChk">No</div></div>
+    	</div>
+
+     <div class="jobNarrowOpen alt" id="edorsement">Endorsements</div>
+    	<div id="hidden-edorsement">
+
+            <div class="narrowRow" id="chkrow">
+                <input name="HazmatH" type="checkbox" value="1" /><div class="narrowChk">(H) Hazardous Materials</div>
+            </div>
+
+            <div class="narrowRow" id="chkrow">
+                <input name="HazmatX" type="checkbox" value="1" /><div class="narrowChk">(X) Tanker + Hazardous Materials</div>
+            </div>
+
+
+            <div class="narrowRow" id="chkrow">
+                <input name="Doubles-Triples" type="checkbox" value="1" /><div class="narrowChk">Doubles-triples</div>
+            </div>
+
+            <div class="narrowRow" id="chkrow">
+                <input name="Tankers" type="checkbox" value="1" /><div class="narrowChk">Tank</div>
+            </div>
+
+            <div class="narrowRow" id="chkrow">
+                <input name="Passenger" type="checkbox" value="1" /><div class="narrowChk">Passenger</div>
+            </div>
+    	</div>
+
+                    <div class="jobNarrowOpen alt" id="runtype">Run Type</div>
+            <div id="hidden-runtype">
+                <div class="narrowRow"><input type="checkbox" id="check_all" onclick="checkAll('hidden-runtype')"><div class="narrowChk">All</div></div>
+                            <div class="narrowRow" id="chkrow">
+                    <input name="RunType[0]" type="checkbox" value="1" /><div class="narrowChk">Regional</div>
+                </div>
+                            <div class="narrowRow" id="chkrow">
+                    <input name="RunType[1]" type="checkbox" value="2" /><div class="narrowChk">Dedicated</div>
+                </div>
+                            <div class="narrowRow" id="chkrow">
+                    <input name="RunType[2]" type="checkbox" value="3" /><div class="narrowChk">Local</div>
+                </div>
+                            <div class="narrowRow" id="chkrow">
+                    <input name="RunType[3]" type="checkbox" value="4" /><div class="narrowChk">Long Haul</div>
+                </div>
+                        </div>
+                    
+                    <div class="jobNarrowOpen alt" id="otrexperience">Min.OTR Experience</div>
+            <div id="hidden-otrexperience">
+                <div class="narrowRow"><input type="checkbox" id="check_all" onclick="checkAll('hidden-otrexperience')"><div class="narrowChk">All</div></div>
+                            <div class="narrowRow" id="chkrow">
+                    <input name="OtrExperience[0]" type="checkbox" value="0" /><div class="narrowChk">None required</div>
+                </div>
+                            <div class="narrowRow" id="chkrow">
+                    <input name="OtrExperience[1]" type="checkbox" value="2" /><div class="narrowChk">6 months</div>
+                </div>
+                            <div class="narrowRow" id="chkrow">
+                    <input name="OtrExperience[2]" type="checkbox" value="3" /><div class="narrowChk">12 months</div>
+                </div>
+                            <div class="narrowRow" id="chkrow">
+                    <input name="OtrExperience[3]" type="checkbox" value="4" /><div class="narrowChk">18 months</div>
+                </div>
+                            <div class="narrowRow" id="chkrow">
+                    <input name="OtrExperience[4]" type="checkbox" value="5" /><div class="narrowChk">2 years</div>
+                </div>
+                            <div class="narrowRow" id="chkrow">
+                    <input name="OtrExperience[5]" type="checkbox" value="6" /><div class="narrowChk">3 years</div>
+                </div>
+                            <div class="narrowRow" id="chkrow">
+                    <input name="OtrExperience[6]" type="checkbox" value="7" /><div class="narrowChk">4 years</div>
+                </div>
+                            <div class="narrowRow" id="chkrow">
+                    <input name="OtrExperience[7]" type="checkbox" value="8" /><div class="narrowChk">+5 years</div>
+                </div>
+                        </div>
+                    
+             
+     
+
+
+            <div style="clear:both"></div>
+    	<div class="clearAll" onclick="clearChk();">Clear All</div>
+    	<input type="submit" value="Filter"/>
+</form>
+
+</div>
+
+
+
+<div class="jobresultarea">
+
+    <div class="search_results_top">
+    	<div class="result_top_left">
+                                <h1>Flat Bed Jobs</h1>
+                                <hr></hr>
+                                        <div style="clear:both"></div>
+            
+            <div class="resultmessage">22 matching jobs found</div>
+            <a id="switchParameters"> Show Your Search Parameters </a>
+<div id="searchParameters" style="display:none"><ul>
+            <li>
+           <strong>Keywords: </strong>
+           <span>Flat-Bed-Jobs</span>
+        </li>
+            </ul>
+</div>
+
+            <div class="result_top_right">
+
+
+            <div class="searchPagination">
+                                Per page
+                <select id="maxresults" onchange="setMaxResults(this.value)">
+                                <option value="10" selected>10</option>
+                                <option value="25" >25</option>
+                                <option value="50" >50</option>
+                                </select>
+
+            <a class="small nocursor">1</a> <a href="/search/q-Flat-Bed-Jobs?page=2">2</a> <a href="/search/q-Flat-Bed-Jobs?page=3">3</a> <a href="/search/q-Flat-Bed-Jobs?page=2">Next</a>            </div>
+        </div>
+
+        </div>
+        
+    </div>
+</div>
+
+<div class="searchdlg">
+
+<table class="bbj_results">
+    <tr>
+        <th class="sorts" pid="position_title">Job Posting Title</th>
+        <th class="sorts" pid="company_name">Company</th>
+    </tr>
+
+<tr class="featured">
+    <td>
+        <div class="resultExt">
+        <a class="resultheader" href="/job/66146/western_express_company_drivers"><strong>Western Express - Company Drivers</strong></a>
+        </div>
+    </td>
+     <td>
+        <div class="resultExt">
+        <a class="resultheader" href="/company/profile/1601/western_express">
+           Western Express        </a>
+        </div>
+    </td>
+</tr>
+<tr class="featured">
+    <td colspan="2">
+        <div class="resultExt">
+        <table>
+        <tr>
+        <td align="right"><strong>Location(s):</strong></td><td><span>
+            <a href="/job/66146/western_express_company_drivers" class="jobdetailbtn">45 States</a>            </span></td>
+        </tr>
+             
+                                  <tr>
+                     <td align="right"><strong>Freight Type:</strong></td><td><span>Flat Bed</span></td>
+                 </tr>
+                 
+                                            <tr>
+                    <td align="right"><strong>Teams:</strong> </td><td><span>No</span></td>
+                    </tr>
+                         
+
+                        <tr>
+            <td align="right"><strong>Job Type:</strong></td><td><span>Company Driver</span></td>
+             </tr>
+            
+             
+            </td></tr>
+           </table>
+        </div>
+
+
+        <div class="description">
+            <p align="justify"><p>Truckload Van, Dedicated Fleet Services and Flatbed Transportation Services &bull;&nbsp;Competitive pay package &bull;&nbsp;Direct deposit &bull;&nbsp;Layover pay &bull;&nbsp;Stop pay &bull;&nbsp;Detention pay</p></p>&nbsp;&nbsp;&nbsp;<a href="/job/66146/western_express_company_drivers" class="jobdetailbtn">More Details</a>            
+
+            <div class="option">
+                    
+                         </div>
+        </div>
+        
+    </td>
+</tr>
+
+<tr class="altfeatured">
+    <td>
+        <div class="resultExt">
+        <a class="resultheader" href="/job/66941/mcelroy_truck_lines_regional_flatbed_drivers_needed%21"><strong>McElroy Truck Lines - Regional Flatbed Drivers Needed!</strong></a>
+        </div>
+    </td>
+     <td>
+        <div class="resultExt">
+        <a class="resultheader" href="/company/profile/1726/mcelroy_truck_lines">
+           McElroy Truck Lines        </a>
+        </div>
+    </td>
+</tr>
+<tr class="altfeatured">
+    <td colspan="2">
+        <div class="resultExt">
+        <table>
+        <tr>
+        <td align="right"><strong>Location(s):</strong></td><td><span>
+            <a href="/job/66941/mcelroy_truck_lines_regional_flatbed_drivers_needed%21" class="jobdetailbtn">10 States</a>            </span></td>
+        </tr>
+             
+                                  <tr>
+                     <td align="right"><strong>Freight Type:</strong></td><td><span>Flat Bed</span></td>
+                 </tr>
+                 
+                                            <tr>
+                    <td align="right"><strong>Teams:</strong> </td><td><span>No</span></td>
+                    </tr>
+                         
+
+                        <tr>
+            <td align="right"><strong>Job Type:</strong></td><td><span>Student</span></td>
+             </tr>
+            
+             
+            </td></tr>
+           </table>
+        </div>
+
+
+        <div class="description">
+            <p align="justify"><p><strong>McElroy Truck Lines</strong>&nbsp;is looking for interested <strong>Student Drivers</strong> to Join Our Flatbed Fleet -- Tuition Reimbursement Available -- Home Every Weekend &bull; $.40 to $.45 per mile loaded and empty &bull;&nbsp;100% No Touch Freight &bull;&nbsp;Direct Deposit &bull;&nbsp;24-Hour Emergency Service &bull;&nbsp;Sign-On Bonus &bull;&nbsp;8 Paid Holidays a Year &bull;&nbsp;1-2 Weeks Paid Vacation &bull;&nbsp;401k &bull;&nbsp;Medical, Dental, and Vision Available</p></p>&nbsp;&nbsp;&nbsp;<a href="/job/66941/mcelroy_truck_lines_regional_flatbed_drivers_needed%21" class="jobdetailbtn">More Details</a>            
+
+            <div class="option">
+                    
+                         </div>
+        </div>
+        
+    </td>
+</tr>
+
+<tr class="featured">
+    <td>
+        <div class="resultExt">
+        <a class="resultheader" href="/job/66943/mcelroy_truck_lines_east_texas_drivers_needed"><strong>McElroy Truck Lines - East Texas Drivers Needed</strong></a>
+        </div>
+    </td>
+     <td>
+        <div class="resultExt">
+        <a class="resultheader" href="/company/profile/1726/mcelroy_truck_lines">
+           McElroy Truck Lines        </a>
+        </div>
+    </td>
+</tr>
+<tr class="featured">
+    <td colspan="2">
+        <div class="resultExt">
+        <table>
+        <tr>
+        <td align="right"><strong>Location(s):</strong></td><td><span>
+            TX            </span></td>
+        </tr>
+             
+                                  <tr>
+                     <td align="right"><strong>Freight Type:</strong></td><td><span>Flat Bed</span></td>
+                 </tr>
+                 
+                                            <tr>
+                    <td align="right"><strong>Teams:</strong> </td><td><span>No</span></td>
+                    </tr>
+                         
+
+                        <tr>
+            <td align="right"><strong>Job Type:</strong></td><td><span>Company Driver</span></td>
+             </tr>
+            
+             
+            </td></tr>
+           </table>
+        </div>
+
+
+        <div class="description">
+            <p align="justify"><p>Regional Flatbed Drivers Needed in Texas!&nbsp;<strong>McElroy Truck Lines</strong>&nbsp;wants&nbsp;You&nbsp;to Join Our Flatbed Fleet --- $.40 to $.45 per mile loaded and empty &bull;&nbsp;100% No Touch Freight &bull;&nbsp;Direct Deposit &bull;&nbsp;24-Hour Emergency Service &bull;&nbsp;Sign-On Bonus &bull;&nbsp;8 Paid Holidays a Year &bull;&nbsp;1-2 Weeks Paid Vacation &bull;&nbsp;401k &bull;&nbsp;Medical, Dental, and Vision Available ---&nbsp;<strong>Students Welcome to Apply!</strong>&nbsp;Tuition Reimbursement Available</p></p>&nbsp;&nbsp;&nbsp;<a href="/job/66943/mcelroy_truck_lines_east_texas_drivers_needed" class="jobdetailbtn">More Details</a>            
+
+            <div class="option">
+                    
+                         </div>
+        </div>
+        
+    </td>
+</tr>
+
+<tr class="altfeatured">
+    <td>
+        <div class="resultExt">
+        <a class="resultheader" href="/job/66928/secured_land_transport_company_driver"><strong>Secured Land Transport - Company Driver</strong></a>
+        </div>
+    </td>
+     <td>
+        <div class="resultExt">
+        <a class="resultheader" href="/company/profile/1725/secured_land_transport">
+           Secured Land Transport        </a>
+        </div>
+    </td>
+</tr>
+<tr class="altfeatured">
+    <td colspan="2">
+        <div class="resultExt">
+        <table>
+        <tr>
+        <td align="right"><strong>Location(s):</strong></td><td><span>
+            <a href="/job/66928/secured_land_transport_company_driver" class="jobdetailbtn">48 States</a>            </span></td>
+        </tr>
+             
+                                  <tr>
+                     <td align="right"><strong>Freight Type:</strong></td><td><span>Flat Bed</span></td>
+                 </tr>
+                 
+                                            <tr>
+                    <td align="right"><strong>Teams:</strong> </td><td><span>Yes</span></td>
+                    </tr>
+                         
+
+                        <tr>
+            <td align="right"><strong>Job Type:</strong></td><td><span>Company Driver</span></td>
+             </tr>
+            
+             
+                        <br/>
+              <tr>
+                <td align="right"><strong>Endorsements:</strong></td>
+                <td>
+             (H) Hazardous Materials</td></tr>
+           </table>
+        </div>
+
+
+        <div class="description">
+            <p align="justify"><p style="text-align: left;">SLT- Company Driver Flat Bed - We take the worry out of the chase for miles.&nbsp; We have a $1000.00 minimum guarantee.&nbsp; $55k-$75k per year, 95% No Touch Freight, $2500 Sign-On Bonus, Benefits, Direct deposit, Company Paid Life Insurance</p></p>&nbsp;&nbsp;&nbsp;<a href="/job/66928/secured_land_transport_company_driver" class="jobdetailbtn">More Details</a>            
+
+            <div class="option">
+                    
+                         </div>
+        </div>
+        
+    </td>
+</tr>
+
+<tr class="featured">
+    <td>
+        <div class="resultExt">
+        <a class="resultheader" href="/job/66936/mcelroy_truck_lines_drivers_needed_in_tennessee"><strong>McElroy Truck Lines - Drivers Needed in Tennessee</strong></a>
+        </div>
+    </td>
+     <td>
+        <div class="resultExt">
+        <a class="resultheader" href="/company/profile/1726/mcelroy_truck_lines">
+           McElroy Truck Lines        </a>
+        </div>
+    </td>
+</tr>
+<tr class="featured">
+    <td colspan="2">
+        <div class="resultExt">
+        <table>
+        <tr>
+        <td align="right"><strong>Location(s):</strong></td><td><span>
+            TN            </span></td>
+        </tr>
+             
+                                  <tr>
+                     <td align="right"><strong>Freight Type:</strong></td><td><span>Flat Bed</span></td>
+                 </tr>
+                 
+                                            <tr>
+                    <td align="right"><strong>Teams:</strong> </td><td><span>No</span></td>
+                    </tr>
+                         
+
+                        <tr>
+            <td align="right"><strong>Job Type:</strong></td><td><span>Company Driver</span></td>
+             </tr>
+            
+             
+            </td></tr>
+           </table>
+        </div>
+
+
+        <div class="description">
+            <p align="justify"><p>Regional Flatbed Drivers Needed in Tennessee!&nbsp;<strong>McElroy Truck Lines</strong>&nbsp;wants&nbsp;You&nbsp;to Join Our Flatbed Fleet --- $.40 to $.45 per mile loaded and empty &bull;&nbsp;100% No Touch Freight &bull;&nbsp;Direct Deposit &bull;&nbsp;24-Hour Emergency Service &bull;&nbsp;Sign-On Bonus &bull;&nbsp;8 Paid Holidays a Year &bull;&nbsp;1-2 Weeks Paid Vacation &bull;&nbsp;401k &bull;&nbsp;Medical, Dental, and Vision Available ---&nbsp;<strong>Students Welcome to Apply!</strong>&nbsp;Tuition Reimbursement Available</p></p>&nbsp;&nbsp;&nbsp;<a href="/job/66936/mcelroy_truck_lines_drivers_needed_in_tennessee" class="jobdetailbtn">More Details</a>            
+
+            <div class="option">
+                    
+                         </div>
+        </div>
+        
+    </td>
+</tr>
+
+<tr class="altfeatured">
+    <td>
+        <div class="resultExt">
+        <a class="resultheader" href="/job/66931/mcelroy_truck_lines_regional_flatbed_drivers_needed%21"><strong>McElroy Truck Lines - Regional Flatbed Drivers Needed!</strong></a>
+        </div>
+    </td>
+     <td>
+        <div class="resultExt">
+        <a class="resultheader" href="/company/profile/1726/mcelroy_truck_lines">
+           McElroy Truck Lines        </a>
+        </div>
+    </td>
+</tr>
+<tr class="altfeatured">
+    <td colspan="2">
+        <div class="resultExt">
+        <table>
+        <tr>
+        <td align="right"><strong>Location(s):</strong></td><td><span>
+            <a href="/job/66931/mcelroy_truck_lines_regional_flatbed_drivers_needed%21" class="jobdetailbtn">10 States</a>            </span></td>
+        </tr>
+             
+                                  <tr>
+                     <td align="right"><strong>Freight Type:</strong></td><td><span>Flat Bed</span></td>
+                 </tr>
+                 
+                                            <tr>
+                    <td align="right"><strong>Teams:</strong> </td><td><span>No</span></td>
+                    </tr>
+                         
+
+                        <tr>
+            <td align="right"><strong>Job Type:</strong></td><td><span>Company Driver</span></td>
+             </tr>
+            
+             
+            </td></tr>
+           </table>
+        </div>
+
+
+        <div class="description">
+            <p align="justify"><p>McElroy is looking for qualified Regional Flatbed Drivers &bull;&nbsp;$.40 to $.45 per mile loaded and empty &bull;&nbsp;100% No Touch Freight &bull;&nbsp;Direct Deposit &bull;&nbsp;24-Hour Emergency Service &bull;&nbsp;Sign-On Bonus &bull;&nbsp;8 Paid Holidays a Year &bull;&nbsp;1-2 Weeks Paid Vacation &bull;&nbsp;401k &bull;&nbsp;Medical, Dental, and Vision Available --&nbsp;<strong>Students Welcome to Apply!</strong>&nbsp;Tuition Reimbursement Available</p></p>&nbsp;&nbsp;&nbsp;<a href="/job/66931/mcelroy_truck_lines_regional_flatbed_drivers_needed%21" class="jobdetailbtn">More Details</a>            
+
+            <div class="option">
+                    
+                         </div>
+        </div>
+        
+    </td>
+</tr>
+</table>
+
+<br/>
+
+<div class="searchPagination">
+    Per page
+    <select id="maxresults" onchange="setMaxResults(this.value)">
+        <option value="10" selected>10</option>
+        <option value="25" >25</option>
+        <option value="50" >50</option>
+        </select>
+
+<a class="small nocursor">1</a> <a href="/search/q-Flat-Bed-Jobs?page=2">2</a> <a href="/search/q-Flat-Bed-Jobs?page=3">3</a> <a href="/search/q-Flat-Bed-Jobs?page=2">Next</a></div>
+
+</div>
+
+    
+</div>
+
+
+<div id="quicklogin" style="display:none" title="Log In to your account">
+<div class="bigdlgbox">
+
+<div class="loginleft">
+    <form class="form" method="post" id="userLogin" onsubmit="return handleAuth(this)" action="/auth/login">
+    <input type="hidden" value="" name="global_salt" id="global_salt" /> 
+    <input type="hidden" name="hashed_pw" id="hashed_pw" value="" />
+    <input type="hidden" name="RedirectToPage" value="" />
+    <table>
+    	<tr>
+    		<td>
+            	<label>Email:</label>
+            </td>
+            <td>
+            	<input name="UserEmail" maxlength="320" size="25" id="UserEmail" value="" />
+        	</td>
+        </tr>
+        <tr>
+            <td>
+            	<label>Password:</label>
+            </td>
+            <td>
+            	<input name="UserPasswordHash" maxlength="20" id="UserPasswordHash" type="password" size="25"/>
+            </td>
+       
+        </tr>
+         <tr>
+            <td>
+
+            </td>
+            <td align="left">
+                <input name="remember_me" id="remember_me" type="Checkbox"/><label>&nbsp;Remember Me</label>
+            </td>
+
+        </tr>
+
+        <tr>
+            <td>
+
+            </td>
+            <td align="center">
+                <input type="submit" value="Login" />
+
+                <p><a style="color:#076B9F" href="/auth/passrecover">Forgot your password? </a></p>
+            </td>
+
+        </tr>
+
+    </table>
+   
+     </form>
+    
+</div>
+
+
+<div class="loginright">
+
+
+    <p><span>Haven’t Registered Yet?</span></p>
+    <a href="/user/signup" style="color:#076B9F"><span>Get Started Here</span></a>
+    <p>Registration only takes a few seconds and is required to apply to jobs.</p>
+</div>
+
+
+</div></div>
+                                </div>
+                <div id="rightImgAds"><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1572"onclick="imageAdRedirect(1572)">
+                                                <img src="/img/ads/1572.gif?102376" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1581"onclick="imageAdRedirect(1581)">
+                                                <img src="/img/ads/1581.gif?523081" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1591"onclick="imageAdRedirect(1591)">
+                                                <img src="/img/ads/1591.gif?892947" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1604"onclick="imageAdRedirect(1604)">
+                                                <img src="/img/ads/1604.gif?129082" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1605"onclick="imageAdRedirect(1605)">
+                                                <img src="/img/ads/1605.gif?524111" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1575"onclick="imageAdRedirect(1575)">
+                                                <img src="/img/ads/1575.gif?765981" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1589"onclick="imageAdRedirect(1589)">
+                                                <img src="/img/ads/1589.gif?695534" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1582"onclick="imageAdRedirect(1582)">
+                                                <img src="/img/ads/1582.gif?196224" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1580"onclick="imageAdRedirect(1580)">
+                                                <img src="/img/ads/1580.gif?344262" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1725"onclick="imageAdRedirect(1725)">
+                                                <img src="/img/ads/1725.gif?593409" />
+                                            </a>
+                                        </div><div class="imgAd">
+                                            <a rel="nofollow" class="CompanyImgAds" id="CompanyIdImgAd-1726"onclick="imageAdRedirect(1726)">
+                                                <img src="/img/ads/1726.gif?254472" />
+                                            </a>
+                                        </div></div>
+                
+		</div>
+		<div id="footer">
+<div class="browsefooterbox">
+    <div class="footerheader"></div>
+    <div class="footermid">
+        <div class="browsefooterboxhead">
+        <h2>BROWSE TRUCK DRIVING JOBS</h2>
+        <span>SITE INFO</span>
+        </div>
+        <div id="freightypebox" class="footerbox">
+            <div class="title">Freight Type</div>
+            <div class="footercolumn">
+
+            <div><a href="/dry_van_driving_jobs">Dry Van</a><!-38--></div>
+            <div><a href="/tanker_driving_jobs">Tanker</a><!-50--></div>
+            <div><a href="/flatbed_driving_jobs">Flat Bed</a><!-37--></div>
+            <div><a href="/refrigerated_driving_jobs">Refrigerated / Reefer</a><!-52--></div>
+            </div>
+            <div class="footercolumn">
+            <div><a href="/household_goods_driving_jobs">Household Goods</a><!-59--></div>
+            <div><a href="/heavy_haul_driving_jobs">Heavy Haul</a><!-60--></div>
+            <div><a href="/car_hauling_driving_jobs">Car Hauling</a><!-58--></div>
+            <div><a href="/specialized_other">Specialized / Other</a><!-61--></div>
+            </div>
+        </div>
+         <div class="footerbox">
+            <div class="title">Run Type</div>
+            <div class="footercolumn">
+
+            <div><a href="/regional_driving_jobs">Regional</a><!-1--></div>
+            <div><a href="/dedicated_runs_driving_jobs">Dedicated</a><!-2--></div>
+            <div><a href="/local_truck_driving_jobs">Local</a><!-3--></div>
+            <div><a href="/long_haul_driving_jobs">Long Haul</a><!-4--></div>
+            </div>
+        </div>
+        <div class="footerbox" style="border:none">
+            <div class="title">Job Type</div>
+            <div class="footercolumn">
+
+            <div><a href="/company_truck_driving_jobs">Company Driver</a></div>
+            <div><a href="/owner_operator_driving_jobs">Owner Operator</a></div>
+            <div><a href="/student_driving_jobs">Student</a></div>
+            <div><a href="/team_driving_jobs">Hire Teams</a></div>
+            </div>
+        </div>
+
+         <div id="endorsementsbox" class="footerbox" style="border-right:none">
+            <div class="footercolumn">
+            <div><a href="/trucking_articles">Trucking Articles </a></div>
+            <div><a href="http://forums.bubbajunk.com/">Message Board</a></div>
+            <div><a href="/about_us">About</a></div>
+            <div><a href="/contact_us">Contact</a></div>
+            <div><a href="http://www.internetbrands.com/ib/privacy/employment-database?site=www.bubbajunk.com">Privacy Policy</a></div>
+
+            </div>
+    </div>
+    </div>
+    <div class="footerbottom"></div>
+</div>
+
+<div style="clear:both"></div>
+<div class="footerextra">
+
+    <span>The IB Trucking Network: </span>
+    <a href="http://www.1099trucker.com">1099Trucker.com</a> |
+    <a href="http://www.classadrivers.com">ClassADrivers.com</a> |
+    <a href="http://www.fullfleet.com">FullFleet.com</a> |
+    <a href="http://www.owneroperatorjob.com">OwnerOperatorJob.com</a> |
+    <a href="http://www.truckertrucker.com">TruckerTrucker.com</a> |
+    <a href="http://www.us-truck-driving-schools.com">USTruckingSchools.com</a>
+
+<div style="clear:both"></div>
+
+Copyright © 2011 BubbaJunk.com. All rights reserved. | <a href="http://www.internetbrands.com/ib/terms/employment-database?site=www.bubbajunk.com">Terms of Service</a>
+<br/>
+
+</div></div>
+
+                                <div id="helpdlg" style="display:none"></div>
+    <script type="text/javascript" src="/js/jquery-1.5.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.tooltip.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui-1.8.14.custom.min.js"></script>
+    <script type="text/javascript" src="/js/common.js"></script>
+        <script type="text/javascript" src="/js/careersSearch.js"></script>
+    
+
+        <div id="IB_PIXEL">
+            <!-- start ibpxl -->
+                <script type="text/javascript">
+                    pxlSiteFile = "bubbajunk.com.js";
+                    pxlScriptStart = '%3Cscr' + 'ipt type="text/javascript"';
+                    pxlScriptEnd = '%3C/scr' + 'ipt%3E';
+                    if (location.protocol.indexOf("https") == -1) {
+                        document.write(unescape(pxlScriptStart + ' src="http://pxl.ibpxl.com/' + pxlSiteFile + '"%3E' + pxlScriptEnd));
+                    }
+                    else {
+                        document.write(unescape(pxlScriptStart + ' src="https://pxlssl.ibpxl.com/' + pxlSiteFile + '"%3E' + pxlScriptEnd));
+                    } 
+                </script>
+            <!-- end ibpxl -->
+        </div>
+        <!-- // Start of Google Stat Code // -->
+        <script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-6700602-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+        <!-- // End of Google Stat Code // -->
+        </body>
+</html>

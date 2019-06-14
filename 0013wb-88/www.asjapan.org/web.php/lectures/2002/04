@@ -1,0 +1,184 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>The Asiatic Society of Japan</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
+
+  <base href="http://www.asjapan.org/web.php/" />
+
+  <link href="/newdesign/css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/newdesign/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <!--[if !IE 7]>
+  <link href="/newdesign/css/screen_ie.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link href="/newdesign/css/screen_ie7.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script type="text/javascript" src="/newdesign/inc/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.core.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.sortable.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/jquery.metadata.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/mbTabset.js"></script>
+
+  <script type="text/javascript">
+		$(function(){
+			$("#tabset1").buildMbTabset({sortable:false});
+		});
+  </script>
+
+    <script type="text/javascript">
+		$(function(){
+			$("#a").removeClass("sel");
+			$("#cont_1").hide();
+			$("#b").addClass("sel");
+			$("#cont_2").fadeIn("fast");
+			$("#linklectures").addClass("optselected");
+			$("#lecturesfor").show();
+		});
+  </script>
+
+
+
+</head>
+<body>
+
+<center><div id="main" align="left">
+
+  <div id="header" align="left">
+    <center>
+      <div><img src="/newdesign/tasoj.gif" alt="The Asiatic Society of Japan" title="The Asiatic Society of Japan"/></div>
+      <div style="height:16px; width:613px; background-color: black; margin-top:3px; padding-top:1px;"/>
+      <div style="height:15px; width:613px; background-color: white; font-family:times new roman,courier;font-size: 10px; padding-bottom:3px; padding-top:2px;">Established 1872. Registered with the <a href="http://www.scj.go.jp/en/index.html" class="dotted">Science Council of Japan</a>.</div>
+      </div>
+    </center>
+  </div>
+
+  <table id="menuasj" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr><td><p id="bigspacer">&nbsp;</p></td></tr>
+    <tr><td>
+      <div class="tabset" id="tabset1">
+        <a href="#" id="a" class="tab {container:'cont_1'}" onclick="return false;">About Us</a><a href="#" id="b" class="tab {container:'cont_2'}" onclick="return false;">ASJ Info Central</a><a href="#" id="c" class="tab {container:'cont_3'}" onclick="return false;">ASJ Merchandise</a><a href="#" id="d" class="tab {container:'cont_4'}" onclick="return false;">Search</a><!--<a href="#" id="e" class="tab {container:'cont_5'}" onclick="return false;">Members</a>-->
+      </div>
+      <div class="mbTabsetContainer" >
+        <span id="cont_1">
+          <a id="linkmain" href="main">Home</a> &middot; <a id="linkwelcome" href="about/welcome">Welcome</a> &middot; <a id="linkhistory" href="about/history">History</a> &middot; <a id="linkpatrons" href="about/patrons">Our Patron</a> &middot; <a id="linkcouncil" href="about/council">The Council</a> &middot; <a id="linkjoin" href="about/join">Join</a> &middot; <a id="linklinks" href="about/links">Other Asiatic Societies</a> &middot; <a id="linkcontact" href="about/contact">Contact</a> &middot; <a id="linksitemap" href="about/sitemap">Site Map</a>
+        </span>
+        <span id="cont_2">
+          <a id="linklectures" href="lectures/index">Lecture Archive</a> &middot; <a id="linkspeakers" href="speakers/index">Speaker Bios</a> &middot; <a id="linkcouncils" href="councils/index">Past Councils</a> &middot; <a id="linkreports" href="reports/index">Annual Reports</a> &middot; <a id="linkmemorial" href="memorial/index">Memorial Wall</a>
+        </span>
+        <span id="cont_3">
+          <a id="linktransactions" href="mercantile/transactions">Transactions and Offprints</a> &middot; <a id="linkpublications" href="mercantile/publications">Other ASJ Publications</a> &middot; <a id="linkgift" href="mercantile/gift">Gift Memberships</a>
+        </span>
+        <span id="cont_4">
+          <form action="/search.php" method="get" >Type your query <input type="text" name="q" size="16" style="height: 16px; font-size: 12px; padding: 1px;"/> <input type="submit" value="search!" style="font-size: 12px; padding: 1px;"/></form>
+        </span>
+<!--        <span id="cont_5">
+          <a id="linkbulletin" href="members/bulletin">Current bulletin</a> &middot; <a id="linkmemlect" href="members/lectures">2008 Lectures</a> &middot; All these options require to login
+        </span>-->
+      </div>
+    </td></tr>
+    <tr><td><p id="smallspacer">&nbsp;</p></td></tr>
+  </table>
+
+
+  <div id="content">
+
+    <div id="lecturesfor">
+
+<table width="750"  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+	<tr>
+		<td valign="bottom" align="center">
+			<table  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+				<tr>
+					<td align="center">
+						<!-- start horizontal menu -->
+						<table class="rootVoices" cellspacing='0' cellpadding='0' border='0'><tr>
+							<td class="rootVoice"><a id="linkarchive2007" href="lectures/2007/index">2007</a></td>
+							<td class="rootVoice"><a id="linkarchive2006" href="lectures/2006/index">2006</a></td>
+							<td class="rootVoice"><a id="linkarchive2005" href="lectures/2005/index">2005</a></td>
+							<td class="rootVoice"><a id="linkarchive2004" href="lectures/2004/index">2004</a></td>
+							<td class="rootVoice"><a id="linkarchive2003" href="lectures/2003/index">2003</a></td>
+							<td class="rootVoice"><a id="linkarchive2002" href="lectures/2002/index">2002</a></td>
+							<td class="rootVoice"><a id="linkarchive2001" href="lectures/2001/index">2001</a></td>
+							<td class="rootVoice"><a id="linkarchive2000" href="lectures/2000/index">2000</a></td>
+							<td class="rootVoice"><a id="linkarchive1999" href="lectures/1999/index">1999</a></td>
+							<td class="rootVoice"><a id="linkarchive1998" href="lectures/1998/index">1998</a></td>
+							<td class="rootVoice"><a id="linkarchive1997" href="lectures/1997/index">1997</a></td>
+							<td class="rootVoice"><a id="linkarchive1996" href="lectures/1996/index">1996</a></td>
+							<td class="rootVoice"><a id="linkarchive1995" href="lectures/1995/index">1995</a></td>
+							<td class="rootVoice"><a id="linkarchive1994" href="lectures/1994/index">1994</a></td>
+						</tr></table>
+						<!-- end horizontal menu -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+    </div>
+    <div id="text">
+
+<h3>Material Exchange without Human Contact: Pre-modern Japan-Southeast Asian Relations</h3>
+
+<p><b>Prof. Yoneo Ishii</b></p>
+
+Lecture 2002-04-15<br/>
+
+<p>At the April meeting, held at Seisen University when the azaleas were at their height, we were happy to have with us the former Cambodian ambassador to Japan, Mr. Truong Mealy. On his way to Japan, Mr. Mealy had called in at Chiang Mai and had a chance to meet our former President, Mr. George Sioris. Before calling upon Prof. Anesaki to introduce our speaker, Dr. Berendt gave a foretaste of upcoming events for the rest of the year, as listed above. Our speaker was Dr. Yoneo Ishii,  President of Kanda University of International Studies, and a noted expert on Southeast Asian history.  Dr. Ishii had taken as his subject &quot; Japan-Southeast Asian Relations  in Pre-modern Times: Material Exchange without Human Contact&quot;.</p>
+
+<p>The pre-modern Japanese, said Dr. Ishii, lived in a &quot;trichotomous&quot; world consisting of Japan, China (Kara) and India (Tenjiku); this last was only an imaginary locality as no Japanese had ever been there, and the Konjaku Monogatari contains a number of legends about Tenjiku. In China, the Sui and T'ang courts were the objects of missions from Japan between the years 600 and 894, which made personal contacts between Japanese and Chines people possible at different levels. Students of various disciplines (such as the monks Saich&ocirc; and K&ucirc;kai) and apprentice craftsmen were included, and undoubtedly helped to accelerate the development of the nascent Japan. There was one prince, Takaoka or Shinnyo, who attempted to visit India while studying Buddhism in China; he set out in 865 from the port of Kwang Chu, but only got as far as a country called Lo-yueh Kuo, which is believed to have been in the southern part of the Malay Peninsula. By that time, the Japanese may have known of the existence of Southeast Asia, as the music of Lin-yu or Champa in Vietnam was introduced to Nara in 736, and this music, known as Linyugaku, is still part of the repertory of bugaku at the imperial court.</p>
+
+<p>From the 14th century onward, tropical products from Southeast Asia began to be brought to Japan by Ryukyuan merchants. At the beginning of the 15th century the whole island chain was unified by the king of the central area  of Chuzan, and the official Rekidai H&ocirc;an which originated at that time record that &quot;tributary&quot; fleets began to be sent to Southeast Asia in the 1410s. There they procured tropical products such as pepper and sappanwood (one of the brazilwoods), which they exchanged in China for ceramics. Sappanwood (su&ocirc;  in Japanese) had in fact been imported into Japan from China from Asuka times. The xylem of this wood was the source of a dye in varying shades of red and purple, depending on the mordant used, which was widely used for colouring paper and cloth, as well as for wooden cabinets.</p>
+
+<p>The outbreak of the civil wars of Onin and Bunmei hindered the entrance of Ryukyuan ships, with the result that the Japanese merchants of Sakai, who had already been involved in trade with Ming China, began to enter the Ryukyu business themselves, not only visiting Ryukyuan ports but travelling as far as the Philippines and even Cambodia. The most celebrated figure is that of Naya Sukezaemon (&quot;Luzon Sukezaemon&quot;),  who procured the Ruson no tsubo or Luzon pots cherished by tea-ceremony lovers, one of which he presented to Toyotomi Hideyoshi.</p>
+
+<p>Systematic trade was started by Tokugawa Ieyasu, who in 1604 introduced the shuinsen b&ocirc;eki or vermilion ship trade with Southeast Asia. Their destinations were nineteen ports in Taiwan and Southeast Asia, such as Pattani (near the border of modern Thailand, up the coast from Kota Bahru), Malacca, Ayutthaya, and others in Annam, Champa, Cambodia and Luzon. Eventually Japanese settlements were established in such places as Ayutthaya, Batavia, Hoi An (close to Da Nang) , and ports in Cambodia, and these are known today as Nan'yo Nihonjin machi. A total of 356 vermilion ships were dispatched between 1604 and 1635, when Iemitsu's seclusion policy put an end to the trade and left the Japanese merchants stranded overseas.</p>
+
+<p>The most important of the goods carried were silk and scented woods from  Vietnam, deer hides and sappanwood from Siam and Cambodia, tin from Pattani and Malacca, cloves from the Moluccas and sugar from Manila. 250,000 deer hides were imported every year, and 250 tons of silk. The deer hides were manufactured into jinbaori, tabi, trousers, vests and bags for swords;  sharkskin was also imported to provide a firm grip for sword hilts. Along with the sappanwood, alum was also imported as it was superior to the domestically-produced mordants; a craftsman could use it to produce as many as 15 different shades of red. The cloves and sugar were used to make various popular kinds of sweets.</p>
+
+<p>The demand for such commodities still continued after 1635, and the vacuum was filled by the Dutch East India Company (V.O.C.). But a further, comparatively important role was played by Chinese junks, known to the Nagasaki port authorities as t&ocirc;sen, whose contribution has tended to be overshadowed by that of the V.O.C., in spite of the fact that their cargoes exceeded those of the V.O.C. ships in terms of quantity. The t&ocirc;sen were categorized at Nagasaki according to their provenance: the kuchibune from the area around the mouth of the Yangtze, the nakaokubune from Kwangtung and Fukien,  and the okubune from Southeast Asia. The largest junks, those from Siam, could carry 100 passengers and 300 tons of cargo; at the height of the trade, 15 junks from Southeast Asia entered Nagasaki, bringing over 4,000 tons of merchandise for the consumption of the Japanese market. (Each ship had to report its cargo and port of origin, partly to provide the Japanese with intelligence of the outside world, and 2,300 of these records  have been collected and published.)</p>
+
+<p>The Japanese populace enjoyed these goods without being aware of their provenance, but their popularity can be gauged by the fact that the names of tropical products are often found in the popular vocabulary. Various combinations of clove designs can be seen in family crests, and the clove features as an indispensable ingredient of sweets in one rakugo story.</p>
+
+<p>Japanese visitors to Southeast Asia in the first three decades of the 17th century may have numbered in the thousands, and some of them settled (an estimated 1,500 in Ayutthaya). Those who excelled in the martial  arts were organized as a Japanese volunteer army in Siam, under the direct leadership of the court, and they played an important role in suppressing revolts. The late 17th-century geographer Nishikawa Joken records a story of one rich Japanese merchant in Siam who sent a large amount of local products to his brother in his home town of Nagasaki. These were intended to cover the costs of holding a religious ceremony for his deceased parents,  and the faithful brother complied by inviting over 100 monks to come and chant the sutra for ten days.</p>
+
+<p>There was no contact with Southeast Asia after 1635, and the Japanese residing there were left without any hope of return, and were eventually absorbed into the local population. The kind of knowledge disseminated about the area in later years is typified by an illustrated encyclopedia published in Edo in 1712, the Wakan Sansai Zue. The volumes devoted to &quot;People of Foreign Countries&quot; and &quot;Outer Barbarians&quot; are based on Chinese historical sources, and are understandably anachronistic. One ridiculous illustration purports to show a Siamese as a near-naked man in a loincloth and wearing takageta!</p>
+
+<p>In summing up, Dr. Ishii emphasized that the seclusion policy in no way halted the flow of Southeast Asian goods into the Japanese market although all human contact was cut off.  The textile industry profited from the abundant use of deer hides from Siam and Cambodia coloured by sappanwood dyes, while children must have relished  the sweets made of Manila sugar and Moluccan cloves; but no one seems to have given a thought to their country of origin. Today, Japanese tourists flock to Southeast Asia, and spicy Thai cuisine is popular in Japan,  but Dr. Ishii ended with the question whether Japanese understanding of the peoples of  Southeast Asia had deepened as a result; he hoped the day would come when the answer was &quot;Yes.&quot;</p>
+
+<p>Dr. Ishii provided more information in reply to questions. The Japanese in Southeast Asia generally dealt with local Chinese traders and sold to the V.O.C. On the question of which Japanese went overseas, they fell into three categories: samurai who had lost their lords and been dispossessed after the Battle of Sekigahara; a few merchants; and persecuted Christians, who found freedom of religion in Siam. One Portuguese account said that there were 400 Christians in the Japanese settlement, or about half the total number. The Tokugawa seclusion policy did not mean the end of trade, but rather a selective trade using only Dutch or Chinese vessels. Mr. Truong asked whether Morimoto Ukondayu Kazufusa, who left an inscription at Angkor Wat (which he mistook for India), would have met the notorious adventurer Yamada Nagamasa, who was in Siam around 1620. Dr. Ishii doubted this, though both men had come from Kyushu. Unlike the Chinese, the Japanese were not given to establishing their own colonies overseas, and so had become assimilated in Siam. By contrast a Persian who arrived in Ayutthaya  in 1630 had left descendants who still proudly preserved their identity, though they were now Buddhists.</p>
+
+<p>The meeting was brought to a close with a vote of thanks proposed by Dr. Hubert Durt, who, commenting that French studies on Thailand and Cambodia were in very close agreement,  proclaimed Dr. Ishii as being absolutely international.</p>
+
+<hr/>
+
+<p>Adapted from &quot;The Asiatic Society of Japan Bulletin No. 5&quot;, May 2002, compiled by Prof. Hugh E. Wilkinson and Mrs. Doreen Simmons.</p>
+
+
+      <div align="center">
+        <p id="copyright">Copyright &copy; 1994-2012 The Asiatic Society of Japan. All rights reserved. </p>
+      </div>
+
+    </div>
+
+  </div>
+  <br/>
+
+</div></center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4845051-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+
