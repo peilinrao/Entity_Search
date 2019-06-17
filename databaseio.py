@@ -455,4 +455,5 @@ def getEE(e1):
     return keyword
 
 
-# In order to get EE, EK, KE, KK, use getEE("entity"),getEK("entity"),getKE("keyword"),getKK("keyword")
+# In order to get EE, EK, KE, KK,
+# use getEE("entity"),getEK("entity"),getKE("keyword"),getKK("keyword")
