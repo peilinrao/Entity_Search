@@ -377,7 +377,7 @@ def getKE(k1,n):
 def getEK(e1,n):
     keyword = []
     heapq.heapify(keyword)
-    kId = -1
+    eId = -1
     with open('E.csv','r',newline='') as f:
         reader=csv.reader(f)
         for row in reader:
@@ -434,8 +434,6 @@ def getEE(e1,n):
                                     if len(list(item for _, item in keyword))>n:
                                         keyword=heapq.nlargest(n, keyword)
     return keyword
-
-print(getEE('',10))
 
 
 
