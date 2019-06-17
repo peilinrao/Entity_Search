@@ -1,1 +1,1 @@
-# Entity_Search
+# EverythingSearch
