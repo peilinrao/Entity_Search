@@ -15,7 +15,11 @@ import nltk
 import heapq
 
 UPPER_NUM_OF_FILE = 10
-UPPER_NUM_OF_ENTITY = 2000
+NUM_OF_TUPLES_TO_INSERT = 10
+# Change PATH_TO_DOC to the folders that have docs in it
+PATH_TO_DOC = "0013wb-88"
+# Change the corresponding PATH_TO_ENTITY to the folders that have entities in it
+PATH_TO_ENTITY = "1300wb-88.anns.tsv"
 
 stop_words = {'ourselves', 'hers', 'between', 'yourself', 'but', 'again', 'there', 'about', 'once', 'during', 'out', 'very', 'having', 'with', 'they', 'own', 'an', 'be', 'some', 'for', 'do', 'its', 'yours', 'such', 'into', 'of', 'most', 'itself', 'other', 'off', 'is', 's', 'am', 'or', 'who', 'as', 'from', 'him', 'each', 'the', 'themselves', 'until', 'below', 'are', 'we', 'these', 'your', 'his', 'through', 'don', 'nor', 'me', 'were', 'her', 'more', 'himself', 'this', 'down', 'should', 'our', 'their', 'while', 'above', 'both', 'up', 'to', 'ours', 'had', 'she', 'all', 'no', 'when', 'at', 'any', 'before', 'them', 'same', 'and', 'been', 'have', 'in', 'will', 'on', 'does', 'yourselves', 'then', 'that', 'because', 'what', 'over', 'why', 'so', 'can', 'did', 'not', 'now', 'under', 'he', 'you', 'herself', 'has', 'just', 'where', 'too', 'only', 'myself', 'which', 'those', 'i', 'after', 'few', 'whom', 't', 'being', 'if', 'theirs', 'my', 'against', 'a', 'by', 'doing', 'it', 'how', 'further', 'was', 'here', 'than'}
 
@@ -169,7 +173,7 @@ def merge_files(foldername, targetfile):
 #################
 dId = 0
 # r=root, d=directories, f = files
-for r, d, f in os.walk("0013wb-88"):
+for r, d, f in os.walk(PATH_TO_DOC):
     for fi in f:
         firstword = ""
         word_list = []
@@ -259,12 +263,24 @@ with open("1300wb-88.anns.tsv",'r',newline = '')as f:
     reader = csv.reader(f)
     for row in reader:
 
-        count += 1
-        if(count > UPPER_NUM_OF_ENTITY):
-            continue
+        # count += 1
+        # if(count > UPPER_NUM_OF_ENTITY):
+        #     continue
 
         temp = get_line_info(row[0])
         temp[0] = temp[0][-5:]
+        holder = ''
+        flag_read = 0
+        for i in range(len(temp[0])):
+            if temp[0][i] is not '0':
+                flag_read = 1
+            if flag_read == 1:
+                holder+=temp[0][i]
+
+        if holder == '':
+            temp[0] = '0'
+        else:
+            temp[0] = holder
         temp[2] = re.sub(r'[^A-Za-z0-9 ]+', '', temp[2]).strip().lower().split()
         if len(temp[2])>1:
             continue
@@ -311,7 +327,7 @@ os.remove("temp.csv")
 
 
 # KK
-def getKK(k1,n):
+def getKK(k1):
     keyword = []
     heapq.heapify(keyword)
     kId = -1
@@ -327,7 +343,7 @@ def getKK(k1,n):
             if row[0] == kId:
                 dId = row[1].split(",")
                 for every_dId in dId:
-
+                    every_dId = re.sub('[\[\]]', '', every_dId)
                     with open('KD.csv','r',newline = '') as m:
                         reader_other=csv.reader(m)
                         for row_other in reader_other:
@@ -339,11 +355,11 @@ def getKK(k1,n):
                                     priority = K_tf[word]/len(dId_other)
                                     heapq.heappush(keyword, (priority, word))
                                     if len(list(item for _, item in keyword))>n:
-                                        keyword=heapq.nlargest(n, keyword)
+                                        keyword=heapq.nlargest(NUM_OF_TUPLES_TO_INSERT, keyword)
 
     return keyword
 
-def getKE(k1,n):
+def getKE(k1):
     keyword = []
     heapq.heapify(keyword)
     kId = -1
@@ -359,22 +375,22 @@ def getKE(k1,n):
             if row[0] == kId:
                 dId = row[1].split(",")
                 for every_dId in dId:
-
+                    every_dId = re.sub('[\[\]]', '', every_dId)
                     with open('ED.csv','r',newline = '') as m:
                         reader_other=csv.reader(m)
                         for row_other in reader_other:
                             dId_other = row_other[1].split(",")
-                            if every_dId in dId_other:
+                            if str(every_dId) in dId_other:
                                 temp_eId = row_other[0]
                                 if temp_eId not in list(item for _, item in keyword):
                                     priority = E_tf[temp_eId]/len(dId_other)
                                     heapq.heappush(keyword, (priority, temp_eId))
                                     if len(list(item for _, item in keyword))>n:
-                                        keyword=heapq.nlargest(n, keyword)
+                                        keyword=heapq.nlargest(NUM_OF_TUPLES_TO_INSERT, keyword)
 
     return keyword
 
-def getEK(e1,n):
+def getEK(e1):
     keyword = []
     heapq.heapify(keyword)
     eId = -1
@@ -390,22 +406,25 @@ def getEK(e1,n):
             if row[0] == eId:
                 dId = row[1].split(",")
                 for every_dId in dId:
-
+                    every_dId = re.sub('[\[\]]', '', every_dId)
                     with open('KD.csv','r',newline = '') as m:
                         reader_other=csv.reader(m)
                         for row_other in reader_other:
                             dId_other = row_other[1].split(",")
+                            print("This:",every_dId)
+                            print("That:",dId_other)
                             if every_dId in dId_other:
+                                print("Correct here")
                                 temp_kId = row_other[0]
                                 word = K[int(temp_kId)]
                                 if word not in list(item for _, item in keyword):
                                     priority = K_tf[word]/len(dId_other)
                                     heapq.heappush(keyword, (priority, word))
                                     if len(list(item for _, item in keyword))>n:
-                                        keyword=heapq.nlargest(n, keyword)
+                                        keyword=heapq.nlargest(NUM_OF_TUPLES_TO_INSERT, keyword)
     return keyword
 
-def getEE(e1,n):
+def getEE(e1):
     keyword = []
     heapq.heapify(keyword)
     kId = -1
@@ -421,7 +440,7 @@ def getEE(e1,n):
             if row[0] == eId:
                 dId = row[1].split(",")
                 for every_dId in dId:
-
+                    every_dId = re.sub('[\[\]]', '', every_dId)
                     with open('ED.csv','r',newline = '') as m:
                         reader_other=csv.reader(m)
                         for row_other in reader_other:
@@ -432,17 +451,8 @@ def getEE(e1,n):
                                     priority = E_tf[temp_eId]/len(dId_other)
                                     heapq.heappush(keyword, (priority, temp_eId))
                                     if len(list(item for _, item in keyword))>n:
-                                        keyword=heapq.nlargest(n, keyword)
+                                        keyword=heapq.nlargest(NUM_OF_TUPLES_TO_INSERT, keyword)
     return keyword
 
 
-
-
-
-
-
-###
-# KD table/ED table/D: put some thershold, flash once reached
-# K table/E table: compute dict in memory, flash into disk after wards\
-# Merge sort KD by kid/did, ED by eId
-# select keyword for whcih V should be stored
+# In order to get EE, EK, KE, KK, use getEE("entity"),getEK("entity"),getKE("keyword"),getKK("keyword")
