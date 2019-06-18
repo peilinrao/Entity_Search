@@ -11,21 +11,37 @@ import pandas as pd
 import csv
 import ast
 import shutil
+import sys
 import nltk
 import heapq
+import fileinput
+from more_itertools import unique_everseen
 
 UPPER_NUM_OF_FILE = 10
-NUM_OF_TUPLES_TO_INSERT = 10
+NUM_OF_TUPLES_TO_INSERT = 200
+UPPER_NUM_OF_ENTITY = 2000
 # Change PATH_TO_DOC to the folders that have docs in it
 PATH_TO_DOC = "0013wb-88"
 # Change the corresponding PATH_TO_ENTITY to the folders that have entities in it
 PATH_TO_ENTITY = "1300wb-88.anns.tsv"
+
 # In order to get EE, EK, KE, KK,
 # use getEE("entity"),getEK("entity"),getKE("keyword"),getKK("keyword") at the end of the code
 
 stop_words = {'ourselves', 'hers', 'between', 'yourself', 'but', 'again', 'there', 'about', 'once', 'during', 'out', 'very', 'having', 'with', 'they', 'own', 'an', 'be', 'some', 'for', 'do', 'its', 'yours', 'such', 'into', 'of', 'most', 'itself', 'other', 'off', 'is', 's', 'am', 'or', 'who', 'as', 'from', 'him', 'each', 'the', 'themselves', 'until', 'below', 'are', 'we', 'these', 'your', 'his', 'through', 'don', 'nor', 'me', 'were', 'her', 'more', 'himself', 'this', 'down', 'should', 'our', 'their', 'while', 'above', 'both', 'up', 'to', 'ours', 'had', 'she', 'all', 'no', 'when', 'at', 'any', 'before', 'them', 'same', 'and', 'been', 'have', 'in', 'will', 'on', 'does', 'yourselves', 'then', 'that', 'because', 'what', 'over', 'why', 'so', 'can', 'did', 'not', 'now', 'under', 'he', 'you', 'herself', 'has', 'just', 'where', 'too', 'only', 'myself', 'which', 'those', 'i', 'after', 'few', 'whom', 't', 'being', 'if', 'theirs', 'my', 'against', 'a', 'by', 'doing', 'it', 'how', 'further', 'was', 'here', 'than'}
 
-
+try:
+    os.remove("KK.csv")
+except:
+    pass
+try:
+    os.remove("temp.csv")
+except:
+    pass
+try:
+    os.remove("EE.csv")
+except:
+    pass
 try:
     os.remove("EN.csv")
 except:
@@ -56,6 +72,11 @@ try:
 except:
     pass
 try:
+    shutil.rmtree("ED_tables")
+
+except:
+    pass
+try:
     os.remove("ED.csv")
 except:
     pass
@@ -65,6 +86,7 @@ except:
     pass
 
 os.mkdir("KD_tables")
+os.mkdir("ED_tables")
 
 
 columns = defaultdict(list)
@@ -138,41 +160,114 @@ def merge_one_file(filename,filetarge):
             writer=csv.writer(f)
             writer.writerow([a,b[0],b[1]])
 
-def merge_files(foldername, targetfile):
+def merge_two_files(file1, targetfile):
+    with open(file1, 'r+', newline = '') as f:
+            reader = csv.reader(f)
+            for row in reader:
+                found = 0
+                temp = [] #kId, dId[], tf[]
+                with open(targetfile, 'r+', newline = '') as tf, open("temp.csv", 'w+', newline = '') as te:
+                    tfreader = csv.reader(tf)
+                    tewriter = csv.writer(te)
+                    for tfrow in tfreader:
+                        if tfrow[0] == row[0]:
+                            found = 1
+                            temp = row
+                            temp[1]+=","+(tfrow[1])
+                            temp[2]+=","+(tfrow[2])
+
+                            tewriter.writerow(temp)
+                        else:
+                            tewriter.writerow(tfrow)
+                    if(found == 0):
+                        tewriter.writerow([row[0],row[1],row[2]])
+
+                os.remove(targetfile)
+                os.rename("temp.csv", targetfile)
+    os.remove(file1)
+
+def merge_files(foldername,targetfile):
     with open(targetfile, 'w+',newline = '')as f:
         pass # create targetfile
-    for filename in os.listdir(thisdir+"/KD_tables"):
-        with open("KD_tables/"+filename, 'r+', newline = '') as f:
-            try:
-                reader = csv.reader(f)
-                for row in reader:
-                    found = 0
-                    temp = [] #kId, dId[], tf[]
-                    with open(targetfile, 'r+', newline = '') as tf, open("temp.csv", 'w+', newline = '') as te:
-                        tfreader = csv.reader(tf)
-                        tewriter = csv.writer(te)
-                        for tfrow in tfreader:
-                            if tfrow[0] == row[0]:
-                                found = 1
-                                temp = row
-                                temp[1]+=","+(tfrow[1])
-                                temp[2]+=","+(tfrow[2])
-                                tewriter.writerow(temp)
-                            else:
-                                tewriter.writerow(tfrow)
-                        if(found == 0):
-                            tewriter.writerow([row[0],row[1],row[2]])
 
-                    os.remove(targetfile)
-                    os.rename("temp.csv", targetfile)
-            except:
-                continue
+    while True:
+        count = 0
+        ranked_file_name = []
+        heapq.heapify(ranked_file_name)
+        for filename in os.listdir(thisdir+"/"+foldername):
+            count += 1
+            size = os.path.getsize(thisdir+"/"+foldername+"/"+filename)
+            heapq.heappush(ranked_file_name, (size, filename))
+        if len(ranked_file_name) == 1:
+            name = heapq.nsmallest(1, ranked_file_name)[0][1]
+            os.rename(foldername+"/"+name, targetfile)
+            return
+        small_files = heapq.nsmallest(2, ranked_file_name)
+        small_file1 = small_files[0][1]
+        small_file2 = small_files[1][1]
+        merge_two_files(foldername+"/"+small_file1, foldername+"/"+small_file2)
 
+
+def merge_two_files_entity(file1, targetfile):
+    with open(file1, 'r+', newline = '') as f:
+            reader = csv.reader(f)
+            for row in reader:
+                found = 0
+                temp = [] #kId, dId[], tf[]
+                with open(targetfile, 'r+', newline = '') as tf, open("temp.csv", 'w+', newline = '') as te:
+                    tfreader = csv.reader(tf)
+                    tewriter = csv.writer(te)
+                    for tfrow in tfreader:
+                        if tfrow[0] == row[0]:
+                            print(tfrow, row)
+                            found = 1
+
+                            # temp[1]+=","+(tfrow[1])
+                            # temp[2]+=","+(tfrow[2])
+                            list1 = row[1]
+                            list2 = tfrow[1]
+                            print(list1)
+                            print(list2)
+
+
+                            tewriter.writerow(temp)
+                        else:
+                            tewriter.writerow(tfrow)
+                    if(found == 0):
+                        tewriter.writerow([row[0],row[1],row[2]])
+                os.remove(targetfile)
+                os.rename("temp.csv", targetfile)
+    os.remove(file1)
+
+def merge_files_entity(foldername,targetfile):
+    with open(targetfile, 'w+',newline = '')as f:
+        pass # create targetfile
+
+    while True:
+        count = 0
+        ranked_file_name = []
+        heapq.heapify(ranked_file_name)
+        for filename in os.listdir(thisdir+"/"+foldername):
+            count += 1
+            size = os.path.getsize(thisdir+"/"+foldername+"/"+filename)
+            heapq.heappush(ranked_file_name, (size, filename))
+        if len(ranked_file_name) == 1:
+            name = heapq.nsmallest(1, ranked_file_name)[0][1]
+            os.rename(foldername+"/"+name, targetfile)
+            return
+        small_files = heapq.nsmallest(2, ranked_file_name)
+        small_file1 = small_files[0][1]
+        small_file2 = small_files[1][1]
+        merge_two_files_entity(foldername+"/"+small_file1, foldername+"/"+small_file2)
+
+#########TEST##########
 
 
 #################
 # <Loading tables>
 #################
+NUM_OF_KEYWORD = 0.0
+NUM_OF_DOC_FOR_KEY = 0.0
 dId = 0
 # r=root, d=directories, f = files
 for r, d, f in os.walk(PATH_TO_DOC):
@@ -207,8 +302,10 @@ for r, d, f in os.walk(PATH_TO_DOC):
                 word_list.append(word)
             if (word, dId) not in list(K_dtf.keys()):
                 K_dtf[(word, dId)] = 1
+                NUM_OF_KEYWORD+=1
             else:
                 K_dtf[(word, dId)] +=1
+                NUM_OF_DOC_FOR_KEY+=1
             if word not in list(K_tf.keys()):
                 K_tf[word] = 1
             else:
@@ -232,18 +329,19 @@ for r, d, f in os.walk(PATH_TO_DOC):
             writer.writerow([dId,firstword,file])
         dId += 1
 
+
+print('\x1b[6;30;42m' + "--------------KDr D2 created--------------"+'\x1b[0m')
 for key, value in K.items():
     idf = math.log(n_document/(1+K_tf[value]))
     K_table.append([key, value,idf])
 # Now save K_table to local storage
 df = pd.DataFrame(K_table, columns=["kId", "text", "idf"])
 df.to_csv('K.csv', index=False)
-print('\x1b[6;30;42m' + "--------------LOADED--------------"+'\x1b[0m')
+print('\x1b[6;30;42m' + "--------------K created--------------"+'\x1b[0m')
 
 
-# csvsort('KD_tables_1.csv', [0], max_size=10, delimiter='\t')
-#
 merge_files('KD_tables','KD.csv')
+print('\x1b[6;30;42m' + "--------------KD created--------------"+'\x1b[0m')
 #
 
 #################
@@ -260,14 +358,17 @@ Dict_EID_DOC = {} # (eId, dId, IDF)
 List_Doc = []
 Dict_name = {}
 count = 0
+NUM_OF_ENTITY = 0.0
+NUM_OF_DOC_FOR_ENT = 0.0
+MAX_PER_DOC = 100
 
 with open("1300wb-88.anns.tsv",'r',newline = '')as f:
     reader = csv.reader(f)
     for row in reader:
 
-        # count += 1
-        # if(count > UPPER_NUM_OF_ENTITY):
-        #     continue
+        count += 1
+        if(count > UPPER_NUM_OF_ENTITY):
+            continue
 
         temp = get_line_info(row[0])
         temp[0] = temp[0][-5:]
@@ -284,10 +385,12 @@ with open("1300wb-88.anns.tsv",'r',newline = '')as f:
         else:
             temp[0] = holder
         temp[2] = re.sub(r'[^A-Za-z0-9 ]+', '', temp[2]).strip().lower().split()
+
         if len(temp[2])>1:
             continue
         else:
             temp[2] = temp[2][0]
+
         if temp[0] not in List_Doc:
             List_Doc.append(temp[0])
         if (temp[7]) not in list(Dict_EID_DOC.keys()):
@@ -307,155 +410,103 @@ with open("1300wb-88.anns.tsv",'r',newline = '')as f:
             Ent_lst.append(temp[7])
         if (temp[7], temp[0]) not in list(E_dtf.keys()):
             E_dtf[(temp[7], temp[0])] = 1
+            NUM_OF_ENTITY += 1
         else:
             E_dtf[(temp[7], temp[0])] += 1
+            NUM_OF_DOC_FOR_ENT += 1
         if temp[7] not in list(E_tf.keys()):
             E_tf[temp[7]] = 1
         else:
             E_tf[temp[7]] += 1
 
-        with open('temp.csv','a',newline='') as f:
+
+limit = 0
+count = 0
+
+last_row = []
+with open("1300wb-88.anns.tsv",'r',newline = '')as f:
+    reader = csv.reader(f)
+    for row in reader:
+        limit += 1
+        if(limit > UPPER_NUM_OF_ENTITY):
+            continue
+
+        temp = get_line_info(row[0])
+        temp[0] = temp[0][-5:]
+        holder = ''
+        flag_read = 0
+        for i in range(len(temp[0])):
+            if temp[0][i] is not '0':
+                flag_read = 1
+            if flag_read == 1:
+                holder+=temp[0][i]
+
+        if holder == '':
+            temp[0] = '0'
+        else:
+            temp[0] = holder
+        temp[2] = re.sub(r'[^A-Za-z0-9 ]+', '', temp[2]).strip().lower().split()
+
+        if len(temp[2])>1:
+            continue
+        else:
+            temp[2] = temp[2][0]
+
+        with open("ED_tables/"+str(int(count/MAX_PER_DOC))+'.csv','a',newline='') as f:
             writer=csv.writer(f)
-            writer.writerow([temp[7],temp[0],E_dtf[(temp[7], temp[0])]])
+            newrow = [temp[7],temp[0],E_dtf[(temp[7], temp[0])]]
+            if newrow != last_row:
+                count += 1
+                writer.writerow(newrow)
+                last_row = newrow
+
 
 for name in (list(Dict_name.keys())):
     with open('EN.csv','a',newline='') as f:
         writer=csv.writer(f)
         writer.writerow([Dict_name[name],name,math.log(len(List_Doc)/len(Dict_EID_DOC[Dict_name[name]]))])
+print('\x1b[6;30;42m' + "--------------E EN created--------------"+'\x1b[0m')
+merge_files('ED_tables','ED.csv')
 
-
-merge_one_file('temp.csv', 'ED.csv')
-os.remove("temp.csv")
+print('\x1b[6;30;42m' + "--------------ED created--------------"+'\x1b[0m')
+##########################################
 
 
 # KK
-def getKK(k1):
-    keyword = []
-    heapq.heapify(keyword)
-    kId = -1
-    with open('K.csv','r',newline='') as f:
-        reader=csv.reader(f)
-        for row in reader:
-            if row[1] == k1:
-                kId = row[0]
-                break
-    with open('KD.csv','r',newline = '') as f:
-        reader=csv.reader(f)
-        for row in reader:
-            if row[0] == kId:
-                dId = row[1].split(",")
-                for every_dId in dId:
-                    every_dId = re.sub('[\[\]]', '', every_dId)
-                    with open('KD.csv','r',newline = '') as m:
-                        reader_other=csv.reader(m)
-                        for row_other in reader_other:
-                            dId_other = row_other[1].split(",")
-                            if every_dId in dId_other:
-                                temp_kId = row_other[0]
-                                word = K[int(temp_kId)]
-                                if word not in list(item for _, item in keyword):
-                                    priority = K_tf[word]/len(dId_other)
-                                    heapq.heappush(keyword, (priority, word))
-                                    if len(list(item for _, item in keyword))>n:
-                                        keyword=heapq.nlargest(NUM_OF_TUPLES_TO_INSERT, keyword)
-
-    return keyword
-
-def getKE(k1):
-    keyword = []
-    heapq.heapify(keyword)
-    kId = -1
-    with open('K.csv','r',newline='') as f:
-        reader=csv.reader(f)
-        for row in reader:
-            if row[1] == k1:
-                kId = row[0]
-                break
-    with open('KD.csv','r',newline = '') as f:
-        reader=csv.reader(f)
-        for row in reader:
-            if row[0] == kId:
-                dId = row[1].split(",")
-                for every_dId in dId:
-                    every_dId = re.sub('[\[\]]', '', every_dId)
-                    with open('ED.csv','r',newline = '') as m:
-                        reader_other=csv.reader(m)
-                        for row_other in reader_other:
-                            dId_other = row_other[1].split(",")
-                            if str(every_dId) in dId_other:
-                                temp_eId = row_other[0]
-                                if temp_eId not in list(item for _, item in keyword):
-                                    priority = E_tf[temp_eId]/len(dId_other)
-                                    heapq.heappush(keyword, (priority, temp_eId))
-                                    if len(list(item for _, item in keyword))>n:
-                                        keyword=heapq.nlargest(NUM_OF_TUPLES_TO_INSERT, keyword)
-
-    return keyword
-
-def getEK(e1):
-    keyword = []
-    heapq.heapify(keyword)
-    eId = -1
-    with open('E.csv','r',newline='') as f:
-        reader=csv.reader(f)
-        for row in reader:
-            if row[1] == e1:
-                eId = row[0]
-                break
-    with open('ED.csv','r',newline = '') as f:
-        reader=csv.reader(f)
-        for row in reader:
-            if row[0] == eId:
-                dId = row[1].split(",")
-                for every_dId in dId:
-                    every_dId = re.sub('[\[\]]', '', every_dId)
-                    with open('KD.csv','r',newline = '') as m:
-                        reader_other=csv.reader(m)
-                        for row_other in reader_other:
-                            dId_other = row_other[1].split(",")
-                            print("This:",every_dId)
-                            print("That:",dId_other)
-                            if every_dId in dId_other:
-                                print("Correct here")
-                                temp_kId = row_other[0]
-                                word = K[int(temp_kId)]
-                                if word not in list(item for _, item in keyword):
-                                    priority = K_tf[word]/len(dId_other)
-                                    heapq.heappush(keyword, (priority, word))
-                                    if len(list(item for _, item in keyword))>n:
-                                        keyword=heapq.nlargest(NUM_OF_TUPLES_TO_INSERT, keyword)
-    return keyword
-
-def getEE(e1):
-    keyword = []
-    heapq.heapify(keyword)
-    kId = -1
-    with open('E.csv','r',newline='') as f:
-        reader=csv.reader(f)
-        for row in reader:
-            if row[1] == e1:
-                eId = row[0]
-                break
-    with open('ED.csv','r',newline = '') as f:
-        reader=csv.reader(f)
-        for row in reader:
-            if row[0] == eId:
-                dId = row[1].split(",")
-                for every_dId in dId:
-                    every_dId = re.sub('[\[\]]', '', every_dId)
-                    with open('ED.csv','r',newline = '') as m:
-                        reader_other=csv.reader(m)
-                        for row_other in reader_other:
-                            dId_other = row_other[1].split(",")
-                            if every_dId in dId_other:
-                                temp_eId = row_other[0]
-                                if temp_eId not in list(item for _, item in keyword):
-                                    priority = E_tf[temp_eId]/len(dId_other)
-                                    heapq.heappush(keyword, (priority, temp_eId))
-                                    if len(list(item for _, item in keyword))>n:
-                                        keyword=heapq.nlargest(NUM_OF_TUPLES_TO_INSERT, keyword)
-    return keyword
-
+keyword = []
+heapq.heapify(keyword)
+with open('KD.csv','r',newline = '') as f:
+    reader=csv.reader(f)
+    for row in reader:
+        kId = int(row[0])
+        word = K[kId]
+        dId = row[1].split(",")
+        priority = K_tf[word]*min(len(dId),NUM_OF_DOC_FOR_KEY/NUM_OF_KEYWORD)/len(dId)
+        heapq.heappush(keyword, (priority, kId))
+        if len(list(item for _, item in keyword))>NUM_OF_TUPLES_TO_INSERT:
+            keyword=heapq.nlargest(NUM_OF_TUPLES_TO_INSERT, keyword)
+for _, item in keyword:
+    with open('KK.csv','a',newline='') as f:
+        writer=csv.writer(f)
+        writer.writerow([item])
+print('\x1b[6;30;42m' + "--------------KK created--------------"+'\x1b[0m')
+# EE
+keyword = []
+heapq.heapify(keyword)
+with open('ED.csv','r',newline = '') as f:
+    reader=csv.reader(f)
+    for row in reader:
+        temp_eId = row[0]
+        dId = row[1].split(",")
+        priority =  E_tf[temp_eId]*min(len(dId),NUM_OF_DOC_FOR_ENT/NUM_OF_ENTITY)/len(dId)
+        heapq.heappush(keyword, (priority, temp_eId))
+        if len(list(item for _, item in keyword))>NUM_OF_TUPLES_TO_INSERT:
+            keyword=heapq.nlargest(NUM_OF_TUPLES_TO_INSERT, keyword)
+for _, item in keyword:
+    with open('EE.csv','a',newline='') as f:
+        writer=csv.writer(f)
+        writer.writerow([item])
+print('\x1b[6;30;42m' + "--------------EE created--------------"+'\x1b[0m')
 
 # In order to get EE, EK, KE, KK,
 # use getEE("entity"),getEK("entity"),getKE("keyword"),getKK("keyword")
